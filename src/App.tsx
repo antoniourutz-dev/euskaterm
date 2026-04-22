@@ -1,15 +1,14 @@
-import { useState, useMemo } from 'react';
-import dictionaryDataRaw from './data/dictionaryData.json';
+import { useState, useMemo, useEffect } from 'react';
 import { DictionaryEntry } from './types';
 import Sidebar from './components/Sidebar';
 import TermDetail from './components/TermDetail';
 import DailyGame from './components/DailyGame';
 import EmptyState from './components/EmptyState';
-
-const dictionaryData = dictionaryDataRaw as DictionaryEntry[];
-const allCategories = Array.from(new Set(dictionaryData.map(e => e.category))).sort();
+import { Loader2 } from 'lucide-react';
 
 export default function App() {
+  const [dictionaryData, setDictionaryData] = useState<DictionaryEntry[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedEntry, setSelectedEntry] = useState<DictionaryEntry | null>(null);
   
@@ -24,6 +23,23 @@ export default function App() {
   const [activeTab, setActiveTab] = useState<'terms' | 'categories'>('terms');
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [isPlayingGame, setIsPlayingGame] = useState(false);
+
+  useEffect(() => {
+    fetch('/data/dictionaryData.json')
+      .then(res => res.json())
+      .then(data => {
+        setDictionaryData(data);
+        setIsLoading(false);
+      })
+      .catch(err => {
+        console.error('Error loading dictionary:', err);
+        setIsLoading(false);
+      });
+  }, []);
+
+  const allCategories = useMemo(() => {
+    return Array.from(new Set(dictionaryData.map(e => e.category))).sort();
+  }, [dictionaryData]);
 
   const handleSelectEntry = (entry: DictionaryEntry) => {
     setSelectedEntry(entry);
@@ -51,12 +67,12 @@ export default function App() {
     const daysSinceEpoch = Math.floor((now - epoch) / (1000 * 60 * 60 * 24));
     const index = Math.abs(daysSinceEpoch) % dictionaryData.length;
     return dictionaryData[index];
-  }, []);
+  }, [dictionaryData]);
 
   const categoryFilteredData = useMemo(() => {
     if (!selectedCategory) return dictionaryData;
     return dictionaryData.filter(entry => entry.category === selectedCategory);
-  }, [selectedCategory]);
+  }, [selectedCategory, dictionaryData]);
 
   const searchResults = useMemo(() => {
     if (!searchTerm.trim()) {
@@ -86,9 +102,19 @@ export default function App() {
     if (!searchTerm.trim()) return allCategories;
     const searchLower = searchTerm.toLowerCase();
     return allCategories.filter(cat => cat.toLowerCase().includes(searchLower));
-  }, [searchTerm]);
+  }, [searchTerm, allCategories]);
+
+  if (isLoading) {
+    return (
+      <div className="h-screen w-full flex flex-col items-center justify-center bg-slate-50 gap-4">
+        <Loader2 className="animate-spin text-blue-500" size={48} />
+        <p className="text-slate-500 font-medium animate-pulse text-lg">Datuak kargatzen...</p>
+      </div>
+    );
+  }
 
   return (
+
     <div className="flex flex-col md:flex-row h-screen bg-slate-50 text-slate-900 overflow-hidden font-sans selection:bg-blue-200">
       
       <Sidebar 

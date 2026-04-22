@@ -13,6 +13,9 @@ export default defineConfig(({mode}) => {
       VitePWA({
         registerType: 'autoUpdate',
         includeAssets: ['favicon.svg'],
+        workbox: {
+          maximumFileSizeToCacheInBytes: 10000000,
+        },
         manifest: {
           name: 'Hiztegi Bateratua',
           short_name: 'Hiztegia',
