@@ -1,0 +1,3631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Altzarien Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Altzarien Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xake-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de ajedrez</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table d'échecs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chess table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hegal tolesgarriko mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de alas plegables</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table à abattants</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drop leaf table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Besaulki edo sofa baten aurrean edo egongelaren erdialdean jarri ohi den mahai lagungarri baxua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erdiko mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de centro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de centre</term>
+    </tig>
+    <tig>
+      <term>table basse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>center table</term>
+    </tig>
+    <tig>
+      <term>coffee table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sukaldeko mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de cocina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de cuisine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kitchen table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jangelako mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de comedor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de salle à manger</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dining table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulegoko mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de despacho</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table à écrire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>office table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>marrazketa-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de dibujo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table à dessin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drawing table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Lorategia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lorategiko mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de jardín</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de jardin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>garden table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>joko-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de juego</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de jeu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gaming table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bilera-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de juntas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de réunion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>conference table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordenagailu-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de ordenador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table à ordinateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>computer desk</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telebista-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de televisión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de télévision</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>television table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai zabalgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa extensible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table à rallonges</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pull-out table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai tolesgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa plegable</term>
+    </tig>
+    <tig>
+      <term>mesa de tijera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table pliante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>folding table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bata bestearen azpian gordetzeko mahaiak. Hiru edo lau mahai izan ohi dira, forma eta modelo berekoak, baina aurrekoa baino zertxobait txikiagoa da bakoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>habia-mahaiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesas nido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tables gigognes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nested tables</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gau-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ohe-mahai</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesilla de noche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de nuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bedside table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mobiliario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meubles</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bereiz fabrikatzen diren arren, bata bestearekin batu eta altzari bat osa dezaketen pieza edo elementuetako bakoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>modulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>módulo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>module</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>module</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>neurrira egindako altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble a medida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble sur mesure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>made-to-measure furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzari lagungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble auxiliar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble d'usage occasionnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>occasional furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>edari-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble bar</term>
+    </tig>
+    <tig>
+      <term>licorera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble-bar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cocktail cabinet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzari klasiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble clásico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble classique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>classic furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bainugela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainugelako altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble de baño</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble de bain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bathroom furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>CD-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble de CDs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble pour CDs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>CDs furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sukaldeko altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble de cocina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble de cuisine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kitchen furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulegoko altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble de oficina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble de bureau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>office furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pieza askeen multzo gisa eskaintzen den altzaria. Erosleak du piezak behar bezala lotzeko ardura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kit-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble en kit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble en kit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ready-to-assemble furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gazte-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble juvenil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble de jeunes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>furniture for children</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>landa-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble rústico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble rustique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>country furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzari tapizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble tapizado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble rembourré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>upholstered furniture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>otomano</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>otomana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ottomane</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ottoman</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aterki-ontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>paragüero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>porte-parapluie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>umbrella stand</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hanka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pied</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leg</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pedestal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piédestal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pedestal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arropak, kapelak eta abar esekitzeko balio duen altzaria; hormaren kontra jarritako edo horman esekitako elementu bat izaten da, edo lurrean zutik jartzen den oinarri, zutoin eta besoz osatutako elementu bertikala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kako-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>esekitzeko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perchero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>porte-manteau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clothes rack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzari-ate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puerta de mueble</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>porte de meuble</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>furniture door</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>puf</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puf</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pouf</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pouf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gainaldean gainazal lau eta makurtua duen mahai modukoa, irakurtzeko eta idazteko aproposa. Askotan, gainazal hori estalki giltzatu gisa irekitzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ikasmahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pupitre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pupitre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>desk</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>belaunaulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reclinatorio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prie-dieu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>prie-dieu</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bizkar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>respaldo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>back</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoko-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rinconera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>encoignure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corner cupboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arropa-armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropero</term>
+    </tig>
+    <tig>
+      <term>armario ropero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>armoire-vestiaire</term>
+    </tig>
+    <tig>
+      <term>penderie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wardrobe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi eserleku uztartuta dituen aulkia. Bertan esertzen diren bi pertsonak bata besteari begira geratzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>siamdar besaulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>confidente</term>
+    </tig>
+    <tig>
+      <term>siamesa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>confident</term>
+    </tig>
+    <tig>
+      <term>siamoise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>siamoise sofa</term>
+    </tig>
+    <tig>
+      <term>confidante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Lorategia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aulki pilagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla apilable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise empilable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stacking chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Lorategia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lorategiko aulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla de jardín</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise de jardin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>garden chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulegoko aulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla de oficina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>siège de bureau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>office chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bulegoko mahai baten aurrean jarri ohi den aulki lagungarria. Mahaian dagoenaren solaskidea esertzen da aulki horretan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>harrera-aulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bisitari-aulki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla de visitas</term>
+    </tig>
+    <tig>
+      <term>silla de recepción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fauteuil d'accueil</term>
+    </tig>
+    <tig>
+      <term>chaise visiteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reception chair</term>
+    </tig>
+    <tig>
+      <term>guest chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aulki birakari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla giratoria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise tournante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>swivel chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aulki tolesgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla plegable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise pliante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>folding chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>besaulki belarridun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sillón orejero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fauteuil à oreilles</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wing chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>besaulki etzangarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sillón reclinable</term>
+    </tig>
+    <tig>
+      <term>butaca reclinable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fauteuil inclinable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>recliner</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>besaulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sillón</term>
+    </tig>
+    <tig>
+      <term>butaca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fauteuil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>armchair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sofa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sofá</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sofa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sofa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe-sofa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sofá cama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canapé-lit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sofa bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>somier</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>somier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sommier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spring-mattress</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laminazko somier</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>xafla-somier</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>somier de láminas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sommier à lattes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slat spring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>malgukizko somier</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>somier de muelles</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sommier à ressorts</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>box spring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tabernako aulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>taburete de bar</term>
+    </tig>
+    <tig>
+      <term>silla de bar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tabouret de bar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bar stool</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>taburete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aulki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>taburete</term>
+    </tig>
+    <tig>
+      <term>banqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tabouret</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stool</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Altzari baten goiko gainazala, gehienetan horizontala. Hainbat funtzio izan ditzake: besterik gabe altzaria estaltzea, gainean lan egitea, gainean esertzea edo bertan objektuak uztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tapa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dessus</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flat top</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefono-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>telefonero</term>
+    </tig>
+    <tig>
+      <term>mesita de teléfono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de téléphone</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>telephone table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>helduleku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tirador</term>
+    </tig>
+    <tig>
+      <term>manilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>poignée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>handle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>apain-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tocador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coiffeuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dressing table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haur txikiak esertzeko eta bertan jaten emateko erabiltzen den aulki hankaluzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haur-aulki altu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trona</term>
+    </tig>
+    <tig>
+      <term>silla alta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise haute d'enfant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>child's high chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Lorategia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etzaulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tumbona</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise longue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>deckchair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai hankabakar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>guéridon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pedestal table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beirazko ateak dituen armairua. Gauzak gordetzeko eta erakusteko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>beira-arasa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bitrina</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vitrina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vitrine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>showcase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble à chaussures</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe cabinet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Altzari edo altzari-multzo baten azpialdeko pieza. Azpialdea apaintzeaz gainera, elementu guztiak garaiera berean mantentzeko ezartzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zokalo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zócalo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>socle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plinth</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai lagungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa auxiliar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de service</term>
+    </tig>
+    <tig>
+      <term>desserte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>side table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>osagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>accesorio</term>
+    </tig>
+    <tig>
+      <term>complemento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accessoire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>accessory</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai-hegal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ala de mesa</term>
+    </tig>
+    <tig>
+      <term>aleta de mesa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rallonge de table</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>table leaf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tapiz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alfonbra</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alfombra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tapis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>carpet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goitik behera hiru gorputzez osatzen den armairu batean, erdiko gorputz nagusiaren gainean geratzen den armairu-zati txikia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goiko armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>altillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>élément haut</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>upper unit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sukalde-arasa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ontzitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aparador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>buffet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sideboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artxibategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>archivador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>classeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>filing cabinet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kutxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arcón</term>
+    </tig>
+    <tig>
+      <term>baúl</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coffre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>large chest</term>
+    </tig>
+    <tig>
+      <term>trunk</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>armoire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cupboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bainugela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainugelako armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armario de baño</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>armoire de toilette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bathroom cabinet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sukaldeko armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armario de cocina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>placard de cuisine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kitchen cabinet</term>
+    </tig>
+    <tig>
+      <term>kitchen cupboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ate lerragarriko armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armario de puertas correderas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>armoire coulissante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sliding door cupboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horma-armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armario empotrado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>placard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>built-in cupboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baxera-armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armario para vajilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vaisselier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>china cabinet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe-bastidore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armazón de cama</term>
+    </tig>
+    <tig>
+      <term>aro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>encadrement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bedstead</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kutxa baten modura irekitzeko estalkia duen bankua. Gainean esertzeko eta barruan gauzak gordetzeko balio du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zizeilu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arquibanco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>archebanc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chest-bench</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kantore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>atril</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>atril</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lutrin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lectern</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Lorategia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi albo-zutoinez eta langeta batez osatutako euskarri finko batetik zintzilik dagoen aulkia. Pertsona bat baino gehiagorentzako lekua izan ohi du, eta zabuka aritzeko prestatuta dago.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zabu-aulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balancín</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balancelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>swing chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>banc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bench</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bionbo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biombo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>paravent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>folding screen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>botila-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>botilategi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botellero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>casier à bouteilles</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bottle cabinet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bainugela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>botika-kutxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botiquín</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>armoire à pharmacie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>medicine chest</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oheburuko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabecero</term>
+    </tig>
+    <tig>
+      <term>cabezal de cama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tête de lit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>headboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tiradera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cajón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tiroir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drawer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai-tresnen tiradera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cajón cubertero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tiroir à couverts</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cutlery drawer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tiradera-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cajonera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>commode à tiroirs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drawer cabinet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eraisteko eta berriro jasotzeko aukera ematen duen ohea. Eraistean, etzanda geratzen da; jasotzean, berriz, armairu itxura hartzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ohe eraisgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama abatible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit escamotable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>foldaway bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe bakun handi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bateko ohe handi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama camera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grand lit simple</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>large single bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe zerudun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama con dosel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit à baldaquin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>canopied bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe bikoitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama de matrimonio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit double</term>
+    </tig>
+    <tig>
+      <term>lit à deux places</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>double bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banako ohe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama individual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit simple</term>
+    </tig>
+    <tig>
+      <term>lit à une place</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>single bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>habia-ohe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama nido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lits gigognes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trundle bed</term>
+    </tig>
+    <tig>
+      <term>nested bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe tolesgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama plegable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit pliant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>folding bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>turkiar ohe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama turca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit à la turque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Turkish bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe bikiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>camas gemelas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lits jumeaux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twin beds</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanape</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canapé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canapé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>settee</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>chaise longue</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chaise longue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise longue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lounge chair</term>
+    </tig>
+    <tig>
+      <term>chaise longue</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tiraderaz osatutako komoda altu eta estua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>xifonier</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chifonier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chiffonnier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chiffonier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kuxin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cojín</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coussin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cushion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>koltxoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colchón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>matelas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mattress</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komoda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cómoda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>commode</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chest of drawers</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hormari atxikita kokatzen den mahai estu eta apaingarria. Maiz ispilu baten azpian jartzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsola</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consola</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>console</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>console</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorbata-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corbatero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuble à cravates</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tie unit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jostun-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>costurero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table à ouvrage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sewing table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berogailu-estalki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cubrerradiador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>couvre-radiateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>radiator cover</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sehaska</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuna</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>berceau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cradle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Etzanda egoteko moduko eserleku luze eta biguna, gehienetan besorik edo bizkarrik gabekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diban</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diván</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>divan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>divan</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sukaldeko behe-altzari finkoen gainean laneko mahai gisa jartzen den gainazal laua, material gogorrekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sukalde-gaineko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encimera de cocina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plan de travail</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>counter top</term>
+    </tig>
+    <tig>
+      <term>kitchen counter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinazpiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oin-aulki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reposapiés</term>
+    </tig>
+    <tig>
+      <term>alzapiés</term>
+    </tig>
+    <tig>
+      <term>escabel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>repose-pied</term>
+    </tig>
+    <tig>
+      <term>tabouret pour les pieds</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>footstool</term>
+    </tig>
+    <tig>
+      <term>footrest</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erratz-armairu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escobero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>placard à balais</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>broom cupboard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bulegoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazmahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escritorio</term>
+    </tig>
+    <tig>
+      <term>buró</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bureau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bureau</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espezia-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>especiero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>armoire à épices</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spice rack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ispilu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espejo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>miroir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mirror</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horma-apal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estante de pared</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étagère murale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wall shelf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>apal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estante</term>
+    </tig>
+    <tig>
+      <term>balda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rayon</term>
+    </tig>
+    <tig>
+      <term>étagère</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shelf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>apalategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estantería</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rayonnage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shelving</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakustaltzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expositor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>présentoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>display case</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>futon</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>futón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>futon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>futon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arropa-mutil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>galán de noche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>valet de nuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clothes valet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bitxi-altzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>joyero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>écrin à bijoux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jewellery armoire</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>liburutegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>liburu-altzari</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>librería</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bibliothèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bookcase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Logela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>litera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lit superposé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bunk bed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Egongela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kulunkaulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mecedora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>berceuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rocking chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Lorategia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai pilagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa apilable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table empilable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stacking table</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Osagarriak eta bestelakoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>loreontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>florero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vase à fleurs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sukaldea / Jangela</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jangelako aulki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silla de comedor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaise de salle à manger</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dining chair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>apal doigarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balda regulable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étagère réglable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>adjustable shelf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Altzarien elementu eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohazeru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dosel de cama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baldaquin de lit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bed canopy</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

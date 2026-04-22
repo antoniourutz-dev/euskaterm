@@ -1,0 +1,4910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Merkataritza-guneetako Errotuluen Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Merkataritza-guneetako Errotuluen Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="368271">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>harategia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carnicería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368272">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa-orgak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carros de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368273">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa-saskiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cestas de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368274">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ehizako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para caza</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368275">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkataritza-gunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zentro komertziala</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>centro comercial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368276">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itxita inbentarioagatik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cerrado por inventario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368277">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>urdaitegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>xarkuteria</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>charcutería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368278">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xarkuteria</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>urdaitegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>charcutería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368279">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itxi poltsa pisatu aurretik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cierre la bolsa antes de pesarla</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368280">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>higieneagatik, erabili eskularruak fruta eta barazkiak aukeratzeko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>por higiene utilice los guantes al seleccionar las frutas y hortalizas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368281">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hartu txanda hemen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coja aquí su turno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368282">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>koltxoi-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colchonería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368283">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>denda independentea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comercio independiente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368284">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>animalientzako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para animales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368285">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>animalia-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de mascotas</term>
+    </tig>
+    <tig>
+      <term>tienda de animales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368286">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jantzi-osagarriak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>complementos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368287">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko osagarriak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>complementos para el hogar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368288">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autoen osagaiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>componentes del automóvil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368289">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bonbilla-egiaztagailua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comprobador de bombillas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368290">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egiaztatu zure tiketa kutxatik irtetean</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compruebe su ticket a la salida de caja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368291">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izoztuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>congelados</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368292">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plater aurrekozinatuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>platos precocinados</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368293">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorde ezazu erosketa-tiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conserve su ticket de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368294">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsigna</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zaindegia</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consigna</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368295">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kosmetika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cosmética</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368296">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>drogeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>droguería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368297">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>drogeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>droguería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368298">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ilea zaintzekoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuidado del cabello</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368299">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurpegia zaintzekoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuidado facial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368300">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goi-mailako aukera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alta selección</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368301">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parafarmazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parafarmacia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368302">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parafarmazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parafarmacia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368303">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>farmazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>botika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>farmacia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368304">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dekorazioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>decoración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368305">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dekorazioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>decoración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368306">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>depilazioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depilación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368307">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bezeroaren arretarako gunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>punto de atención al cliente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368308">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barkatu eragozpenak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disculpen las molestias</term>
+    </tig>
+    <tig>
+      <term>perdonen las molestias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368309">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>elektrizitate-gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electricidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368310">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>elektrizitate-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de electricidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368311">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxetresna elektrikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electrodomésticos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368312">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi eta soinuko etxetresna elektrikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electrodomésticos de imagen y sonido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368313">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>linea zuriko etxetresna elektrikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electrodomésticos de línea blanca</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368314">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>linea marroiko etxetresna elektrikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electrodomésticos de línea marrón</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368315">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entrada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368316">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskailera mekanikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escaleras mecánicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368317">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gasolina-zerbitzugunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estación de servicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368318">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hornigailua ez dago erabilgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>surtidor no disponible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368319">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerbitzuz kanpo</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>ez dabil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuera de servicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368320">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telebista-zirkuitu itxi bidez zaindutako saltokia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>telebista-zirkuitu itxi bidez zaindutako establezimendua</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento vigilado por circuito cerrado de televisión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368321">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakusleihoa aldatzen ari gara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estamos cambiando el escaparate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368495">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baimendutako langileek soilik erabiltzeko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>utilizar sólo por personal autorizado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368496">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskabidearen arabera saltzen da</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>venta sobre pedido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368497">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskerrik asko zure erosketagatik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gracias por su compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368498">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefono publikoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>teléfono público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368499">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beirategia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cristalería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368500">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>audioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>audio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368501">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argazkiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foto</term>
+    </tig>
+    <tig>
+      <term>fotografía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368502">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argazki-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de material fotográfico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368503">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zapata-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368504">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetakoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368505">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haur-oinetakoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado de niño</term>
+    </tig>
+    <tig>
+      <term>calzado infantil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368506">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizonezkoen oinetakoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado de hombre</term>
+    </tig>
+    <tig>
+      <term>calzado de caballero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368507">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurtxo-oinetakoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado de bebé</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368508">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jolaslekua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zona de juegos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368509">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinezkoentzako gunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zona peatonal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368510">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezin da erositakoa itzuli, erosketa-egunetik 15 egun igaro badira</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>no se admitirán devoluciones transcurridos 15 días desde la fecha de la compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368511">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baimendutako banatzailea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distribuidor autorizado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368512">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azoka tradizionala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mercado tradicional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368513">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larru-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>peletería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368514">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arrandegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pescadería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368515">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kioskoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>quiosco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368516">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erloju-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relojería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368517">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>opari-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de artículos de regalo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368518">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de deportes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368519">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tindategia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tintorería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368520">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ehunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>textil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368521">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sukaldeko altzariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muebles de cocina</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368522">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ke-hustea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>evacuación de humos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368523">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur-hustea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>evacuación de aguas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368524">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ura hornitzekoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alimentación de aguas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368525">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>airea girotzekoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>climatización</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368526">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pinturak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pinturas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368527">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biltegiratzekoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacenaje</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368528">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>antolatzekoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ordenación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368529">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eraikuntza-materialak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>materiales de construcción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368530">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autoaren barne-ekipamendua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equipamiento interior del automóvil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368531">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atletismoko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para atletismo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368532">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendiko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para montaña</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368533">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trekking-eko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para trekking</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368534">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txirrindularitzako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ziklismoko gauzak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para ciclismo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368535">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskiko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para esquí</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368536">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>talde-kiroletako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para deportes de equipo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368537">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kantxa-kiroletako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para deportes de cancha</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368538">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>golfeko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para golf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368539">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur-kiroletako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para deportes náuticos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368540">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arrantzako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para pesca</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368541">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>urpekaritzako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para submarinismo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368542">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>igeriketako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para natación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368543">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gimnastikako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos para gimnasia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368544">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-oinetakoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado deportivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368545">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>emakume-oinetakoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado de mujer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368322">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sail hau aldatzen ari gara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estamos cambiando este lineal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368323">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estankoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estanco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368324">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estankoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estanco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368325">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saski hauek zure eskura dauzkazu, erosketak errazago egiteko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estas cestas están a su disposición para facilitar sus compras</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368326">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saltoki hau itxita egongo da, inbentarioagatik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>establezimendu hau itxita egongo da, inbentarioagatik</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>este establecimiento permanecerá cerrado por inventario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368327">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>finantzaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>financiación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368328">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>frankizia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>franquicia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368329">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fruta-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frutería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368330">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>frutak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frutería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368331">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saltoki-gunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>galería comercial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368332">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saldu ondoko bermea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>garantía post-venta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368333">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gimnasioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368334">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskerrik asko etortzeagatik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gracias por su visita</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368335">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erostetxe handia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gran almacén</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368336">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurtzaindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guardería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368337">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laster arte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hasta pronto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368338">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ferretería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368339">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ferretería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368340">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>loradenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>floristería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368341">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>loreak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>floristería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368342">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>higiene intimoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>higiene íntima</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368343">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aho-higienea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>higiene bucal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368344">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haur-higienea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>higiene infantil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368345">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saltoki honek baditu erreklamazio-orriak, eskatzen dituen edonoren eskura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>establezimendu honek baditu erreklamazio-orriak, eskatzen dituen edonoren eskura</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>este establecimiento tiene hojas de reclamaciones a disposición de quien las solicite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368346">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etenik gabeko ordutegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horario ininterrumpido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368347">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordutegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horario de apertura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368348">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kutxako ordutegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horario de caja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368349">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi-gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iluminación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368350">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erremintak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>herramientas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368351">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zolak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pavimentos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368352">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de iluminación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368353">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>informatika-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de informática</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368354">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>informatika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>informática</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368355">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>informazioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>información</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368356">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bitxi-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>joyería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368357">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bitxiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>joyería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368358">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketako ordainketa-modu bera erabiliko da dirua itzultzeko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>la devolución se realizará en el mismo medio de pago en el que se abonó la compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368359">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa etxera eramaten dizugu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>le llevamos la compra a casa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368360">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produktua oparitarako biltzen dizugu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>le envolvemos el producto para regalo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368361">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barra-kodeen irakurgailua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lector de código de barras</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368362">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saltoki hau irekita egongo da egun hauetan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>establezimendu hau irekita egongo da egun hauetan</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>les informamos que este establecimiento permanecerá abierto los siguientes días</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368363">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>liburu-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>librería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368364">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>liburuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>librería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368365">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>likoreak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>licorería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368366">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>likore-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>licorería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368367">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko garbiketakoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>limpieza de hogar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368368">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>likidazioa, ixteagatik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>liquidación por cese de negocio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368369">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sustapen honek izakinak ahitu arte balio du</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promoción válida hasta fin de existencias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368370">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prezio-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de precios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368371">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jostailuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juguetes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368372">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkataritza-lokala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lokal komertziala</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>local comercial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368373">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aire girotuko lokala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>local climatizado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368374">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laster irekitzekoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>próxima apertura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368375">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>24 ordu baino lehen jaso behar dira kontsignan utzitako gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>24 ordu baino lehen jaso behar dira zaindegian utzitako gauzak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>los artículos depositados en consigna deben ser retirados en 24 horas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368376">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gehienez 10 produktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>máximo 10 productos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368377">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larruki-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marroquinería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368378">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larrukiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marroquinería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368379">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sukaldeko tresneria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>menaje de cocina</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368380">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kit altzariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mueble kit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368381">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzari-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de muebles</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368382">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muebles</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368383">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>etxeko tresneria</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>menaje de hogar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368384">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arropa-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de ropa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368385">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jantziak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>confección</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368386">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alkandora-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>camisería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368387">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizonezkoen moda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moda para caballero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368388">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurtxoen moda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moda para bebé</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368389">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurren moda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moda para niños</term>
+    </tig>
+    <tig>
+      <term>moda infantil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368390">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>emakumeen moda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moda para mujer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368391">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>emakumeen azpiko arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa interior de mujer</term>
+    </tig>
+    <tig>
+      <term>ropa interior de señora</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368392">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurren azpiko arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa interior de niños</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368393">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainuko altzariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muebles de baño</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368394">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainuko osagarriak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>accesorios de baño</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368395">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurtxoentzako altzariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muebles para bebé</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368396">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurtxoentzako tresneria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>accesorios de bebé</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368397">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakutsi poltsa kutxazainari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muestre el bolso a la cajera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368398">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez blokeatu, suaren aurkako atea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>no bloquear, puerta cortafuegos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368399">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguerdian ez dugu ixten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>no cerramos al mediodía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368400">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>udako ordutegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horario de verano</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368401">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>neguko ordutegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horario de invierno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368402">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez ukitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>no tocar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368403">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>16 urtez beherakoei ez zaie edari alkoholdunik saltzen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>no se venderán bebidas alcohólicas a menores de 16 años</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368404">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez erre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibido fumar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368405">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>novedad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368406">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskaintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oferta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368407">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkealdia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rebajas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368408">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saldoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saldo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368409">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>%20ko deskontua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descuento del 20 %</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368410">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>%30eko deskontua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descuento del 30 %</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368411">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>%50eko deskontua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descuento del 50 %</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368412">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bigarren merkealdia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>segunda rebaja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368413">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>denboraldi-aurrerapena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>avance de temporada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368414">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>optika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>óptica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368415">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>optika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>óptica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368416">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larrialdietako telefonoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>teléfono de emergencias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368417">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>doan jasotzen dugu erabilitako aparatua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retirada gratuita de su aparato usado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368418">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aholkularitza teknikoa doan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>asesoría técnica gratuita</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368419">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dietetika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dietética</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368420">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dietetika-zentroa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>centro de dietética</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368421">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>okindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>panadería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368422">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>okindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>panadería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368423">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>paper-gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>papelería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368424">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>paper-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>papelería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368425">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pastelgintza-produktuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>productos de pastelería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368426">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gozotegia</term>
+    </tig>
+    <tig>
+      <term>gozo-denda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pastelería</term>
+    </tig>
+    <tig>
+      <term>confitería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368427">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gozotegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pastelería</term>
+    </tig>
+    <tig>
+      <term>confitería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368428">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sartzeko, sakatu interfonoaren botoia eta erakutsi merkataritza-guneko langilearen identifikazio-txartela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>para acceder pulse el botón del interfono y presente la tarjeta de identificación de trabajador del centro comercial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368429">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezinbestekoa da erosketa-tiketa edo erosketa-faktura aurkeztea, edozein erreklamazio egiteko, dirua itzultzeko edo garantia zigilatzeko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>para cualquier reclamación, devolución o sellado de garantía es imprescindible la presentación del ticket de compra o factura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368430">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteteko, erakutsi kutxazainari aparkalekura sartzeko tiketa, eta eska iezaiozu irteera-txartel bat</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>para salir solicite una ficha a la cajera, presentando el ticket de entrada al parking</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368431">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aparkalekua doan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parking gratuito</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368432">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aparkalekua bezeroentzako soilik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parking exclusivo para clientes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368433">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkataritza-parkea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parque comercial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368434">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fabrikatzaileen parkea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parque de fabricantes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368435">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ile-apaindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>peluquería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368436">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxetresna elektriko txikiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pequeños electrodomésticos</term>
+    </tig>
+    <tig>
+      <term>electrodomésticos pequeños</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368437">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lurrindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perfumería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368438">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lurrindegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perfumería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368439">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehen solairua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>primera planta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368440">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beheko solairua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>planta baja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368441">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gure bezeroen segurtasunerako, txartel bidez ordaintzerakoan nortasun-agiriren bat aurkeztu beharko da</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>para los pagos con tarjeta se deberá mostrar un documento de identidad, para la seguridad de nuestros clientes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368442">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordainketa automatikoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pago automático</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368443">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baditugu modelo gehiago ere</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disponemos de más modelos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368444">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>interesik gabeko finantzaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>financiación sin intereses</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368445">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>higieneagatik, ez da onartuko azpiko arropa itzultzerik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>por higiene no se admiten devoluciones de ropa interior</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368446">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>probalekua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>probador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368447">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez sartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibido el paso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368448">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez sartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibido el paso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368449">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez sartu, zerbitzukoa izan ezik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibida la entrada a toda persona ajena al servicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368450">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez sartu, zerbitzukoa izan ezik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibida la entrada a toda persona ajena al servicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368451">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>debekatuta 18 urtez beherakoei edari alkoholdunak saltzea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibida la venta de bebidas alcohólicas a menores de 18 años</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368452">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sustapena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promoción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368453">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sustapen bereziak leialtasunezko txartelarekin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promociones exclusivas con tarjeta de fidelidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368454">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkataritza-guneko langileak soilik sartzeko atea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puerta de entrada exclusiva para personal del centro comercial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368455">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>salgaiak sartzeko atea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puerta de entrada para mercancías</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368456">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>martxan jartzea doan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puesta en marcha gratuita</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368457">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>elkargunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>punto de encuentro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368458">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gaztak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>quesería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368459">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arrapala mekanikoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rampa mecánica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368460">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa jasotzeko gunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>punto de recogida de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368461">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>denda-sarea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red de tiendas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368462">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>salgaiak jasotzeko gunea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>punto de recogida de mercancía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368463">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>stockeko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos en stock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368464">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jatetxea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>restaurante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368465">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>taberna</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368466">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oheko arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa de cama</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368467">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa deportiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368468">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizonezkoen azpiko arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa interior de caballero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368469">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zinema-aretoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sala de cine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368470">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368471">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368472">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketarik gabeko irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida sin compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368473">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larrialdietako irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida de emergencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368474">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larrialdietako irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida de emergencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368475">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tutu lehorra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>columna seca</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368476">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mandatuak hartzen dira</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>se recogen encargos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368477">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>28/2005 Legearen arabera, galarazita dago saltoki honetan erretzea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>28/2005 Legearen arabera, galarazita dago establezimendu honetan erretzea</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>según Ley 28/2005 no esta permitido fumar en este establecimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368478">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa lasterreko sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema de compra rápida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368479">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>edozein aldaketa edo itzulketa egiteko, gorde enbalajea eta erosketa-tiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>para cualquier cambio o devolución conserve el embalaje y el ticket de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368480">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa etxera eramateko zerbitzua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de entrega a domicilio</term>
+    </tig>
+    <tig>
+      <term>servicio de reparto a domicilio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368481">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa etxera 24 ordutan eramateko zerbitzua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de entrega a domicilio en 24 horas</term>
+    </tig>
+    <tig>
+      <term>servicio de reparto a domicilio en 24 horas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368482">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saldu ondoko zerbitzua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio post-venta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368483">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ez bazara gustura geratzen, erosketa tiketa aurkeztu eta dirua itzuliko dizugu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>si no queda satisfecho le reembolsamos su dinero, presentando su ticket de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368484">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hurrengo bezeroa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cliente siguiente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368485">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tiketa egiten bukatu aurretik eskatu faktura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>solicite la factura antes de finalizar el ticket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368486">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskatu Informazioan beira-arasako produktuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>solicite los artículos de la vitrina en Información</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368487">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txartelak bakarrik</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sólo tarjetas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368488">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontuz, zoru bustia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuidado, piso mojado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368489">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>supermerkatua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>supermercado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368490">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hipermerkatua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hipermercado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368491">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefonia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>telefonía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368492">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa-tiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ticket de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368493">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa etxera eramateko zonen mapa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mapa de zonas de reparto a domicilio de la compra</term>
+    </tig>
+    <tig>
+      <term>mapa de zonas de entrega a domicilio de la compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368494">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azken egunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>últimos días</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368204">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irekita 24 orduetan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abierto 24 horas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368205">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jostailu-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juguetería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368206">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ehun-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de telas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368207">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>musika-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de música</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368208">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefonia mugikorreko denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de telefonía móvil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368209">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>garbitegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lavandería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368210">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>janari-edariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alimentación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368211">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esnekiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lácteos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368212">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aperitiboak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aperitivos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368213">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oparitzeko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos de regalo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368214">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barazkiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hortalizas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368215">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lekaleak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legumbres</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368216">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerealak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cereales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368217">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>edari alkoholdunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bebidas alcohólicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368218">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>edari alkoholgabeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bebidas no alcohólicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368219">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fitofarmazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fitofarmacia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368220">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontserbak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conservas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368221">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ongailuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>condimentos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368222">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espeziak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>especias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368223">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zurgintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carpintería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368224">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aseguruak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seguros</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368225">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aseguru-agentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agencia de seguros</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368226">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>higiezinen agentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inmobiliaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368227">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>higiezinen agentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inmobiliaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368228">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>janari-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de alimentación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368229">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bazarra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bazar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368230">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bazarra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bazar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368231">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ireki sutea dagoenean</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ábrase en caso de incendio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368232">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>salmenta-aretoko sarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acceso a sala de venta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368233">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidaia-agentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agencia de viajes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368234">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidaia-agentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agencia de viajes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368235">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurren janari-edariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alimentación infantil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368236">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aparkalekua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aparcamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368237">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulegoko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos de oficina</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368238">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>musika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>música</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368239">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lorategiko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos de jardinería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368240">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>garbitzeko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos de limpieza</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368241">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidaiatzeko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos de viaje</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368242">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ebakitako zura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>madera precortada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368243">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zura ebakitzeko zerbitzua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de corte de madera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368244">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estaldurak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>revestimientos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368245">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beira ebakitzeko zerbitzua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de corte de vidrio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368246">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>koadroei markoak jartzeko zerbitzua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de enmarcado de cuadros</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368247">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>igogailua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ascensor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368248">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aseos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368249">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autozerbitzua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autoservicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368250">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ongi etorri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bienvenidos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368251">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ardoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bodega de vinos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368252">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>opilgintza-produktuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>productos de bollería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368253">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketako poltsa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bolsa de compra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368254">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>poltsa isotermikoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bolsa isotérmica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368255">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketako poltsa ekologikoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bolsa de compra ecológica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368256">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>brikolajea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bricolaje</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368257">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>brikolaje-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de bricolaje</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368258">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iradokizun-ontzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>buzón de sugerencias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368259">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>denda-katea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cadena de tiendas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368260">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kafetegia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cafetería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368261">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kutxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368262">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gauza handientzako kutxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja artículos voluminosos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368263">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kutxa zentrala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja central</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368264">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kutxa lasterra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja rápida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368265">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zure segurtasunerako, produktuak kutxan ere pisatuko dira</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>para su seguridad, los productos serán pesados también en caja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368266">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zabalera bereziko kutxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja ancho especial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368267">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kutxazaina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cajera</term>
+    </tig>
+    <tig>
+      <term>cajero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368268">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kutxazain automatikoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cajero automático</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368269">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanpineko gauzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>artículos de camping</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="368270">
+  <descrip type='subjectField'>Merkataritzako fraseologia eta errotulazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>harategia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carnicería</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

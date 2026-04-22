@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Negoziazio Kolektiboaren Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Negoziazio Kolektiboaren Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="1">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektibo aplikagarririk ez dagoenean, enpresa jakin bateko enpresaburuaren eta langileen ordezkarien artean, langileen estatutuak aurrez ikusitako arazo zehatzei buruz lortutako akordioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresa-akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acuerdo entre la empresa y los representantes de los trabajadores</term>
+    </tig>
+    <tig>
+      <term>acuerdo de empresa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="2">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazio kolektiboari buruzko klausulak ezartzen dituen lanbide arteko hitzarmena. Hala dagokionean, hitzarmenen konkurrentzia konpontzeko erregelak ere jasotzen ditu. Estatu osorako edo autonomia-erkidego baterako hitzarmena izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanbide arteko esparru-akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acuerdo marco interprofesional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="3">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-harremanetako gai jakin bat edo gehiago arautzen dituen lanbide arteko hitzarmena, enpresaburuen eta sindikatu nagusien artean sinatzen dena. Estatu osorako edo autonomia-erkidego baterako hitzarmena izan daiteke, eta zuzenean aplikatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gai zehatzen gaineko akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acuerdo sobre materia concreta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="4">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Batetik, ekonomia-mendekotasuneko langile autonomoak ordezkatzen dituzten elkarteen edo sindikatuen, eta, bestetik, langile horien lanbide-jarduera kontratatzen duten enpresen arteko hitzarmena; lanbide-jardueraren modu-, denbora- eta leku-baldintzak, edota kontratazioaren beste baldintza orokor batzuk arautzen ditu. Lanbide-intereseko akordioen eraginkortasun pertsonala alderdi sinatzaileetara mugatzen da, eta, hala dagokionean, autonomoen elkarte edo sindikatu sinatzaileetan afiliatutako pertsonetara, betiere, afiliatu horiek horretarako esanbidezko adostasuna eman badute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanbide-intereseko akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acuerdo de interés profesional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="5">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beren esparruko lan-harreman indibidualen eta kolektiboen baldintzak hitzarmen edo itun bidez arautzeko, langileek eta enpresaburuek duten autonomia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>autonomia kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autonomía colectiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="6">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autorregulazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autorregulación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="7">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>negoziazio kolektiborako eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la negociación colectiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="8">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enplegatu publikoen oinarrizko estatus juridikoa ezartzen duen legea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Enplegatu Publikoaren Oinarrizko Estatutua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Estatuto Básico del Empleado Público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="9">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Langileen Estatutua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Estatuto de los Trabajadores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="10">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuzenbidearen iturri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuente de derecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="11">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Langileen eta enpresaburuen autonomia kolektibotik kanpo, lan-arloko botere publikoek ezartzen duten araua. Aginduzko zuzenbidearen agerpena da, lan-kontratuko nahiz hitzarmen kolektiboko alderdien borondatez aldarazi ezin diren zenbait betebehar, debeku, betekizun eta eskaerari erreferentzia egiten diena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>heteronomia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>arau heteronomo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>heteronomía</term>
+    </tig>
+    <tig>
+      <term>norma heterónoma</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="12">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1. Sindikatuak sortzeko, sindikatuetara afiliatzeko eta jarduera sindikala gauzatzeko langileek duten askatasuna; 2. Sindikatuek jarduera sindikala autonomiaz garatzeko duten askatasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sindikatu-askatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>askatasun sindikal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libertad sindical</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="13">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Funtzionario publikoen negoziazioaren esparruan sinatzen den hitzarmena; hura sinatzen duen administrazio publikoko organoaren eskumenaren barruan dauden gaiei buruzkoa da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itun kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pacto colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="14">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazioan enpresaburuen interesen defentsa egiten duen alderdia, alegia, enpresaburua (enpresako esparruan) edo enpresaburu-elkartea (sektoreko esparruan).</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresaburuen ordezkariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>enpresako ordezkariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representantes de la empresa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="15">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazioan langileen interesen defentsa egiten duen alderdia, alegia, enpresa-batzordea, langileen delegatua edo delegatuak (enpresako esparruan) edo sindikatu-ordezkaritza (enpresako esparruan nahiz sektorean).</descrip>
+    </descripGrp>
+    <tig>
+      <term>langileen ordezkariak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representantes de los trabajadores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="16">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazio kolektiboaren emaitza den kontratu arauemailea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmen kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="17">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Langileen estatutuko III. tituluak ezarritakoaren arabera negoziatu den hitzarmen kolektiboa. Eraginkortasun pertsonal orokorra du, eta bere eremuko langile eta enpresa guztiei aplikatzen zaie, beren afiliazioa edozein dela ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>estatutuaren araberako hitzarmen kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio colectivo estatutario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="18">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Langileen estatutuko III. tituluak ezarritakoari jarraitu gabe negoziatu den hitzarmen kolektiboa. Eraginkortasun pertsonal mugatua du, eta hitzarmena adostu duten enpresaburuen elkarte eta sindikatuetara afiliatutakoei soilik aplikatzen zaie.</descrip>
+    </descripGrp>
+    <tig>
+      <term>estatutuz kanpoko hitzarmen kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio colectivo extraestatutario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="19">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa baino aplikazio-eremu zabalagoa duen hitzarmen kolektiboa, jarduera ekonomiko bereko enpresei aplikatzen zaiena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresaz gaindiko hitzarmen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sektoreko hitzarmen kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio de ámbito superior a la empresa</term>
+    </tig>
+    <tig>
+      <term>convenio supraempresarial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="20">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa bakarrera mugatutako aplikazio-eremua duen hitzarmen kolektiboa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresa-hitzarmen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>enpresako hitzarmen kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio de empresa</term>
+    </tig>
+    <tig>
+      <term>convenio colectivo de empresa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="21">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aplikazio-eremu pertsonal murriztua duen hitzarmena, multzo bereko, kategoria bereko, lantoki bereko, titulazio bereko edo sail bereko langileei aplikatzen zaiena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresa azpiko banda-hitzarmen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bandako hitzarmen kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio colectivo de franja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="22">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-zuzenbideko iturri batek gutxieneko lan-baldintzak bermatzen dituenean, baldintza horiek okerragotzeko ezintasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>in peius indargabetze-ezintasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inderogabilidad in peius</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="23">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-zuzenbideko arauen arteko harreman-mota, arau batek beste bat osatzen duenean ezartzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>osagarritasun-harreman</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>osatze-harreman</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relación de complementariedad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="24">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-zuzenbideko arauen arteko harreman-mota, aplikatu beharreko arau batek beste araurik aplikatu ezina dakarrenean ezartzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baztertze-harreman</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relación de exclusión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="25">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-zuzenbidean, gai beraren inguruan bi arauren artean ezar daitekeen harreman-mota, betiere arau horietako baten xedapen-hutsunearen ordez beste arauak ezarritakoa aplikatzen denean gertatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezko harreman</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relación de supletoriedad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="26">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legez arautua egon den gai bat alderdi kolektiboen esku uztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmenaren aldeko deslegeztatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hitzarmenaren aldeko deslegalizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>repliegue legal a favor del convenio</term>
+    </tig>
+    <tig>
+      <term>deslegalización</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="27">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dagoen hitzarmen bati atxikitzeko, alderdi negoziatzaileek lortzen duten adostasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmen kolektiboari atxikitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hitzarmenari atxikitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adhesión a un convenio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="28">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboak lotzen dituen enpresen eta langileen multzoa. Erabiltzen diren sailkapen-irizpideen arabera, aplikazio-eremua funtzionala, lurraldekoa edo pertsonala izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmenaren aplikazio-eremu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hitzarmenaren negoziazio-unitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ámbito de aplicación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="29">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmenaren hedadura zehazten duen irizpidea: enpresakoa, enpresa azpikoa edo enpresaz gaindikoa izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eremu funtzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ámbito funcional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="30">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboa aplikatzen zaien langileen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsona-eremu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eremu pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ámbito personal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="31">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmenaren indarraldia, noiz hasten den eta zenbat iraungo duen zehazten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>denbora-eremu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ámbito temporal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="32">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboa indarrean dagoen lurraldea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lurralde-eremu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ámbito territorial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="33">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dauden bi hitzarmen kolektibok aplikazio-eremu bera arautzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmen kolektiboen konkurrentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concurrencia entre convenios</term>
+    </tig>
+    <tig>
+      <term>concurrencia de convenios colectivos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="34">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziatzeko subjektu legitimaturik ez dagoelako, hitzarmena adostu ezin duten hainbat enpresa, langile edo arlotara lehendik indarrean dagoen sektore bereko edo antzeko hitzarmen bat hedatzeko, Administrazioak jarraitzen duen prozedura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmen kolektiboa hedatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extensión del convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="35">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lanbide arteko esparru-akordioen bidez, negoziazio-unitate desberdineko hitzarmen kolektiboak era egituratuan eta osagarrian antolatzen dituen negoziazio kolektiboa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>negoziazio kolektibo artikulatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>negociación colectiva articulada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="36">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dauden bi hitzarmenek aplikazio-eremu bera arautzen dutenean, zein aplikatuko den ebazteko arauak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmenen konkurrentzia-arauak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reglas de concurrencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="37">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboa negoziatzen duen alderdi bakoitzeko ordezkaritza. Enpresa bakar bateko hitzarmena negoziatzean, langileen ordezkariak (adibidez, enpresa-batzordeko kideak edo delegatu sindikalak) eta enpresaren ordezkariak izango dira subjektu negoziatzaileak; sektore bateko hainbat enpresetako hitzarmena negoziatzean, berriz, sektoreko sindikatuek hautatutako ordezkariez eta sektoreko enpresa-elkarteak baimendutako ordezkariez gainera, ordezkari horien aholkulariek eta Lan Ministerioko bitartekariak ere parte har dezakete.</descrip>
+    </descripGrp>
+    <tig>
+      <term>subjektu negoziatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agente negociador</term>
+    </tig>
+    <tig>
+      <term>sujeto negociador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="38">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresaburuek beren interes ekonomikoak eta kolektiboak babesteko sortutako elkartea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresaburuen elkarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>enpresari-elkarte</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>asociación empresarial</term>
+    </tig>
+    <tig>
+      <term>asociación de empresarios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="39">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazio kolektiboan, enpresaburuen ordezkarien multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarleku ekonomiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banco económico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="40">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazio kolektiboan, langileen ordezkarien multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gizarte-jarleku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banco social</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="41">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazio kolektiboetan parte hartzeko gaitasun abstraktua. Eremu bakoitzean negoziatzeko behar den legitimazioaren aurrebaldintza da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>negoziatzeko gaitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad para negociar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="42">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboa negoziatzeko eta adosteko, gizarte-jarlekuak eta jarleku ekonomikoak osatutako batzordea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>negoziazio-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comisión negociadora</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="43">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gutxienez 50 langile dituzten enpresetan, langile guztien ordezkaritza bateratua gauzatzeko, langile guztiek hautatzen duten ordezkaritza-organoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresa-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comité de empresa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="44">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa bereko lantoki guztietako ordezkariak dauzkan batzordea. Haren eraketa eta funtzionamendua hitzarmen kolektiboan adosten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lantokien arteko batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comité intercentros</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="45">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>50 langile baino gutxiago dituzten enpresetan, langile guztien ordezkaritza bateratua gauzatzeko, langile guztiek hautatzen duten ordezkaria. Langileen ordezkari bat edo hiru izan ditzakete 50 langile baino gutxiagoko enpresek.</descrip>
+    </descripGrp>
+    <tig>
+      <term>langileen delegatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pertsonal-ordezkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>langileen ordezkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delegado de personal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="46">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>enpresaburu indibidual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empresario individual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="47">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazio kolektiboan gutxienez ordezkari baten bitartez parte hartzeko eskubidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hasierako legitimazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legitimazio parte-hartzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legitimación inicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="48">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eremu jakin bateko negoziazio kolektiboan parte hartzeko eskubidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>negoziatzeko legitimazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legitimación para convenir</term>
+    </tig>
+    <tig>
+      <term>legitimación para negociar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="49">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkari-kopuru jakin baten bitartez eta eremu zehatz batean frogatzen den ordezkagarritasun-mailaren arabera, negoziazio kolektiboan parte hartzeko eskubidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legitimazio oso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legitimación plena</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="50">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmena negoziatzeko legitimazioa duten alderdietako bakoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdi negoziatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte negociadora</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="51">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hainbat langileren edo enpresabururen interesak babesten dituen ordezkaritza, pertsona batez edo gehiagoz osatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezkaritza kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación colectiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="52">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresako langile guztiek, afiliazio sindikala kontuan hartu gabe, beren interes komunak babesteko hauteskunde bidez aukeratutako ordezkaritza; pertsona batez (langileen delegatua) edo gehiagoz (langileen delegatuak edo enpresa-batzordea) osatua egon daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baterako ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>langileen ordezkaritza bateratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación unitaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="53">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa batean, kasuan kasuko sindikatuan afiliatutako langileak bakarrik kontuan hartzen dituen ordezkaritza-eredua. Horrela, enpresan edo lantokian dagoen sindikatu bakoitzak sindikatu-ordezkaritza gauzatzen du bere afiliatuei begira eta afiliatu horien ekimenez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sindikatu-ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación sindical</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="54">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sindikatu-ordezkagarritasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ordezkagarritasun sindikal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representatividad sindical</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="55">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa batean, sindikatu berean afiliatuta dauden langileek sortutako organo sindikala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sindikatu-atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>atal sindikal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección sindical</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="56">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeetako emaitzetan, ordezkagarritasun nagusiaren estatusa lortzeko, legeak ezarritako minimoak gainditu dituen sindikatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezkaritza handieneko sindikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ordezkagarritasun nagusiko sindikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sindicato más representativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="57">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeetako emaitzetan, ordezkagarritasun nahikoaren estatusa lortzeko, legeak ezarritako minimoak gainditu dituen sindikatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezkaritza nahikoa duen sindikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ordezkagarritasun nahikoa duen sindikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sindicato suficientemente representativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="58">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-harremanetan eskumena duen gobernu-organoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lan-agintaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autoridad laboral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="59">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dagoen hitzarmen kolektiboan adostutakoa aldatzea xede duen grebaren izaera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aldaberritze-grebaren zilegitasunik ez</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ilicitud de huelga novatoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="60">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>negoziazioaren ekimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iniciativa</term>
+    </tig>
+    <tig>
+      <term>iniciativa negociadora</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="61">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>negoziatzeko betebehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>obligación de negociar</term>
+    </tig>
+    <tig>
+      <term>deber de negociar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="62">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fede onez negoziatzeko betebehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>onustez negoziatzeko betebehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>obligación de negociar de buena fe</term>
+    </tig>
+    <tig>
+      <term>negociación de buena fe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="63">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Negoziazioa hastean, alderdietako batek aurkezten duen dokumentua, lan-baldintzei buruzko proposamenen zerrenda ordenatua biltzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreibindikazio-plataforma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plataforma reivindicativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="64">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dagoen hitzarmen kolektibo bat bertan behera uzteko, hitzarmenaren negoziazioan parte hartu duen alderdietako batek besteari egin beharreko jakinarazpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>salaketaren aurreabisu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>preaviso de denuncia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="65">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi negoziatzaileek lortutako hasierako adostasun-puntuak biltzen dituen dokumentua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hasierako akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de acuerdo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="66">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmen kolektiboa erregistratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro del convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="67">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>2012ko lan-erreforma arte, hitzarmen kolektibo batek edo enpresako akordio batek onartutako lan-kategoria, langile bakoitzak egin beharreko funtzio-multzoa zehazten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanbide-kategoria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>categoría profesional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="68">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lanbideak beren ezaugarrien arabera sailkatzeko sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanbide-sailkapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clasificación profesional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="69">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresaz gaindiko hitzarmen kolektiboetan ezartzen den klausula, enpresa-mailan soldata-erregimena ez aplikatzeko baldintzak eta prozedura ezartzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmenean soldatei buruz ezarritakoa ez aplikatzeko klausula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula de inaplicación del régimen salarial</term>
+    </tig>
+    <tig>
+      <term>cláusula de descuelgue salarial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="70">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboak bere aplikazio-eremuko enpresaburuei eta langileei ezartzen dizkien eskubideak eta betebeharrak biltzen dituen klausula.</descrip>
+    </descripGrp>
+    <tig>
+      <term>klausula arauemaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula normativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="71">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboa sinatu duten alderdiek elkarrekin onartutako konpromisoak biltzen dituen klausula.</descrip>
+    </descripGrp>
+    <tig>
+      <term>betebeharren klausula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula obligacional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="72">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bake-klausula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusulas de paz laboral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="73">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-harremana hasteko eta amaitzeko modua zehazten duten elementuak, batez ere, kontratu-mota eta kaleratze-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enplegu-baldintzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>condiciones de empleo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="74">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-harremanaren edukia zehazten duten elementuen multzoa, alegia, soldata, lanaldia, ordutegia, eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lan-baldintzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>condiciones de trabajo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="75">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legez, hitzarmen kolektibo batek izan behar duen gutxieneko eta ezinbesteko edukia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gutxieneko eduki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legezko gutxieneko eduki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contenido mínimo</term>
+    </tig>
+    <tig>
+      <term>contenido legal mínimo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="76">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektibo bat indarrean dagoen artean grebarik ez egiteko itunak sortutako betebeharra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bake-betebehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deber de paz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="77">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Urteko lanordu-kopurua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>urteko lanaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jornada anual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="78">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguneko lanordu-kopurua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguneko lanaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jornada diaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="79">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguneko ordutegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horario laboral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="80">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lanbide-sailkapenean, laneko jarduera bati dagozkion lanbide-gaitasunen, titulazioen eta zeregin orokorren multzo bateratua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanbide-talde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grupo profesional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="81">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsonalaren mugigarritasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movilidad del personal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="82">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Langileak berari ez dagozkion funtzioak egiteko aukera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mugigarritasun funtzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movilidad funcional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="83">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Langileak lekuz eta bizilekuz aldatzeko aukera; betiere, enpresa berean lan eginez jarraitzen dute langileek.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mugigarritasun geografiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movilidad geográfica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="84">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanaren antolaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lanaren antolatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>organización del trabajo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="85">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>probaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>período de prueba</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="86">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legez nahitaezkoa den Gizarte Segurantza osatzeko eta hobetzeko eratu daitekeen maila gehigarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gizarte-aurreikuspen osagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>previsión social complementaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="87">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Soldata-ordainketa egitean, enpresaburuak langileari ematen dion agiri idatzia, ordainsari-kontzeptuak zehazten dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soldata-ordainagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>soldataren ordainagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recibo de salarios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="88">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legeetan eta hitzarmen kolektiboetan zehazten diren, eta lan-arloan langileei eta enpresaburuei aplikatzen zaizkien arau-hausteen eta zehapenen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diziplina-araubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diziplina-erregimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen disciplinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="89">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboaren klausula arauemaileak jasotzen dituen edukia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eduki arauemaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contenido normativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="90">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboko betebeharren klausulak jasotzen dituen edukia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>betebeharren eduki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contenido obligacional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="91">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arauaren eraginkortasun juridiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eficacia jurídica normativa</term>
+    </tig>
+    <tig>
+      <term>eficacia normativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="92">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboak bere aplikazio-eremuko langile eta enpresaburu guztiengan duen eragimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erga omnes eraginkortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eraginkortasun pertsonal orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eficacia personal general</term>
+    </tig>
+    <tig>
+      <term>eficacia erga omnes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="93">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboak bere sinatzaileek ordezkatzen dituztenengan soilik duen eragimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eraginkortasun pertsonal mugatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eficacia personal limitada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="94">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmen kolektiboen indar lotesle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuerza vinculante de los convenios colectivos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="95">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1994an Confebask enpresaburu-elkarteak eta ELA-STV, UGT, CCOO/LK eta LAB sindikatuek sinatutako akordioa, Euskadiko Autonomia Erkidegoan lan-gatazkak borondatezko prozedura erabiliz konpontzea xede duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Laneko Gatazkak Ebazteko Borondatezko Prozedurei buruzko Lanbide Arteko Akordioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>GEP II</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Acuerdo Interprofesional sobre Procedimientos Voluntarios de Resolución de Conflictos Laborales</term>
+    </tig>
+    <tig>
+      <term>Preco II</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="96">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lan-gatazkak auzibidetik kanpo ebazteko akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lan-gatazkak epaiketaz kanpo konpontzeko akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acuerdo sobre solución extrajudicial de conflictos laborales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="97">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lan-arloko gatazkak epaitegietara jo gabe konpontzeko bidea, erabakia arbitro baten eskuetan uzten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arbitraje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arbitraje</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="98">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboa administratzeko eta gainbegiratzeko batzordea; alderdi bakoitzetik kide-kopuru berez osatuta dago.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmen kolektiboaren batzorde paritario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>batzorde paritario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comisión paritaria</term>
+    </tig>
+    <tig>
+      <term>comisión paritaria del convenio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="99">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaitegietara jo gabe, alderdien jarrerak hurbiltzen saiatuz, lan-arloko gatazkak konpontzeko bidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>adiskidetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conciliación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="100">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaitegietara jo gabe, alderdiei lotesleak ez diren irtenbideak proposatuz, lan-arloko gatazkak konpontzeko bidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bitartekaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bitartekotza</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mediación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="101">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bitarteko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bitartekari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mediador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="102">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektibo berri bat adosten denean, hitzarmen berriak zaharra ordeztu behar duela ezartzen duen printzipioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>modernitate-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>berritasun-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de modernidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="103">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dagoen hitzarmen kolektiboa automatikoki luzatzeari uko egiten diola adieraziz, alderdietako batek besteari egiten dion legezko jakinarazpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmena salatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>denuncia del convenio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="104">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi negoziatzaileek adosten duten hitzarmenaren iraupen-denbora. Bestelakorik zehazten ez bada, eta alderdietako batek salatzen ez badu, hitzarmena urtetik urtera luzatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmen kolektiboaren iraupen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>duración del convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="105">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmenaren luzapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prórroga del convenio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="106">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektiboek 2012ko lan-erreforma arte zuten ezaugarria, hitzarmen berri bat adostu arte, salatutako hitzarmenaren eduki arauemailea bere hartan iraunarazten zuena, eta berebeharren edukia indargabetzen zuena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmenaren aurreraeragin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ultraactividad del convenio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="107">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmena negoziatzen duten alderdiek adostutako epea, haren indarraldi juridikoa zehazten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmenaren indarraldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vigencia del convenio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="108">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmen kolektiboaren legezkontrakotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legezkontrakotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ilegalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="109">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmen kolektiboa aurkaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impugnación de convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="110">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmen kolektiboa aurkaratzeko legitimazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legitimación para impugnar el convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="111">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hitzarmen kolektibo batek hitzarmenaren eremutik kanpo dauden hirugarrenei kalte egiteko duen gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzarmen kolektiboaren kaltegarritasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lesividad</term>
+    </tig>
+    <tig>
+      <term>lesividad del convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="112">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Funtzionario publikoen negoziazio kolektiboa adosteko gunea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>negoziazio-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de negociación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="113">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Euskal Autonomia Erkidegoko Administrazioaren Negoziazio Mahai Orokorra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Mesa General de la Administración de la CAPV</term>
+    </tig>
+    <tig>
+      <term>Mesa General de Negociación de la Administración de la Comunidad Autónoma de Euskadi</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="114">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Herri Administrazioetako Negoziazio Mahai Orokorra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Mesa General de Negociación de las Administraciones Públicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="115">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>negoziazio-mahai orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa general de negociación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="116">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai sektorial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sektoreko mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa sectorial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="117">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio-organoen eskumeneko gaiei buruz, negoziazio-mahaian lortutako adostasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pacto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="118">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gobernu-organoen eskumeneko gaiei buruz, negoziazio-mahaian lortutako adostasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>akordio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acuerdo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="119">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioak lana antolatzeko dituen ahalmenak, nahitaez negoziatu beharrekoak ez direnak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>antolatzeko ahalak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>potestades de organización de la Administración Pública</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="120">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpostu-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relación de puestos de trabajo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="121">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>herri-administrazioaren ordezkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representante de la Administración Pública</term>
+    </tig>
+    <tig>
+      <term>representación de la Administración Pública</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="122">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmen kolektiboa gordailutze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depósito del convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="123">
+  <descrip type='subjectField'>Negoziazio kolektiboa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hitzarmen kolektiboa argitaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicación del convenio colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

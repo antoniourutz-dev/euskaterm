@@ -1,0 +1,4235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Administrazioarekiko Auzien Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Administrazioarekiko Auzien Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="1">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auziaren gaiaren arabera, auziaz ardura dadin edo auzia ebatz dezan organo judizialari ematen zaion eskumena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskumen objektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gaiaren araberako eskumen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>competencia objetiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="2">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurraldearen arabera, auziaz ardura dadin edo auzia ebatz dezan organo judizialari ematen zaion eskumena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lurralde-eskumen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lurraldearen araberako eskumen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>competencia territorial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="3">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio bereko organoen artean sortzen den gatazka; eskumena nork duen erabakitzeko orduan gertatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskudantzia-gatazka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conflicto de atribuciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="4">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Organo judizialen artean edo organo judizialen eta administrazio-organoen artean sortzen den gatazka; auzi batez arduratzeko eskumena nork duen erabakitzeko orduan gertatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jurisdikzio-gatazka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conflicto de jurisdicción</term>
+    </tig>
+    <tig>
+      <term>conflicto jurisdiccional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="5">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi jurisdikzio-ordenatako organo judizialen artean sortzen den arazoa; auzi batez arduratzeko eskumena nork duen erabakitzeko orduan gertatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskumen-arazo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuestión de competencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="6">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzi nagusiari erantsita eta hertsiki lotuta planteatzen den administrazioarekiko arazoa. Auzi nagusiarekin batera ebazten da, hartarako beste prozedurarik hasteko beharrik gabe.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arazo intzidental</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuestión incidental</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="7">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio-auzi bat epaitzen denean sortzen den zibileko edo lan-arloko arazoa, baina administrazioarekiko auzi-errekurtso batekin zuzeneko erlazioa duena. Administrazioarekiko auzien jurisdikzioak berak ebazten du, eta hartutako erabakiak ez du efekturik izaten prozesu horretatik kanpo eta ez du lotzen zibileko edo lan-arloko jurisdikzio-ordena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaitu aurreko arazo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>judizio aurreko arazo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuestión prejudicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="8">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskumengabetasun-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskumengabe deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskumenik eza deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de incompetencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="9">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jurisdikziorik ez</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jurisdikziogabetasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falta de jurisdicción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="10">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskumenik ez</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskumengabetasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>incompetencia</term>
+    </tig>
+    <tig>
+      <term>falta de competencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="11">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzien epaitegi zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juzgado central de lo contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="12">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Probintzia osoan jurisdikzioa duen kide bakarreko organo judiziala, egoitza probintziako hiriburuan duena. Beste organo batzuei esleitu ez zaizkien administrazioarekiko auzi-errekurtsoez arduratzen da, auzialdi bakarrean edo lehenengoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzien epaitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juzgado de lo contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="13">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uztailaren 13ko 29/1998 Legea,  Administrazioarekiko Auzien Jurisdikzioa arautzen duena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Administrazioarekiko Auzien Jurisdikzioaren Legea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>AAJL</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa</term>
+    </tig>
+    <tig>
+      <term>Ley de la Jurisdicción Contencioso-Administrativa</term>
+    </tig>
+    <tig>
+      <term>LJCA</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="14">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kide anitzeko organo judizialeko kidea, besteak beste auzitegiaren erabakia idazteaz arduratzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>magistratu txostengile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>magistrado ponente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="15">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzien ordena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazioarekiko auzien jurisdikzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazioarekiko auzien jurisdikzio-ordena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>orden contencioso-administrativo</term>
+    </tig>
+    <tig>
+      <term>jurisdicción contencioso-administrativa</term>
+    </tig>
+    <tig>
+      <term>orden jurisdiccional contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="16">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Magistratu batek baino gehiagok osatzen duten organo judiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kide anitzeko organo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>órgano colegiado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="17">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaile bakarrak osatzen duen organo judiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kide bakarreko organo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>órgano unipersonal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="18">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinarrizko eskubideen jurisdikzio-babes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>protección jurisdiccional de los derechos fundamentales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="19">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi nagusietan, administrazioarekiko auzien gaineko ardura duen kide anitzeko organo judiziala. Auzialdi bakarrean edo bigarrenean arduratzen da auzi horietaz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>auzitegi nagusiko administrazioarekiko auzien sala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>justizia auzitegi nagusiko administrazioarekiko auzien sala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="20">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi Gorenean, administrazioarekiko auzien gaineko ardura duen kide anitzeko organo judiziala. Auzialdi bakarrean edo bigarrenean arduratzen da auzi horietaz, eta administrazioarekiko auzien jurisdikzioko organo gorena da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Auzitegi Goreneko Administrazioarekiko Auzien Sala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Sala de lo Contencioso-Administrativo del Tribunal Supremo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="21">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzien salaren atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Sección de la Sala de lo contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="22">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazio demandatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administración demandada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="23">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Apelazio-errekurtsoa jasan behar duen alderdia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdi apelatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>apelatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte apelada</term>
+    </tig>
+    <tig>
+      <term>apelado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="24">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Apelazio-errekurtsoa jartzen duen alderdia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdi apelatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>apelatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte apelante</term>
+    </tig>
+    <tig>
+      <term>apelante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="25">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderdi izateko gaitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad para ser parte</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="26">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gaitasun prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="27">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kodemandatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codemandado</term>
+    </tig>
+    <tig>
+      <term>parte codemandada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="28">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legitimaziorik ez</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falta de legitimación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="29">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>interes legitimo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interés legítimo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="30">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuan alderdi aktibo nahiz pasibo izateko legezko gaitasuna; hau da, demandatzailea nahiz demandatua izateko gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legitimazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legitimazio prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legitimación</term>
+    </tig>
+    <tig>
+      <term>legitimación procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="31">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuan alderdi aktibo izateko legezko gaitasuna; hau da, demandatzailea izateko gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legitimazio aktibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legitimación activa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="32">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuan alderdi pasibo izateko legezko gaitasuna; hau da, demandatua izateko gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legitimazio pasibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legitimación pasiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="33">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Fiskaltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Ministerio Fiscal</term>
+    </tig>
+    <tig>
+      <term>Ministerio Público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="34">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuko subjektua, errekurtsoa edo demanda aurkeztuz alderdi aktibo gisa parte hartzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdi demandatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>auzi-jartzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>demandatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte actora</term>
+    </tig>
+    <tig>
+      <term>actor</term>
+    </tig>
+    <tig>
+      <term>parte demandante</term>
+    </tig>
+    <tig>
+      <term>demandante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="35">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>agertutako alderdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agertutako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte compareciente</term>
+    </tig>
+    <tig>
+      <term>parte comparecida</term>
+    </tig>
+    <tig>
+      <term>compareciente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="36">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Exekuziopeko alderdia zorra ordainaraztera behartu duen alderdia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdi betearazle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alderdi exekutatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte ejecutante</term>
+    </tig>
+    <tig>
+      <term>ejecutante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="37">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi exekutatzaileari zorra ordaindu behar dion alderdia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>betearazpenpeko alderdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alderdi exekutatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuziopeko alderdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte ejecutada</term>
+    </tig>
+    <tig>
+      <term>ejecutado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="38">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsonaturiko alderdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte personada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="39">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderdi errekurritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errekurritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte recurrida</term>
+    </tig>
+    <tig>
+      <term>recurrido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="40">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ukitutako pertsona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eraginpeko pertsona</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>persona afectada</term>
+    </tig>
+    <tig>
+      <term>afectado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="41">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiek duten betekizuna, abokatuak defendatuta eta prokuradoreak ordezkatuta agertzekoa. Prozesu-jarduna baliozkoa izateko, betekizun horretaz gain, prozesuko gaitasuna eta alderdi izateko gaitasuna ere izan behar dituzte alderdiek.</descrip>
+    </descripGrp>
+    <tig>
+      <term>postulazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>postulazio prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>postulación</term>
+    </tig>
+    <tig>
+      <term>postulación procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="42">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsogile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alderdi errekurtsogile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errekurritzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errekurtso-jartzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurrente</term>
+    </tig>
+    <tig>
+      <term>parte recurrente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="43">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderdi errekeritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errekeritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parte requerida</term>
+    </tig>
+    <tig>
+      <term>requerido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="44">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazio-jarduera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actividad administrativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="45">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurkara daitekeen administrazio-jarduera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aurkaratzeko moduko administrazio-jarduera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actividad administrativa impugnable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="46">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio-organoak bere eginkizunen egikaritzan egindako deklarazioa, izaera arauemailea ez duena eta herritarren eskubideetan, betebeharretan eta interesetan eragina duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazio-egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazioaren egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto administrativo</term>
+    </tig>
+    <tig>
+      <term>acto de la administración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="47">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aplikazio-egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto de aplicación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="48">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izapidezko egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>izapide-egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto de trámite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="49">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behin betiko egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto definitivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="50">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egintza espresu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto expreso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="51">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egintza irmo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto firme</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="52">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presuntziozko egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto presunto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="53">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazio-bidea amaitzen duen egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto que pone fin a la vía administrativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="54">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egitate-bideko administrazio-jardun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actuación administrativa en vía de hecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="55">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uziak metatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acumulación de pretensiones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="56">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prozesuak metatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozesu-metaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acumulación de procesos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="57">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsoa zabaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ampliación del recurso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="58">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdietako bat Administrazioa izanik, zuzenbide eta eskumen administratiboaren mendean egiten den kontratua, izaera administratiboa edo pribatua izan dezakeena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontratu administratibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazio-kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="59">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazio-hitzarmen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="60">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsoaren munta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuantía del recurso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="61">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazio-xedapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disposición administrativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="62">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lege-maila baino apalagoko xedapen orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disposición general de rango inferior a la Ley</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="63">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazio-egintzak betearazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazio-egintzak exekutatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución de actos administrativos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="64">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio-egintzaren aurka errekurtsoa jartzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazio-egintza aurkaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impugnación de acto administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="65">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioaren jarduterik ez</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inactividad de la administración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="66">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsoaren objektu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objeto del recurso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="67">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banakoen egoera juridikoa aitortze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reconocimiento de situación jurídica individualizada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="68">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio-bidea agortu ondoren, administrazioarekiko auzien jurisdikzioan jartzen den errekurtsoa, Administrazio Publikoaren xedapenak, egintzak, jarduterik ezak edota egitate-bideak aurkaratzekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="69">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banakoen egoera juridikoa berrezartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>restablecimiento de situación jurídica individualizada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="70">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inolako legezko oinarririk gabe gauzaturiko administrazio-jarduna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>egitezko bide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>egitate-bide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vía de hecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="74">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egintza eman duen administrazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administración autora del acto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="75">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demanda edo demanda-erantzuna aurkeztu ostean egiten diren alegazioak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alegazio osagarriak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alegaciones complementarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="76">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurretiazko alegazioak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alegaciones previas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="77">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi demandatuaren alde bakarreko prozesu-egintza, demandatzaileak eskatutakoa onartzekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>amore emate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>allanamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="78">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio-egintza baliorik gabe uztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazio-egintza deuseztatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anulación de acto administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="79">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsoa iragartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errekurtsoa jarri dela iragartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anuncio del recurso</term>
+    </tig>
+    <tig>
+      <term>anuncio de interposición del recurso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="80">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>frogaldia haste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apertura del periodo probatorio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="81">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarduketak artxibatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>autoak artxibatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>archivo de actuaciones</term>
+    </tig>
+    <tig>
+      <term>archivo de autos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="82">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsoa onartzen duen auto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>onarpen-auto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>auto de admisión del recurso</term>
+    </tig>
+    <tig>
+      <term>auto de admisión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="83">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozedura judizialeko jardunen edo piezen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarduketak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>autoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autos</term>
+    </tig>
+    <tig>
+      <term>actuaciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="84">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzi-errekurtsoa bertan behera geratzea, egin beharreko izapideak egin gabe epeak igarotzen uzteagatik. Prozesua amaitzeko ezohiko moduetako bat da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa iraungitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caducidad del recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="85">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egitate-bideari uzte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cesación de la vía de hecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="86">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>agerraldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto de la comparecencia</term>
+    </tig>
+    <tig>
+      <term>comparecencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="87">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autoak amaitutzat jotze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conclusión de autos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="88">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiek euren baieztapenak frogatzeko abian jarritako prozesu-aldia bukatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>frogen aldia amaitutzat jotze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>frogaldia amaitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conclusión del período de pruebas</term>
+    </tig>
+    <tig>
+      <term>conclusión de período probatorio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="89">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ebazpen judizialetako xedapena, auzilarietako bat judizioko gastuak ordaintzera behartzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kostuak ordaintzeko kondena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kostuak ordaintzera kondenatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>condena de costas</term>
+    </tig>
+    <tig>
+      <term>condena en costas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="90">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espedientearen kopia autentifikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>copia autentificada del expediente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="91">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozedura judizialaren ondorioz sortzen diren gastuak: abokatu, prokuradore eta adituen ordainsariak, eta auzia izapidetzean izandako gainerakoak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaiketa-kostuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozesuko kostuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>judizioko kostuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kostuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>costas judiciales</term>
+    </tig>
+    <tig>
+      <term>costas procesales</term>
+    </tig>
+    <tig>
+      <term>costas</term>
+    </tig>
+    <tig>
+      <term>costas del juicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="92">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioak interes publikorako kaltegarritzat jotzea interesdunen alde eman duen egintza bat; ondoren, administrazioarekiko auzien jurisdikzioan aurkaratzen da egintza hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kaltegarritasun-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kaltegarritzat jotze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kaltegarri deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de lesividad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="93">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>auzia epairako prest deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>auzia epaia emateko prest dagoela deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de pleito concluso para sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="94">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Organo judizialari babes juridikoa eskatzeko egintza prozesala, prozedura judiziala abiarazten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>demanda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>demanda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="95">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Artikulu edo erregelamendu oso bat indarrik gabe uztea, edo haren zati bat aldatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>xedapena indargabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derogación de disposición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="96">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzien epaileak, auziaren mamia aztertuta, ezezkoa ematea administrazioarekiko auzi-errekurtsoaren bidez eskatutakoari.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa ezeste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desestimación del recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="97">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzi-jartzailearen deklarazioa, berak jarritako administrazioarekiko auzi-errekurtsotik aldentzekoa. Horren ondorioz, aurkaratutako egintzaren edo xedapenaren legezkotasuna epaitu gabe geratzen da, eta auzia amaitutzat ematen da administrazioak auzi-jartzailearen deklarazioa onartuz gero. Prozesua amaitzeko ezohiko moduetako bat da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoan atzera egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa utzieste</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desistimiento del recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="98">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordenamendu juridikoan ezarritakoez bestelako helburuetarako baliatzea administrazio-ahala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>agintea desbideratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desviación de poder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="99">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>antolaketarako eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencia de ordenación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="100">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>froga-eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencia de prueba</term>
+    </tig>
+    <tig>
+      <term>diligencia probatoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="101">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzien prozedurari ekin aurretik gauza daitezkeen eginbideak. Administrazioarekiko Auzien Jurisdikzioaren Legean bi hauek daude araututa: kaltegarritasun-deklarazioa eta aurretiazko errekerimendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atariko eginbideak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencias preliminares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="102">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>akzioa baliatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>akzioa egikaritze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio de acción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="103">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaileak alderdiei epea ezartzea, egintza prozesal bat egin dezaten.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdiak epatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>emplazamiento de las partes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="104">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konklusioen idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konklusio-idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de conclusiones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="105">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi demandatuaren idazkia, demandan jasotako uziak onartu edo ukatzekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>demandari erantzuteko idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>demanda-erantzun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erantzun-idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de contestación a la demanda</term>
+    </tig>
+    <tig>
+      <term>escrito de contestación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="106">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>demanda-idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de demanda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="107">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa jartzeko idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errekurtso-idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de interposición de recurso contencioso-administrativo</term>
+    </tig>
+    <tig>
+      <term>escrito de interposición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="108">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzian alderdi izateko deklarazioa jasotzen duen idazkia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsonatze-idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pertsonatzeko idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de personación</term>
+    </tig>
+    <tig>
+      <term>escrito de personamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="109">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>froga proposatzeko idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de proposición de prueba</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="110">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsoaren hasierako idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito inicial del recurso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="111">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzien epaileak, auziaren mamia aztertuta, baiezkoa ematea administrazioarekiko auzi-errekurtsoaren bidez eskatutakoari.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa baieste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estimación del recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="112">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aurretiaz tasatutako kostuak ordaintzera behartzeko hartzekodun den administrazioak erabilitako premiamendu bidea; ordaintzera kondenatutakoak kostuak ordaindu ez dituenean erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kostuak ordainarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exacción de costas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="113">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazio-espediente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expediente administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="114">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>demanda formalizatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>formalización de la demanda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="115">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alegazioak egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>formulación de alegaciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="116">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa ez onartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inadmisión del recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="117">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaileak adituak izendatzeko erabiltzen duen bidea: ontzi batean zenbakia duten edo adituen izena duten txartelak sartuta, bat edo gehiago ateratzea, zoriaren arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>perituen zozketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>adituen zozketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>insaculación de peritos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="118">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiek eztabaida adostasunez amai dezaten organo judizialak egiten duen saiakera. Lehenengo auzialdiko edo auzialdi bakarreko prozeduretan egiten da, transakziogai izan daitezkeen gaiei buruzko auzian, eta, bereziki, zenbateko baten balioespenari buruzkoan, demanda eta erantzuna formulatu ondoren.</descrip>
+    </descripGrp>
+    <tig>
+      <term>adiskidetze-ahalegin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intento de conciliación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="119">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa jartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interposición de recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="120">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egintza prozesalaren baliogabetasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>invalidez de acto procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="121">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaiketa laburtu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>judizio laburtu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juicio abreviado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="122">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaiketa arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>judizio arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juicio ordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="123">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auziaren egoera, demanda jarri eta onartutakoan hasi eta behin betiko epaia eman arte irauten duena. Gatazka bat prozesu baten mende dagoela adierazten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>auzibitarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>litispendentzia</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>litispendencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="124">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioak betearazpen-egintza borondatez betetzen ez duenean, organo judizialak erantzule den agintari edo enplegatuari ezartzen dion diru-zehapena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hertsapen-isun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>multa coercitiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="125">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiei auzi-aretoan ezagutzera ematea auzian emandako ebazpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaitegiko iragarki-lekuan jakinarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>auzi-gelan jakinarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>notificación en estrados</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="126">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoari aurka egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oposición al recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="127">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Abokatu eta prokuradoreen idazkietan, eskaera nagusiaz bestelako eskaerak egiteko erabiltzen den formula.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berebat</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>berebat diot</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>otrosí</term>
+    </tig>
+    <tig>
+      <term>otrosí digo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="128">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiek euren baieztapenak frogatzeko abian jartzen den prozesu-aldia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>frogaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>período de prueba</term>
+    </tig>
+    <tig>
+      <term>período probatorio</term>
+    </tig>
+    <tig>
+      <term>prueba</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="129">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuan agertzea, prozesu horretan alderdi gisa formalki aurkezteko asmoz. Legez gaitutako prokuradore bidez edo alderdi izateko borondatea adierazten duen idatzizko deklarazio baten bidez egin daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsonatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>personación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="131">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>froga gauzatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>froga egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>práctica de la prueba</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="132">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzien epaitegiek eta, hala badagokio, administrazioarekiko auzien epaitegi zentralak abian jartzen duten prozedura, gai hauek aztertzeko: administrazio publikoen zerbitzuko pertsonala, atzerritartasuna eta asilo politikoaren eskaerak onartzea, dopatzearen inguruko kirol-diziplinako gaiak eta orobat legean finkatutako zenbatekoa gainditzen ez duten guztiak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prozedura laburtu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento abreviado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="133">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzien jurisdikzioan bideratzen diren egintza prozesalen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzien prozedura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="134">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzia bideratzen ari den bitartean, izapidetzako arazoak eta bigarren mailako eskabideak erabakitzeko ematen den ebazpen judiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>probidentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>providencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="135">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdietako batek bere interesen aurka egindako deklarazioan oinarritzen den frogabidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aitortza-froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prueba de confesión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="136">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alegatutako egitatea egiazkoa dela demostratzeko aurkezten diren idazkietan edo dokumentuetan oinarritzen den frogabidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>agiri-froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>dokumentu bidezko froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prueba documental</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="137">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiekin eta prozesuarekin zerikusirik ez duen eta juridikoak ez diren gaietan aditua den pertsona batek aurkeztutako txostenean oinarritzen den frogabidea, prozesuan aipagarri den gertaera bati buruzkoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aditu-froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aditu bidezko froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>peritu-froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prueba pericial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="138">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lekukoen galdeketan oinarritzen den frogabidea, zeharkakoa, pertsonala eta kausazkoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lekuko-froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lekuko bidezko froga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prueba testifical</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="139">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>frogaldia onartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozesuan frogaldia egitea onartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recibimiento a prueba</term>
+    </tig>
+    <tig>
+      <term>recibimiento del proceso a prueba</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="140">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espedientea erreklamatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazio-espedientea erreklamatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reclamación de expediente</term>
+    </tig>
+    <tig>
+      <term>reclamación de expediente administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="141">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interesdunen alde eman duen egintza bat Administrazioak berak interes publikorako kaltegarritzat jo ondoren, egintza hori aurkaratzeko administrazioarekiko auzien jurisdikzioan jartzen duen errekurtsoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kaltegarritasun-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de lesividad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="142">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>perituak errekusatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>adituak errekusatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recusación de peritos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="143">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurrez errekerimendua egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aurretiazko errekerimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>requerimiento previo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="144">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Errekurtsoa aurkeztean, forma aldetik nahitaez bete beharreko betekizuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>forma-betekizun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>requisito de forma</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="145">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioak, administrazio-bidean, auzi-jartzailearen uzi guztiak onartzea. Prozesua objekturik gabe geratzen da, eta, ondorioz, amaitu egiten da, epaileak emandako autoaren bidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>uziak prozesutik kanpo betetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>satisfacción extraprocesal</term>
+    </tig>
+    <tig>
+      <term>satisfacción extraprocesal de pretensiones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="146">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Organo judizialaren ebazpen nagusia, auzialdi edo errekurtsoari bukaera modu arruntean ematen diona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="147">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demandatzailearen uzia ukatzen duen epaia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezespen-epai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentencia desestimatoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="148">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demandatzailearen uzia onartzen duen epaia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baiespen-epai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentencia estimatoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="149">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hutsak zuzentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>akatsak zuzentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>subsanación de faltas</term>
+    </tig>
+    <tig>
+      <term>subsanación de defectos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="150">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio-egintzaren eraginkortasuna aldi baterako geldiaraztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazio-egintza etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazio-egintza geldieran uzte</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suspensión de acto administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="151">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prozedura etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozedura geldieran uzte</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suspensión de procedimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="152">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuan parte hartzen duen alderdietako batek lekukoen deklarazioa edo lekukoen egoera pertsonala aurkaratzea, legezko zioan oinarrituta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lekukoak arbuiatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lekukoak narriopean jartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lekukoen narrio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tacha de testigos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="153">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaitegi edo auzitegiko idazkariak, kostuetarako kondena dagoenean, prozedura judizialaren ondorioz izandako gastuak balioestea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kostuak tasatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kostuen tasazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tasación de costas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="154">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ebazpenaren atal jakinen egiaztagiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>xehetasunen lekukotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>partikularren lekukotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>testimonio de particulares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="155">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiek, epaia eman aurretik eta frogen emaitzak kontuan izanda, euren jarrera zehazteko egiten duten azken izapidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konklusio-izapide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trámite de conclusiones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="156">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdien arteko akordioa, epaileak emandako autoaren bidez prozesua amaitutzat jotzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>transakzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transacción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="157">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Transakziogai izan daitezkeen gaiei buruzko auzian eta, bereziki, zenbateko baten balioespenari buruzkoan alderdiek lortzen duten akordioa, lehen auzialdiko eta auzialdi bakarreko prozesuetan demanda eta demanda-erantzuna izapidetu ondoren egiten dutena. Akordio horren ondorioz, prozesua amaitutzat jotzen da, epaileak emandako autoaren bidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prozesuko transakzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transacción intraprocesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="158">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi demandatuari demandaren kopia entregatzea (administrazio-espedientearekin batera), demandari erantzun diezaion.</descrip>
+    </descripGrp>
+    <tig>
+      <term>demanda helarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>traslado de la demanda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="159">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioaren jarduna zuzenbidearen araberakoa den aztertzeko, administrazioarekiko auzien jurisdikzioan abian jartzen den prozesu-bidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazioarekiko auzibide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>administrazioarekiko auzien bide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vía contencioso-administrativa</term>
+    </tig>
+    <tig>
+      <term>vía judicial contencioso-administrativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="160">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Isun irmoak edo partikularrei ezarritako kostuak borondatez ordaindu ezean, haiek ordainarazteko erabiltzen den bidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>premiamendu judizialaren bide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>premiamendu judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vía judicial de apremio</term>
+    </tig>
+    <tig>
+      <term>apremio judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="161">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jurisdikzio-jardun abusuzko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abuso en el ejercicio de la jurisdicción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="162">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>apelazioari atxikitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adhesión a la apelación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="163">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaiaren betearazpena eteten duen apelazio-errekurtsoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bi ondoreko apelazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bi efektuko apelazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apelación en ambos efectos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="164">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaiaren betearazpena eteten ez duen apelazio-errekurtsoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ondore bakarreko apelazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>efektu bakarreko apelazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apelación en un solo efecto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="165">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jurisdikzio-jardun gutxiegizko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defecto en el ejercicio de la jurisdicción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="166">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>benetako babes judizialerako eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la tutela judicial efectiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="167">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Errekurritutako alderdiak errekurtsoa ez onartzeko arrazoiak alegatzeko aurkezten duen idazkia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errekurtsoari aurka egiteko idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aurkakotza-idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de oposición</term>
+    </tig>
+    <tig>
+      <term>escrito de oposición al recurso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="168">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtsoa prestatzeko idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prestatze-idazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrito de preparación del recurso</term>
+    </tig>
+    <tig>
+      <term>escrito de preparación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="169">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jurisdikzio-jardun gehiegizko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exceso en el ejercicio de la jurisdicción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="170">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xedapen orokorraren zuzeneko aurkarapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>xedapen orokorra zuzenean aurkaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impugnación directa de disposición general</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="171">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xedapen orokorraren zeharkako aurkarapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>xedapen orokorra zeharka aurkaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impugnación indirecta de disposición general</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="172">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prozedura desegokia izate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozeduraren desegokitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inadecuación del procedimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="173">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dagoen araudia urratzea. Kasazio-errekurtsoa jartzeko zioetako bat da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordenamendu juridikoa hauste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>infracción del ordenamiento jurídico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="174">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kasazio-errekurtsoa prestatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>preparación del recurso de casación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="175">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaiketaren funtsezko formak urratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>quebrantamiento de formas esenciales del juicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="176">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ebazpen bat eman duen epaileari edo auzitegiari berari egiten zaion eskaera, eman duen ebazpena ilun, askiez edo okertzat jotzen dela-eta hura argi dezan bideratzen zaiona. Teknikoki ez da benetako errekurtsoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>argitze-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>argitzeko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de aclaración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="177">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzien epaitegiek eta administrazioarekiko auzien epaitegi zentralek emandako epaiei jartzen zaien errekurtsoa; Administrazioarekiko Auzien Jurisdikzioaren Legeko 81. artikuluan ezarritako kasuetan jartzen da. Apelatzen den epaia eman zuen epaitegian bertan jartzen da, eta administrazioarekiko auzien sala eskudunak ebazten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>apelazio-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>apelazio-errekurtso arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de apelación</term>
+    </tig>
+    <tig>
+      <term>recurso ordinario de apelación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="178">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi Nazionaleko Administrazioarekiko Auzien Salak edo auzitegi nagusietako administrazioarekiko auzien salek auzialdi bakarrean emandako epaiei jartzen zaien errekurtsoa. Auzitegi Goreneko Administrazioarekiko Auzien Salaren aurrean jartzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kasazio-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de casación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="179">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazioarekiko auzien epaileek auzialdi bakarrean emandako epaiak eta auzitegi nagusietako eta Auzitegi Nazionaleko administrazioarekiko auzien salek emandako epaiak legearen interesean aurkaratzeko errekurtsoa, epai horiek interes orokorrari kalte larria egiten diotela eta okerrak direla iritziz gero aurkezten dena. Errekurtsoaren bidez, errekurrituriko epaitzarako erabakigarri izan diren arauak zuzen interpretatu eta aplikatu diren epaitzen da, ez besterik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legearen intereseko kasazio-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de casación en interés de la ley</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="180">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi Goreneko, Auzitegi Nazionaleko eta auzitegi nagusietako administrazioarekiko auzien salek auzialdi bakarrean emandako epaien kontra jartzen den errekurtsoa; auzilari berei buruz edo egoera berean ziren auzilari batzuei buruz epaitza desberdinak eman direnean jartzen da, funtsean berdinak izanik egitateak, oinarriak eta uziak. Orobat jar dakieke errekurtso hau Auzitegi Nazionalak eta auzitegi nagusiek auzialdi bakarrean emandako epaiei, Auzitegi Gorenak emandako epaiekin kontraesanean gertatzen badira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>doktrina bateratzeko kasazio-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de casación para la unificación de doctrina</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="181">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiak zuzenean goragoko auzitegian jartzen duen errekurtsoa; beheko auzitegiak apelazioa edo bestelako errekurtso arrunten bat onartzen ez duenean jartzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kexa-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kexako errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de queja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="182">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi Gorenean, Auzitegi Nazionalean eta auzitegi nagusietan epai irmoen kontra jartzen den errekurtso berezia; Administrazioarekiko Auzien Jurisdikzioaren Legeko 102. artikuluan ezarritako kasuetan jartzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berrikuspen-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de revisión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="183">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Apelaziorik edo kasaziorik jar ez dakiekeen probidentzia edo autoen aurka jartzen den errekurtsoa. Ez du eragozten aurkaraturiko ebazpena gauzatzea, non eta jurisdikzio-organoak ez duen kontrakoa erabakitzen, ofizioz edo alderdi-eskariz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregu-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de súplica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="184">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekurtso huts</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso desierto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="185">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurkaratutako ebazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>resolución impugnada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="186">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaileak edo auzitegiak berak emandako epaia baliogabetzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaia errebokatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaia ezeztatze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>revocación de sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="187">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autoen behar besteko lekukotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jarduketen behar besteko testigantza</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>testimonio bastante de los autos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="188">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ebazpen judizial irmoaren ondorea, objektu berari buruz beste prozesu bat hastea eragozten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gauza epaitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cosa juzgada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="189">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaia borondatez betetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cumplimiento voluntario de la sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="191">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaian agindutakoa gauzatzeko abian jartzen den prozesu-aldia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaia betearazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaia exekutatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epai-exekuzio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución de sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="192">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaia betearazteko abian jartzen den prozesu-aldia, epaia epe barruan bete ez denean edo epaia jakinarazi denetik legean ezarritako denbora igaro denean hasten dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaiaren nahitaezko betearazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaia nahitaez exekutatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución forzosa de la sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="193">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epai baten aurka apelazio-errekurtsoa jarri denean edo kasazio-errekurtsoa prestatu denean, errekurritutako epaia behin-behinean bete dadin ematen den agindua; epaiak mesede egindako alderdiek eskatzen dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaia behin-behinean betearazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaia behin-behinekoan exekutatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución provisional de la sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="194">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>betearazte subsidiario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuzio subsidiario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución subsidiaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="195">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaian aitortutako eskubideak desjabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expropiación de derechos reconocidos en la sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="196">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaiaren ondoreak hedatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaiaren efektuak zabaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extensión de efectos de la sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="197">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaiaren xedapen-zatia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaitza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fallo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="198">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaia betearazteko ezintasun material</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaia exekutatzeko ezintasun material</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imposibilidad material de ejecutar la sentencia</term>
+    </tig>
+    <tig>
+      <term>imposibilidad material de ejecución de la sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="199">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaia betearazteko legezko ezintasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaia exekutatzeko legezko ezintasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imposibilidad legal de ejecutar la sentencia</term>
+    </tig>
+    <tig>
+      <term>imposibilidad legal de ejecución de la sentencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="200">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kautela-intzidente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>incidente cautelar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="201">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kautela-neurria bertan behera uztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kautela-neurria kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>levantamiento de medida cautelar</term>
+    </tig>
+    <tig>
+      <term>alzamiento de medida cautelar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="202">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaiaren eraginkortasuna segurtatzeko neurria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kautela-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kautelazko neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida cautelar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="203">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kautela-neurriak ebazteko intzidentearen jardun-multzoa, demanda nagusiaren izapidetza eten gabe bideratzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kautela-neurrien pieza banandu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pieza separada de medidas cautelares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="204">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kautela-neurria hartzeko kontuan izan ziren inguruabarrak aldatzen direnean, neurri hori indarrik gabe uztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kautela-neurria errebokatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kautela-neurria ezeztatze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>revocación de medida cautelar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="205">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerbait egiteko kondena ezartzen duen epai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zerbait egiteko kondena-epai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentencia de condena de hacer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="208">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ezartzen duen betebeharra zuzenean betearaztea dakarren titulua, epaileak beste deklaraziorik egin beharrik gabe.</descrip>
+    </descripGrp>
+    <tig>
+      <term>titulu betearazle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuzio-titulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>título ejecutivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="209">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaitegietako idazkariak edo notarioak egindako aktaren edo agiriaren kopia ziurtatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lekukotza-kopia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>testigantza-kopia</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>copia testimoniada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="210">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Xedapen orokor bat legezkoa den ala ez ebazteko planteatzen den arazoa; xedapenaren aurkako zuzeneko errekurtsoaz arduratzeko eskudun den auzitegiari bideratzen zaio, betiere xedapenaren aurka zeharka jarri den errekurtsoan administrazioarekiko auzien jurisdikzioko organo judizial batek baiespen-epai irmoa eman ondoren.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legezkontrakotasun-arazo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuestión de ilegalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="211">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legez kontrako deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de ilegalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="212">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etete-intzidente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>geldiera-intzidente</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>incidente de suspensión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="213">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>askatasun eta eskubideen babes judizialerako prozedura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento de amparo judicial de libertades y derechos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="214">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsonaren oinarrizko eskubideak babesteko prozedura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento para la protección de los derechos fundamentales de la persona</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="215">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsonaren oinarrizko eskubideak eta askatasun publikoak babesteko administrazioarekiko auzi-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso contencioso-administrativo para la protección de derechos fundamentales y libertades públicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="216">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xedapen orokorren aurkako zuzeneko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso directo contra disposiciones generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="217">
+  <descrip type='subjectField'>Prozedura bereziak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioak erabakiak etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erabakien administrazio-geldiera</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suspensión administrativa de acuerdos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="218">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi Nazionalean, administrazioarekiko auzien gaineko ardura duen kide anitzeko organo judiziala. Auzialdi bakarrean edo bigarrenean arduratzen da auzi horietaz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Auzitegi Nazionaleko Administrazioarekiko Auzien Sala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Sala de lo Contencioso-Administrativo de la Audiencia Nacional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="219">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arrazoitutako ebazpen judiziala, besteak beste, gai hauek erabakitzen dituena: probidentzien aurkako errekurtsoak, intzidenteak, prozesuaren betekizunak eta prozeduraren deuseztasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>auto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>auto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="220">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auziko alderdietakoren bati edo hirugarren bati zerbait egin dezan edo egiteari utz diezaion galdatzeko egiten den egintza judiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errekerimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errekerimendu judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agindei</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>requerimiento</term>
+    </tig>
+    <tig>
+      <term>requerimiento judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="221">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jurisdikzio luzaezin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jurisdicción improrrogable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="222">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epe luzaezin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plazo improrrogable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="223">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskubidea iraungitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caducidad del derecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="224">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konklusio idatziak formulatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>formulación de conclusiones escritas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="225">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarduketa material</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actuación material</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="226">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kasazio-interes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interés casacional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="227">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>frogabide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medio de prueba</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="228">
+  <descrip type='subjectField'>Probidentzien, autoen eta epaien aurkako errekurtsoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zeharkako errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso indirecto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="229">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aurkako errekurtsorik jarri ezin zaion epaia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epai irmo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentencia firme</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="230">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bere hartan utziriko egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto consentido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="231">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berresteko egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto confirmatorio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="232">
+  <descrip type='subjectField'>Administrazioarekiko auzien jurisdikzioa: eremua, eskumenak eta organoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jurisdikzio-ordena bereko organo judizialen artean sortzen den gatazka; auzi batez arduratzeko eskumena nork duen erabakitzeko orduan gertatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskumen-gatazka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conflicto de competencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="233">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="234">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>defentsa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defensa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="235">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren alderdiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>herri-akzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción popular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="236">
+  <descrip type='subjectField'>Administrazioarekiko auzi-errekurtsoaren objektua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pretensión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="239">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xedapena deuseztatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anulación de la disposición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="240">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurrekontu-aldaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>modificación presupuestaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="241">
+  <descrip type='subjectField'>Epaien betearazpena</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>masako egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto en masa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="242">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administrazioarekiko auzi-errekurtsoa onartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>admisión del recurso contencioso-administrativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="243">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsonalki, ordezkari bidez edo idazki bidez prozedura judizialean aurkeztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>agertze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comparecencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="244">
+  <descrip type='subjectField'>Administrazioarekiko auzien prozedura</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Organo judizialak alderdiari, lekukoari, adituari edo beste hirugarren bati egiten dion deia, zitazio-zedulan zehaztutako egunean epaitegian ager dadin, prozesuarekin zerikusia duen eginbideren bat egiteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zitazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zitazio judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>citación</term>
+    </tig>
+    <tig>
+      <term>citación judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

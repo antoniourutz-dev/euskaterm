@@ -1,0 +1,6851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mineralak Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Mineralak Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Material solido ez-organikoa, naturala, barne-egitura ordenatua (kristalinoa) eta konposizio kimiko nahitaez finkoa dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mineral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mineral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>minéral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mineral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>minerai</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ore</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Solido homogeneo ordenatua, plano-aurpegi garatuak eta konposizio kimiko zehatzak dituena. Konposatu kimikoaren atomoak espazioko hiru dimentsioetan periodikoki errepikatzen den eredu baten arabera antolatzen direnez, kristalek geometria definituak izaten dituzte.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kristal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cristal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cristal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crystal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal edo mineral batek bere aurpegien garapen erlatiboaren arabera hartzen duen forma orokorra. Mineral-habituak hainbat motatakoak izan daitezke; besteak beste, prismatikoa, tabularra, laminarra, haritsua, orratz-formakoa, dimentsiokidea eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>habitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hábito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>habitus</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>habit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idiomorfo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>euhedral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>idiomorfo</term>
+    </tig>
+    <tig>
+      <term>euhedral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>idiomorphe</term>
+    </tig>
+    <tig>
+      <term>idiomorphique</term>
+    </tig>
+    <tig>
+      <term>euhédrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>idiomorphic</term>
+    </tig>
+    <tig>
+      <term>euhedral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hipidiomorfo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>subhedral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hipidiomorfo</term>
+    </tig>
+    <tig>
+      <term>subhedral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>subhédrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>subhedral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xenomorfo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>anhedral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>anhedriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>xenomorfo</term>
+    </tig>
+    <tig>
+      <term>anhedral</term>
+    </tig>
+    <tig>
+      <term>anhédrico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>xénomorphe</term>
+    </tig>
+    <tig>
+      <term>anhédral</term>
+    </tig>
+    <tig>
+      <term>anhédrique</term>
+    </tig>
+    <tig>
+      <term>anédrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>xenomorphic</term>
+    </tig>
+    <tig>
+      <term>anhedral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineralen propietatea, minerala zeharkatzen duen argiaren errefrakzioak eta dispertsioak, batetik, eta mineralak argia xurgatzen duen moduak, bestetik, erabakitzen dutena. Mineralen kolorea berezkoa eta nahiko konstantea izan daiteke (mineral idiokromatikoa), edo gerta daiteke mineralak, berez kolorgea izanik, koloreren bat hartzea, kristal-sarean sartu diren ezpurutasunen, egitura atomikoaren distortsioen eta abarren ondorioz (mineral alokromatikoa).</descrip>
+    </descripGrp>
+    <tig>
+      <term>kolore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>color</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>couleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>color</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idiokromatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>idiocromático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>idiochromatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>idiochromatic</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alokromatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alocromático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>allochromatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>allochromatic</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pseudokromatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pseudocromático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pseudochromatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pseudochromatic</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral batek argia islatzen duen moduaren arabera hartzen duen itxura. Distiraren intentsitatea islatutako argi-kantitatearen araberakoa da hein handi batean, eta handiagoa izaten da errefrakzio-indizea zenbat eta altuagoa izan. Distira metalikoa edo ez-metalikoa izaten da funtsean, eta kasu gutxi batzuetan, submetalikoa. Distira metalikoa mineral opakuen berezko ezaugarria da, eta bereziki ohikoa izaten da metal, sulfuro eta oxido batzuetan. Distira ez-metalikoa argia transmititzen duten mineraletan ikusten da. Mota ezberdinak daude; adibidez, beirakara (feldespatoen taldeko mineraletan) edo diamantekara (diamantearen distiraren antzekoa).</descrip>
+    </descripGrp>
+    <tig>
+      <term>distira</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>brillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brillance</term>
+    </tig>
+    <tig>
+      <term>éclat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>brilliance</term>
+    </tig>
+    <tig>
+      <term>brillancy</term>
+    </tig>
+    <tig>
+      <term>luster</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral-hautsaren kolorea. Beiraztatu gabeko portzelanazko xafla bat mineralarekin igurtziz ezagutzen da. Kolorea bera baino propietate fidagarriagoa izan ohi da, zenbaitetan kolorea alterazio-geruza baten azpian egoten baita.</descrip>
+    </descripGrp>
+    <tig>
+      <term>marra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>raya</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>trace</term>
+    </tig>
+    <tig>
+      <term>trait</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>streak</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral baten azala marratzeko garaian mineralak agertzen duen erresistentzia adierazten duen propietatea. Mineral bakoitzak gogortasun bera du beti, baina zenbaitetan gerta daiteke mineralak norabide desberdinetan gogortasun desberdina izatea, hau da, mineralaren gogortasuna anisotropoa izatea. Ezaugarri hori bereziki nabarmena da zianitaren kasuan. Atomoen arteko lotura-motaren eta atomoen tamaina eta balentziaren araberakoa da gogortasuna; beraz, osagai kimikoek kristal-egituran duten kohesio-maila adierazten du. Mineralen gogortasuna neurtzeko, Mohsen eskala erabiltzen da, gogortasun (H) txikienetik handienera ordenatutako hamar mineralek osatua: talkoa (H = 1), igeltsua (H = 2), kaltzita (H = 3), fluorita (H = 4), apatitoa (H = 5), ortoklasa (H = 6), kuartzoa (H = 7), topazioa (H = 8), korindoia (H = 9) eta diamantea (H = 10).</descrip>
+    </descripGrp>
+    <tig>
+      <term>gogortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dureza</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dureté</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hardness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zenbait mineralek lehentasunezko plano kristalografikoetan apurtzeko duten joera. Lotura atomiko ahulenek definitzen dituzte plano horiek. Mineral batek klibajea izan dezake ala ez. Klibaje perfektua, ona, nabarmena, ahula eta txarra bereizten dira, klibaje-maila handienetik txikienera ordenatuta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>klibaje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>esfoliazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exfoliación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exfoliation</term>
+    </tig>
+    <tig>
+      <term>clivage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cleavage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral batzuek beren kristal-egiturako plano ahulen arabera hausteko duten joera. Plano horiek ez dira klibaje-planoak, eta ez dute mineral bereko ale guztietan agertu behar. Adibidez, korindoiak makla-planoen arabera zatitzeko joera du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zatidura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>partición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>partage</term>
+    </tig>
+    <tig>
+      <term>fente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>parting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral batzuek klibatu ordez norabide kristalografikoei jarraitu gabe hausteko duten joera. Apurketa-mota desberdinek formaren araberako izenak hartzen dituzte; adibidez, kuartzoaren apurketari konkoide esaten zaio maskor baten barnealdearen itxura duelako.</descrip>
+    </descripGrp>
+    <tig>
+      <term>apurketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fractura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cassure</term>
+    </tig>
+    <tig>
+      <term>fracture</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fracture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineralek bolumen-unitateko duten masa, g/cm3-tan adierazi ohi dena. Mineralen atomo-moten eta atomo horiek kristal-sarean banatuta dauden moduaren araberakoa da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dentsitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>densidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>densité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>density</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral baten pisuaren eta 4 ºC-an bolumen berdina duen uraren pisuaren arteko erlazioa. Zenbaki baten bidez adierazten da, eta ez du unitaterik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pisu espezifiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>peso específico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>poids spécifique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>specific gravity</term>
+    </tig>
+    <tig>
+      <term>relative density</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal batzuek kitzikapen fisikoen eraginez argia igortzeko duten gaitasuna. Fenomenoak ez du zerikusirik goritasunarekin, eta iluntasunean bakarrik nabarmentzen da. Kitzikapen-eragilearen arabera, mota desberdinak bereizten dira: tribolumineszentzia (jo, kolpekatu, birrindu edo igurtziz), termolumineszentzia (beroaren ondorioz), fluoreszentzia eta fosforeszentzia (normalean, biak erradiazio ultramoreen eraginez).</descrip>
+    </descripGrp>
+    <tig>
+      <term>lumineszentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luminiscencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>luminescence</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>luminescence</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal bat osatzen duten atomo edo molekulen banaketa espazial ordenatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kristal-egitura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>egitura kristalino</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estructura cristalina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>structure cristalline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crystal structure</term>
+    </tig>
+    <tig>
+      <term>crystalline structure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baldintza fisiko-kimikoen aldaketek eraginda mineral bat desegonkortu eta, hasierako forma mantenduz, beste mineral batek ordezteko prozesua. Hasierako mineralaren osagaiak berrantolatuz gerta daiteke (aragonito-formako kaltzita-pseudomorfoa, adibidez), edo konposizio kimikoa guztiz aldatuz (aragonito-formako kobre natiboaren pseudomorfoak, esate baterako).</descrip>
+    </descripGrp>
+    <tig>
+      <term>pseudomorfismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pseudomorfismo</term>
+    </tig>
+    <tig>
+      <term>seudomorfismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pseudomorphisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pseudomorphism</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zenbait substantziak konposizio kimiko berarekin kristal-egitura desberdinak izateko duten propietatea. Adibidez, diamantea eta grafitoa, karbonoaren polimorfoak biak, eta kaltzita eta aragonitoa, kaltzio karbonatoaren polimorfoak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>polimorfismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>polimorfismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polymorphisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polymorphism</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zenbait mineralek, antzeko konposizio kimikoa izanik, kristal-egitura bera izateko duten propietatea. Mineral isomorfoek antzeko hainbat propietate izaten dituzte; esate baterako, simetria eta klibajea. Kaltzita, siderita, smithsonita eta errodokrosita, guztiak kaltzitaren taldeko mineralak, isomorfoak dira, adibidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>isomorfismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>isomorfismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>isomorphisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>isomorphism</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral batek bere egituraren atal berdinak modu desberdinetan multzokatuz forma desberdinetan kristaltzeko duen gaitasuna. Filosilikatoetan, ugariak dira politipoak (miken taldeko mineraletan, adibidez), haiek osatzen dituzten geruza uniformeak modu desberdinetan multzokatu baitaitezke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>politipismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>politipismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polytypisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polytypism</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral beraren bi kristal-segmentu edo gehiago elkarrekin simetrikoki hazten direnean sortutako kristal-multzoa. Maklako bi kristalen orientazioak elkarrekin erlazionatzen dituen simetria-eragiketari makla-lege deritzo. Makla-legeak makla-planoak eta makla-ardatzak zehaztuz adierazten dira. Kaltzita, aragonitoa, fluorita, espinela, errutiloa, kuartzoa eta feldespatoa, besteak beste, maklak osatuz agertu ohi dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>makla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>macla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>macle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elkarren ondoan hazten diren kristalen multzoa. Hainbat motatako agregatuak bereizten dira, funtsean kristalen multzoak hartzen duen tamainen eta banaketaren arabera: pikortsua, zuntsua, erradiatua, zutabe-formakoa eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>agregatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agregado cristalino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agrégat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aggregate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kriptokristalino</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>criptocristalino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cryptocristallin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cryptocrystalline</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal-sarean defini daitekeen paralelepipedorik txikiena. Kristal-sarearen simetria-ezaugarri guztiak barnean hartzen ditu, eta kristalen morfologia deskribatzeko oinarri gisa erabiltzen da. Unitate-gelaxka baten dimentsioak hiru ertzen luzeren eta ertz horien arteko angeluen bidez adierazten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>unitate-gelaxka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>celda unidad</term>
+    </tig>
+    <tig>
+      <term>celda unitaria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>maille élémentaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>unit cell</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristalen atomoen kokapen erregularra erakusten duen hiru dimentsioko egitura erregularra. Kristalaren aurpegi posible bakarrak unitate-gelaxken puntuek osatzen dituzten planoak dira, sare-planoak. Horregatik izaten ditu mineral-mota bakoitzak aurpegien orientazio jakinak, eta, beraz, aurpegien arteko angelu zehatzak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kristal-sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sare kristalino</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red cristalina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau cristallin</term>
+    </tig>
+    <tig>
+      <term>maille cristalline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lattice</term>
+    </tig>
+    <tig>
+      <term>crystal lattice</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Simetria-elementuen bidez baliokideak diren kristal baten aurpegien multzoa, forma geometriko jakina definitzen duena. Kristal-formak irekiak izan daitezke (adibidez, prisma) edo itxiak (adibidez, kuboa). Kristal-forma jakin bat adierazteko, Miller indizeak giltza artean idazten dira; adibidez, kubo bat {100} gisa adierazten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kristal-forma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>forma kristalino</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eite</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>forma cristalina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>forme</term>
+    </tig>
+    <tig>
+      <term>forme cristalline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>form</term>
+    </tig>
+    <tig>
+      <term>crystal form</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristalak ardatz kristalografikoen arabera sailkatuz bereizten diren zazpi taldeetako bakoitza. Hauek dira kristal-sistemak: kubikoa, tetragonala, hexagonala, trigonala, ortorronbikoa, monoklinikoa eta triklinikoa. Kristal-sistema bakoitzaren barnean kristal-klase desberdinak bereizten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kristal-sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema cristalino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>système cristallin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crystal system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kristal-klase</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clase cristalina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>classe cristalline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crystal class</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Naturan gainerako elementuekin konbinatu gabe ageri den elementu kimiko solido zein likidoa. Elementu natiboen hiru talde daude: metalak, erdi-metalak eta ez-metalak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elementu natibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elemento nativo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>élément natif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>native element</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>urre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Au</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>or</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gold</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zilar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Ag</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>argent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>silver</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kobre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Cu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cobre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cuivre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>copper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elementu natiboen eta ez-metalen azpitaldeko minerala. Kristal ortorronbikoak osatzen ditu, sufre-hori kolorekoak, nahiz eta batzuetan, ezpurutasunak direla-eta, kolore horixka, berdexka edo arrexka har dezakeen. Eskualde bolkanikoetan agertzen da. Sufre-metakinik handienak halita, anhidrita eta igeltsuaren sedimentu ebaporitikoetan egoten dira. Hainbat aplikazio ditu; esate baterako, azido sulfurikoa, intsektizidak, fungizidak, ongarriak, pospoloak eta abar ekoizteko eta kautxua bulkanizatzeko erabiltzen da. Paperaren eta petrolioaren industrian ere erabiltzen da, besteak beste.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sufre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>S</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>azufre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soufre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sulfur</term>
+    </tig>
+    <tig>
+      <term>sulphur</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Fe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hierro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>iron</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Karbono (C) puruzko elementu natiboa, sistema kubikoan kristaldua. Dagoen mineralik gogorrena da (Mohs-en gogortasun-eskalako baliorik altuena dagokio, 10). Kolore argia izaten du gehienetan, distira berezia du, izpi katodikoen eraginpean lumineszentzia- eta fosforeszentzia-fenomenoak sortzen ditu, eta azidoek ez diote erasotzen. Kimberlita izeneko arroketan eta oso sakonera handian sortutako peridotita eta eklogitetan sakabanatuta egoten da, edo diamanteak barnean hartzen dituzten arroken higaduraren ondorioz sortutako metakin sekundarioetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diamante</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diamante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diamant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diamond</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Karbono (C) puruzko elementu natiboa, sistema hexagonalean kristaldua. Gris kolore iluna du, eta egonkorra da lurrazalean. Biguna da, eta kristal-egituran karbonoz osatutako xaflak bereizten direlako klibatzen da hain erraz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>grafito</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grafito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>graphite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>graphite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sufreak eta metal batek osatutako konposatuen klasea. Sulfuroen taldeak barnean hartzen ditu metal-mea garrantzitsuenak. Talde honetako mineralak dira, besteak beste, esfalerita (ZnS), galena (PbS) eta pirita (FeS). Distira metalikoa izan ohi dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sulfuro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sulfuro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sulfure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sulphide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errealgar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rejalgar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réalgar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>realgar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>orpimente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oropimente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>orpiment</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>orpiment</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sulfuroen taldeko minerala (CuFeS2), sistema tetragonalean kristaldua. Letoi-horia izan ohi da, berde-ukitu batekin. Askotan, arroka basiko, eruptibo, hidrotermal edo metamorfikoekin batera agertzen da. Esfaleritarekin batera agertzen da maiz, biek antzeko kristal-egitura baitute. Piritatik bereizteko, hautsaren koloreari begiratzen zaio (gris berdexka izaten da kalkopiritaren kasuan, eta grisa piritarenean), baita gogortasunari ere (kalkopirita bigunagoa da). Kobre-mea garrantzitsuena da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kalkopirita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calcopirita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chalcopyrite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chalcopyrite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zink sulfuroa (ZnS), sistema kubikoan kristaldua. Horia, marroia, gorria edo beltza izan daiteke. Galenarekin batera agertu ohi da, baita zain hidrotermaletan ere, magnetita, pirita, pirrotina eta bestelako sulfuroekin batera. Zink-mea garrantzitsuena da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>esfalerita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>blenda</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esfalerita</term>
+    </tig>
+    <tig>
+      <term>blenda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sphalérite</term>
+    </tig>
+    <tig>
+      <term>blende</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sphalerite</term>
+    </tig>
+    <tig>
+      <term>blende</term>
+    </tig>
+    <tig>
+      <term>zinc blende</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema kubikoan kristaltzen den berun sulfuroa (PbS). Berun-gris kolorekoa da, eta distira metaliko bizia du klibaje-aurpegietan. Arrunta da, eta zain hidrotermaletan agertzen da, ohiko beste sulfuro batzuekin batera; besteak beste, esfalerita, pirita, kalkopirita, kuartzoa, barita, fluorita eta kaltzitarekin. Berun-mea garrantzitsuena da. Akantitazko inklusio txikiak izan ditzake eta kasu horietan zilar-mea ere izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>galena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>galena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>galène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>galena</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pirrotita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pirrotita</term>
+    </tig>
+    <tig>
+      <term>pirrotina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyrrhotite</term>
+    </tig>
+    <tig>
+      <term>pyrrhotine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyrrhotite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Antimonio sulfuroa (Sb2S3), sistema ortorronbikoan kristaldua. Berun-gris kolorekoa da, eta distira metaliko nahiko bizia izaten du klibaje-gainazal klibatu berrietan. Tenperatura baxuko zain hidrotermaletan, ordezte-hobietan eta iturri termaletan ageri da, errealgarra, orpimentea, galena, pirita, barita, kuartzoa eta kaltzitarekin batera. Antimonio-mea garrantzitsuena da, nahiz eta antimonio gehiena berunaren meatzaritzan azpiproduktu gisa lortzen den.</descrip>
+    </descripGrp>
+    <tig>
+      <term>estibina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>antimonita</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estibina</term>
+    </tig>
+    <tig>
+      <term>antimonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>stibine</term>
+    </tig>
+    <tig>
+      <term>antimonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stibnite</term>
+    </tig>
+    <tig>
+      <term>antimonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Merkurio sulfuroa (HgS), kolore gorri bizikoa, sistema trigonalean kristaldua. Lurralde igneoekin erlazionatutako hobi hidrotermaletan agertu ohi da; batzuetan, arrakalak edo bestelako hutsuneak betetzen ditu, normalean pirita, antimonita, kuartzoa, kaltzedonia, kaltzita eta beste karbonato batzuekin batera. Merkurio-mearik garrantzitsuena da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zinabrio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinabrio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cinabre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cinnabar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Burdin sulfuroa (FeS2), sistema kubikoan kristaldua, markasitaren polimorfoa. Urre-kolore horia du, distira metalikoa eta aurpegiak ildaskatuak. Hauskorra da. Oso ezaguna da sulfurorik arruntena delako eta edozein motatako arroketan aurki daitekeelako. Kolpekatuz gero, txinpartak igortzen dituelako du pirita izena, "pyrítes"ek su esan nahi baitu grekoz. Azido sulfurikoa, sufrea eta burdina lortzeko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pirita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pirita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyrite</term>
+    </tig>
+    <tig>
+      <term>pyrite de fer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyrite</term>
+    </tig>
+    <tig>
+      <term>iron pyrite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>markasita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcasita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>marcassite</term>
+    </tig>
+    <tig>
+      <term>marcasite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>marcasite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bornita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bornita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bornite</term>
+    </tig>
+    <tig>
+      <term>érubescite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bornite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema monoklinikoan, pseudoortorronbikoan edo hexagonalean kristaltzen den kobre sulfuroa (Cu2S). Gris iluna edo beltza izaten da, irideszentea eta biguna. Eskualde idorretan kobre-metakinen zementazio-alderdian sortzen da, azaletik gertu kokatutako mineralak uretan disolbatu eta infiltrazio-uraren bidez bertaraino iristearen ondorioz; hau da, kalkosina kobre-metakinetako mineral supergeniko gisa agertzen da. Zain hidrotermaletako mineral primario gisa ere agertzen da, bornita, kalkopirita eta piritarekin batera. Kobre-mea da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kalkosina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kalkozita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calcocita</term>
+    </tig>
+    <tig>
+      <term>calcosina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chalcocite</term>
+    </tig>
+    <tig>
+      <term>chalcosine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chalcocite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>covellita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>covellina</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>covellita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>covellite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>covelline</term>
+    </tig>
+    <tig>
+      <term>covellite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artsenopirita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>mispikel</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arsenopirita</term>
+    </tig>
+    <tig>
+      <term>mispiquel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>arsénopyrite</term>
+    </tig>
+    <tig>
+      <term>mispickel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>arsenopyrite</term>
+    </tig>
+    <tig>
+      <term>mispickel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>akantita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>argentita</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acantita</term>
+    </tig>
+    <tig>
+      <term>argentita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>acanthite</term>
+    </tig>
+    <tig>
+      <term>argentite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acanthite</term>
+    </tig>
+    <tig>
+      <term>argentite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sulfuroak ez diren mineral sufredun ez-oxidatuen taldea. Zilar, kobre edo berunezko mineralak izan ohi dira, eta zain hidrotermaletan kantitate txikitan agertzen dira, normalean sulfuro ohikoenekin batera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sulfogatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sulfosal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sulfosel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sulphosalt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tetraedrita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tetraedrita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tétraédrite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tetrahedrite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haluroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Metalak eta fluor-, kloro-, bromo- edo iodo-anioiak konbinatuz sortutako mineralen klasea. Mineral hauek kubikoak eta bigunak izan ohi dira. Kloruroak disoluzioak lurruntzearen ondorioz sortzen dira gehienetan, eta fluoruroak arroka igneoetan eta horiekin batera agertzen diren pegmatita eta zain hidrotermaletan egoten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haluro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>haluro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>halogénure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haluroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema kubikoan kristaltzen den kaltzio fluoruroa (CaF<sub>2</sub>). Fluoreszentea da argi ultramorepean, eta hainbat koloretakoa izan daiteke aldaeraren arabera (kolorgea, zuria, horixka, berdea, morea, urdina, arrosa). Ohikoa da zain hidrotermaletan; eta kareharrietako barrunbe eta arrailduretan, granitoetan eta pegmatitetan ere agertu ohi da. Erabilera ugari ditu: metalurgian urgarri gisa, zeramikaren industrian, beiragintzan, optikaren esparruan eta fluorraren konposatuak lortzeko (freona, esate baterako). Sartze-maklak sortu ohi ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fluorita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fluorita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fluorite</term>
+    </tig>
+    <tig>
+      <term>fluorine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haluroak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sodio kloruroa (NaCl), sistema kubikoan kristaldua. Gazia da, eta erraz disolbatzen da uretan. Normalean, kolorgea izaten da, baina, ezpurutasunak direla eta, gorria, morea edo beltza izan daiteke. Oso banatuta agertzen da, eta ebaporitetako mineral garrantzitsuena da. Halita elikaduran erabiltzen da janari-gehigarri eta funtsezko osagai gisa, eta hainbat industriatako lehengaia da (adibidez, industria kimikoan erabiltzen da, kloroa eta sodioa lortzeko eta azido klorhidrikoa, soda kaustikoa eta sodioaren eta kloroaren bestelako konposatuak ekoizteko).</descrip>
+    </descripGrp>
+    <tig>
+      <term>halita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gatzarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>halita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>halite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haluroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>silbita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>silbina</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silvita</term>
+    </tig>
+    <tig>
+      <term>silvina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sylvite</term>
+    </tig>
+    <tig>
+      <term>sylvine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sylvite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Metal bat edo gehiago oxigenoarekin konbinatuak dituzten mineralen taldea. Oxigeno-atomo handien arteko tarteetan metalak kokatzen dira, eta lotura ionikoa eta sendoa izaten da. Ondorioz, oxidoak mineral gogor eta trinkoak izaten dira. Airearekin kontaktuan dauden mineral-hobien azaleko alderdietan sortu ohi dira, oxidazio-prozesuen ondorioz. Arroka igneo eta metamorfikoetan agertzen dira mineral osagarri gisa, eta arroka sedimentarioetan ere agertu ohi dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oxido</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>óxido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>oxyde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>oxide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema kubikoan kristaltzen den kobre oxidoa (Cu2O). Kolore gorri bizia du, eta distira submetalikoa eta diamantekara artekoa. Askotan kobre natiboarekin, malakita, azurita eta limonitarekin batera agertzen da kobredun mineral-hobien oxidazio-eremuan. Kobre-mea da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kuprita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuprita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cuprite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cuprite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espinela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espinela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spinelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spinel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ilmenita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ilmenita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ilménite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ilmenite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pirolusita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pirolusita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyrolusite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyrolusite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Burdina(III) oxidoa (Fe<sub>2</sub>O<sub>3</sub>), sistema trigonalean kristaldua. Kolore grisa edo gorria izan dezake, tonu aldakorrekin. Distira metalikoa du, eta opakua da. Marra eta hautsa arre-gorrixkak dituenez, erraz bereiz daiteke antzeko beste mineraletatik. Kantitate txikitan arrunta da arroka igneo askotan, ukitze-metamorfismoan eta tenperatura altuko zain hidrotermaletan, besteak beste. Akabera emateko produktuetan eta margo-pigmentuetan ere erabiltzen da. Ez du klibajerik, eta apurketa konkoidea du. Burdin mea garrantzitsuena da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hematite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oligisto</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hematites</term>
+    </tig>
+    <tig>
+      <term>oligisto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hématite</term>
+    </tig>
+    <tig>
+      <term>oligiste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hematite</term>
+    </tig>
+    <tig>
+      <term>haematite</term>
+    </tig>
+    <tig>
+      <term>oligiste</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aluminio oxidoa (Al2O3), sistema trigonalean kristaldua. Oso mineral gogorra da (H = 9, mineral gogorrena da diamantearen ondoren), distira diamantekara du, zenbait koloretakoa izan daiteke (kolorgea, berdea, horia, morea, gorria edo urdina) eta habitu tabularra edo prismatikoa izaten du, sei aldeko prismak osatuz. Aldaera batzuek asterismoa izaten dute. Silizio-eduki txikia duten arroka igneoetan (sienitetan eta haiekin batera agertzen diren pegmatitetan) agertzen da, peridotiten eta arroka ostalarien arteko kontaktuan, arroka metamorfikoetan eta plazer-hobietan. Korindoi purua ere urratzaile gisa erabiltzen da. Haren aldaera preziatuenak errubia (gorria) eta zafiroa (urdina) dira; asko erabiltzen dira harribitxi gisa, eta zaila izaten da sintetikoki sortutakoak eta naturalak bereiztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>korindoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corindón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>corindon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corundum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errubi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rubí</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rubis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ruby</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zafiro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zafiro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>saphir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sapphire</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eztainu dioxidoa (SnO<sub>2</sub>), kristal tetragonalak osatzen dituena. Sarri, maklak osatuz agertzen da. Kolore marroia edo beltza izaten du, eta, oso gutxitan, horixka. Distira metalikoa eta diamantekara artekoa du, zeharrargia da, pisu espezifiko handia du, eta, batzuetan, harribitxi gisa erabiltzen da. Kantitate txikitan agertzen da, oso arraroa da kontzentrazio handitan aurkitzea. Konplexu granitikoekin erlazionatutako zainetan agertu ohi da, gehienetan wolframita, scheelita, molibdenita, artsenopirita, turmalina edo topazioarekin batera. Plazer-hobietan ere agertzen da. Eztainu-mea nagusia da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kasiterita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>casiterita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cassitérite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cassiterite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errutilo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rutilo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rutile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rutile</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espinelen taldeko burdin oxidoa (Fe3O4), sistema kubikoan kristaldua. Beltza eta opakua da, eta aurpegi ildaskatuak ditu. Distira metalikoa du, eta dentsitate handia. Oso magnetikoa da (beraz, iman batek erakartzen du), eta, batzuetan, polaritate magnetikoa izaten du (kasu horietan iman gisa funtzionatzen du). Burdina-eduki handiena duen minerala da, eta oxido ugarienen artean dago. Arroka igneo askotan banatuta dago mineral osagarri gisa, eta, zenbaitetan, kontzentratuta agertzen da segregazio magmatikoko arroketan eta arroka metamorfiko eta sedimentario askotan. Kareharri metasomatikoetan ere ageri da (sulfuroekin eta Ca eta Fe silikatoekin batera), baita tenperatura altuko zainetan, esmeril-metakinetan (korindoiarekin batera) edo plazer-hobietan kontzentratuta ere. Burdin mea garrantzitsua da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>magnetita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>magnetita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>magnétite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>magnetite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema kubikoan kristaltzen den espinelen taldeko oxidoa (FeCr2O4). Beltza eta opakua da, eta marra arrea eta distira metalikoa ditu. Arroka igneo basiko eta ultrabasikoetako mineral osagarri gisa agertzen da nagusiki, baita plazer-hobietan ere. Kromo-mea bakarra da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kromita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cromita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chromite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chromite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>krisoberilo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>crisoberilo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chrysobéryl</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chrysoberyl</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kolunbita [(Fe, Mn)Nb<sub>2</sub>O<sub>6</sub>] eta tantalita [(Fe, Mn)Ta<sub>2</sub>O<sub>6</sub>] mineralen soluzio solidoa. Naturan oso urria da, eta arroka igneo alkalinoekin erlazionatuta agertzen da; besteak beste, pegmatitetan. Plazer-hobietan ere ager daiteke. Kolunbitaren eta tantalitaren propietate berezien ondorioz (supereroankortasuna, adibidez), koltana oso estimatua da teknologia berrien esparruan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>koltan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kolunbita-tantalita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coltán</term>
+    </tig>
+    <tig>
+      <term>columbita-tantalita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coltan</term>
+    </tig>
+    <tig>
+      <term>colombite-tantalite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>coltan</term>
+    </tig>
+    <tig>
+      <term>columbite-tantalite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uraninita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>uraninita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>uraninite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>uraninite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pekblenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pechblenda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pechblende</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pitchblende</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Metalak hidroxiloekin (OH<sup>-</sup> taldeekin) konbinatuz sortzen den mineralen multzoa. Oxidoek baino gogortasun eta dentsitate txikiagoak izan ohi dituzte, eta erraz sortzen dira beste mineral batzuk uraren eraginpean geratzen direnean. Meteorizazio-alderdietan agertzen dira, mineral primarioak alteratuak dauden alderdietan hain zuzen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hidroxido</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hidróxido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hydroxyde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydroxide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema ortorronbikoan kristaltzen den burdin oxi-hidroxidoa [FeO(OH)]. Arre iluna, arre horixka edo arre gorrixka izan daiteke. Distira diamantekara eta submetaliko artekoa izan dezake. Kristalak orratz- edo ile-formakoak izaten dira, eta luzetara oso ildaskatuta egoten dira. Askotan habitu botroidala erakusten du. Hainbat motatako masak osa ditzake; besteak beste, giltzurrun- zein estalaktita-formakoak. Lateritaren oinarrizko osagaia da. Burdinaren beste mineral batzuen alterazioz sortzen da baldintza oxidatzaileetan, eta burdin mea garrantzitsua da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goethita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>goethita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>goethite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>goethite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema monoklinikoan kristaltzen den aluminio hidroxidoa [Al(OH)<sub>3</sub>]. Agregatu erradiatuetan, estalaktita-formakoetan eta inkrustazioetan ager daiteke, baita agregatu lurkaretan ere. Bauxitaren osagai nagusia da, boehmita eta diasporarekin batera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gibbsita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gibbsita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gibbsite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gibbsite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bruzita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>brucita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brucite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>brucite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Karbonato talde anionikoak (CO32-) eta katioi batek edo gutxi batzuek osatutako mineralen klasea. Mineral horiek gogortasun txikikoak izaten dira. Zuriak dira gehienetan, baina, zenbaitetan, kolore biziak izaten dituzte. Batzuetan, gardenak edo zeharrargiak izaten dira. Karbonatoak, eta bereziki kaltzita eta dolomita, mineral garrantzitsuak dira kareharrietan eta arroka metamorfikoetan, hala nola marmolean. Halaber, ohikoak dira zain hidrotermaletan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>karbonato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carbonato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>carbonate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>carbonate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kaltzio karbonatoa (CaCO3), sistema trigonalean kristaldua, aragonitoaren polimorfoa. Hainbat formatako kristalak osa ditzake, eta maklak sortzen ditu. Normalean kolorgea edo zuria izaten den arren, kolore asko har ditzake ordezpenen eta ezpurutasunen ondorioz. Distira beirakara du, gardena edo zeharrargia izan daiteke eta oso birrefringentzia altua du. Oso ugaria da naturan, eta mineral arroka-sortzaile garrantzitsua da arroka sedimentarioetan eta arroka metamorfiko deribatuetan. Itsasoko zenbait izaki bizidunen maskor eta eskeletoetan ageri da. Mineral primario gisa ageri da zenbait arroka igneotan, eta ohikoa da zain hidrotermaletan. Kareharrietatik eta kaltzitatan aberatsak diren beste arroketatik lortutako kaltzita zementua, morteroa, eraikuntzarako harriak eta abar ekoizteko erabiltzen da, eta, beraz, lehengai nagusietako bat da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kaltzita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calcita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>calcite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>calcite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>magnesita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>magnesita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>magnésite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>magnesite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>siderita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>siderita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sidérite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>siderite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errodokrosita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rodocrosita</term>
+    </tig>
+    <tig>
+      <term>dialogita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rhodochrosite</term>
+    </tig>
+    <tig>
+      <term>dialogite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rhodochrosite</term>
+    </tig>
+    <tig>
+      <term>dialogite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kaltzio karbonatoa (CaCO3), sistema ortorronbikoan kristaldua, kaltzitaren polimorfoa. Presio handitan egonkorra da, baina era metaegonkorrean ager daiteke presio txikitan edo Lurraren azalean (bertan kaltzita bilakatzen da). Kolorgea, zuria, grisa, horixka, urdinxka, berdexka edo gorrixka izan daiteke. Distira beirakara izaten du, eta gardena edo zeharrargia izan daiteke. Askotan kaltzitak ordeztuta egoten da, eta iturri termaletan, estalaktitetan eta buztinetan agertu ohi da, besteak beste. Molusku-oskol batzuk aragonitoak osatuta daude, eta beste batzuk kaltzitak osatuta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aragonito</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aragonito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aragonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aragonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zink karbonatoa (ZnCO3), sistema trigonalean kristaldua, kaltzitaren eta sideritaren isomorfoa. Giltzurrun-, estalaktita- edo zarakar-formako agregatuak sortzen ditu. Purua denean kolorgea izan ohi da; hala ere, kristal-sareko zinka manganesoak, burdinak, kaltzioak edo magnesioak ordezten dutenean, kolore horia, grisa, berdea, urdina edo laranja har dezake. Zink-metakinetako oxidazio-eremuko mineral supergenikoa da, eta esfaleritaren alterazio-produktua izaten da askotan. Zink-mea garrantzitsua da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>smithsonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>smithsonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>smithsonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>smithsonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Berun karbonatoa (PbCO3.), sistema ortorronbikoan kristaldua. Kolorgea, zuria edo grisa da, distira diamantekara du, eta gardena edo zeharrargia izan daiteke. Kristalek hainbat motatako habitua izan dezakete, eta maklak osatu ohi dituzte. Ugaria da mea-hobien oxidazio-eremuko mineral sekundario gisa (batez ere berun, zink edo kobre-meen kasuan). Galena, esfalerita eta antzeko mineral primarioekin batera agertu ohi da, baita anglesita, piromorfita, smithsonita eta antzeko mineral sekundarioekin ere. Berun-mea garrantzitsua da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zerusita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cerusita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cérusite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cerussite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema ortorronbikoan kristaltzen den estrontzio karbonatoa (SrCO3). Kolore zuria, grisa, horia edo berdea izan dezake, eta distira beirakara du. Prisma-formako edo orratz-formako kristal luzeak izaten ditu, eta agregatuak trinkoak, erradialak edo zuntsuak izaten dira. Maklak agertzea ohikoa da. Kareharri eta marmoletan ageri da tenperatura baxuko zain hidrotermaletan, askotan barita, kaltzita eta zelestitarekin batera, eta zenbaitetan sulfuroekin batera. Estrontzio-mea da, zelestita bezala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>estrontzianita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estroncianita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>strontianite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>strontianite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kaltzio eta magnesio karbonatoa [CaMg(CO3)2], sistema trigonalean kristaldua. Zuria, grisa, berdexka, arrea edo arrosa kolorekoa izan daiteke, eta distira beirakara du. Gardena edo zeharrargia izan daiteke. Maklak sortu ohi ditu. Ankeritaren isomorfoa da, eta bai ikuspegi kimikotik, bai egiturari dagokionez, esan daiteke kaltzio-kantitatearen erdia magnesioak ordeztua duen kaltzita dela. Lurrazaleko karbonatorik arruntena da kaltzitaren ondoren, eta dolomia arrokaren osagai nagusia da. Zain hidrotermaletan ere ageri da, askotan barita, fluorita eta berun eta zink mineralekin batera. Eraikuntzan eta zementu bereziak ekoizteko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dolomita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dolomita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dolomite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dolomite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ankerita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ankerita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ankérite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ankerite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>malakita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>malaquita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>malachite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>malachite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azurita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>azurita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>azurite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>azurite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Nitrato talde anionikoak (NO3-) eta katioi batek osatutako mineralen taldea. Karbonatoen antzeko kristal-egitura dute, baina nitrogenoaren eta oxigenoaren arteko lotura karbonoaren eta oxigenoaren artekoa baino sendoagoa da. Nitratoak, uretan oso erraz disolbatzen direnez, oso ingurune lehorretan bakarrik aurkitzen dira mineral gisa. Naturan urriak dira talde honetako mineralak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>nitrato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nitrato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nitrate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nitrate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nitratita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>nitratina</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nitratina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nitronatrite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nitratite</term>
+    </tig>
+    <tig>
+      <term>nitratine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nitro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nitro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nitre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nitre</term>
+    </tig>
+    <tig>
+      <term>niter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Boratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Metalak eta (BO<sub>3</sub>)<sup>3-</sup> taldeak konbinatuz sortutako mineralen klasea. (BO<sub>3</sub>)<sup>3-</sup> taldeak sortzen dituen talde estrukturalak (SiO4)4- taldeak silikatoetan sortzen dituenen antzekoak dira. Boratoak aintzira gaziak lurruntzen direnean sortzen dira nagusiki.</descrip>
+    </descripGrp>
+    <tig>
+      <term>borato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>borato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>borate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>borate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Boratoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sodio boratoa [Na2B4O5(OH)4·8H2O], sistema monoklinikoan kristaldua. Kolorgea da, eta, deshidratatzen denean, kolore zuria, grisa edo horixka hartzen du. Distira beirakara edo matea izan dezake, eta zeharrargia edo opakua izan daiteke. Aintzira gazi lehortuetan dago, halita, igeltsu eta hainbat borato-motarekin batera. Boro-mea garrantzitsuenetako bat da. Sendagaiak, xaboiak eta detergenteak, beira bereziak, esmalteak eta abar ekoizteko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>borax</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bórax</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>borax</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>borax</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SO4)2- talde anionikoak eta katioi batek edo gehiagok osatutako mineralen klasea. (SO4)2- taldeak tetraedroak osatzen ditu, eta, silikatoetan ez bezala, tetraedro horiek ez zaizkie elkarri lotzen. Sulfato gehienak hobietako oxidazio-alderdietan gertatzen den oxidazioaren ondorioz sortzen dira, edo itsasoko ura zein aintzira gazietako ura lurruntzen denean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sulfato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sulfato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sulfate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sulfate</term>
+    </tig>
+    <tig>
+      <term>sulphate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Berun sulfatoa (PbSO4), sistema ortorronbikoan kristaldua. Kolorgea, zuria, grisa, gorria edo berdexka izan daiteke, eta, barnean alteratu gabeko galena badu, kolore beltza har dezake. Distira erretxinatsua du, eta gardena edo opakua izan daiteke. Pisu espezifiko handia du. Galena-hobien oxidazio-alderdian sortzen da askotan, zerusita eta igeltsuarekin batera orokorrean, eta, zenbaitetan, sumendien sublimazio-produktu gisa sortzen da. Gaur egun, berun-mea gisa erabiltzen da etekina ateratzeko moduko kantitateetan agertzen bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>anglesita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anglesita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>anglésite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anglesite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zelestita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zelestina</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>celestita</term>
+    </tig>
+    <tig>
+      <term>celestina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>celéstine</term>
+    </tig>
+    <tig>
+      <term>célestite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>celestine</term>
+    </tig>
+    <tig>
+      <term>celestite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema monoklinikoan kristaltzen den kaltzio sulfato hidratatua (CaSO4·2H2O). Kolorgea, zuria, grisa, horixka edo arrea izan ohi da. Distira beirakara izaten du, nakaratua klibaje-gainazaletan; zuntsua bada, berriz, distira zetakara izaten du. Gardena edo zeharrargia izan daiteke. Oso gogortasun txikia du. Maklak osatu ohi ditu, gezi-puntaren edo enara-buztanaren itxurakoak askotan. Sulfatorik arruntena da, eta arroka sedimentarioetan agertzen da batez ere, askotan kareharrien, buztinen, halitaren eta bestelako gatzen geruzekin batera agertzen diren formazio zabaletan. Geruza horiek itsasoko ura lurruntzen denean sortzen dira, eta igeltsua ebaporiten osagai nagusia izaten da. Asko erabiltzen da eraikuntzan, baita ongarriak, zementuak, pigmentuak, esmalteak, portzelana eta igeltsuzko plakak ekoizteko ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>igeltsu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>yeso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gypse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gypsum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anhidrita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anhidrita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>anhydrite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anhydrite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bario sulfatoa (BaSO4), sistema ortorronbikoan kristaldua. Kolorgea, zuria, berdea, urdin argia, horixka edo arre gorrixka izan daiteke. Gardena edo zeharrargia izaten da. Bariozko mineral ohikoena da. Zain hidrotermal batzuetako mineral nagusia da, eta fluorita, kaltzita, kuartzoa, galena eta beste hainbat mineralekin batera agertzen da. Halaber, kareharrietan kaltzitarekin batera agertu ohi da, zainetan eta barrunbeetan hutsuneak betez. Gogortasun txikia du, eta, pisu espezifiko oso handikoa denez, erraz bereizten da kaltzita, fluorita eta kuartzotik. Bario-mea izateaz gain, aplikazio garrantzitsuak ditu, besteak beste: petrolioa eta gasa ateratzeko zulaketetan lohi gisa erabiltzen da, zoladurak egiteko eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>barita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>baritina</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barita</term>
+    </tig>
+    <tig>
+      <term>baritina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>barytine</term>
+    </tig>
+    <tig>
+      <term>barite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>barite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fosfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(PO<sub>4</sub>)<sup>3-</sup> talde anionikoak eta katioi batek edo gehiagok osatutako mineralen klasea. (PO<sub>4</sub>)<sup>3-</sup> taldeek normalean kristal-egituran isolatuta egoten diren tetraedroak osatzen dituzte, ez baitzaizkie batzuk besteei lotzen. Artseniatoek eta banadatoek antzeko egiturak dituzte, (AsO<sub>4</sub>)<sup>3-</sup> eta (VO<sub>4</sub>)<sup>3-</sup> talde anionikoek osatuak hurrenez hurren, eta fosfatoen, artseniatoen eta banadatoen P, As eta V atomoek elkar ordeztu ohi dute mineral hauetan. Fosfato batzuk arroka igneo eta pegmatitetako mineral primarioak dira, eta beste batzuk gainazaletik gertu eraldaketa-prozesuen bidez sortzen diren mineral sekundarioak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fosfato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fosfato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>phosphate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>phosphate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fosfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kaltzio fosfatoa [Ca5(PO4)3(F,Cl,OH)], sistema hexagonalean kristaldua. Kolorgea, horixka, grisaxka, berde urdinxka edo arrea izan daiteke. Distira beirakara koipetsua du, eta gardena edo zeharrargia izaten da. Apatitoak hiru mineral-espezie hartzen ditu barnean: fluoroapatitoa [Ca5(PO4)3F], ohikoena; hidroxilapatitoa [Ca5(PO4)3(OH)], eta klorapatitoa [Ca5(PO4)3Cl]. Apatitoa fosfatorik garrantzitsuena da, oso ohikoa mota guztietako arroketako mineral osagarri gisa; pegmatita eta zainetan ere ageri da. Hezurretako eta hortzetako mineral fosfatodunak apatitoaren taldekoak dira. Apatito gehiena ongarriak ekoizteko erabiltzen da, fosforita bezala. Gainera, azido fosforikoaren lehengai nagusia da, eta pospoloak ekoizteko ere erabiltzen da, besteak beste.</descrip>
+    </descripGrp>
+    <tig>
+      <term>apatito</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apatito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>apatite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>apatite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fosfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>turkesa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>turquesa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>turquoise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>turquoise</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fosfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autunita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autunita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>autunite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>autunite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fosfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zerio, lantano, neodimio, torio eta itrio fosfatoa [(Ce,La,Nd,Th,Y)PO4], sistema monoklinikoan kristaldua. Zerio, lantano, eta neomidio lur arraroen arteko proportzioak aldakorrak dira; horietako edozein izan daiteke ugariena, baina zerioa izaten da gehienetan. Torioa ia beti egoten da, % 10-15eko proportzioan, eta horregatik izaten da erradioaktiboa monazita. Kolore horia edo arre gorrixka izan dezake, distira erretxinatsua du eta zeharrargia da. Aurpegiak irregularrak eta ildaskatuak izaten ditu askotan, eta ohikoa da makletan agertzea. Granitoen eta haiekin batera ageri diren sieniten eta pegmatiten mineral osagarria da. Plazer-hobietan ere agertzen da, magnetita, ilmenita, zirkoia eta antzeko beste mineral astunekin batera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>monazita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>monacita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>monazite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>monazite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SiO4)4- taldeak dituzten mineralen klasea. Silizio-atomoak erdian eta oxigeno-atomoak inguruan tetraedroak osatuz ezarrita dituzte, eta (SiO4)4- tetraedro horiek isolatuta edo taldekatuta egon daitezke. Tetraedroen taldekatze-moduen arabera sailkatzen dira silikatoak. Lurrazalaren % 90 baino gehiago osatzen dute, eta, batzuk oso ohikoak diren arren (adibidez, lurrazalaren % 60 feldespatoek osatzen dute), asko arraroak dira. Arroka igneo, metamorfiko eta sedimentarioetan dira ugarien.</descrip>
+    </descripGrp>
+    <tig>
+      <term>silikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>silicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>silicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>silizearen talde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grupo de la sílice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>group de la silice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>silica group</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal-sistema desberdinetan kristal daitekeen silizearen taldeko tenperatura altuko minerala, SiO2. Kristal txikitan agertzen da, askotan maklak osatuz. Ohikoa da siliziotan aberatsak diren arroka bolkanikoetan (esate baterako, erriolitan eta obsidianan), askotan sanidinarekin eta kristobalitarekin batera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tridimita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tridimita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tridymite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tridymite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kristobalita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cristobalita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cristobalite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cristobalite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Silizearen taldeko fase orokorki amorfo (mineraloide) hidratatua (SiO2·nH2O). Ur-edukia aldakorra izaten da, eta % 20ra artekoa izan daiteke. Kolorgea, zuria edo grisa izaten da gehienetan. Tonu horiak, arreak, gorriak, berdeak edo urdinak izaten ditu zenbaitetan. Distira beirakara du, argizari-itxurakoa batzuetan, eta gardena edo zeharrargia izan daiteke. Haustura konkoidea du. Masa konpaktu botroidal, estalaktitiko edo zarakar-formakoetan agertzen da. Hainbat arrokaren pitzaduretan eta barrunbeetan egoten da, baita iturri termal eta geiserretan edo diatomita izeneko metakinetan ere. Opalo noblea harribitxi preziatua da. Diatomita, berriz, isolatzaile eta urratzaile gisa erabiltzen da, baita iragazteko ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>opalo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ópalo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>opale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>opal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SiO4)4- talde tetraedrikoak hiru erpin partekatuz eta xafla infinituak osatuz ezarriak dituzten silikatoen taldea. Kristal tabular edo xafla-formakoak osatzen dituzte. Klibajea da haien propietate nagusia, gehienetan basal perfektua izaten dena, geruzen arteko lotura ahula izaten baita. Gogortasun txikia izaten dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>filosilikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filosilicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>phyllosilicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>phyllosilicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>serpentina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>serpentina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>serpentine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>serpentine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kaolinita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caolinita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>kaolinite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kaolinite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>talko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>talco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>talc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>talc</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema monoklinikoan kristaltzen den filosilikato potasikoa, KAl2(Si3Al)O10(OH,F)2. Kristal laminarrak sortzen ditu. Kolorgea izaten da normalean, nahiz eta, zenbaitetan, tonu hori, berde edo arreak izan ditzakeen. Distira beirakara edo nakaratua izan dezake, eta zeharrargia izaten da. Gogortasun txikia du (H = 2,5). Erraz klibatzen da, eta hori gertatzen denean oso xafla fin malgu eta elastikoak askatzen dira. Mineral arroka-sortzaile ohikoa da. Bereziki ugaria izaten da granitoetan eta horiekin batera agertzen diren pegmatitetan, eta arroka metamorfikoetan ere agertzen da. Hainbat aplikazio ditu; besteak beste, garrantzitsua da industriarako isolatzaile termiko eta elektriko gisa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>muskovita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moscovita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>muscovite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>muscovite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Miken taldeko filosilikatoa [K(Mg,Fe)3(Si3Al)O10(OH,F)2], sistema monoklinikoan kristaldua. Kristal laminarrak izaten ditu. Gogortasun txikia (H = 2,5) eta esfoliazio perfektua ditu. Esfoliatzen denean askatzen diren xaflak malguak eta elastikoak izaten dira. Kolore arre iluna, berdea edo beltza izaten du, eta, iluna izaten denez, mika beltz ere esaten zaio. Distira beirakara edo submetalikoa du, eta gardena edo zeharrargia izaten da. Biotita mota askotako arroketan aurkitzen da; besteak beste, arroka igneo eta metamorfiko askotan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biotita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biotita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>biotite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biotite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lepidolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lepidolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lépidolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lepidolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>klorita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clorita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chlorite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chlorite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>buztin-mineralak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>minerales de la arcilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>minéraux argileux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clay minerals</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esmektita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esmectita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>smectite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>smectite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>illita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>illita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>illite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>illite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SiO4)4- tetraedroak elkarri lotu gabe dituzten silikatoen taldea. Tetraedroak katioien bidez mantentzen dira elkartuta, eta mineral hauen formula orokorra SiO4-n amaitzen da kasurik sinpleenetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>nesosilikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nesosilicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nésosilicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nesosilicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>olibino</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>olivino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>olivine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>olivine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>granate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>granate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grenat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>garnet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zirkoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>zircon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>zircon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Formula orokorra Al2SiO5 duen nesosilikatoen azpitaldea. Andaluzita, sillimanita eta zianita polimorfoek osatzen dute. Hiru mineral horiek ohikoak dira aluminiotan aberatsak diren arroka metamorfikoetan, eta erabilgarriak izaten dira prozesu geologikoak interpretatzeko garaian.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aluminosilikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aluminosilicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aluminosilicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aluminosilicate</term>
+    </tig>
+    <tig>
+      <term>aluminum silicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>andaluzita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>andalucita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>andalousite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>andalusite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sillimanita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sillimanita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sillimanite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sillimanite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zianita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>distena</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cianita</term>
+    </tig>
+    <tig>
+      <term>distena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cyanite</term>
+    </tig>
+    <tig>
+      <term>disthène</term>
+    </tig>
+    <tig>
+      <term>kyanite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kyanite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estaurolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estaurolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>staurolite</term>
+    </tig>
+    <tig>
+      <term>staurotide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>staurolite</term>
+    </tig>
+    <tig>
+      <term>grenatite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>titanita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>esfena</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>titanita</term>
+    </tig>
+    <tig>
+      <term>esfena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>titanite</term>
+    </tig>
+    <tig>
+      <term>sphène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>titanite</term>
+    </tig>
+    <tig>
+      <term>sphene</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>topazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>topacio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>topaze</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>topaz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SiO4)4- tetraedroak erpin guztien bidez elkarri lotuz hiru dimentsioko sare trinko bat osatzen duten silikatoen taldea. O atomo bakoitza bi Si atomori lotzen zaienez, Si:O erlazioa 1:2 da (adibidez, kuartzoa: SiO2). Kuartzoa eta feldespatoak dira talde honetako mineral aipagarrienak. Mineral arroka-sortzaile nagusiak tektosilikatoen taldekoak dira, eta ezaugarri nahiko antzekoak dituzte: kolorgeak edo kolore argikoak izaten dira, eta distira beirakara, dentsitate txikia eta 5-7 inguruko gogortasuna izaten dituzte.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tektosilikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tectosilicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tectosilicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tectosilicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Silizio dioxidozko tektosilikatoa (SiO2), sistema trigonalean kristaldua. Kolorgea edo zuria izan daiteke, baina ezpurutasunak baditu edozein kolore har dezake; hala ere, normalean nahiko purua izaten da. Distira beirakara du, eta gardena edo zeharrargia izan daiteke. Kristalak ebakidura hexagonaleko prisma bipiramidalak edo bipiramideak izaten dira. Kuartzoan (SiO4)4- tetraedroek helizeak osatzen dituzte, helize horiek elkarren artean biribilkatzen dira, eta elkarri alboz lotzen zaizkie. Gogorra da (H = 7), ez da klibatzen eta apurketa konkoidea du. Hainbat motatako maklak osa ditzake. Aldaera makrokristalinoak eta mikrokristalinoak ditu. Oso ugaria da arroka sedimentario detritikoetan, arroka metamorfiko askotan, baita siliziotan aberatsak diren arroka igneoetan ere. Oso piezoelektrikoa da. Aplikazio ugari ditu; besteak beste, hainbat material ekoizteko erabiltzen da, baita harribitxi gisa eta maiztasunen kontrolerako ere (erlojuetan eta irrati-materialetan, adibidez).</descrip>
+    </descripGrp>
+    <tig>
+      <term>kuartzo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuarzo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>quartz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>quartz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kaltzedonia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calcedonia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>calcédoine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chalcedony</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ametista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amatista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>améthyste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>amethyst</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jaspe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jaspe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jaspe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jasper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>agata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ágata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>agate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Potasio, sodio, kaltzio eta bario tektosilikatoen azpitaldea; sistema monoklinikoan edo triklinikoan kristaltzen dira tektosilikato horiek. Lurrazaleko mineral ugarienak hartzen ditu barnean. Arroka igneo eta metamorfiko gehienetako mineral nagusiak dira, eta sedimentuetan ere ugariak dira. Bi azpitaldetan banatzen dira: feldespato alkalinoak (KAlSi3O8 - NaAlSi3O8) eta feldespato kaltzikosodikoak (plagioklasak). Azken horiek albitaren (NaAlSi3O8) eta anortitaren (CaAl2Si2O8) arteko soluzio solidoen segida osatzen dute. Bario feldespatoak ere badaude, baina arraroagoak dira. Feldespatoen funtsezko egitura hiru dimentsiotan ezarritako [(Si,Al)O4] tetraedroek osatzen dute, eta tetraedro horien arteko hutsuneetan kokatzen dira potasio, sodio, kaltzio edo bario atomoak. Feldespato potasikoak monoklinikoak edo pseudomonoklinikoak izaten dira, eta plagioklasak, triklinikoak. Feldespatoek perpendikular kokatzen diren bi klibaje-norabide eta gogortasun ertaina izaten dituzte (H = 6 - 6,5).</descrip>
+    </descripGrp>
+    <tig>
+      <term>feldespato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>feldespato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>feldspath</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>feldspar</term>
+    </tig>
+    <tig>
+      <term>felspar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema triklinikoan kristaltzen diren feldespatoen taldeko mineralen segida, formula orokorra (Na,Ca)(Si,Al)4O8 duena. Kristal tabularrak osatzen dituzte, eta maklak agertu ohi dira. Kolorgeak, zuriak edo grisak izaten dira gehienetan. Klibatu egiten dira, eta H = 6 dute. Distira beirakara dute, nakaratua klibaje-gainazaletan, eta zeharrargiak izaten dira. (SiO4)4- tetraedroek hiru dimentsioko egitura osatzen dute mineral hauetan, sodioa eta kaltzioa hutsuneetan egoten dira eta aluminioa tetraedroetan kokatzen da, silizioa bezala. Hainbat aldaera daude: albita, oligoklasa, andesina, bytownita, labradorita eta anortita (kaltzio-eduki gutxien duenetik gehien duenera ordenatuta). Mineral arroka-sortzaile garrantzitsuenak dira, eta ugariak dira arroka igneo eta metamorfikoetan. Plagioklasa batzuk harribitxi gisa erabiltzen dira; adibidez, labradorita eta andesina.</descrip>
+    </descripGrp>
+    <tig>
+      <term>plagioklasa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plagioclasa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plagioclase</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plagioclase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Potasio aluminosilikato monoklinikoa  (KAlSi3O8) tektosilitakoen azpitaldekoa. Haragi-kolore leunekoa, kolorgea, zuria, grisa, horixka edo berdexka izan daiteke. Distira beirakara izaten du, eta zeharrargia izaten da. [(Si,Al)O4] tetraedroek hiru dimentsioko egitura osatzen dute, aluminioa etasilizioa partzialki ordenatuta egoten dira posizio tetraedrikoetan, eta K+ ioiak tarteetan kokatzen dira. Ortoklasak sartze-maklak sortu ohi ditu. Oso hedatuta dago granitoa, sienita eta antzeko arroka igneoetan, zenbait arroka metamorfikotan eta hareharri batzuetan. Zeramika-industrian erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ortosa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ortosa</term>
+    </tig>
+    <tig>
+      <term>ortoclasa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>orthose</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>orthose</term>
+    </tig>
+    <tig>
+      <term>orthoclase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sanidina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sanidina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sanidine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sanidine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Potasio aluminosilikato triklinikoa (KAlSi3O8), tektosilikatoen azpitaldekoa. Zuria, hori argia, arrosa, gorrixka eta, batzuetan, berdexka izaten da. Distira beirakara izaten du; nakaratua, klibaje-gainazaletan. Zeharrargia izaten da. Sare-makla da haren makla bereizgarria. Mikroklina astiro eta sakonera handian sortutako arroka igneoetan egoten da: granito eta sienitetan, esaterako. Halaber, gneisetan eta hareharri batzuetan egoten da. Arrunta da zain hidrotermal eta pegmatitetan, eta azken horietatik kantitate handitan erauzten da portzelana, esmaltea eta beira ekoizteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mikroklina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>microclina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>microcline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>microcline</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>albita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>albite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>albite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anortita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anortita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>anorthite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anorthite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tektosilikatoen azpitaldea, sodio, potasio, kaltzio eta litio aluminosilikatoak barnean hartzen dituena. Feldespatoen antza dute konposizio kimikoari dagokionez, baina feldespatoek baino silizio-eduki eta dentsitate txikiagoak izaten dituzte. Feldespatoak ordezten dituzte magmak alkali ugari eta silizio gutxiegi dituenean. Nefelina, leuzita, sodalita eta kankrinita mineralak feldespatoideak dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>feldespatoide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>feldespatoide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>feldspathoïde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>feldspathoid</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nefelina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nefelina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>néphéline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nepheline</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema tetragonalean kristaltzen den feldespatoideen taldeko potasio eta alumino tektosilikatoa (KAlSi2O6). Kristalak kubikoak izaten dira 605 ºC-tik gora, eta tetragonalak tenperatura horretatik behera. Kristalak ez dira klibatzen, gainazalak ildaskatuak izaten dituzte, eta errepikatze-maklak sortzen dituzte. Leuzitak kolore grisa edo zuri matea izaten du, eta gutxitan izaten da gardena. Distira beirakara izaten du, eta zeharrargia da. Sodioaren kantitate txikiek potasioa ordez dezakete.</descrip>
+    </descripGrp>
+    <tig>
+      <term>leuzita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>leucita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>leucite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leucite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sodalita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sodalita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sodalite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sodalite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tektosilikatoen barneko azpitaldea, potasioa, kaltzioa eta sodioa duten aluminosilikato hidratatuek osatua. Zeolitak kolorgeak, zuriak edo kolore argikoak izaten dira, eta orratz-formako kristalak edo kristal zuntsu zein planarrak sortzen dituzte. Ez dira beste tektosilikatoak bezain gogorrak eta meheak, ez baitute hain egitura trinkoa. (AlO4)5- eta (SiO4)4- tetraedroek hiru dimentsioko egiturak osatzen dituzte, eta bertako hutsune eta kanal zabalek ioi-trukea ahalbidetzen dute. Bestalde, zeolitetan urak lotura ahulak dituenez, tenperaturak gora egin ahala pixkanaka askatzen da, eta minerala guztiz berridratatzeko nahikoa da uretan murgiltzea. Zeolitak oso garrantzitsuak dira industrian, iragazki gisa erabiltzen direnez hainbat aplikazio baitituzte.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zeolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zeolita</term>
+    </tig>
+    <tig>
+      <term>ceolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>zéolite</term>
+    </tig>
+    <tig>
+      <term>zéolithe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>zeolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskapolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escapolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scapolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scapolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SiO4)4- tetraedroak elkarri erpinetatik lotuz eraztun-formako egitura isolatuak sortzen dituzten silikatoen taldea. Talde honetako mineralen formulan silikatoari dagokion zatia SinO3n izaten da gehienetan; n-k eraztuneko tetraedroen kopurua adierazten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ziklosilikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ciclosilicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cyclosilicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cyclosilicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>cordierita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cordierita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordiérite</term>
+    </tig>
+    <tig>
+      <term>dichroïte</term>
+    </tig>
+    <tig>
+      <term>iolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cordierite</term>
+    </tig>
+    <tig>
+      <term>dichroite</term>
+    </tig>
+    <tig>
+      <term>iolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema trigonalean kristaltzen diren ziklosilikatoen taldeko borosilikato-multzoa. Konposizio kimiko konplexua dute, eta multzoa adierazteko AB3C6(BO3)3Si6O18(OH)4 formula orokorra erabiltzen da (A: Na+/Ca2+/K+; B: Al3+/Fe2+/Fe3+/Li+/Mg2+/Mn2+/Ti; eta C: Al3+/Cr3+/Fe3+/V3+ izanik). Kristalen artean, prisma-formakoak izaten dira nagusi. Kristalek ez dute simetria-zentrorik, eta polaritate horrek formari eta propietate fisikoei eragiten die. Konposizio kimikoaren araberako kolorea izaten dute, baina, horretaz gain, kristal baten kolorea norabidearen arabera alda daiteke. Distira beirakara dute, eta gardenak edo zeharrargiak dira. Piroelektrizitate eta piezoelektrizitate nabarmenak dituzte. Gogortasun handia dute (H = 7 - 7,5), ez dute klibaje nabarmenik eta apurketa konkoidea edo irregularra izaten dute. Pegmatita granitikoetan egoten dira, baita arroka igneo eta metamorfiko askotan ere. Harribitxi ezagunak daude turmalinaren aldaeren artean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>turmalina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>turmalina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tourmaline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tourmaline</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ziklosilikatoen azpitaldeko minerala (Be3Al2Si6O18), sistema hexagonalean kristaldua. Kristalak prisma-formakoak izaten dira, batzuetan oso handiak, eta zutabe-formako agregatuetan ere agertu ohi dira. Batzuetan, gainazal ildaskatuak izaten dituzte. Beriloak kolore berdea edo urdin argia izaten du orokorrean, eta, zenbaitetan, kolorgea, horia, berde iluna, arrosa edo gorria izaten da. Cr3+-aren, Mn2+-aren eta beste trantsizio-metal batzuen kantitate txikiek hainbat kolorazio sorraraz ditzakete; adibidez, esmeraldaren kolore berdea Cr3+-ari zor zaio. Beriloak distira beirakara du, eta gardena edo zeharrargia izaten da. (SiO4)4- tetraedroak seiko taldetan elkartzen dira eraztunak osatuz. (BeO4)6- tetraedroek eta (AlO6)9- oktaedroek eraztun horiek elkarrekin lotzen dituzte, eta, hala, eraztunek kanal luzeak sortzen dituzte bata bestearen gainean jarriz. Ohikoa da granito eta pegmatita granitikoetan, eta mikaeskisto eta kareharri bituminosoen zain eta barrunbeetan ere agertzen da. Beriloaren aldaera batzuk harribitxi garrantzitsuak dira, eta esmeralda da aldaera preziatuena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berilo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>berilo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>béryl</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>beryl</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SiO4)4- tetraedroak kateak osatuz antolatuak dituzten silikatoen azpitaldea. Inosilikatoetan tetraedro horiek bi erpin partekatzen dituztenez, Si:O erlazioa 1:3 da, ziklosilikatoen kasuan bezala. Anfiboletan kate bikoitzak osatzen dira; (SiO4)4- tetraedroen erdiak bi erpin partekatzen ditu, beste erdiak hiru, eta bi tetraedro-mota horiek tartekatu egiten dira. Ondorioz, anfibolen Si:O erlazioa desberdina da, 4:11 hain zuzen. Inosilikatoek orratz-itxurako kristalak edo kristal prismatikoak sortzen dituzte, eta kateen norabideak eta zabalerak klibaje-mota baldintzatzen dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inosilikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inosilicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>inosilicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>inosilicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema triklinikoan kristaltzen den kaltzio silikatoa (CaSiO3). Kristal zuntsuak edo masiboak izan ohi ditu, eta maklak sortzen ditu. Kolorgea, zuria edo grisa izaten da. Distira beirakara du (edo zetakara kristala zuntsua bada), eta zeharrargia da. Ukipen-metamorfismoko kareharrietan agertu ohi da, eta oso erabilia da zeramikaren industrian.</descrip>
+    </descripGrp>
+    <tig>
+      <term>wollastonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>wollastonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>wollastonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wollastonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema ortorronbikoan edo monoklinikoan kristaltzen diren inosilikatoen azpitaldeko mineralen multzoa, formula orokorra XYSi2O6 duena, (X: Ca2+/Na+/Mg2+/Fe2+/Mn2+/Li+ izanik, eta Y: Mg2+/Fe2+/Mn2+/Fe3+/Al3+/Cr3+/Ti4+). Anfibolek ez bezala OH talderik izaten ez duten arren, ezaugarri komun asko dituzte haiekin. Kristal prismatikoen kolorea berde argi eta berde ilun artekoa edo beltza izaten da, baina zenbaitetan zurixkak edo kolorgeak ere izan daitezke. Arroka magmatiko eta metamorfiko askotan agertzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>piroxeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piroxeno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyroxène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyroxene</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diopsido</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diópsido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diopside</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diopside</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>enstatita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enstatita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enstatite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>enstatite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hiperstena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hiperstena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hypersthène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hypersthene</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hedenbergita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hedenbergita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hédenbergite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hedenbergite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>augita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>augita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>augite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>augite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema monoklinikoan kristaltzen den piroxenoa [Na(Al)Si2O6]. Agregatu trinko edo zuntsuak sortu ohi ditu. Berde argia edo iluna izaten da, distira beirakara du eta zeharrargia da. Fe3+ katioiak muga bateraino ordezten du Al3+ katioia. Arroka metamorfikoetan sortzen da, presio altuan eta tenperatura baxuetan. Jadea jadeita edo nefrita mineralek osatutako materialari deritzo, baina jadeita urriagoa eta askoz preziatuagoa da. Jadea oso preziatua da grabatze-lanak egiteko, eta gizakiak aspaldidanik erabili izan du objektuak ekoizteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jadeita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jadeíta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jadéite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jadeite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Piroxenoen taldeko aluminio eta litio inosilikatoa (LiAlSi2O6), sistema monoklinikoan kristaldua. Kristal prismatikoetan agertu ohi da. Kristalak oso tamaina handia eta zenbait tona izatera irits daitezke, eta luzetara ildaskatuta egoten dira. Kolore zuria edo grisa izaten dute, eta, zenbaitetan, arrosa, berdea edo horia. Distira beirakara dute, eta gardenak edo zeharrargiak izaten dira. Litiotan aberatsak diren pegmatita granitikoetan agertzen da. Hiddenita aldaera berdea eta kunzita aldaera lila edo arrosa harribitxi preziatuak dira; gainera, espodumena litio-mea garrantzitsua da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espodumena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espodumena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spodumène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spodumene</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aegirina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>egirina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>egirina</term>
+    </tig>
+    <tig>
+      <term>aegirina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aegiryne</term>
+    </tig>
+    <tig>
+      <term>aegirine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aegirine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>piroxenoide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piroxenoide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyroxénoïde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyroxenoid</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inosilikatoen azpitaldeko mineralen talde konplexua; sistema monoklinikoan edo ortorronbikoan kristalduak. Anfibolen formula orokorra hau da: WX2Y5Si8O22(OH)2 (W: Na+/K+/ezer ez; X: Ca2+/Na+/Mg2+/Fe2+/Mn2+/Li+; eta Y: Mg2+/Fe2+/Mn2+/Fe3+/Al3+/Ti4+ izanik). Kristal-egituraren eta propietate fisiko eta kimikoen aldetik, anfibolak eta piroxenoak oso antzekoak dira, baina anfibolen konposizio kimikoa eta egitura askoz konplexuagoa da. Anfiboletan, (SiO4)4- tetraedroek kate bikoitzak osatzen dituzte; formula orokorrean Si:O erlazioa 4:11 da, eta Al3+ katioiak Si4+ katioia piroxenoetan baino hein handiagoan ordezten du. Arroka metamorfiko eta igneoetan garrantzitsuak diren mineralen serieak daude anfibolen artean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>anfibol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anfíbol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>amphibole</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>amphibole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>cummingtonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cummingtonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cummingtonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cummingtonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>grunerita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grunerita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grunerite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>grunerite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tremolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tremolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>trémolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tremolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aktinolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actinolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>actinolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>actinolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hornblenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hornblenda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hornblende</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hornblende</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>glaukofana</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>glaucofana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>glaucophane</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>glaucophane</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>riebeckita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>riebeckita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>riebeckite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>riebeckite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>(SiO4)4- tetraedroak binaka erpin batetik lotuak dituzten silikatoen azpitaldea. Kasurik sinpleenean mineral hauen egituran (SiO4)4- tetraedroak binaka elkartuta daude. Hau dela-eta, silikato hauen formula orokorrean Si:O erlazioa Si2O7 da (adibidez, hemimorfita: Zn4Si2O7(OH)2·H2O). Beste kasu batzuetan, tetraedroak binaka izateaz gain, banaka ere badituzte; beraz, formula orokorra konplexuagoa izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sorosilikato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sorosilicato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sorosilicate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sorosilicate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epidota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>epidota</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>epidote</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>epidote</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>vesubianita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>idokrasa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vesubianita</term>
+    </tig>
+    <tig>
+      <term>idocrasa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vésuvianite</term>
+    </tig>
+    <tig>
+      <term>idocrase</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vesuvianite</term>
+    </tig>
+    <tig>
+      <term>idocrase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>klinozoisita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clinozoisita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clinozoïsite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clinozoisite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>allanita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>allanita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>allanite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>allanite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hemimorfita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hemimorfita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hémimorphite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hemimorphite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Konposatu organikoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesu geologikoen ondorioz sortu diren karbonodun substantzia biogenikoak (adibidez, mellita, guanina eta whewellita).</descrip>
+    </descripGrp>
+    <tig>
+      <term>konposatu organiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compuesto orgánico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>composé organique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>organic compound</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal batzuek erakusten duten fenomeno optikoa, ardatz nagusiarekiko zut ebakiz gero sei besoko izar argi zurixka ikustean datzana.</descrip>
+    </descripGrp>
+    <tig>
+      <term>asterismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>asterismo</term>
+    </tig>
+    <tig>
+      <term>efecto estrella</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>astérisme</term>
+    </tig>
+    <tig>
+      <term>effet d'étoile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>asterism</term>
+    </tig>
+    <tig>
+      <term>star effect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral-portaera izan arren, minerala izateko baldintza guztiak betetzen ez dituen material naturala. Gehienetan egitura amorfoa izatea da mineraltzat ez hartzeko arrazoia (adibidez, obsidiana, opaloa eta anbara). Baina, egitura kristalinoa duen arren, diamante sintetikoa ere mineraloidetzat hartzen da, jatorri naturalekoa ez denez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mineraloide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mineraloide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>minéraloid</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mineraloid</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesu sedimentarioen edo bolkanikoen ondorioz pilatutako material-multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>metakin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depósito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dépôt</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>deposit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argiak edo bestelako erradiazio elektromagnetikoak zeharkatzen duenean errefrakzioa sortzen duen material, substantzia edo objektu baten ezaugarria. Izpi erasotzaile bakoitzeko izpi errefraktatu bat (monorrefrigentzia) edo bi (birrefrigentzia) sor daitezke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errefringentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>refringencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réfringence</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>refringence</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hiru aluminio hidroxidoren nahastea, nagusiki gibbsitarena, diasporarena eta boehmitarena. Burdina-, fosforo- eta titanio-ezpurutasunak izan ohi ditu. Bauxita klima tropikalaren eraginpean sortzen da aluminio silikatozko arroken meteorizazioz, eta prozesu horretan sortutako buztin mineralek silizioa galtzen dute ondoren. Aluminio-mea nagusia da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bauxita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bauxita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bauxite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bauxite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Korindoiaren eta magnetita edo hematitearen ale fineko nahastea. Beltzaxka da burdin oxidoak dituelako, eta haren hautsa urratzaile gisa erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>esmeril</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esmeril</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émeri</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>emery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>SiO2 kristal mikroskopikoen agregatua, kuartzoaren aldaera kriptokristalino granularra dena. Karbonatozko arroka sedimentarioetan nodulu gisa agertu ohi da. Historiaurrean gizakiak tresnak egiteko eta sua pizteko erabili izan zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>silex</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sílex</term>
+    </tig>
+    <tig>
+      <term>pedernal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>silex</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flint</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal bat presiopean jartzen denean bere muturren edo poloen artean potentzial elektrikoa sortzean datzan fenomenoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>piezoelektrizitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piezoelectricidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piézoélectricité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>piezoelectricity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal bat beroaren eraginpean jartzen denean bere muturren edo poloen artean potentzial elektrikoa sortzean datzan fenomenoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>piroelektrizitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piroelectricidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyroélectricité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyroelectricity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurraren azaletik gertu, bertan kokatutako mineral batzuetatik abiatuta, meteorizazio bidez sortutako minerala; nagusiki, soluzio urtsuen zirkulazioaren ondorioz sortu ohi da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mineral supergeniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mineral supergénico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>minéral supergène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>supergene mineral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arrokarekin batera sortu den eta ordutik forma- zein konposizio-aldaketarik izan ez duen minerala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mineral primario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mineral primario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>minéral primaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>primary mineral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mineral primario batek jasandako aldaketaren ondorioz sortu den minerala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mineral sekundario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mineral secundario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mineral sécondaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>secondary mineral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Makla osatzen duten bi kristalak islapen bidez erlazionatzen dituen planoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>makla-plano</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plano de macla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plan de macle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twin plane</term>
+    </tig>
+    <tig>
+      <term>twinning plane</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Makla osatzen duten bi kristalak erlazionatzen dituen ardatza. Kristaletako bat makla-ardatzaren inguruan 180? biratzen bada, beste kristalaren orientazio bera erakusten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>makla-ardatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eje de macla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>axe de macle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twin axis</term>
+    </tig>
+    <tig>
+      <term>twinning axis</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Simetria-elementu jakin batek adierazten duen ekintza (biraketa edo islapena, besteak beste).</descrip>
+    </descripGrp>
+    <tig>
+      <term>simetria-eragiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>operación de simetría</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>opération de symétrie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>symmetry operation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristal baten simetria irudikatzea ahalbidetzen duen egitura geometrikoa. Simetria-zentroa, simetria-planoa eta simetria-ardatza simetria-elementuak dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>simetria-elementu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elemento de simetría</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>élément de symétrie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>symmetry element</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kristalak bata bestean txertatuak dituen makla.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sartze-makla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>macla de compenetración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>macle d'interpénétration</term>
+    </tig>
+    <tig>
+      <term>macle par interpénétration</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>interpenetration twin</term>
+    </tig>
+    <tig>
+      <term>penetration twin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste mineral baten kristal-forman agertzen den minerala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pseudomorfo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pseudomorfo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pseudomorphe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pseudomorph</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfuroak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>molibdenita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>molibdenita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>molybdénite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>molybdenite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>limonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>limonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>limonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>limonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>wad</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>wad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>wad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Karbonatoak eta nitratoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>witherita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>witherita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>withérite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>witherite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>wulfenita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>wulfenita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>wulfénite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wulfenite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fosfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xenotima</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>xenotima</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>xénotime</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>xenotime</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>chert</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chert</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaille</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chert</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kloritoide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cloritoide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chloritoïde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chloritoid</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>krisotilo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>crisótilo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chrysotile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chrysotile</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>clintonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clintonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clintonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clintonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fayalita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fayalita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fayalite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fayalite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ferroaktinolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ferroactinolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ferroactinolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ferro-actinolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>forsterita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>forsterita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>forstérite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>forsterite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gedrita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gedrita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gédrite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gedrite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>glaukonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>glauconita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>glauconite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>glauconite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lawsonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lawsonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lawsonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lawsonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>margarita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>margarita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>margarite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>margarite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>onfazita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>onfacita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>omphacite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>omphacite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ortoanfibol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ortoanfíbol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>orthoamphibole</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>orthoamphibole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ortopiroxeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ortopiroxeno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>orthopyroxène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>orthopyroxene</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pektolita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pectolita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pectolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pectolite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pigeonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pigeonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pigeonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pigeonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prehnita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prehnita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>préhnite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>prehnite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>punpellyita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pumpellyíta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pumpellyite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pumpellyte</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pirofilita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pirofilita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyrophyllite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyrophyllite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errodonita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rodonita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rhodonite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rhodonite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estilpnomelana</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estilpnomelana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>stilpnomélane</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stilpnomelane</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoisita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zoisita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>zoïsite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>zoisite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sulfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>scheelita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>scheelita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scheelite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scheelite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boehmita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>boehmita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boehmite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>boehmite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diaspora</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diásporo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diaspore</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diaspore</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kolunbita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>niobita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>columbita</term>
+    </tig>
+    <tig>
+      <term>niobita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>columbite</term>
+    </tig>
+    <tig>
+      <term>niobite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>columbite</term>
+    </tig>
+    <tig>
+      <term>niobite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Oxidoak eta hidroxidoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tantalita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tantalita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tantalite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tantalite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fosfatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>piromorfita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piromorfita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyromorphite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyromorphite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esmeralda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esmeralda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émeraude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>emerald</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hiddenita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hiddenita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hiddénite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hiddenite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nefrita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nefrita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>néphrite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nephrite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kankrinita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cancrinita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cancrinite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cancrinite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Silikatoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kunzita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>kunzita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>kunzite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kunzite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Konposatu organikoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anbar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ámbar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ambre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>amber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Konposatu organikoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>guanina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guanina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>guanine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>guanine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Konposatu organikoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>melita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>melita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mellite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mellite</term>
+    </tig>
+    <tig>
+      <term>honeystone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Konposatu organikoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>whewellita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>whewellita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>whewellite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>whewellite</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

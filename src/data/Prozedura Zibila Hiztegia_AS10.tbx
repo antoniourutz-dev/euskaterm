@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prozedura Zibila Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Prozedura Zibila Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="674168">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kide bakarreko organo judiziala, lehen auzialdiko edo instrukzioko epaitegirik ez dagoen udalerrietan jurisdikzioa duena. Arlo zibilean, 90 eurotik gorako muntakoak ez diren hitzezko judizioez arduratzen da, betiere Prozedura Zibilaren Legearen 250. artikuluaren lehenengo paragrafoan zehaztutako kasuetako bat ez bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bake-epaitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juzgado de paz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674169">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Maila eta mota bereko organo judizialen artean, jarduteko ahala zein lurralde judiziali dagokion zehazten duen irizpidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lurralde-eskumen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>competencia territorial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674170">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Modu orokorrean, prozesu zibilean ebazten diren interes pribatuek eraginda, alderdiek prozesuan jarrera aktiboa izan dezaketela ezartzen duen printzipioa. Printzipioak bi eduki ditu: batetik, judizio zibila hasteko nahitaezkoa da alderdien ekimena, eta, bestetik, alderdiek aurkeztutako egitate-materialak soilik ezagutzen ditu epaileak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>xedapen-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio dispositivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674171">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Nahitaezko betearazpenaren jarduera jurisdikzionala, titulu betearazleak zerbait egiteko, ez egiteko edo diru-kopurua ez den gauza bat emateko kondena nahiz betebeharra jasotzen duenean gauzatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ez-diruzko betearazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diruzkoa ez den exekuzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución no dineraria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674172">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Nahitaezko betearazpenaren jarduera jurisdikzionala, titulu betearazleak, zuzenean edo zeharka, diru-kopuru likidoa emateko eginbeharra jasotzen duenean gauzatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diruzko betearazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diruzko exekuzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución dineraria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674173">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Notarioak, funtzionario publiko eskudunak edo fede-emaile publikoak eskuetsitako dokumentua, alegatutako egitate baten egiatasuna frogatzeko erabil daitekeena. Prozedura Zibilaren Legearen 317. artikuluan zehazten dira dokumentu publikoak. Alderdiek prozesuan aurkez ditzaketen frogabideetako bat da, Prozedura Zibilaren Legearen 317. artikulutik 323. artikulura arautua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dokumentu publiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agiri publiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>documento público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674174">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskubideak, interesak edo egoera juridikoak prozesu judizial batean galdatzeko pertsona batek erabil dezakeen baliabidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>akzio zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674175">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozedura batean, alderdien ondare-eskubideak bermatzeko, kontrolatzeko eta babesteko ordenamendu juridikoak aurreikusten duen baliabidea. Prozedura Zibilaren Legearen 630. artikuluan zehaztutako kasuetan era daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>administrazio judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administración judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674176">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozedura Zibilaren Legearen 317. artikuluan zerrendatuta ez dagoen edozein dokumentu, alegatutako egitate baten egiatasuna frogatzeko erabil daitekeena. Alderdiek prozesuan aurkez ditzaketen frogabideetako bat da, Prozedura Zibilaren Legearen 324. artikulutik 327. artikulura arautua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dokumentu pribatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agiri pribatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>documento privado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674177">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozedura Zibilaren Legearen 399. artikuluan eta hurrengoetan aurreikusitako izapideak jarraitzen dituen deklarazio-prozesua. Judizio arruntaren bidez izapidetzen dira: Prozedura Zibilaren Legearen 249.1 artikuluan jasotako gaiei buruzko demandak, legeak berariaz judizio-mota horren bidez bideratu behar direla zehazten dituen demandak, horien munta edozein izanda, eta, azkenik, 6.000 eurotik gorako muntako demandak eta interes ekonomiko kalkulaezina dutenak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>judizio arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaiketa arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juicio ordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674178">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozedura Zibilaren Legearen 437. artikuluan eta hurrengoetan aurreikusitako izapideak jarraitzen dituen deklarazio-prozesua. Hitzezko judizioaren bidez izapidetzen dira Prozedura Zibilaren Legearen 250.1 artikuluan aurreikusitako gaiei buruzko demandak eta 6.000 eurotik gorako munta ez duten demandak, betiere Prozedura Zibilaren Legearen 249.1 artikuluan jasotako gaiei buruzkoak ez badira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzezko judizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hitzezko epaiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juicio verbal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674179">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesu arruntik egin gabe, betearazpen-titulu bat sortzeko deklarazio-prozesu berezia. Prozesu monitorioa egokia da diru-zorra, edozein kopurutakoa izanik, likidoa, mugaeguneratua, galdagarria eta zenbateko zehatzekoa bada eta Prozedura Zibilaren Legearen 812. artikuluan ezarritako dokumentuen bidez egiaztatzen bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prozesu monitorio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso monitorio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674180">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesu zibiletan, auzitegiek eta auzitegietara bertaraturik bertan parte hartzen dutenek Prozedura Zibilaren Legean xedatutakoarekin bat jardun behar dutela ezartzen duen printzipioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prozesuaren legezkotasun-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de legalidad procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674181">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuan baliozko egintzak gauzatzeko gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gaitasun prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>auzitarako gaitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674182">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzilariak lekuko baten deklarazioaren froga-indarra ahultzeko egiten duen alegazioa. Lekukoaren deklarazioa partziala izan daitekeela uste duelako egiten du auzilariak alegazio hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lekukoak arbuiatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lekukoak narriopean jartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lekukoen narrio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tacha de testigos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674183">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuan sortzen diren eta prozesuak aurrera jarraitzea eragozten duten arazoak daudelako prozesua bukatzeko ondore edo efektua. Arrazoi prozesaletan oinarrituta, prozesua modu ezohikoan bukatzeko moduetako bat da. Auto bidez adierazten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prozesua largeste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>largespen prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobreseimiento procesal</term>
+    </tig>
+    <tig>
+      <term>sobreseimiento del proceso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674184">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuaz arduratzen ari den epaileak edo auzitegiak eskumenik ez duela deklaratzeko planteatzen den eskumen-arazoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>deklinatoria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declinatoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674185">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesu bateko eskubideen, betebeharren, kargen eta espektatiben titular izateko gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdi izateko gaitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad para ser parte</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674186">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaileak ez dituen ezagutzak (zientifikoak, artistikoak, teknikoak zein praktikoak) dituen pertsona batek prozesuko egitate edo inguruabar garrantzitsuak baloratzeko edo horiek egiaztatzeko ematen duen irizpena. Alderdiek prozesuan aurkez ditzaketen frogabideetako bat da, Prozedura Zibilaren Legearen 335. artikulutik 352. artikulura arautua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>peritu-irizpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>adituaren irizpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dictamen pericial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674187">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuko lehen auzialdiaren, intzidenteen, errekurtsoen, kautela-neurrien eta epai-betearazpenen ezagutza eta ardura zein jurisdikzio-organori dagokion zehazten duen irizpidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskumen funtzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>competencia funcional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674188">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesuko materia eta munta oinarri hartuta, jarduteko ahala zein jurisdikzio-organori dagokion zehazten duen irizpidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskumen objektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>competencia objetiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674189">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>judizioko kostu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozesuko kostu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>costas judiciales</term>
+    </tig>
+    <tig>
+      <term>costas procesales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674190">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arazo intzidental</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuestión incidental</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674191">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>borondatezko jurisdikzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jurisdicción voluntaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674192">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>PZL</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Prozedura Zibilaren Lege</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>1/2000 Legea, urtarrilaren 7koa, Prozedura Zibilari buruzkoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>LEC</term>
+    </tig>
+    <tig>
+      <term>Ley de Enjuiciamiento Civil</term>
+    </tig>
+    <tig>
+      <term>Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674193">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bitartekaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bitartekotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mediación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674194">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikustaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vista</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674195">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>judizio aurreko entzunaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaiketa aurreko entzunaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>audiencia previa al juicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674196">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurretiazko adiskidetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aurretiaz adiskidetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conciliación previa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674197">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azken eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencias finales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674198">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atariko eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencias preliminares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674199">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>utzarazpen-judizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>utzarazpen-epaiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juicio de desahucio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674200">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzera eskuratzeko judizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>atzera eskuratzeko epaiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juicio de retracto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674201">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pretensión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674202">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>deklarazio-prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozesu deklaratibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso declarativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674203">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prozesuko ondorengotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sucesión procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674204">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>filiazioa zehazteko akzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción de determinación de la filiación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674205">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>filiazioa aurkaratzeko akzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción de impugnación de la filiación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674206">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarauntsiko ondasunetan esku hartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jaraunspeneko ondasunetan esku hartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>herentziako ondasunetan esku hartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intervención del caudal hereditario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674207">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behin betiko neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida definitiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674208">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>demanda aurreko behin-behineko neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida provisional previa a la demanda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674209">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanbio-prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso cambiario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674210">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konkurtso-prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso concursal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674211">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hipoteka betearazteko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hipoteka exekutatzeko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso de ejecución hipotecaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674212">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>adingabeei buruzko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso de menores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674213">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontzari buruzko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso matrimonial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674214">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>filiazioari, aitatasunari eta amatasunari buruzko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso sobre filiación, paternidad y maternidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674215">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gauza epaitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cosa juzgada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674216">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>apelazio-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>apelazioko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de apelación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674217">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kasazioko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kasazio-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso casacional</term>
+    </tig>
+    <tig>
+      <term>recurso de casación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674218">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kexa-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kexako errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de queja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674219">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berraztertze-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>berraztertzeko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de reposición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674220">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berrikuspen-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>berrikuspeneko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso de revisión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674221">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legearen intereseko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso en interés de la ley</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674222">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arau-hauste prozesalaren ondoriozko errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso por infracción procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674223">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epai irmoa hutsaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rescisión de sentencia firme</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674224">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epai irmoa berrikuste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>revisión de sentencia firme</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674225">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordezko kauzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caución sustitutoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674226">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>betearazpena abiarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuzioa abiarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>despacho de ejecución</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674227">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behin betiko betearazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>behin betiko exekuzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución definitiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674228">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>betearazpenpeko alderdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alderdi exekutatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecutado</term>
+    </tig>
+    <tig>
+      <term>parte ejecutada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674229">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderdi betearazle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alderdi exekutatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecutante</term>
+    </tig>
+    <tig>
+      <term>parte ejecutante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674230">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kautela-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kautelazko neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida cautelar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674231">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>betearazpen-agindu orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuzio-agindu orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>orden general de ejecución</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674232">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>premiamendu-prozedura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento de apremio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674233">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kautela-prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kautelazko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso cautelar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674234">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nahitaezko betearazpen-prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuzio-prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso ejecutivo</term>
+    </tig>
+    <tig>
+      <term>proceso de ejecución forzosa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674235">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>titulu betearazle judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuzio-titulu judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>título ejecutivo judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674236">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>titulu betearazle ez-judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>exekuzio-titulu estrajudizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>título ejecutivo no judicial</term>
+    </tig>
+    <tig>
+      <term>título ejecutivo extrajudicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674237">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzilariak aditu baten irizpenaren froga-indarra ahultzeko egiten duen alegazioa. Adituaren irizpena partziala izan daitekeela uste duelako egiten du auzilariak alegazio hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>perituak arbuiatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>adituak narriopean jartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>perituen narrio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tacha de peritos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674167">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legean zehaztutako denboran alderdiek jarduerarik egin ez dutelako prozesua bukatzeko egintza prozesala. Arrazoi prozesaletan oinarrituta, prozesua modu ezohikoan bukatzeko moduetako bat da. Auto bidez adierazten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prozesua iraungitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>iraungitze prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caducidad procesal</term>
+    </tig>
+    <tig>
+      <term>caducidad del proceso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674131">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi bakoitzak auzitegiari eska diezaiokeen itaun-multzoa, gainerako alderdiei egitekoa judizioaren objektuarekin lotura duten eta ezagutzen dituzten egitate eta inguruabarrei buruz. Alderdiek prozesuan eska ditzaketen frogabideetako bat da, Prozedura Zibilaren Legearen 301. artikulutik 316. artikulura arautua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdien galdeketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alderdiei galdeketa egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interrogatorio de las partes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674132">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdiek auzitegiari eska diezaioketen galdeketa, lekukoei egitekoa judizioaren objektuarekin lotura duten eta ezagutzen dituzten egitate eztabaidagarriei buruz. Alderdiek prozesuan eska ditzaketen frogabideetako bat da, Prozedura Zibilaren Legearen 360. artikulutik 381. artikulura arautua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lekukoen galdeketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interrogatorio de los testigos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674133">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arrazoi fisiko, psikiko edo zentzumenezkoak oinarri hartuta hasten den deklarazio-prozesu berezia. Prozesu hori hasten da pertsona batek jarduteko gaitasuna mugatuta duenean edo bere ondasunak administratzeko gai ez denean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsonen gaitasunari buruzko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso sobre la capacidad de las personas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674134">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzi-jartzaileak edo demandatzaileak jurisdikzio-organoen aurrean babes judiziala idazki bidez eskatzeko egintza prozesala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>demanda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>demanda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674135">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auziko alderdiek eta Fiskaltzak duten baliabidea, epaileak auziaz arduratzeari utz diezaion haren inpartzialtasuna zalantzan jartzeko arrazoiak daudenean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epaileen errekusazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epaileak errekusatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recusación de jueces</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674136">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi Goreneko lehendabiziko sala, Botere Judizialaren Lege Organikoaren 56. artikuluan zehaztutako gaiez arduratzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Auzitegi Goreneko arlo zibileko sala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sala de lo civil del Tribunal Supremo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674137">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi nagusiko justizia-saletako bat; arlo zibilean, Botere Judizialaren Lege Organikoaren 73. artikuluaren 1. eta 2. paragrafoetan zehaztutako gaiez arduratzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>auzitegi nagusiko arlo zibileko eta zigor-arloko sala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sala de lo civil y penal del tribunal superior de justicia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674138">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegi zibilek auziak alderdiek ekarritako uzi, egitate eta frogen arabera ebatziko dituztela ezartzen duen printzipioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregututako justiziaren printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erregu-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de justicia rogada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674139">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Betearazpen-izaerako erakunde prozesala, irmo ez diren ebazpen judizialen betearazpena baimentzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>behin-behineko betearazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>behin-behineko exekuzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución provisional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674140">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Betearazpen-neurri zehatza, alderdi betearazleari betearazpeneko zenbatekoa eskuratzeko aukera ematen diona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordaintzeko administrazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administración para pago</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674141">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Betearazpen-prozesuari hasiera ematen dion dokumentua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>exekuzio-demanda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>demanda betearazle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>betearazpen-demanda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>demanda ejecutiva</term>
+    </tig>
+    <tig>
+      <term>demanda de ejecución</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674142">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demanda jarri aurretik zegoen egoeraren eta demanda jarri ondoren sortzen den egoeraren arteko haustura; demanda onartzeak sortzen duen ondore prozesal multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>auzibitarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>litispendencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674143">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demandatua demandatzailearen eskaerarekin bat datorrela adierazten duen egintza prozesala. Arrazoi materialetan oinarrituta, prozesua modu ezohikoan bukatzeko moduetako bat da. Kondena-epai bidez adierazten da, eta gauza epaituaren efektua du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>amore-emate prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozesuari amore emate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>allanamiento procesal</term>
+    </tig>
+    <tig>
+      <term>allanamiento del proceso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674144">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demandatuak demandatzailearen aurka jartzen duen demanda (kontrademanda), demanda nagusia ebazten duen prozeduraren bidez erabakitzen dena. Ezinbestekoa da bi auzien arteko lotura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errekonbentzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reconvención</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674145">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demandatuaren prozesuko egintza, alderdi auzi-jartzaileak formulatutako demandari erantzuna ematekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>demanda-erantzun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>demandari erantzute</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contestación a la demanda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674146">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demandatzailearen egintza prozesala, demandatzaileak berak egikaritutako akzioa edo bere uziaren oinarri den eskubidea alde batera uzten duela adieraztekoa. Arrazoi materialetan oinarrituta, prozesua modu ezohikoan bukatzeko moduetako bat da. Gauza epaituaren efektua sortzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prozesuari uko egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>uko-egite prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>renuncia procesal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674147">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Demandatzailearen egintza prozesala, demandatzaileak berak hasitako prozesua uzteko borondatea adieraztekoa. Arrazoi prozesaletan oinarrituta, prozesua modu ezohikoan bukatzeko moduetako bat da. Uzia epaitu gabe geratzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atzera-egite prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prozesuan atzera egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desistimiento procesal</term>
+    </tig>
+    <tig>
+      <term>desistimiento del proceso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674148">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edozein jaraunskidek edo zati alikuotaren legatu-hartzailek judizio bidez jarauntsiaren zatiketa erreklamatzeko deklarazio-prozesu berezia. Prozesu hori hasten da baldin eta zatiketa hori gauzatu behar ez badu testamentugileak izendatutako komisario edo kontulari-banatzaileak edo zatiketa jaraunskideen arteko hitzarmenaren nahiz ebazpen judizialaren bidez egin behar ez bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarauntsia zatitzeko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jaraunspena zatitzeko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>herentzia zatitzeko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso para la división de la herencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674149">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egintza prozesalak, eragina izan dezaten, prozesuko une egokian eta bakarrik orduan gauzatu behar direla ezartzen duen printzipioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>preklusio-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>preklusio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de preclusión</term>
+    </tig>
+    <tig>
+      <term>preclusión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674150">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egitateak argitzeko edo aintzat hartzeko, epaileak berak toki, objektu edo pertsonaren bat aztertzea. Alderdiek prozesuan eska ditzaketen frogabideetako bat da, Prozedura Zibilaren Legearen 353. artikulutik 359. artikulura arautua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>azterketa judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reconocimiento judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674151">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaile edo auzitegi batek kategoria bereko beste bati bidaltzen dion komunikazioa; eginbide judizialen bat egin dezan adierazten dio komunikazio horretan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>exhorto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exhorto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674152">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epaileak edo agintari eskudunak aginduta, ondasunak atxikitzea, eta prozeduran zein judizioan gertatzen denaren zain uztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enbargo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>embargo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674153">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ezkontzaren edozein ondasun-eraentza likidatzeko deklarazio-prozesu berezia. Prozesu hori hasten da ezkontideen arteko hitzarmenik ez badago eta ondasun-eraentza horrek zehazten badu, ezkontza-itunen edo lege-xedapenen bidez, zama eta betebehar batzuei lotutako ondasun eta eskubideen masa erkidea dagoela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezkontzaren ondasun-eraentza likidatzeko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontzaren araubide ekonomikoa likidatzeko prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso para la liquidación del régimen económico matrimonial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674154">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontu pribatuez gain, gainerako jurisdikzio-ordenei berariaz esleitu ez zaizkien auziez arduratzen den ordena jurisdikzionala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jurisdikzio zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jurisdikzio-ordena zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jurisdicción civil</term>
+    </tig>
+    <tig>
+      <term>orden jurisdiccional civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674155">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hasitako prozesu bateko alderdi bakoitzak zerbait emanez, hitzemanez edo atxikiz prozesua amaitzeko kontratua. Arrazoi materialetan oinarrituta, prozesua modu ezohikoan bukatzeko moduetako bat da. Auto bidez adierazten da, titulu betearazlea da autoa, eta gauza epaitu formalaren efektua du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>transakzio prozesal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transacción procesal</term>
+    </tig>
+    <tig>
+      <term>transacción del proceso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674156">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hirugarren batek sustatutako akzioa, bere jabetzako ondasun baten gainean enbargoa trabatu delako baliatzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jabari-hirugarrengotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tercería de dominio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674157">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hirugarren batek sustatutako akzioa, bere kreditua, alderdi betearazlearenarekin alderatuta, lehentasunezkoa delako baliatzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskubide hobeko hirugarrengotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tercería de mejor derecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674158">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Idazkari judizialaren ebazpen arrazoitua, kasu hauetan ematen duena: demanda izapidetzea onartzen denean, idazkari judizialaren eskumen esklusiboko prozedura amaitzen denean, eta edozein motatako prozeduratan beharrezkoa denean edo ebatzitakoa arrazoitzea komenigarria denean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dekretu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>decreto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674159">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Idazkari judizialaren ebazpena, autoei legeak ezarritako bidea ematea helburu duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>antolaketa-eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>antolaketarako eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencia de ordenación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674160">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jakinarazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jakinarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>notificación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674161">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jurisdikzio-ordena jakin bateko auzitegiak aztergai duen prozesuko objektua epaitu edo ebatzi aurretik beste ordena jurisdikzional bateko arazo juridiko jakin bat ebatzi behar izatean datzan praktika juridikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prejudizialitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>epai-aurrekotasun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prejudicialidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674162">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Justizia Administrazioari Laguntzeko Erregistro Administratiboen Sistemako erregistroetako bat. Justizia Ministerioaren mende dago, eta Jarduera Judizialari Laguntzeko Erregistro Administratiboen Zuzendariordetza Nagusiari dagokio erregistroaren kudeaketa. Erregistro horretan inskribatzen dira egoitza ezezaguna izanik prozedura zibilean demandatu direnak, betiere Prozedura Zibilaren Legearen 156. artikuluan zehaztutako ikerketek emaitza positiborik izan ez badute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Arlo Zibileko Auzi-iheslarien Erregistro Zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro Central de Rebeldes Civiles</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674163">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kide anitzeko organo judiziala, jurisdikzioa probintzia osoan duena eta egoitza probintziako hiriburuan duena. Probintzia-auzitegi bat dago probintziako hiriburu bakoitzean, eta soilik zibileko eta zigor-arloko eskumenak ditu. Arlo zibilean, lehen auzialdiko epaitegien ebazpenen aurka jarritako apelazio- eta kexa-errekurtsoez arduratzen da, besteak beste.</descrip>
+    </descripGrp>
+    <tig>
+      <term>probintzia-auzitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>audiencia provincial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674164">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kide bakarreko organo judiziala, egoitza barruti judizialeko hiriburuan duena. Emakumeen aurkako indarkeriaren arloko epaitegi bat edo batzuk daude barruti judizial bakoitzean, udalerriaren izena hartzen dute, eta zibileko eta zigor-arloko eskumenak dituzte. Arlo zibilean, Botere Judizialaren Lege Organikoaren 87 ter artikuluaren 2. eta 3. paragrafoetan zehaztutako gaiez arduratzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>emakumeen aurkako indarkeriaren arloko epaitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juzgado de violencia sobre la mujer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674165">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kide bakarreko organo judiziala, egoitza barruti judizialeko hiriburuan duena. Lehen auzialdiko epaitegi bat edo batzuk daude barruti judizial bakoitzean. Auzi zibil guztiez arduratzen dira lehen auzialdian, betiere lege-xedapen bidez bestelako auzitegiei berariaz esleituta ez badaude.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lehen auzialdiko epaitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juzgado de primera instancia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="674166">
+  <descrip type='subjectField'>Zuzenbide prozesal zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kide bakarreko organo judiziala, jurisdikzioa probintzia osoan duena eta egoitza probintziako hiriburuan duena. Merkataritza-arloko epaitegi bat edo batzuk daude probintzia bakoitzean. Jurisdikzio zibilaren barruan dauden epaitegi espezializatuak dira, eta, beste gai batzuen artean, konkurtso-prozedurez arduratzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>merkataritza-arloko epaitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juzgado de lo mercantil</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

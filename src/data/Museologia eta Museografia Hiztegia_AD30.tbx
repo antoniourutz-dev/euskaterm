@@ -1,0 +1,5087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Museologia eta Museografia Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Museologia eta Museografia Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erakusketei dagozkien erakusteko tekniken eta praktiken multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espografia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>expographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>expography</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kulturaren ikuspegitik interesgarriak diren objektuak bildumatan gorde, kontserbatu, ikertu eta jendaurrean erakusgai jartzen diren lekua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoei eta museoko piezei dagozkien tekniken eta praktiken multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>museografia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>muséographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museography</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoei buruzko zientzia, haien historia eta gizartean duten eragina, batetik, eta kontserbazio- eta katalogazio-teknikak, bestetik, aztertzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>museologia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museología</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>muséologie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museology</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museologia berri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nueva museología</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nouvelle muséologie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>new museology</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museoaren lagunen elkarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>asociación de amigos del museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>société des amis du musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>association of friends of museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontserbazio-sail</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>departamento de conservación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>département de conservation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>conservation department</term>
+    </tig>
+    <tig>
+      <term>curatorial department</term>
+    </tig>
+    <tig>
+      <term>conservation division</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>heziketa-sail</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>departamento de educación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>département d'éducation</term>
+    </tig>
+    <tig>
+      <term>service éducatif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>education department</term>
+    </tig>
+    <tig>
+      <term>education division</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dokumentazio-sail</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>departamento de documentación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>département de documentation</term>
+    </tig>
+    <tig>
+      <term>service de documentation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>documentation department</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikerketa-sail</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>departamento de investigación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>département de recherche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>research department</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>harrera-zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de recepción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>service d'accueil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reception service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona jakin bati buruzko museoa, pertsona hori jaio, hil edo bizi izan zen etxean kokatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>museo-etxe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>casa-museo</term>
+    </tig>
+    <tig>
+      <term>casa y museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>maison musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum-house</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekomuseo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ecomuseo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>écomusée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ecomuseum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Espainiako Museoen Sistemari atxikitako museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo adherido al Sistema Español de Museos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aire zabaleko museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo al aire libre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée de plein air</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>outdoor museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arte garaikideko museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo de arte contemporáneo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée d'art contemporain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>contemporary art museum</term>
+    </tig>
+    <tig>
+      <term>museum of contemporary art</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arte modernoko museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo de arte moderno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée d'art moderne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>modern art museum</term>
+    </tig>
+    <tig>
+      <term>museum of modern art</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arte ederren museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo de bellas artes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée des beaux-arts</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fine-arts museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aztarnategi arkeologikoko museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo de sitio arqueológico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée de site archéologique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>archaeological site museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estatuaren museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo de titularidad estatal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée appartenant à l'État</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>state-owned museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tokiko museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo local</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée local</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>local museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo nazional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo nacional</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée national</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>national museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>probintzia-museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo provincial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée provincial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>provincial museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskola-museo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museo-escuela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musée-école</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>school-museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: museo-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Margolanak erakusgai dituen erakundea edo erakunde baten atala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pinakoteka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pinacoteca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pinacothèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>picture-gallery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museoaren lagun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amigo del museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ami du musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>friend of museum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>katalogatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>catalogador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>catalogueur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cataloguer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erakusketa baten edukia lantzeko eta erakusgai izango diren gauzak hautatzeko ardura duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erakusketa-koordinatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erakusketa-komisario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comisario de exposiciones</term>
+    </tig>
+    <tig>
+      <term>coordinador de exposiciones</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>commissaire d'expositions</term>
+    </tig>
+    <tig>
+      <term>coordinateur d'expositions</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exhibit coordinator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo eta arte-galerietako kontserbatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conservador de museo y galerías de arte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conservateur de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>art gallery and museum curator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo-zuzendari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>director de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>directeur de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum director</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dokumentalista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>documentalista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>documentaliste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>documentalist</term>
+    </tig>
+    <tig>
+      <term>research assistant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo-hezitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>educador de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>professeur détaché au service éducatif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum educator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museologo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museólogo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>muséologue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museologist</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museografo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>museógrafo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>muséographe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museographer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo-gidari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guía de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>guide de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum guide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zaharberritzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>restaurador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>restaurateur</term>
+    </tig>
+    <tig>
+      <term>conservateur-restaurateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>restorer</term>
+    </tig>
+    <tig>
+      <term>conservator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artxibozain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>archivero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>archiviste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>registrar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>liburuzain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bibliotekari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bibliotecario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bibliothécaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>librarian</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum technician</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: langileak eta organigrama</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museozain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guarda de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gardien de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum guard</term>
+    </tig>
+    <tig>
+      <term>invigilator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biltegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erreserba-gela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacén</term>
+    </tig>
+    <tig>
+      <term>sala de reserva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réserve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>store-room</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museoko liburutegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biblioteca de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bibliothèque de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum library</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoko piezak gas bidez desinfektatzeko gela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fumigazio-gela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara de fumigación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chambre de fumigation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fumigation chamber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zinema-filmak biltzen, kontserbatzen eta erakusten diren lekua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zinemateka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinemateca</term>
+    </tig>
+    <tig>
+      <term>filmoteca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cinémathèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>film library</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Diapositibak biltzen, kontserbatzen eta maileguan ematen diren lekua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diapoteka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diapoteca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diathèque</term>
+    </tig>
+    <tig>
+      <term>diapothèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slide library</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakusketa-espazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erakusgune</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espacio expositivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>espace d'exposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exhibition space</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1. Edozein euskarritan grabatutako soinu-dokumentuak biltzen, kontserbatzen eta erakusten diren lekua. 2. Grabatutako soinu-dokumentuen bilduma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fonoteka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fonoteca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>phonothèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>phonograph records library</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1. Argazkiak biltzen, kontserbatzen eta erakusten diren lekua. 2. Argazki-bilduma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fototeka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>argazkitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fototeca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>photothèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photografic library</term>
+    </tig>
+    <tig>
+      <term>photo library</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1. Edozein euskarritan dauden dokumentuak (esaterako, inprimatutakoak edo ikus-entzunezkoak) gordetzen, kontserbatzen eta eskuragarri jartzen diren lekua. 2. Halako dokumentuen bilduma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mediateka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mediateca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>médiathèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>media library</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakustareto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sala de exposición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>salle d'exposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exhibition hall</term>
+    </tig>
+    <tig>
+      <term>exhibition room</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: segurtasuna</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lapurreten aurkako alarma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alarma antirrobo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alarme contre le vol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>security system</term>
+    </tig>
+    <tig>
+      <term>burglar alarm</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: segurtasuna</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>suteen aurkako alarma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alarma contra incendios</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dispositif anti-feu</term>
+    </tig>
+    <tig>
+      <term>alarme-incendie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fire alarm</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: segurtasuna</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zaintza-kamera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara de vigilancia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caméra de surveillance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>surveillance camera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: segurtasuna</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ke-detektagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>detector de humos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>détecteur de fumée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>smoke detector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: segurtasuna</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presentzia-detektagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>detector de presencia</term>
+    </tig>
+    <tig>
+      <term>detector de movimiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>détecteur de présence</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>occupancy detector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: segurtasuna</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zelula fotoelektrikoen bidez puntu baten argiztapena neurtzen duen tresna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>luxmetro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luxómetro</term>
+    </tig>
+    <tig>
+      <term>lúxmetro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>luxmètre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>luxmeter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: segurtasuna</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Magnitude fisiko batekiko sentikorra izanik, magnitude hori detektatu edo neurtu eta seinale bihurtzen duen gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sentsore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sensor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>capteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sensing element</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondasun arkeologiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bien arqueológico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bien archéologique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>archaeological property</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kultura-ondasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kultura-intereseko ondasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bien cultural</term>
+    </tig>
+    <tig>
+      <term>bien de interés cultural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bien culturel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cultural good</term>
+    </tig>
+    <tig>
+      <term>property of cultural interest</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondasun historiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bien histórico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bien historique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>historical property</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo-bilduma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colección de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collection muséale</term>
+    </tig>
+    <tig>
+      <term>collection de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum collection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektu bat aztertzeko eta haren egiazkotasuna bermatzeko erreferentzia gisa erabiltzen den mota bereko objektuen bilduma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreferentzia-bilduma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colección de referencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collection de référence</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reference collection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoak behin betiko gordetzeko asmoz eskuratutako piezekin osatutako bilduma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bilduma iraunkor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colección permanente</term>
+    </tig>
+    <tig>
+      <term>colección estable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collection permanente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>permanent collection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bilduma pribatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colección privada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collection privée</term>
+    </tig>
+    <tig>
+      <term>collection particulière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>private collection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bilduma publiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colección pública</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collection publique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>public collection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gordailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depósito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dépôt</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>deposit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aldi baterako gordailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depósito temporal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dépôt temporaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>temporary deposit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>faltsifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falsificación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>falsification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>forgery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>funts bibliografiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fondo bibliográfico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fond bibliographique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bibliographic holding</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo-funts</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fondo museístico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fond de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum holding</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>objektu arkeologiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objeto arqueológico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objet archéologique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>archaeological object</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Artearen ikuspegitik esanahia duen objektua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>objektu artistiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objeto artístico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objet d'art</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>art object</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Artista-talde batek elkarlanean egindako lana.</descrip>
+    </descripGrp>
+    <tig>
+      <term>talde-lan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>obra colectiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>oeuvre collective</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>collective work</term>
+    </tig>
+    <tig>
+      <term>teamwork</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Artistak bere arte-jardueran sortutako lana edo emaitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>artelan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>obra de arte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>oeuvre d'art</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>work of art</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>maisulan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>obra maestra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chef-d'oeuvre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>masterpiece</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museoko pieza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pieza de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pièce de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum piece</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskuratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adquisición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>acquisition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acquisition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lagapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cesión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cession</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>disposal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erosketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>achat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>purchase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordainean emate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dación en pago</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dation en paiement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dation in payment</term>
+    </tig>
+    <tig>
+      <term>giving in payment</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konfiskazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>decomiso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>confiscation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>forfeiture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Saldutako pieza prezio berean berreskuratzeko eskubidea. Estatuko Administrazioak lehentasuna du eskubide hori egikaritzeko, Estatuaren Museoetarako ondasun higigarriak eskuratzerakoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atzera eskuratzeko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de retracto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit de retrait</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>opting out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoko piezen jabetza lortzerakoan egikaritu daitekeen eskubidea, ondasun bat lehentasunez eskuratzekoa. Atzera eskuratzeko eskubidea ez bezala, salmenta gauzatu aurretik egikaritzen da. Estatuko Administrazioak lehentasuna du eskubide hori egikaritzeko, Estatuaren Museoetarako ondasun higigarriak eskuratzerakoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lehentasunez erosteko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de tanteo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit de préemption</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right of preemption</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dohaintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>donación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>don</term>
+    </tig>
+    <tig>
+      <term>donation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>donation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jaraunspen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>herencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>héritage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>inheritance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Testamentu edo kodizilo bidez museo-erakunde bati edo beste norbaiti eskaintzen zaion ondarea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>legs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>legacy</term>
+    </tig>
+    <tig>
+      <term>bequest</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondasun bat ematea eta haren ordez beste bat eskuratzea. Museo-erakundeetako bildumak edota aldi baterako erakusketak elikatzeko erabiltzen den moduetako bat da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>truke</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permuta</term>
+    </tig>
+    <tig>
+      <term>intercambio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>échange</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exchange</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekoizpen propio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producción propia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>production propre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>in-house production</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museo batek gai edo toki bati loturiko objektuak, dokumentuak eta informazioa jasotzeko egiten duen lana.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bilketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recolección</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collecte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>collecting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoko piezen jabetza lortzeko moduetako bat, denbora jakin batez erabili ondoren legeak ezarritako baldintzetan eskuratzean datzana.</descrip>
+    </descripGrp>
+    <tig>
+      <term>usukapio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskuratze-preskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>usucapión</term>
+    </tig>
+    <tig>
+      <term>prescripción adquisitiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prescription acquisitive</term>
+    </tig>
+    <tig>
+      <term>usucapion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acquisitive prescription</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoko piezak eskuratzeko egiten den kontratu erreala, aldebakarrekoa eta doakoa; kontratu horren bidez, ondasun bat maileguan ematen edo hartzen da, denbora-epe batean hondatu gabe erabil dadin, eta itzultzeko betebeharrarekin betiere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>komodatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comodato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>commodat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>commodatum</term>
+    </tig>
+    <tig>
+      <term>commodate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondasun bat museo bati uzten dion pertsona edo erakundea; dohaintzan, maileguan edo bestelako forma juridiko batean utz daiteke ondasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gordailugile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depositante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déposant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>depositor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estatuak museoari gordailuan emandako ondasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>estatu-gordailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depósito estatal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dépôt de l'État</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>state deposit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epailearen aginduz edo haren partaidetzarekin egiten den gordailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gordailutze judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depósito judicial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>séquestre judiciaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>judicial sequestration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aldi baterako erakusketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición temporal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition temporaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>temporary exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mailegu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>préstamo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emprunt</term>
+    </tig>
+    <tig>
+      <term>prêt</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>loan</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreprodukzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reproducción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>reproduction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reproduction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zaharberritze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>restauración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>restauration</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>restoration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bildumagile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bildumari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coleccionista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collectionneur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>collector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Dohaintzan, maileguan edo bestelako forma juridiko batean utzitako ondasun bat zaintzen duen pertsona edo erakundea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gordailuzain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depositario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dépositaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>depositary</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dohaintza-emaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>donante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>donor</term>
+    </tig>
+    <tig>
+      <term>donator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mezenas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mecenas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mécène</term>
+    </tig>
+    <tig>
+      <term>protecteur des arts</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>patron of the arts</term>
+    </tig>
+    <tig>
+      <term>benefactor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mezenasgo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mecenazgo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mécénat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>patronage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mailegu-emaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prestamista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prêteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lender</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mailegu-hartzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>mailegari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prestatario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emprunteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>borrower</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museo-erakunde batek objektu bat identifikatzeko edo sailkatzeko erabiltzen duen marka edo txartela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>etiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>etiqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étiquette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>label</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inbentario-fitxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ficha de inventario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche d'inventaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>registration record</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fitxa tekniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ficha técnica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche technique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>worksheet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskuratutakoen erregistro-liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de registro de adquisiciones</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>registre des acquisitions</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>accession register</term>
+    </tig>
+    <tig>
+      <term>accession book</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>funtseko bajen erregistro-liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de registro de bajas del fondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>registre des aliénations</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>deaccession register</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bilduma iraunkorraren erregistro-liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de registro de la colección estable</term>
+    </tig>
+    <tig>
+      <term>libro de registro de la colección permanente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>registre de la collection permanente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>permanent collection register</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gordailuen erregistro-liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de registro de depósitos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>registre des dépôts</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>register of deposits</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektuen egongunea aldatzea. Objektuen mugimenduak datu-base informatikoetan erregistratzen dira, egiten duten ibilbidea jasota gera dadin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>objektuen mugimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movimiento de objetos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déplacement d'objets</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>movement of objects</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inbentario-zenbaki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>número de inventario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>numéro d'inventaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>catalogue number</term>
+    </tig>
+    <tig>
+      <term>identifying number</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreprografia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reprografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>reprographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reprography</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>BD32</descrip>
+    </descripGrp>
+    <tig>
+      <term>signatura topografiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>signatura topográfica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cote</term>
+    </tig>
+    <tig>
+      <term>cote topographique</term>
+    </tig>
+    <tig>
+      <term>cote de placement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>call number</term>
+    </tig>
+    <tig>
+      <term>call mark</term>
+    </tig>
+    <tig>
+      <term>shelf-mark</term>
+    </tig>
+    <tig>
+      <term>shelf-number</term>
+    </tig>
+    <tig>
+      <term>location mark</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>katalogatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>catalogación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>catalogage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cataloguing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museoko katalogo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>catálogo de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>catalogue de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum catalog</term>
+    </tig>
+    <tig>
+      <term>catalogue for museums</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museo-funtsetik pieza bat kentzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>funtseko baja</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>baja del fondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aliénation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>deaccession</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>museo-inbentario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inventario de museo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>inventaire de musée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>museum inventory</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Euskal Kultura Ondarearen Zentroa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Centro de Patrimonio Cultural Vasco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Centre du Patrimoine Culturel Basque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Basque Cultural Heritage Centre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mundu osoko museoak eta museoetako profesionalak biltzen dituen nazioarteko erakundea, 1946an sortua; kultura-ondarea babestu eta sustatzea du helburu nagusi.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Museoen Nazioarteko Kontseilua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ICOM</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Consejo Internacional de Museos</term>
+    </tig>
+    <tig>
+      <term>ICOM</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Conseil international des musées</term>
+    </tig>
+    <tig>
+      <term>ICOM</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>International Council of Museums</term>
+    </tig>
+    <tig>
+      <term>ICOM</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mundu osoko museo-lagunen elkarteak biltzen dituen nazioarteko erakundea, 1975ean sortua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Museoen Lagunen Munduko Federazioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Federación Mundial de los Amigos de los Museos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Fédération Mondiale des Amis des Musées</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>World Federation of Friends of Museums</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Euskal Kultura Ondarearen Inbentario Nagusia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Inventario General del Patrimonio Cultural Vasco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Inventaire Général du Patrimoine Culturel Basque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>General Inventory of the Basque Cultural Heritage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Euskadiko Arkeologiaren Aholku Batzordea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Junta Asesora de Arqueología de Euskadi</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Commission Consultative d'Archéologie Basque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Basque Archeology Advisory Council</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Euskadiko Artearen Aholku Batzordea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Junta Asesora de Arte de Euskadi</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Commission Consultative d'Art Basque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Basque Art Advisory Council</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Euskadiko Monumentu Ondarearen Aholku Batzordea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Junta Asesora del Patrimonio Monumental de Euskadi</term>
+    </tig>
+    <tig>
+      <term>Consejo Asesor del Patrimonio Monumental de Euskadi</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Commission Consultative du Patrimoine Culturel Basque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Basque Cultural Heritage Advisory Council</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estatuak museoen arloan duen organo aholku-emaile gorena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Museoen Batzorde Gorena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Junta Superior de Museos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Haut Conseil des Musées</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Superior Museums Board</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Espainiako ondare historiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patrimonio histórico español</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>patrimoine historique espagnol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Spanish historical heritage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kultura-ondasun kalifikatuen erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro de bienes culturales calificados</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>registre des biens culturels classés</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>register of qualified cultural goods</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Espainiako Museo Sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Sistema Español de Museos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Système Espagnol de Musées</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Spanish Museum System</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Frantziako Museoen Zuzendaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Dirección de Museos de Francia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Direction des Musées de France</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>French Museum Direction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Zabalkundea</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jardueren buletin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>boletín de actividades</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bulletin d'activités</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bulletin of activities</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Zabalkundea</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Ondarearen Eguna</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Día del Patrimonio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Journée du Patrimoine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Heritage Day</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Zabalkundea</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Museoen Nazioarteko Eguna</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Día Internacional de los Museos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Journée internationale des musées</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>International Day of Museums</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Zabalkundea</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inaugurazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inauguración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>inauguration</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>inauguration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Zabalkundea</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gonbit-txartel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>invitación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>carton d'invitation</term>
+    </tig>
+    <tig>
+      <term>carte d'invitation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>invitation card</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bisitaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>visite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>visit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museo bateko webgunean edo bestelako euskarri elektroniko batean balizko bisitariaren ibilbidea irudikatzen duen aurkezpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bisitaldi birtual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visita virtual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>visite virtuelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>virtual visit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bisitari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visitante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>visiteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>visitor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Artista edo korronte baten ibilbidea erakusten duten artelan hautatuez egiten den erakusketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erakusketa antologiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición antológica</term>
+    </tig>
+    <tig>
+      <term>antológica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition anthologique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anthological exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>talde-erakusketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición colectiva</term>
+    </tig>
+    <tig>
+      <term>colectiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition collective</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>group exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bakarkako erakusketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición individual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition individuelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solo exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakusketa ibiltari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición itinerante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition itinérante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>portable exhibition</term>
+    </tig>
+    <tig>
+      <term>travelling exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakusketa iraunkor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erakusketa finko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición permanente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition permanente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>permanent exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erakusketa tematiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición temática</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition à thème</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thematic exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Webgune batean edo bestelako euskarri elektroniko batean pieza-bildumak aurkezten dituen erakusketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erakusketa birtual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición virtual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition virtuelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>virtual exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bisitaldi gidatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visita guiada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>visite guidée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>guided tour</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tailer-bisita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visita-taller</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>visite-atelier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>workshop-tour</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Entzunezko sistema elektronikoa, bertan entzuten diren argibideen bitartez museoetan edo erakusketetan norbera bakarrik ibiliz informazioa jasotzeko aukera ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>audiogida</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>audioguía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>audioguide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audioguide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi aldeetatik margotutako euskarri garden batean egiten den proiekzio-teknika, argiztapenaren arabera alde batetik zein bestetik margotutakoa ikusteko aukera ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diorama</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diorama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diorama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diorama</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>maketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>maqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>maquette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scale model</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horma mugigarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tabique móvil</term>
+    </tig>
+    <tig>
+      <term>mampara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>panneau d'exposition</term>
+    </tig>
+    <tig>
+      <term>paroi amovible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>movable wall</term>
+    </tig>
+    <tig>
+      <term>screen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beira-arasa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bitrina</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vitrina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vitrine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exhibition case</term>
+    </tig>
+    <tig>
+      <term>showcase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozedura fisiko zein kimikoen bidez ondarea egoera egokian mantentzeko egiten den esku-hartzea. Materialak kaltetu edo hondatu ez daitezen egiten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontserbazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conservación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conservation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>conservation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hezetasuna kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deshumectación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déshumidification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dehumidification</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontserbazioko egitekoetan, giroa lehorra denean hezeago bihurtzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hezetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>humectación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>humidification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>humidification</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hezetasun erlatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>humedad relativa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>humidité relative</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>relative humidity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fumigazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fumigación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fumigation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fumigation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi artifizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz artificial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lumière artificielle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>artificial light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi natural</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz natural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lumière du jour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>daylight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tenperatura-aldaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cambio de temperatura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variation de température</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>temperature change</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aire-girotze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>climatización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>climatisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>air conditioning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontserbaziorako adierazgarriak diren datuak (esate baterako, hezetasuna eta tenperatura) erregistratzen dituen tresna elektronikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-erregistragailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dataloguer</term>
+    </tig>
+    <tig>
+      <term>registrador de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enregistreur de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>datalogger</term>
+    </tig>
+    <tig>
+      <term>data logger</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hezetasuna kentzeko makina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deshumidificador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déshumidificateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dehumidifier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hezetasun erlatiboa jaitsarazteko erabiltzen den silize hidratatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>silize-gel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gel de sílice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gel de silice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>silica gel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tenperatura eta airearen hezetasun erlatiboa neurtzeko eta erregistratzeko erabiltzen den gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>termohigrografo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>higrotermografo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>higrotermógrafo</term>
+    </tig>
+    <tig>
+      <term>termohigrógrafo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hygrothermographe</term>
+    </tig>
+    <tig>
+      <term>thermohygrographe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hygrothermograph</term>
+    </tig>
+    <tig>
+      <term>thermohygrograph</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hezegailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>humidificador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>humidificateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>humidifier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ultramoremetro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>UVmetro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>UV mètre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>UV metre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datazio absolutu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>datación absoluta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>datation absolue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>absolute dating</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Narriadura eragiten duen eragile biziduna; adibidez, onddoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>narriadura-eragile biotiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>narriarazle biotiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agente de deterioro biótico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agent de détérioration biotique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biotic deterioration agent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Narriadura eragiten duen eragile bizigabea; adibidez, hezetasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>narriadura-eragile abiotiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>narriarazle abiotiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agente de deterioro abiótico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agent de détérioration abiotique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>abiotic deterioration agent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>narriadura-eragile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>narriarazle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agente de deterioro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agent de détérioration</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>deterioration agent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dokumentazio-zentro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>centro de documentación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centre de documentation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>documentation centre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prebentziozko kontserbazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conservación preventiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conservation préventive</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>preventive conservation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektu errealak erabiliz, berreginez edo haiei esanahi berri bat emanez eraikitzen den diskurtsoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>objektu-diskurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diskurtso objektual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>discurso objetual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>discours objectuel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>object speech</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eszenografia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escenografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scénographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scenography</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fitxa katalografiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ficha catalográfica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>notice catalographique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>catalogue entry</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bitxikeria-kabinete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gabinete de curiosidades</term>
+    </tig>
+    <tig>
+      <term>gabinete de rarezas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cabinet de curiosités</term>
+    </tig>
+    <tig>
+      <term>cabinet des raretés</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cabinet of curiosities</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argiztapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iluminación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éclairage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>illumination</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoko piezei kaltea eragin diezaiekeen astinaldia; bereziki, leku batetik bestera eramatean sor daitekeena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dardara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vibración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vibration</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vibration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ebaluazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tasazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tasación</term>
+    </tig>
+    <tig>
+      <term>valoración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>expertise</term>
+    </tig>
+    <tig>
+      <term>évaluation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>appraisal</term>
+    </tig>
+    <tig>
+      <term>evaluation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondare immaterial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ondare ukiezin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patrimonio intangible</term>
+    </tig>
+    <tig>
+      <term>patrimonio inmaterial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>patrimoine intangible</term>
+    </tig>
+    <tig>
+      <term>patrimoine immatériel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>intangible heritage</term>
+    </tig>
+    <tig>
+      <term>non-material heritage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondare material</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ondare ukigarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patrimonio tangible</term>
+    </tig>
+    <tig>
+      <term>patrimonio material</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>patrimoine tangible</term>
+    </tig>
+    <tig>
+      <term>patrimoine matériel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tangible heritage</term>
+    </tig>
+    <tig>
+      <term>material heritage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museoko pieza erakusten denean, dagokion testuinguru historikoaren erreferentziarik gabe aurkeztu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>testuingurutik atera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descontextualizar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sortir de son contexte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>take out of context</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espoliazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lapurreta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expolio</term>
+    </tig>
+    <tig>
+      <term>expoliación</term>
+    </tig>
+    <tig>
+      <term>atraco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>robbery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bildumen kudeaketa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Museo edo erakunde baten funtsetatik desagertutako ondasun bat dagokion tokira eta egoera juridikora lehengoratzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itzultze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>restitución</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>restitution</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>restitution</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzera begirako erakusketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición retrospectiva</term>
+    </tig>
+    <tig>
+      <term>retrospectiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition rétrospective</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>retrospective exhibition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erakusketa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikus-entzunezko proiekzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proyección audiovisual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>projection audiovisuelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audiovisual projection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontserbazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektuak jatorrizko baldintzei ahalik eta gehien gerturatzen zaien egoeran mantentzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>babeste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>preservación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>préservation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>preservation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Museoen administrazioa: eraikina</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>film-bilduma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinemateca</term>
+    </tig>
+    <tig>
+      <term>filmoteca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cinémathèque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>film library</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

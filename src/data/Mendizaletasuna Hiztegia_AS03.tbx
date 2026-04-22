@@ -1,0 +1,7343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mendizaletasuna Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Mendizaletasuna Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidea ireki</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abrir una vía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ouvrir une voie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open a route</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanpatu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acampar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>camper</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>camp out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sarbide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acceso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accés</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>access</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oxigeno gutxiko giroan ordu batzuk egin ondoren (eta horixe gertatzen da goi-mendian), gorputzak hipoxiari aurre egiteko martxan jartzen dituen mekanismoen multzoa. Horien artean dago, esate baterako, poliglobulia, globulu gorriei oxigenoa garraiatzeko ahalmena gehitzen diena; gorputzak altuera handian zortzi-hamar egun daramatzanean gertatzen da hori. Goi-altuera jakin batean zenbait egun edo aste egiteak girorapena errazten du, eta aklimatazio horrek, bide batez, garaieran jarduera fisikoa hobetzeko aukera ematen dio mendizaleari.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aklimatazio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aclimatación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>acclimatation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acclimatization</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zurruntze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>gogortasun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agarrotamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raidissement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stiffenning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>akidura</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>ahultze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agotamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>épuisement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exhaustion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzean, gorputz-adarretan bereziki, sentitzen diren min edo sastadak, ariketa gogorrak, jarraituak edota energia handikoak egin ondoren agertzen direnak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>agujetak</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agujetas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>courbatures</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>muscle stiffness</term>
+    </tig>
+    <tig>
+      <term>stiff muscles</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>isolamendu termiko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>bero-isolamendu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aislamiento térmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>isolation thermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat insulation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jatorrian Alpeetako gailurretara igotzean zetzan kirola; hedapenez, edozein menditara igotzea. Bereizi beharra dago alpinismoaren (edo mendizaletasunaren) eta txangozaletasunaren artean. Azken hori, inoiz mendiak igotzen badira ere, gehiago da ibili eta ikusiz gozatzeko kirola. Alpinismoan, ordea, helburu nagusia gailur zail eta garaiak gainditzea da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alpinismo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alpinismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alpinisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountaineering</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alpinista</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alpinista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alpiniste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountaineer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elur, izotz, klima, erradiazio ultramore, tenperatura, oxigeno eta abarreko baldintza geografiko bereziak dituen mendiko zona, garaia baina altuera zehatz edo jakinik gabekoa. Garaiera horrek dituen baldintza bereziak direla medio, arriskuak gertatzen dira gizakiaren osasunerako, hala nola mendiko gaitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goi-mendi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alta montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>haute montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>high mountain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku batek erreferentzia-puntu jakin batekiko --normalean itsas mailarekiko-- duen garaiera neurtzeko erabiltzen den aparatua. Aire atmosferikoaren zutabeak barruko mintz baten gainean ezartzen duen pisua neurtuz funtzionatzen du altimetroak. Zutabe horrek pisu jakin bat dauka, eta markatzen duen kopurua presio atmosferikoa da. Altimetroaren funtzionamendua barometroaren antzekoa da, baina alderantziz; beraz, zenbat eta gehiago igo, gutxiago pisatzen du aire-zutabeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>altimetro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>altímetro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>altimètre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>altimeter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>garaiera</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>altuera</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>altura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hauteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>height</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baba</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ampolla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bulle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vesicle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bigarren mailako gailurra, gailur nagusiaren aurretik eta hartatik gertu samar egon ohi dena</descrip>
+    </descripGrp>
+    <tig>
+      <term>gailurraurre</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>antecima</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>antécime</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>subsidiary peak</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Igoerari ekin aurretik helburuaren norabidean egiten den distantzia. Esaterako, autoa utzi dugun lekutik gaua emango dugun aterperaino edo bibakeraino dagoen distantzia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hurbilketa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aproximación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>approche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>approach</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi baten bi isurialdeak bereizten dituen gailur-lerroa, gutxi-asko luzea, angelu irten moduko bat eratzen duena. Erlaitzak, arroilak nahiz irtenguneak eduki ditzake.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ertz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>arête</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ridge</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Uhalez eta begiztaz osatutako sistema, gorputz-atal batzuen inguruan, gerrialdearen eta enborraren inguruan bereziki, eraman ohi dena. Arnes hori segurtasuneko soka bati lotuz, errazago ibiltzeko edo eskalatzeko modua izaten du mendizaleak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskaladako arnes</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arnés de escalada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>harnais d'escalade</term>
+    </tig>
+    <tig>
+      <term>baudrier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>full-harness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Behe-maiztasuneko igorgailu/hargailua, elurretan istripuren bat gertatuz gero elur-jausiaren azpian estalita geratu diren biktimak zehaztasun handiz lokalizatzeko modua ematen duena. Pila bidez elikatzen da, 200-300 orduko autonomia du igorpenari dagokionez, eta 30-50 ordukoa besterik ez, hargailu moduan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ARVA</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>elur-jausien biktimak bilatzeko aparatu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ARVA</term>
+    </tig>
+    <tig>
+      <term>aparato de búsqueda de víctimas de avalancha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ARVA</term>
+    </tig>
+    <tig>
+      <term>appareil de recherche de victime d'avalanche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>avalanche beacon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>igoera</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ascensión</term>
+    </tig>
+    <tig>
+      <term>subida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montée</term>
+    </tig>
+    <tig>
+      <term>ascension</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ascent</term>
+    </tig>
+    <tig>
+      <term>rise</term>
+    </tig>
+    <tig>
+      <term>climb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku batera iristeko bide nagusia baino laburragoa eta normalean zailagoa eta nekosoagoa den bide alternatiboa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lasterbide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>atajo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccourci</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>short cut</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behe-mendi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>baja montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baisse montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>low mountain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pareta batean dagoen plataforma. Bertara hurbil daiteke paisaia ikusteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>balkoi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balcón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balcon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>balcony</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arroila txiki eta sakona, bereziki higatzeko errazak diren material edo lursailetan ur-korronteen higaduraz sortua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreka-zulo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barranco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ravin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ravine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>igoera-abiapuntu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>base de ascensión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>base d'ascension</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>base of ascent</term>
+    </tig>
+    <tig>
+      <term>bottom of the ascent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>makila</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bastón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bâton</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hicking stick</term>
+    </tig>
+    <tig>
+      <term>walking pole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ibilbide jakin bat bi aukera diferentetan banatzen den puntua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bidebanatze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bifurcación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bifurcation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bifurcation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>borda</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>borda</term>
+    </tig>
+    <tig>
+      <term>chabola</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hutte</term>
+    </tig>
+    <tig>
+      <term>refuge</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shelter</term>
+    </tig>
+    <tig>
+      <term>shack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inguratu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bordear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contourner</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>go round</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinak estali eta ibilaldietatik babesten dituen oinetakoa. Zer-nolako materialarekin eginak dauden kontu, edo bere zola-motaren arabera, era askotakoak izan daitezke: larruzkoak, plastikozkoak, beste ehun berezizkoak, katu-oinak, etab.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendiko bota</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>alpinismoko bota</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de monte</term>
+    </tig>
+    <tig>
+      <term>bota de alpinismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>botte d'alpinisme</term>
+    </tig>
+    <tig>
+      <term>botte de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountaineering boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Poltsa batean bilduta eraman ohi diren osagai eta medikamentuen multzoa, mendian sendaketa txikiak egin ahal izateko erabiltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>larrialdietako botika-kutxa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botiquín de primeras urgencias</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>trousse de soins d'urgence</term>
+    </tig>
+    <tig>
+      <term>trousse de premiers soins</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>first-aid kit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ibai batek irekitako ibilgu edo ibar sakon eta estua, horma ia bertikalak dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arroila</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>garganta</term>
+    </tig>
+    <tig>
+      <term>foz</term>
+    </tig>
+    <tig>
+      <term>hoz</term>
+    </tig>
+    <tig>
+      <term>cañón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gorge</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gorge</term>
+    </tig>
+    <tig>
+      <term>canyon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Orientazioko tresna, kutxa baten barruan inolako marruskadurarik gabe aske biratzen duen orratz imantatu batez osatua. Era horretan, Lurrak berez duen magnetismoa baliatzen du orratzak, eta ipar magnetikoa adierazteko erreferentzia fidagarria da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>iparrorratz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>brújula</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boussole</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>compass</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanbro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bruma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brume</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mist</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gailurretan kokatu ohi den forma eta tamaina askotako edukiontzia, gailurrera iristen direnek txartelak edo oharrak uzteko jartzen dena. Garai batean, ohikoa zen aurreko igoeran utzitako txartelak itzultzea, baina ohitura hori gero eta atzenduagoa dago gaur egun.</descrip>
+    </descripGrp>
+    <tig>
+      <term>buzoi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>buzón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boîte</term>
+    </tig>
+    <tig>
+      <term>boîte aux lettres</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>box</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi-bideen ertzetan kokatutako harrizko piramidea, bidezidorra edo bidexka markatzen duena. Ohitura da ibiltariek harri-multzo horiek txukun eta egoera onean mantentzea, bidea beti ongi balizatua eta ikusgai egon dadin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>cairn</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cairn</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cairn</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cairn</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskuluetako arranpa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>muskulu-kalanbre</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calambre muscular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crampe musculaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>muscle cramp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanpamentu nagusi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campamento base</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>camp de base</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>base camp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goi-kanpamentu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campamento de altura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>camp d'altitude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>altitude camp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kantinplora</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cantimplora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gourde</term>
+    </tig>
+    <tig>
+      <term>bidon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydration bag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiaren isurialdeetako bakoitza. Orientazioa adierazteko, gailurrean gaudela pentsatu behar da: horrela, ipar-aurpegia esaten zaio gailurretik iparraldera begira dagoen aldeari.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aurpegi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>face</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>face</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurrazaleko ur-etorriek sortutako ildo estua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lubaki</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>karkaba</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cárcava</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fossé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gully</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kartografia</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cartografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cartographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mapping</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Uhar bateko urak amildegian edo labarrean behera erortzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ur-jauzi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cascada</term>
+    </tig>
+    <tig>
+      <term>salto de agua</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cascade</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waterfall</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Harkaitzean edo izotzean barrutik gora igotzeko adina zabala den pitzadura estu eta batzuetan bertikala. Arraila eskalatzailearen gorputza baino zabalagoa izaten denez, eskalatzaileak oposizioan igo ohi dira tximinietan barrena, oinak pareta batean eta bizkarra bestean bermatuz alegia, "ramonage" izeneko teknika edo "lau hankakoa" baliatuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tximinia</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chimenea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cheminée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chimney</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendizalearen gorputza, burutik hasi eta belaunetaraino babesten duen jantzia. Mota eta material askotakoak izan daitezke: PVCzkoak, nylonezkoak, forratuak edo ez, txanoarekin nahiz gabe....</descrip>
+    </descripGrp>
+    <tig>
+      <term>euritarako zira</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>zira</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chubasquero</term>
+    </tig>
+    <tig>
+      <term>cortalluvia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ciré</term>
+    </tig>
+    <tig>
+      <term>coupe pluie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slicker</term>
+    </tig>
+    <tig>
+      <term>rain cut</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi baten goragune edo punturik garaiena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gailur</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>tontor</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cima</term>
+    </tig>
+    <tig>
+      <term>cumbre</term>
+    </tig>
+    <tig>
+      <term>pico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cime</term>
+    </tig>
+    <tig>
+      <term>sommet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>peak</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurreko goragune naturala, mendia baino txikiagoa eta lau alde edo orientazio geografikoetara hegalak dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>muino</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>mendixka</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colina</term>
+    </tig>
+    <tig>
+      <term>cerro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>colline</term>
+    </tig>
+    <tig>
+      <term>butte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hill</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi mendi-tontorren edo goraguneren artean kokatutako sakonune zabala, sarritan isurialde batetik bestera pasatzeko erabili ohi dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lepo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>collado</term>
+    </tig>
+    <tig>
+      <term>portillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>col</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hotzarekiko esposizio luze eta iraunkorrak edo esposizio labur baina gogorrak eragindako lesioa. Badira gorputzeko ehunen izoztea errazten duten faktoreak, kanpokoak (tenperatura baxua, haizea eta hezetasuna) nahiz barrukoak (hipoxia eta deshidratazioa).</descrip>
+    </descripGrp>
+    <tig>
+      <term>izozte</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>congelación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>congélation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>freezing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontraktura muskular</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>muskulu-kontraktura</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contractura muscular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contracture musculaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>contracture of muscle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hornidura-zona</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>hornidura-gune</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>anoa-postu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>control de avituallamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>zone de ravitaillement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>feeding station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendian, beren segurtasuna areagotzeko, soka berarekin lotuak doazen alpinisten taldea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soka-talde</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cordada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>roped party</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiak nagusi izanik, hainbat elementu geografikoz (mendi, haran, ordoki, aintzira, eta abarrez) osatutako multzo, sistema edo unitate orografikoa, luzea zabala baino gehiago dena eta norabide orokor bat duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendikate</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cordillera</term>
+    </tig>
+    <tig>
+      <term>cadena montañosa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordillère</term>
+    </tig>
+    <tig>
+      <term>chaîne de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cordillera</term>
+    </tig>
+    <tig>
+      <term>mountain range</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi-hegalean kokatua dagoen harrizko ertz irtena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erlaitz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cornisa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>corniche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cornice</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pasabide estua, terreno lauan zein maldan kokatua. Sarritan, bat egiten du igoera-biderik begi-bistakoenarekin, denetan errazena ez izan arren.</descrip>
+    </descripGrp>
+    <tig>
+      <term>korridore</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>couloir</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corredor</term>
+    </tig>
+    <tig>
+      <term>couloir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>couloir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gully</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gailur-lerro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>gailurreria</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cresterío</term>
+    </tig>
+    <tig>
+      <term>cresta</term>
+    </tig>
+    <tig>
+      <term>cordal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crête</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain crest</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mapa-mota berezia, ibilbideen ohar grafikoak eskaini eta horietako ezaugarri nabarmenen berri ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>krokis</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>croquis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>croquis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sketch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ura ibai nagusi berera isurtzen duten lurren multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bassin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>basin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hariak elkarrekin bihurrituz egindako egitura luze, biribil, malgu eta sendoa, bereziki lokarri gisa erabiltzen dena; alpinistek segurtatze-sistema gisa erabiltzen dute, beren buruak babesteko eta rappeleko jaitsierak egiteko. Normalean, 7-12 mm bitarteko lodiera duten sokak erabili ohi dira, Alpinismoko Elkarteen Nazioarteko Batasunak homologatuak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soka</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuerda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>corde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rope</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku zail eta delikatu batean aldez aurretik ezarritako soka, igoera errazten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soka finko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuerda fija</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>corde fixe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fixed rope</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haitzulo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>kobazulo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cueva</term>
+    </tig>
+    <tig>
+      <term>gruta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caverne</term>
+    </tig>
+    <tig>
+      <term>grotte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cavern</term>
+    </tig>
+    <tig>
+      <term>grotto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jaitsiera</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descenso</term>
+    </tig>
+    <tig>
+      <term>bajada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>descente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>descent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Abentura-kirola, eskaladan erabiltzen diren jaitsierako teknikak baliatuz mendiko ibaien ibilguetan eta uharretan behera jaistean datzana. Kirol horretan, ibiltzea, rappelean egindako jaitsierak eta igeriketa konbinatzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arroila-jaitsiera</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descenso de cañones</term>
+    </tig>
+    <tig>
+      <term>descenso de barrancos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>descente de canyon</term>
+    </tig>
+    <tig>
+      <term>canyonisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>canyoning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eremu menditsuko pasabide oso sakon eta estua, pareta pikoak eta malkartsuak dituena. Arroila baino txikiagoa izaten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haitzarte</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desfiladero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>défilé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>narrow pass</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzeko ur-galera garrantzitsua, esfortzuak eragindakoa. Deshidratazioak mendizalearen errendimendua murriztea dakar, eta, larria baldin bada, haren bizia arriskuan jartzera ere irits daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>deshidratazio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deshidratación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déshydratation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dehydration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi puntu jakinen artean dagoen maila edo altuera-aldea. Mendian, ibilbideari ekiteko irteera-gunearen eta iritsi nahi den punturik altuenaren (dela aterpearen, aintzira edo lakuaren nahiz gailurraren) arteko diferentzia adierazteko erabili ohi da. Altimetroarekin nahiz GPSarekin neur daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>desnibel</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desnivel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dénivellation</term>
+    </tig>
+    <tig>
+      <term>dénivelée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>altitude difference</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desnibel metatu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desnivel acumulado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dénivellation cumulée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cumulative elevation gain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi, hegal, harkaitz nahiz murru batetik lurra, harriak edo haitzak erortzea. Hainbat izan daitezke horretarako arrazoiak: trumoi-ekaitzak, urtze-aldiak, lurzoru ez-egonkorrak edo mugimendu tektonikoak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>luizi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>lur-jausi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desprendimiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éboulement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fall of ground</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidea egin</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encadenar una vía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enchaîner une voie</term>
+    </tig>
+    <tig>
+      <term>faire une croix</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wire a route</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sokaz lotu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encordarse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>s'encorder</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rope up</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku bertikal, malkartsu edo pikoetan gora egitea, oinez gain eskuak ere baliatuz, baliabide artifizialak erabiliz edo erabili gabe. Eskalada modu askean egin daiteke, edo bestela, eskalada artifiziala, kirol-eskalada edo eskalada mistoa izaten da, erabilitako progresioko baliabideen arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskalada</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escalada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>escalade</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>climbing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskalatzaile</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escalador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grimpeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>climber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskalatu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escalar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grimper</term>
+    </tig>
+    <tig>
+      <term>escalader</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>climb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pareta edo harkaitz baten zati irtena, tamaina handi samarrekoa, pasaguneak edo korridoreak izan daitezkeen bi sakonuneren artean kokatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezproi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espolón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éperon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spur</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputz-atalak beren mugimendu-zabaltasunik handienean hedatzea, muskulatura eta giltzadurak ondorengo esfortzurako ahalik eta modurik hoberenean prestatzeko. Ariketa horrek oreka muskularra mantendu eta lesioak gertatzeko arriskua gutxitzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>luzatze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>tiramendu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>luzaketa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estiramiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étirage</term>
+    </tig>
+    <tig>
+      <term>étirement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stretching</term>
+    </tig>
+    <tig>
+      <term>stretching out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zelulek jasaten duten intoxikazio edo kutsadura, jarduera luze eta iraunkorra dela medio muskuluetan gertatzen diren hainbat transformazio biokimikoren eraginez gertatzen dena. Jarduerak aurrera jarraitzen badu, gorputzak substantzia kaltegarri horiek bizkor eliminatzeko duen gaitasuna ez da aski, eta desoreka zelularrak sortzen hasten dira gorputzean; horren guztiaren ondorioz, muskuluek mugitzeko gaitasuna galtzen dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>neke muskular</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fatiga muscular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fatigue musculaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>muscular fatigue</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendi-federazio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>mendizale-federazio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>federación de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fédération de la montagne et de l'escalade</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>federation of mountain and climbing sports</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zakote-ontzi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fiambrera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gamelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cookset</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sabelaldean sastada moduan agertzen den mina, urdailaren goiko partean, eskuinaldean nahiz ezkerraldean, sentitzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bare</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>point de côté</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>side stitch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Une batean gehiegi jardun izanak sortzen duen ezina, erritmo desegokian saiatzeagatik, esaterako. Erritmoa jaitsita, errekupera daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>betealdi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>betetze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fatiga</term>
+    </tig>
+    <tig>
+      <term>desfondamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fatigue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fatigue</term>
+    </tig>
+    <tig>
+      <term>weariness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ahalik eta babesik handiena eskaintzeko pentsatutako materialez osatutako jantzia, oso transpiragarria eta iragazkorra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jantzi polar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>forro polar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polar wear</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Traumatismo bat edo eroriko bat dela medio hezurren bat haustea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haustura</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fractura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fracture</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fracture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hasiera batean espeleologoek erabiltzen zuten argiztapen-sistema, gaur egun aski zabaldua. Buruan lotua eraman ohi denez, eskuak libre daude pioleta edo makila teleskopikoa eramateko, edo eskalada-teknikei heltzeko, jarraitu beharreko bidea erakusten duelako. Kopeta-argiari esker, beste eginkizun batzuk ere (afaria prestatu, motxila barruan gauzak bilatu, etab.) erosoago eta arinago egin daitezke, edo, laino artean, gauez edo ikuspen gutxiko uneetan, errazago egiten da aurrera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kopeta-argi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frontal</term>
+    </tig>
+    <tig>
+      <term>linterna frontal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe frontale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>headlamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iturri</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fontaine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fountain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidetik kanpo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuera de sendero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hors sentier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fulgurazio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>tximistak jotze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fulguración</term>
+    </tig>
+    <tig>
+      <term>caída de un rayo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fulguration</term>
+    </tig>
+    <tig>
+      <term>coup de foudre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fulguration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lokalizazio-sistema, une jakin batean posizio geografiko bat zehazteko modua ematen duena. Horretarako, Lurraren inguruan orbitan jarritako sateliteek igortzen dituzten seinaleak baliatzen ditu. Hiru satelite erabiltzen ditu, gutxienez, triangelukatze egokia lortzeko, eta laugarren satelite batekin, altitudea ere kalkula dezake, gehienez ere 20 metroko errore-marjinarekin. Oinarrizko datu horiez gain, beste hainbat baliabide ere adierazten ditu (ibilbidearen norabidea, egindako bidea, bi punturen arteko distantzia, etab.).</descrip>
+    </descripGrp>
+    <tig>
+      <term>GPS</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>Global Positioning System</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>GPS</term>
+    </tig>
+    <tig>
+      <term>Global Positioning System</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>GPS</term>
+    </tig>
+    <tig>
+      <term>système de localisation GPS</term>
+    </tig>
+    <tig>
+      <term>système GPS</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>GPS</term>
+    </tig>
+    <tig>
+      <term>global positioning system</term>
+    </tig>
+    <tig>
+      <term>GPS system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendian begiak gehiegizko argiztapenaren kalteetatik babesteko erabiltzen den objektua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elurretako betaurreko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gafas de nieve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lunettes de neige</term>
+    </tig>
+    <tig>
+      <term>lunettes de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>snow-goggles</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>glaziar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>glaciar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>glacier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>glacier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egoera larria, beroa gorputzean pilatzearen ondorioz sortua, tenperatura zentralaren igoera dakarrena. Deshidratazioaren ondorioz, likidorik sartzen ez bada, egoera oso larria edo muturrekoa izatera irits daiteke, bizitza arriskuan jartzeraino.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bero-kolpe</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>golpe de calor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coup de chaleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heatstroke</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Urarekiko iragazgaitza eta airearekiko iragazkorra den ehuna, mendian erabili ohi diren hainbat jantzi egiteko baliatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Gore-Tex</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Gore-Tex</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Gore-Tex</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Gore-Tex</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Burua estaltzeko eta berotik nahiz hotzetik babesteko erabiltzen den jantzia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txano</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gorro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bonnet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiko ibilbideek izan dezaketen zailtasun teknikoa, errazenetik zailenera ordenatuta, adierazten duen azalpeneko eskala. Gaur egun, eskala horren baliokideak erabiltzen dira abentura-kirol guztietan (eskian, piraguismoan, espeleologian, arroilen jaitsieran, eskaladan, etab.).</descrip>
+    </descripGrp>
+    <tig>
+      <term>zailtasun-maila</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grado de dificultad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>degré de difficulté</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>degree of difficulty</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurrean, haitzetan edo izotzetan sortzen den irekigune estu eta sakona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pitzadura</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>arrail</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grieta</term>
+    </tig>
+    <tig>
+      <term>fisura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crevasse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fissure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sorospen-talde</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grupo de socorro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>groupe de secours</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rescue team</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskuak estali eta babesteko erabiltzen den jantzia. Eskuzorroaren kasuan ez bezala, eskularruan hatz bakoitzak bere leku propioa dauka, bere kasa mugitzeko modua ematen diona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskularru</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>glove</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiko ibilbideak deskribatzen dituen argitalpen berezitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendi-gida</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guía de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>guide de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain guide-book</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzaren tenperatura zentrala 35 ºC-tik azpira jaisten denean gertatzen den egoera arriskutsua (beste autore batzuek 32 ºC-an jartzen dute muga). Gorputzak ezin du berorik sortu, beroa galtzen duen abiadura berean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hipotermia</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hipotermia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hypothermie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hypothermia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tresna eramangarria, gas, gasolina nahiz alkoholezko erregailuarekin funtzionatzen duen sukalde txikia, leku txiki eta murriztuetan edo irteera nahiz txangoetan janaria prestatzeko modua ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>su txiki</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>suarka</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hornillo</term>
+    </tig>
+    <tig>
+      <term>infiernillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réchaud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>small portable stove</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aragoi aldeko Pirinioetako aintzira txikia, jatorri glaziarrekoa eta altuera handian dagoena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>iboi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ibón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ibon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tarn</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzki-izpien pean egindako esposizio luzeegiak dakarren egoera: buruko mina, izerditzea, muskuluetako nekea, goragaleak eta baita gorakoak ere batzuetan; eguzki-izpiek buruaren gain duten zuzeneko ondorioak dira horiek. Larruazaleko erredurak ager daitezke gorputz-atal estali gabeetan, konjuntibitisak eta erretinako alterazioak, atzeraezinezkoak zenbait kasutan. Normalean, sukarra agertu ohi da, eta, batzuetan, baita irritazio eta kongestio meningeoak ere, giltzurrunetako alterazioak, etab. Eboluzioa desberdina da, bai larritasunari eta baita iraupenari begira ere, intentsitatearen arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>intsolazio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>insolación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>insolation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>insolation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekinaldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>saio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>essai</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>attempt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Igoera, zeharkaldi edo eskalada batean jarraitu beharreko bidea. Hedaduraz, ibilbide hitzak, sarritan, leku batetik bestera joateko pasatu beharreko leku guztien deskripzioa ematen du, eta ingurune horri buruzko oharrak ere adierazten ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ibilbide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>itinerario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>itinéraire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>itinerary</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi edo bestelako goragune baten albo edo alderdi maldatsua, ibarbidea gailurren lerroarekin lotzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hegal</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>mazela</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ladera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>flanc</term>
+    </tig>
+    <tig>
+      <term>versant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slope</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurreko edozein punturen eta ekuatorearen artean dagoen distantzia, gradutan neurtua. Izan daiteke iparra nahiz hegoa, eta 0º-tik 90º-ra bitartekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>latitude</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>latitud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>latitude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>latitude</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>federazioaren lizentzia</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>licencia federativa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>licence de la fédération</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lipotimia</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lipotimia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lipothymie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lipothymia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zelaian joan</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llanear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>marcher en terrain plat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cruise</term>
+    </tig>
+    <tig>
+      <term>coast along</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurreko goragune txiki eta luzanga, forma biribil eta malda leunekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bizkar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>loma</term>
+    </tig>
+    <tig>
+      <term>lomo</term>
+    </tig>
+    <tig>
+      <term>espalda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>colline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hillock</term>
+    </tig>
+    <tig>
+      <term>low ridge</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurreko edozein punturen eta 0º meridianoaren arteko distantzia, gradutan neurtua. Izan daiteke ekialde nahiz mendebalde longitudea, eta 0º-tik 180º-ra bitartekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>longitude</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>longitud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>longitude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>longitude</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goi-altuerako oxigeno-eskasiak behar bezalako aklimataziorik ez duten mendizaleei eragindako asaldua. Adibide gisa, itsas mailarekin alderatuz gero, Alpeetan, Mont Blanc-eko gailurrean, erabil daitekeen oxigenoa erdira jaisten da; Everest-eko gailurrean, berriz, herenera. Gorputza ezin da behar bezala egokitu, eta garuneko asfixia sortzen da, buruko mina, pultsuaren azelerazioa, arnas nekea, goragaleak eta lo-ezinaren moduan agertzen dena. Beheragoko mailetara jaistea da irtenbide bakarra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendiko gaitz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mal de altura</term>
+    </tig>
+    <tig>
+      <term>mal de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mal des montagnes</term>
+    </tig>
+    <tig>
+      <term>MAM</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain sickness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iturburu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>ur-begi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manantial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>source</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskua estaltzen duen jantzia, eskularruek ez bezala erpuruarentzat hatz-leku berezi bat eta gainerako hatz guztientzat beste hatz-leku bat daukana.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskuzorro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manopla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>moufle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mitt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurraren gainazalaren zati jakin bateko xehetasunen edo espazioan kokatzeko modukoak diren fenomeno zehatzen edo abstraktuen irudikapen konbentzionala ematen duen dokumentu grafikoa, eskala eta proiekzio jakin batean lantzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mapa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mapa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>carte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>map</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendi-ibilaldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcha de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>marche en montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hiking</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Balizatu gabeko lursail batean, maparen nahiz iparrorratzaren laguntzarekin egiten den ibilaldia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>orientazioko ibilaldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcha de orientación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>marche d'orientation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>orienteering hike</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ibilaldi neurtu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcha regulada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>randonnée à allure régulée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>timed walk</term>
+    </tig>
+    <tig>
+      <term>timed hike</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erdi-mailako mendi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>media montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>moyenne montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>highland</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Garaiera handiko lurralde lau eta zabala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goi-lautada</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>meseta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plateau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plateau</term>
+    </tig>
+    <tig>
+      <term>plate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zaku forma duen tresna, material erresistentez egina, mendian igoerari ekiteko beharrezkotzat jotzen diren objektuak bizkarrean hartuta garraiatzeko erabiltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bizkar-zorro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>motxila</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mochila</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sac à dos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>backpack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inguruko lurretatik nabarmentzen den goratasun handiko goragunea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montaña</term>
+    </tig>
+    <tig>
+      <term>monte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendizaletasuna praktikatzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendizale</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montañero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montagnard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountaineer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Funtsean mendiak zeharkatu eta gailurretara igotzean datzan kirol-jardueren multzoa. Gehienetan, plazer hutsez egiten da, baina baita esplorazio-gogoak edo premia zientifikoak bultzatuta ere. Kirolaren ikuspegitik, mendizaletasunak igoera eta ibilaldi erraz samarrak hartzen ditu, alpinismoak edo eskaladak ez bezala, baina txangolaritzak, senderismoak edo mendi-ibiliak berezkoak dituztenak baino zailagoak, dena den. Mendi-bizikleta eta mendian egiten diren beste kirol batzuk ez dira, zentzu hertsian, mendizaletasunaren barruan sartzen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendizaletasun</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montañismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alpinisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountaineering</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Malgukidun pieza giltzatu batez ixten eta irekitzen den titaniozko, altzairuzko edo duraluminiozko eraztuna. Mendiko jardueretan, gauzak erraz eta azkar lotzeko zein askatzeko erabiltzen da, eta harkaitzean sartutako iltzeetan finkatu ondoren, sokak bertatik zehar pasarazten dira, soka-taldean doazen mendizaleen segurtasuna bermatuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mosketoi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mosquetón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mousqueton</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>carabiner</term>
+    </tig>
+    <tig>
+      <term>karabiner</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>elurtegi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nevero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puits à neige</term>
+    </tig>
+    <tig>
+      <term>glacière</term>
+    </tig>
+    <tig>
+      <term>puits à glace</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ice cave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laino</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>niebla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brouillard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Izotz-kristalezko prezipitazioa; kristal txikiak dira, gehienak adarkatuak (batzuetan, izar-formakoak); erortzean, elkartu egiten dira, eta maluta zuri moduan iristen dira lurrera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elur</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nieve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>neige</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>snow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Muturreko neke-egoera, ondoez orokorreko sentsazioa sorrarazten duena, eta kordea galtzeraino irits daitekeena. Gehiegizko ahalegin edo gainesfortzu fisiko batek eragindako hipogluzemia izugarriak sortua da. Esfortzuaren aurretik edo baita esfortzua egin bitartean ere behar bezala elikatzen ez diren (esaterako, karbohidratoak ahoratzea zaindu ez duten) mendizaleei gertatu ohi zaie.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txakalaldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>ahulaldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>flakia</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desfallecimiento</term>
+    </tig>
+    <tig>
+      <term>pájara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>défaillance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>breakdown</term>
+    </tig>
+    <tig>
+      <term>slut</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Harrizko murru bertikala, mendi baten hegalean nahiz haitzarte edo zintzur batean kokatua. Maila teknikoan, inklinazioa 50 gradutik gorakoa denean erabiltzen da hitz hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pareta</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>horma</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pared</term>
+    </tig>
+    <tig>
+      <term>muro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>paroi</term>
+    </tig>
+    <tig>
+      <term>mur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wall</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>buru-beroki</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pasamontañas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>passe-montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>balaclava</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>igarobide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>paso</term>
+    </tig>
+    <tig>
+      <term>pasaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>passage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>passage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>malda</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>aldapa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pendiente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gradient</term>
+    </tig>
+    <tig>
+      <term>slope</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haitz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>peña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rocher</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goma egosiz egindako zola duten oinetako bereziak. Zola horrek itsaspen handia ematen die, eta, horregatik, kirol-eskaladan edo zailtasun handiko eskalada tradizionalean erabiltzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskalatzeko oinetakoak</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>katu-oinak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pies de gato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussons d'escalade</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>climbing shoes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pikotx baten antza duen tresna, mendizaleari segurtatzea eta elurretan nahiz izotzetan aurrera egiteko modua errazten diona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>piolet</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piolet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piolet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ice axe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lumazko anorak</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plumífero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>veste-duvet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>duvet jacket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Botak eta galtzen beheko aldea estaltzen dituen zorro moduko jantzi teknikoa. Elurretan ibiltzeko ez da nahikoa bota iragazgaitzak eramatea, elurra boten barrura sartzen baita, oinak bustiz. Azpantarrek hori saihesten dute, botaren goiko partea eta galtza-zangoa edo zangoa bera estaltzen baitituzte. Komeni da azpantarrak transpiragarriak izatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>azpantar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>polaina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>guêtre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gaiter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Motxila edo bizkar-zorroaren osagarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>piolet-euskarri</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>porta-piolet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>porte-piolet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ice-axe holder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>amildegi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>erroitz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>precipicio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>précipice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>precipice</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerbitzu meteorologikoaren aurreikuspen</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>previsión del servicio meteorológico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prévision météorologique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>weather forecast</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehen eskalada</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>primera escalada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>première escalade</term>
+    </tig>
+    <tig>
+      <term>première ascension</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>first ascent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehen laguntzak</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>lehen sorospenak</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>primeros auxilios</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>premiers soins</term>
+    </tig>
+    <tig>
+      <term>premiers secours</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>first aid</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larruazaleko gorritasuna, minarekin batera agertu eta babak ere sor ditzakeena, eguzki-izpiekiko etengabeko esposizioak eragina.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzkiaren erredura</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>quemadura solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>érythème solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sun burn</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haize-bolada</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>haize-ufada</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>haize-parrasta</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ráfaga de viento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rafale de vent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind gust</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskaladako teknika edo maniobrarik klasikoenetakoa: puntu finko batetik (harkaitz-irtengune, pitoi, begizta, arteka-trabagailu edo zuhaitz batetik) jaistea, soka bikoitza erabiliz eta arnesari lotuak doazen jaiskailu izeneko osagai metalikoak baliatuz. Era horretan, abiadura eta jaitsiera osagai horien eta sokaren arteko marruskadura bidez kontrolatzen dira. Ondoren, soka berreskuratzeko, soka-muturretako batetik tiratu behar da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>rappel</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rappel</term>
+    </tig>
+    <tig>
+      <term>rápel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rappel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>abseil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiko botari akoplatzen zaion objektua, azalera handiagoa hartzeko eta, horri esker, elur bigunean ez hondoratzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elur-erraketa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>raqueta de nieve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raquette à neige</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>snowshoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendizale, alpinista nahiz txangozaleek mendian atseden har dezaten eta lo egin dezaten prestatutako babeslekua. Izan daiteke librea edo zaindua, eta horren arabera ordaindu behar da edo ez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendi-aterpe</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>refugio de montaña</term>
+    </tig>
+    <tig>
+      <term>albergue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>refuge de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain hut</term>
+    </tig>
+    <tig>
+      <term>mountain retreat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erliebe</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relieve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>relief</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>relief</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiaren harrizko pareta simulatzen duen egitura artifiziala. Bertan helduleku finkoak egoten dira eta zailtasun tekniko desberdineko bideak ere bai. Rokodromoak entrenamenduetan erabiltzen dira gehienbat, baina lehiaketak ere antolatzen dira berorietan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>rokodromo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>eskalada-murru</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rocódromo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mur d'entraînement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>artificial training wall</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuntz-haustura</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>zuntz-etendura</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rotura de fibras</term>
+    </tig>
+    <tig>
+      <term>desgarro muscular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déchirure de fibres</term>
+    </tig>
+    <tig>
+      <term>claquage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pulled muscle</term>
+    </tig>
+    <tig>
+      <term>muscle strain injury</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ruta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>route</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>road</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zaku forma duen objektua; barruan sartuta gaueko hotzetik babestuta lo egiteko baliatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lo-zaku</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saco de dormir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sac de couchage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sleeping bag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bibaketan lo-zakua erabat estali eta kanpoko ur, haize eta hotzetik isolatua mantentzeko erabiltzen den objektua. Transpirazioa kanporantz irteten ondo uzten duten eta aldi berean nahiko iragazgaitzak diren materialez eginak izan ohi dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bibak-zaku</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saco de vivac</term>
+    </tig>
+    <tig>
+      <term>funda de vivac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sur-sac de bivouac</term>
+    </tig>
+    <tig>
+      <term>sac de bivouac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bivouac sack</term>
+    </tig>
+    <tig>
+      <term>bivy sack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendiko aseguru</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seguro de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assurance montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain insurance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bidezidorrak, xendak, bidexkak, abelbideak eta, oro har, zailtasun tekniko gehiegirik gabeko bideak oinez ibiltzean datzan jarduera fisikoa edo kirola. Zentzu hertsian ibilketaren sinonimoa ez bada ere, mendi-ibilien barruan sartzen da ibilbide bat, balizatua izan nahiz ez, oinez egitea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendi-ibili</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>senderismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balade à pied</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rambling</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendiko ibilbide luze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>ibilbide luze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>GR</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sendero de gran recorrido</term>
+    </tig>
+    <tig>
+      <term>grandes recorridos</term>
+    </tig>
+    <tig>
+      <term>GR</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Grande Randonnée</term>
+    </tig>
+    <tig>
+      <term>GR</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>long distance footpath</term>
+    </tig>
+    <tig>
+      <term>hiking trail</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendiko ibilbide labur</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>ibilbide labur</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>PR</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sendero de pequeño recorrido</term>
+    </tig>
+    <tig>
+      <term>pequeños recorridos</term>
+    </tig>
+    <tig>
+      <term>PR</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Petite Randonnée</term>
+    </tig>
+    <tig>
+      <term>PR</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>short distance footpath</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi edo landetako bide meharra, oinezkoentzat edo abereentzat izan ohi dena. Erabileraren arabera, izan daiteke: zirkularra (leku berean hasi eta bukatzen da); ekologikoa (balio ekologiko berezia du); ekipatua (kableak, eskubandak eta bestelako tresna lagungarriak ditu) nahiz pedagogikoa (kartelak, argibide edo informazio-panelak ditu).</descrip>
+    </descripGrp>
+    <tig>
+      <term>bidezidor</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>bidexka</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sendero</term>
+    </tig>
+    <tig>
+      <term>senda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>route</term>
+    </tig>
+    <tig>
+      <term>sentier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trail</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sorospen-seinale</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>señal de socorro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>S.O.S</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>distress signal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ekialdeko Nepaleko biztanlea, jatorriz tibetarra. Mendebaldeko mendizaleentzat laguntzailerik onena izan zen garai batean --eta bada, oraindik ere-- goiko kanpalekuetara zamak garraiatzeko eta Himalaiako gailurretarako saioak egiteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>xerpa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sherpa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sherpa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sherpa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>leize</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>leize-zulo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sima</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gouffre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>swallow-hole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendian gaua pasatzeko, babestuta egoteko edota aldi baterako bizitzeko erabiltzen den objektua. Forma eta tamaina desberdinak ditu, eta erraz eraman daiteke leku batetik bestera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kanpadenda</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>denda</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de campaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tente de camping</term>
+    </tig>
+    <tig>
+      <term>tente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>camp tent</term>
+    </tig>
+    <tig>
+      <term>tent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erreka-zuloak, amildegiak eta gisako oztopoak zeharkatzeko ezartzen den sokazko zubia. Polea batetik zintzilik pasatzen da alde batetik bestera. Izena Tiroleko eskualde alpinotik datorkio tresna horri.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tirolina</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>soka-zubi tiroldar</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tirolina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tyrolienne</term>
+    </tig>
+    <tig>
+      <term>pont de corde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Tyrolean traverse</term>
+    </tig>
+    <tig>
+      <term>rope bridge</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trumoi-ekaitz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tormenta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>orage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thunderstorm</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Iraupen luzeko ibilbidea, irteera eta ailegaera leku diferenteetan eduki ohi dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zeharkaldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>trabesia</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>travesía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>traversée</term>
+    </tig>
+    <tig>
+      <term>parcours</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crossing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irispide zaileko eskualdeetan oinez egiten den ibilbide turistikoa. Hasiera batean soilik Nepaleko kontua izan bazen ere, gaur egun mundu osora zabaldua dago. Helburu nagusia mundua ikusi eta pertsonak ezagutzea izaten da eta, salbuespenezko kasuetan, mendiak igotzea. Garraiatzaileen eta zamarien laguntza ere izaten da kasu batzuetan materiala eramateko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>trekking</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trekking</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>trekking</term>
+    </tig>
+    <tig>
+      <term>randonnée pédestre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trekking</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haran</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>ibar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>valle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vallée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>valley</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bide nagusitik atera eta geroago berriro bide nagusira itzultzen den bidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>saihesbide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>variante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>by-pass</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bisuts</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ventisca de nieve</term>
+    </tig>
+    <tig>
+      <term>nevasca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tempête de neige</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blizzard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hurbilbide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vía de acceso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>voie d'accés</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>access road</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskalada-bide</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vía de escalada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>voie d'escalade</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>climbing route</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gailur batera daraman ibilbiderik errazena, ezagunena eta erabiliena. Hala ere, horrek ez du esan nahi bide hori, zailtasun-mailari dagokionez, erraza denik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>igotzeko bide arrunt</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vía normal de ascensión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>voie normale d'ascension</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>normal ascent route</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goi-mendian kokatuta dagoen aire zabaleko lekua, gaua izarpean edo gehienez ere kanpadenda indibidual batean emateko prestatzen dena. Horretarako, harriak jartzen dira zirkulu-erdi baten forma emanez eta pareta moduko bat osatuz, haizearen indarrari aurre egiteko. Hedaduraz, igoera bat egiten ari denari gaua pareta batetik zintzilik emateko modua eskaintzen dion behin-behineko instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bibak</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vivac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bivouac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bivouac</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gaua izarpean eman, aire zabalean, kanpadendarik gabe alegia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bibakeatu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>bibak egin</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vivaquear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bivouaquer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bivouac</term>
+    </tig>
+    <tig>
+      <term>camp out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goi-mendian, 7.500 metrotik gora kokatua dagoen zona. Horrela esaten zaio garaiera horretatik gora gorputza modu atzeraezinean hondatzen delako, errekuperatzeko gaitasunik gabe, bertako oxigeno-kantitatea ez baita bizitzari eusteko adinakoa. Horregatik, ahalik eta gehien murriztu behar da maila horretan egiten den egonaldia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>heriotzaren zona</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>herio-gune</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zona de la muerte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>zone de la mort</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>death zone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Harkaitz puntazorrotza. Bakarrik ager daiteke edo mendi nahiz gailurreria baten zati gisa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>orratz</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aguja</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aiguille</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>needle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi-hegal batetik bat-batean erortzen den elur- eta izotz-pila, askotan lurra, harriak eta bestelako hondakinak herrestan eramaten dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elur-jausi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>elurrolde</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>avalancha de nieve</term>
+    </tig>
+    <tig>
+      <term>alud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>avalanche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>avalanche</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bidea adierazten duen edozein seinale (pintura, harriak...).</descrip>
+    </descripGrp>
+    <tig>
+      <term>baliza</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>baliza</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balise</term>
+    </tig>
+    <tig>
+      <term>perche-repère</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wand</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tamaina handiko pitzadura edo arraila, mendi-hegal batean goitik behera irekia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreten</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>kanal</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>channel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hartxintxar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cascajo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gravillon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>grit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zirku glaziar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circo glaciar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cirque glaciaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cirque</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haizetik edo eguraldi txarretik babesteko lekua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>babes</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cobijo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>refuge</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shelter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurrazaleko elurraren eta/edo izotzaren ur bihurtzea, tenperatura 0 ºC-tik gora igotzearen ondoriozkoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>urtze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>urtze-aldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deshielo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dégel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thaw</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bertikaltasuna gainditzen duen pareta, alegia 90 gradu sexagesimaletik gorako inklinazioa duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>makurgune</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desplome</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>surplomb</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>overhang</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elkarren ondoan dauden bi arro hidrografiko banantzen dituen lerroa; bertatik, urak alde batera edo bestera doaz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>isurialdeen banalerro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>divisoria hidrográfica</term>
+    </tig>
+    <tig>
+      <term>divisoria de aguas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ligne de partage des eaux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drainage divide</term>
+    </tig>
+    <tig>
+      <term>watershed divide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurrazaleko sakonune, estugune edo zuloa, goiko aldea zabala eta behekoa estua duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inbutu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>embudo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>entonnoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>funnel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>malkar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escarpado</term>
+    </tig>
+    <tig>
+      <term>escarpa</term>
+    </tig>
+    <tig>
+      <term>escarpe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>escarpe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scarp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bezeroak mendi-jardueretan gidatuz eta haiei lagunduz aritzen den mendiko profesionala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gidari</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>mendiko gidari</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guía de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>guide de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain guide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lursail, jabetza, eta abarren muga non dagoen edo, besterik gabe, bidea nondik barrena doan adierazteko jartzen den seinale edo harria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mugarri</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hito</term>
+    </tig>
+    <tig>
+      <term>mojón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>borne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>boundary mark</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiak nagusi izanik, hainbat elementu geografikoz (mendi, haran, ordoki, aintzira, eta abarrez) osatutako multzoa, norabide orokor bat ez duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendigune</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>macizo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>massif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>massif</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Paisaia bati begira egoteko lekua, normalean horretarako egokitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>begiratoki</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mirador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>belvédère</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scenic point</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>morrena</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>morrena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>moraine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>moraine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ibai edo erreka baten sorlekua den iturburua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sorburu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nacedero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>source</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>source</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendian, elurretan edo izotzean zuloak egiteko erabili ohi den tresna. Beharrezkoa izaten da elur-jausi batean harrapatuak geratu direnak erreskatatzeko, edo, elurte handien ondotik, aterpeko ateraino bidea irekitzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elur-pala</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pala de nieve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pelle à neige</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>snow shovel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>harritza</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pedrera</term>
+    </tig>
+    <tig>
+      <term>pedriza</term>
+    </tig>
+    <tig>
+      <term>pedregal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rocaille</term>
+    </tig>
+    <tig>
+      <term>pierrier</term>
+    </tig>
+    <tig>
+      <term>éboulis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scree</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Glaziarretan, malda handiko zonetan bereziki, izotza pitzatzearen ondorioz sortzen diren bloke oso handi eta irregularretako bakoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>serac</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>serac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sérac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>serac</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Latitudea eta longitudea zorroztasun handiz zehaztuak dituen puntua, behaketa eta neurketa geodesikoetan erabilia; bereziki, leku hori adierazten duen seinale edo mugarri berezia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erpin geodesiko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vértice geodésico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>point géodésique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geodetic point</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendiko ibilbidea. Bertan, zailtasun-maila diferentea duten hainbat eskalada-zona gainditu behar izaten dira: harkaitzean finkatutako maila metalikoak, kableak, eskalak, pasabideak, etab.</descrip>
+    </descripGrp>
+    <tig>
+      <term>via ferrata</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vía ferrata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>parcours ferré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>via ferrata</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurzoruaren edo ibilbide naturalaren gorabeheretara bereziki egokitua dagoen bizikleta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendiko bizikleta</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bicicleta de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vélo de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain bike</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendi-lasterketa</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carrera de montaña</term>
+    </tig>
+    <tig>
+      <term>competición de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>course de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain-race</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gailurrera heldu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>gaina hartu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coronar</term>
+    </tig>
+    <tig>
+      <term>hacer cumbre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>faire sommet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>get to the top</term>
+    </tig>
+    <tig>
+      <term>reach the summit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>katuka jaitsi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>destrepar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dégrimper</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>downclimb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendi-igoera batean, tarte bereziki zail bat ainguratze-puntuz eta sokaz behar bezala prestatu, errazago gainditu ahal izateko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bidea ekipatu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>bidea hornitu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equipar una vía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>équiper une voie</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eski alpetar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esquí alpino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ski alpin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>alpine skiing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iraupen-eski</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esquí de fondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ski de fond</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cross-country skiing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendiko eski</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>mendi-zeharkako eski</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esquí de travesía</term>
+    </tig>
+    <tig>
+      <term>esquí de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ski de randonnée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ski-mountaineering</term>
+    </tig>
+    <tig>
+      <term>ski-touring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espedizio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expedición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>expédition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>expedition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskalatzen ari den bidearen luze baten amaieran dagoen puntu zehatza. Bertan, soka-talde bateko kideak biltzen dira hurrengo luzeari ekin aurretik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bilgune</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>elkargune</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reunión</term>
+    </tig>
+    <tig>
+      <term>punto de reunión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>relais</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>belay station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi bilguneren arteko eskalada-tartea; sokaren luzera baino txikiagoa izan ohi da, hau da, 40-45 metrokoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>luze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+      <termNote type='usageNote'>iz.</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>largo de cuerda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>longueur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pitch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iraupen-ibilaldi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcha de fondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>marche de fond</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>long distance walk</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zamaketari</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>porteador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>porteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>porter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mendian, eskaladan, eskian eta abarretan erakusle, begirale edo laguntzaile gisa aritzen den teknikaria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>monitore</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>monitor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>moniteur</term>
+    </tig>
+    <tig>
+      <term>instructeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>instructor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>katuka igo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trepar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grimper</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scramble</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendizaletasuna, kirol gisa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikuspen</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visibilidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>visibilité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>visibility</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Paretak duen zuloa edo irtengunea, eskalada egiteko lagungarri gertatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>helduleku</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agarre</term>
+      <termNote type='usageNote'>lekua</termNote>
+    </tig>
+    <tig>
+      <term>presa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>empoignure</term>
+    </tig>
+    <tig>
+      <term>prise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hold</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Soka bat edo kable bat pasatzeko, harkaitzean, izotzean edo zuhaitz batean jartzen den babes-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ainguratze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anclaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ancrage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anchor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>edari isotoniko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bebida isotónica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boisson énergétique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>isotonic drink</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oin bakoitzean jarri ohi den janzkia, behatzak hotzetik babesteko eta mendiko botek sor ditzaketen marruskadurak saihesteko erabiltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendiko galtzerdi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calcetín de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussette de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain sock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Material gogor eta erresistenteekin fabrikatutako tresna, burua harri edo elur-jausietatik babesteko eraman ohi dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskalada-kasko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>casco de escalada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>casque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>helmet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hainbat forma eta tamainatako pieza metalikoa, harkaitzetako pitzaduretan edo izotzean sartu ohi dena, era horretan ainguraketa-puntu artifizialak lortzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>iltze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clavo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clou</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spike</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>7 milimetroz azpiko diametroa duen soka, gailur-lerro edo glaziar batean barrena aurrera egiteko erabili ohi dena. Horrez gain, aldian behin rappel laburrak egiteko aukera ere ematen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kordino</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>kordel</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cordino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordelette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>accesory rope</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Punta metalikoz osatutako gainzola, izotzaren eta elurraren gainean errazago ibiltzeko eta itsaspen nahiz atxikidura hobea lortzeko mendiko botetara egokitzen dena. Mendiko botaren zolak elurretan markarik uzten ez duenean erabiltzen dira kranpoiak, eta izotzean, berriz, kasu guztietan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kranpoi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>crampón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crampon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crampon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzkitako krema</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>crema solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crème solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>suntan emulsion</term>
+    </tig>
+    <tig>
+      <term>sunscreen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Altzairuz edo aleazio bereziz egindako takoa, eskalatzaileak segurtasun-gailu gisa erabiltzen duena. Behin harkaitzeko arraila batean sartuz gero, trabatuta geratzen da trakzioaren eraginez. Hala ere, erabili ondoren erraz berreskuratzen da harkaitzetik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arteka-trabagailu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empotrador</term>
+    </tig>
+    <tig>
+      <term>fisurero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coinceur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nut</term>
+    </tig>
+    <tig>
+      <term>stopper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskalada-bide batean zehar paretan zintzilik dagoela, eskalatzaileak atseden hartzeko edo bibakeatuz gaua pasatzeko erabiltzen duen objektua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hamaka</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hamaca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hamac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hammock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauts moduan saltzen den magnesio karbonatoa, eskalatzeko orduan eskuetako transpirazioa saihesteko erabiltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>magnesio</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>magnesio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>magnésie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>magnesium</term>
+    </tig>
+    <tig>
+      <term>chalk</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aluminioaren oso antzekoa den materialaz egindako pieza arina eta aldi berean erresistentea, bere barruan beroa ezin hobeto mantentzen duenez mendiko istripuetan mendizalearen gorputza estaltzeko erabiltzen dena. Ezinbesteko osagaia da mendiko botikin orotan, eta horrexegatik biziraupeneko eskuliburu guztietan gomendatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tapaki isotermiko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>tapaki termiko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manta isotérmica</term>
+    </tig>
+    <tig>
+      <term>manta térmica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>couverture isothermique</term>
+    </tig>
+    <tig>
+      <term>couverture thermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thermal blanket</term>
+    </tig>
+    <tig>
+      <term>weather blanket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>korapilo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nudo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>noeud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>knot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pitoi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pitón</term>
+    </tig>
+    <tig>
+      <term>clavija</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piton</term>
+    </tig>
+    <tig>
+      <term>cheville</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>piton</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lepo-berogarri mota bat, txano gisa ere erabil daitekeena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>buff</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>buff</term>
+    </tig>
+    <tig>
+      <term>bufanda multiuso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>buff</term>
+    </tig>
+    <tig>
+      <term>foulard multi-usages</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>muffler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>maindire-zaku</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saco sábana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>drap de sac</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>travel sheet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirolariaren segurtasuna bermatzeko eta leku altu batetik eror ez dadin erabiltzen den ainguraketa-sistemako helduleku bakoitzean sartzen den pieza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>segurtagailu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>aseguru</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seguro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assurance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>protection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>satelite bidezko telefono</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>teléfono satelital</term>
+    </tig>
+    <tig>
+      <term>teléfono vía satélite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>téléphone satellite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>satellite phone</term>
+    </tig>
+    <tig>
+      <term>satphone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>termo</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>termo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bouteille thermos</term>
+    </tig>
+    <tig>
+      <term>thermos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vacuum flask</term>
+    </tig>
+    <tig>
+      <term>Dewar bottle</term>
+    </tig>
+    <tig>
+      <term>Thermos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskaladan segurtatzeko erabili ohi den objektu luze eta hariduna. Normalean izotzean baliatu ohi denez, barrualdetik zuloduna izaten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>torloju</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tornillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>screw</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trekking-oinetako</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatilla de trekking</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure de trekking</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trekking shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biriketako edema</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>edema pulmonar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>oedème pulmonaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pulmonary oedema</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goragale</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>náusea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nausée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nausea</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kordea galtze</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desvanecimiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>évanouissement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fainting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikusmen-galera</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pérdida de visión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>perte de vision</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>visual loss</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Euria eta elurra nahasita dauzkan prezipitazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elurbusti</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aguanieve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>neige fondue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rain and snow mixed</term>
+    </tig>
+    <tig>
+      <term>sleet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Merkuriozko barometroa, bere eskalako graduazioak dauzkana behe- nahiz goi-altitudeetan egindako neurketak irakurtzeko moduan prestatuta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendi-barometro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barómetro de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baromètre de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain barometer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguraldi txarra iragartzen duen fenomeno meteorologikoa. Haizea 51-57 korapiloko abiadura lortzeraino irits daiteke (Beaufort eskalan 11 indarra).</descrip>
+    </descripGrp>
+    <tig>
+      <term>ekaitz gogor</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>borrasca</term>
+    </tig>
+    <tig>
+      <term>temporal duro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tempête violente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>violent storm</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bat-bateko prezipitazio zakarra eta ugaria, sarritan laburra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zaparrada</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chubasco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>averse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Izotz-ale edo koskorren prezipitazioa; aleek 5-50 mm-ko diametroa dute, inoiz handiagoa ere bai, eta bananduta edo mordo irregularretan pilatuta erortzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kazkabar</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>txingor</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>granizo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grêle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hail</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Meteorologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elur lehor eta hauts erakoa, elur berriaren kristal askeak dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elur-hauts</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nieve en polvo</term>
+    </tig>
+    <tig>
+      <term>nieve polvo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>neige poudreuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>powder snow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jardueren egutegi</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calendario de actividades</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>calendrier des activités</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>calendar of activities</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendi-talde</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+    <tig>
+      <term>mendi-klub</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>club de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>club de montagne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain club</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>federatu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>federarse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>se fédérer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>federate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Alderdi administratiboak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreskate</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rescate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sauvetage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rescue</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Puntu edo maila jakin batetik itsas mailarekiko dagoen distantzia bertikala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>altitude</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>altitud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>altitude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>altitude</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Mendia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Norabide orokor bat jarraitzen duen mendi-multzo edo azpimultzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mendilerro</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sierra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sierra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountain chain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Rappel egitean soka irristatzen uzten duen aparatua, jaitsiera-abiadura kontrolatzeko aukera ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jaiskailu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descendedor</term>
+    </tig>
+    <tig>
+      <term>descensor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>descendeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>descender</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Ekipamendua. Tresneria</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Luzatu eta laburtu egin daitekeen makila. Bata bestearen barnean sar daitezkeen piezak ditu, sekzio gero eta txikiagokoak, eta, horrela, norberaren nahierara ezar daiteke makilaren luzera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>makila teleskopiko</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bastón telescópico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bâton télescopique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>telescopic walking pole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zaintiratu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tirón muscular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coup de fouet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>distorsion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kirolak osasunaren gain dituen eraginak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bihurritu</term>
+      <termNote type='normativeAuthorization'>5</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esguince</term>
+    </tig>
+    <tig>
+      <term>torcedura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>entorse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sprain</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

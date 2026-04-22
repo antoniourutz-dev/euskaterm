@@ -1,0 +1,6516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gorputz Hezkuntzaren Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Gorputz Hezkuntzaren Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lau hankan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>katamarka</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>a cuatro patas</term>
+    </tig>
+    <tig>
+      <term>en cuadripedia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txingoka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>a la pata coja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>abdominal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>Batez ere pl.</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abdominal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azelerazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aceleración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sasoi fisikoaren maila jakin bat lortzeko, mantentzeko edo hobetzeko helburuarekin egiten den entrenamendu-prozesua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>egokitzapen fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acondicionamiento físico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>akrobazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acrobacia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actitud</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarduera fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actividad física</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aisialdiko jarduera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>olgeta-jarduera</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actividad recreativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-jarduera fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actividad físico-deportiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trebatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adiestramiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hogei bat minutuz gutxienez, modu erritmiko, jarraitu eta atseginean egindako ariketa-konbinazioen seriea. Aerobic hitzak, berez, "oxigenoarekin" esan nahi du; edozein jarduera aerobikok gizabanakoari dakarkion ahaleginak oxigenoa erabiltzea eskatzen du energia lortzeko, eta horrek gorputzaren arnas eta bihotz-gaitasuna hobetzeko modua ematen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aerobic</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aerobic</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zurruntze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agarrotamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzak espazioan duen jarrera eta norabidea abiadura egokiarekin aldatzeko ahalmena. Horretarako, hainbat gaitasun (koordinazioa, abiadura, indarra eta malgutasuna) modu harmoniatsuan konbinatzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arintasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agilidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Muskulu batek jarduerari eusteko duen erabateko ezintasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>akidura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>akitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agotamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trostan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>al trote</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>besoak eta zangoak txandakatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alternancia brazo-pierna</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>indargetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amortiguación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zangokaden luzera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amplitud de la zancada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gizonezkoen gimnastika artistikoan erabiltzen den aparatua: portiko moduko bat da, bertatik bi kable daude esekita, eta haietako bakoitzak 18 cm-ko diametroa eta 28 mm-ko lodiera dituen uztai bati eusten dio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eraztunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anillas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzaren zeharkako ardatza mugimendu-ardatz gisa hartuz, gerritik gorako zatia aurrerantz eramatean datzan mugimendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>antebertsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anteversión</term>
+    </tig>
+    <tig>
+      <term>flexión hacia delante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ibilbideari aurrea hartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anticiparse a la trayectoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastika artistikoan, ariketak egiteko erabiltzen diren tresnetako bakoitza. Emakumeetan paralelo asimetrikoak, oreka-barra, jauzi-zaldia eta zorua bereizi ohi dira, eta gizonezkoetan, berriz, jauzi-zaldia, barra finkoa, zaldi arkuduna, zorua, eraztunak eta paraleloak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gimnastikako aparatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aparato de gimnasia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokomozio-aparatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aparato locomotor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskuen gaineko bermatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apoyo de manos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderantzizko bermatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apoyo invertido</term>
+    </tig>
+    <tig>
+      <term>pino</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>teknikaren ikaskuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>teknika ikaste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aprendizaje de la técnica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-ikaskuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aprendizaje deportivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gaitasun fisikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ahalmen fisikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aptitudes físicas</term>
+    </tig>
+    <tig>
+      <term>capacidades físicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gaitasun pertzeptiboak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aptitudes perceptivas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gaitasun psikomotorrak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aptitudes psicomotrices</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aquafitness</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aquafitness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aquagym</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>uretako gimnastika</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aquagym</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aquarunning</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aquarunning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>besoa armatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>armar el brazo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastika erritmikoan, eskuz erabiltzeko aparatua, 80-90 cm-ko diametroa eta gutxienez 300 g-ko pisua duen egurrezko edo plastikozko eraztun batez osatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>uztai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bizkarra kakotu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arquear la espalda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltzadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>artikulazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>articulación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>automatismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>keinu automatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>automatismo</term>
+    </tig>
+    <tig>
+      <term>gesto automático</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baloi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balón</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larruzko, gomazko edo plastikozko objektu esferikoa, 1 kg-tik 5 kg-ra bitarteko pisua izan ohi duena. Indarra lantzeko erabiltzen da, ariketa globalen nahiz ariketa lokalizatuen bidez batez ere goiko gorputz-adarretako muskulu-taldeak, baina baita enborrekoak eta zangoetakoak ere, lantzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baloi medizinal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balón medicinal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aulki suediar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>banku suediar</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banco sueco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Emakumeen gimnastika artistikoan erabiltzen den aparatua: aluminiozko barra horizontal bat da, larruz edo material sintetikoz estalia, 5 m luze eta 10 cm zabal, lurretik 1,20 m-ko altueran kokatua, eta zertxobait inklinatutako bi euskarriren gainean ezarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oreka-barra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barra de equilibrio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gizonezkoen gimnastika artistikoan erabiltzen den aparatua: 2,75 m-ko altuera duten bi euskarri finkoren gainean ezarritako altzairuzko barra zilindrikoa da, eta 2,40 m-ko luzera eta 28 mm-ko zabalera ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>barra finko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barra fija</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sostenguko oinarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>base de sustentación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>test-bateria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>test-andana</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>batería de tests</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oldar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>batida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zango biekin oldar egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>batir con ambas piernas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zango batekin oldar egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>batir con una pierna</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blanco</term>
+    </tig>
+    <tig>
+      <term>diana</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>apar-gomazko bloke</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bloque de espuma</term>
+    </tig>
+    <tig>
+      <term>bloque de gomaespuma</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baloia botatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botar el balón</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bote</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bote</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beso egile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>brazo ejecutante</term>
+    </tig>
+    <tig>
+      <term>brazo ejecutor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beso jaurtitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>brazo lanzador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gizonezkoen gimnastika artistikoan erabiltzen den aparatua: ohiko jauzi-zaldi estandar bat da, eta muturretatik 11 cm-ko distantziara 45-50 cm-ko altuera duten bi arku eransten zaizkio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zaldi arkudun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caballo con arcos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastika artistikoan, gainetik jauzi egiteko erabiltzen den gimnastikako aparatua. Larruz estalitako egurrezko gorputz bat da, altueran erregulatzeko modua ematen duten euskarrien gainean bermatua. Hainbat neurritakoa izan daitekeen arren, hauek dira lehiaketa ofizialetako neurriak: 120 cm-ko luzera, 95 cm-ko zabalera, eta 135 cm-ko altuera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jauzi-zaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caballo de saltos</term>
+    </tig>
+    <tig>
+      <term>potro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eroriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caída</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskuluetako arranpa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>muskulu-kalanbre</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calambre muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ariketa-saio baten aurretik egiten den jarduera fisikoa, intentsitate ertain edo moderatukoa, ondoren egingo diren lan gogorragoetarako prestatzeko gorputza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>beroketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>berotze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calentamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohe elastiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cama elástica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>norabide-aldaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cambio de dirección</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ibili</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caminar</term>
+    </tig>
+    <tig>
+      <term>marchar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikuseremu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ikusmen-eremu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campo visual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreakzio-ahalmen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erreakzionatzeko gaitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad de reacción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laneko kargak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lan-kargak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cargas de trabajo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lasterketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>korrikaldi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carrera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lasterketa jarraitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carrera continua</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lasterketa lasai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>korrikaldi suabe</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carrera suave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kartilago</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cartílago</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzaren pisu osoa, edo gorputz-atal batena, kontzentratzen duen puntu teorikoa, normalean pelbis inguruan kokatu ohi dena. Gorputzeko puntu horretan orekatzen dira goiko eta beheko masak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>grabitate-zentro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>centro de gravedad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>talka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>choque</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zifosi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cifosis</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zinta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>xingola</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jatorrian, modu zirkularrean ezarritako etapa edo estazioak banan-banan pasatzean datzan entrenamenduko metodoa. Gaur egun, gorputz-atalak lantzeko, askotariko ariketak egiten dira, jarraian edo txandaka, indarra eta erresistentzia aldi berean lantzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zirkuituko entrenamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>circuit training</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circuit training</term>
+    </tig>
+    <tig>
+      <term>entrenamiento en circuito</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zirkuitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circuito</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputz-atal baten edo gehiagoren desplazamendu zirkularra; besoak nahiz hankak hedatuta daudela, flexio, estentsio, abdukzio, adukzio eta errotazioko mugimenduak konbinatuz lortzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zirkundukzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunducción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pultsazioak hartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>taupadak hartu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coger las pulsaciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>koltxoneta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colchoneta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beldurra kentzeko koltxoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colchoneta quitamiedos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>portaera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comportamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirolari baten gaitasun fisiko eta psikomotorra. Prestakuntza fisiko egokia beharrezkoa da forma fisikoa hobetzeko, hau da, ariketa fisikoak ahalik eta eraginkortasun handienez egiteko eta lesioei aurrea hartzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>forma fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sasoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>condición física</term>
+    </tig>
+    <tig>
+      <term>forma física</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>portaera motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jokabide motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conducta motriz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>O2-kontsumo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oxigeno-kontsumo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consumo de O2</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Muskulu baten ertzak edo muturrak laburtzearen ondorioa, estimulu egoki batek, bulkada nerbiosoak normalean, sortua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>muskulu-uzkurdura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contracción muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu-uzkurdura isometriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contracción muscular isométrica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu-uzkurdura isotoniko</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contracción muscular isotónica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontraktura muskular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>muskuluaren kontraktura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contractura muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uzkurtu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contraerse</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzak edo gorputz-atal batek ekintza jakin bat modu orekatuan, harmonikoki eta eraginkortasunez egiteko duen gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>koordinazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coordinación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>begi-eskuen arteko koordinazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coordinación óculo-manual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>begi-oinen arteko koordinazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coordinación óculo-pédica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorpuztasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corporalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lasterka egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>korrika egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>laster egin</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>correr</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zango-gurutzatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cruce de piernas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinarrizko gaitasun fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cualidad física básica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sokasaltoko soka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuerda de saltar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>igotzeko soka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuerda de trepa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jazz-dantza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>danza-jazz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oin-puntetan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hanka-puntetan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>de puntillas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>belauniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>de rodillas</term>
+    </tig>
+    <tig>
+      <term>arrodillado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol egokitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte adaptado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol hezitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte educativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskola-kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte escolar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>guztiontzako kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte para todos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aisialdiko kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte recreativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol osasungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte salud</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lankidetzako kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lankidetza-kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte de cooperación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurkakotasuneko kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aurkakotasun-kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte de oposición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>garapen motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desarrollo motor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskuluak bigundu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desentumecer músculos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aireratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>despegue</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albo-lekualdatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>alboranzko desplazamendu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desplazamiento lateral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aurrerantz, atzerantz, zeharka eta abar emandako pausoak, norabide jakin batean mugitzeko modua ematen dutenak. Ondorengoak izaten dira, normalean, gehien erabiliak: ibilketa edo ibilera; lasterketa; lau oinean ibiltzea; narrasean, herrestan edo arrastaka ibiltzea; gora egitea eta lerradura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lekualdatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lekualdaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desplazamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trebetasun motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>destreza motriz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oxigeno-zor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deuda de oxígeno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diagonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diagonal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jauzi nagusi bikoitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>doble salto mortal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Gorputz Hezkuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Educación Física</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Oinarrizko Gorputz Hezkuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Educación Física de Base</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Gorputz Hezkuntza Berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Educación Física Especial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eraginkortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eficacia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudizko lerro zuzena, plano frontalaren perpendikularra eta gorputzaren grabitate-zentrotik pasatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gorputzaren aurretik atzerako ardatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eje anteroposterior del cuerpo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biraketa-ardatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eje de rotación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudizko lerro zuzena, plano horizontalaren perpendikularra eta gorputzaren grabitate-zentrotik pasatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gorputzaren luzetarako ardatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eje longitudinal del cuerpo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudizko lerro zuzena, plano sagitalaren perpendikularra eta gorputzaren grabitate-zentrotik pasatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gorputzaren zeharkako ardatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eje transversal del cuerpo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejecución</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ariketa fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio físico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aplikazio-ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio de aplicación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>asimilazio-ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio de asimilación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berotze-ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio de calentamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mugikortasun-ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio de movilidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aparatuko ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio en aparato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ariketa estatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio estático</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Muskuluak luzatu eta berriro bere hasierako atseden-jarrerara itzultzeko duen ahalmena, luzatzea eragin duen indarra amaitu ondoren, betiere luzatze hori gehiegizkoa izan ez bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>muskuluen elastikotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elasticidad muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kokoriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pikotxean</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>en cuclillas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mugimenduen kateamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encadenamiento de movimientos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jauziak lotze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enlaces de saltos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-irakaskuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enseñanza deportiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsonaren gaitasun fisikoak, koordinaziokoak eta psikikoak mailarik gorenean garatzeko asmoz egiten den lan-prozesu jarraitua, kirol-errendimendu maximoa lortzera bideratua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>entrenamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entrenamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oreka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equilibrio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskailera horizontal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escalera horizontal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskailera bertikal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escalera vertical</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskoliosi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escoliosis</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esfortzu fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ahalegin</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esfuerzo físico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bihurritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>iz.</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esguince</term>
+    </tig>
+    <tig>
+      <term>torcedura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pareta baten kontra ezarritako zurezko sare-modukoa. 1 m-ko zabalera duten hiru gorputzez osatua dago, eta gorputz bakoitzak 10 maila ditu. Malgutasuna lantzeko, abdominalak egiteko edota giza gorputzaren muskulatura indartzeko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>horma-barrak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espalderas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espirazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>arnasbotatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espiración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorputz-eskema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>esquema corporal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estimulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estímulo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputz-atalak beren mugimendu-zabaltasunik handienean hedatzea, muskulatura eta giltzadurak ondorengo esfortzurako ahalik eta modurik hoberenean prestatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>luzatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>Batez ere pl.</termNote>
+    </tig>
+    <tig>
+      <term>luzaketa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+      <termNote type='usageNote'>Batez ere pl.</termNote>
+    </tig>
+    <tig>
+      <term>tiramendu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+      <termNote type='usageNote'>Batez ere pl.</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estiramiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>luzatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estirarse</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espazio-denboren egituraketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estructuración espacio-temporal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorputz-adierazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expresión corporal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>adierazkortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expresividad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>besoak luzatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>besoak zabaldu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extender los brazos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estentsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extensión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Metodo jarraituaren barruan sartzen den entrenamendu-modua: askotariko intentsitate, distantzia eta erritmoak txandakatzen dira etenik gabeko ahaleginaren barruan, inolako atsedenik gabe eta tartean gimnastikako ariketarik egin gabe.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fartlek</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fartlek</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erorketa-fase</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fase de caída</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulkada-fase</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fase de impulso</term>
+    </tig>
+    <tig>
+      <term>fase de batida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hegaldi-fase</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fase de vuelo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prozesu fisiologiko batek maila jakin batean funtzionatzen jarraitzeko duen ezintasuna eta/edo gorputz osoak aurrez ezarritako ariketa-intentsitate bati eusteko duen ezintasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>neke</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fatiga</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu-zuntz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zuntz muskular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fibra muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lerro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fila</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fisura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pitzadura</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fisura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ariketa- eta jarduera-multzoa, pertsona bati bizi-kalitate hoberena izateko modua ematea bilatzen duen egoera lantzera bideratua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fitness</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fitness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Giltzadura bat, minik edo deserosotasunik sentitu gabe, bere mugimendu-zabaltasunik handienean mugitzeko gaitasuna. Ikertzaile edo aditu batzuek malgutasuna oinarrizko gaitasun fisikotzat jotzen dute; beste batzuentzat, ordea, bigarren mailako gaitasun motorra da, edo gainerako gaitasunak errazten dituen osagaia, mugimenduak erregulatu eta doitzera mugatzen delako.</descrip>
+    </descripGrp>
+    <tig>
+      <term>malgutasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flexibilidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>flexio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flexión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albo-flexio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flexión lateral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>flexionatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flexionar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jausleku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erortzeko hobi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foso de caída</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hezur-haustura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fractura de un hueso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bihotzak minutuko egiten dituen taupaden kopurua. Bihotz-taupaden edo bihotz-zikloen osagaien erregulartasuna ere hartzen ditu kontuan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bihotz-maiztasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bihotz-taupaden maiztasun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frecuencia cardiaca</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zangokaden maiztasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frecuencia de la zancada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Minutuko ematen diren arnas zikloen kopurua, hau da zenbat arnas hartze eta arnasbotatze egiten diren minutu batean. Ariketa fisikoarekin aldatu egiten da arnas maiztasuna, baina egoera normalean adin-tarte bakoitzak du bere maiztasun propioa (70 ziklo/min 5 urteko umeentzat, 55 ziklo/min 12-13 urteko gazteentzat eta 40-45 ziklo/min 25-30 urteko helduentzat).</descrip>
+    </descripGrp>
+    <tig>
+      <term>arnas maiztasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>arnasketaren maiztasun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frecuencia respiratoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>frisbee</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frisbee</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>indar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuerza</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>indar esplosibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuerza explosiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>indar maximo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuerza máxima</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erresistentzia-indar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuerza resistencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lau hankan ibili</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lau oinean ibili</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>katamarrean ibili</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gatear</term>
+    </tig>
+    <tig>
+      <term>andar a gatas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>keinu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gesto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>keinu esplosibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>keinu bizi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gesto explosivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ariketa fisiko sistematizatuen bitartez gorputza arindu, malgutu eta indartzeko artea; aparatu edo tresnekin nahiz gabe egin daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gimnastika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastikako diziplina, hainbat aparatutan ariketak egitean datzana.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gimnastika artistiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasia artística</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>intentsitate baxuko gimnastika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasia de baja intensidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-gimnastika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasia deportiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>3. adinekoentzako gimnastika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasia para la 3ª edad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirolarien entrenamendurako beharrezkoak diren gimnastikako tresnekin hornitua dagoen kirol-instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gimnasio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bira egin</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>girar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzaren luzetarako ardatzaren inguruan, inolako puntu finkorik mantendu gabe, gorputz osoaren lekualdatzea dakarren mugimendu zirkularra. Eskuinaldera edo ezkerraldera egin daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bira</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>itzuli</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>biraketa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>giro</term>
+    </tig>
+    <tig>
+      <term>vuelta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goma elastiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>goma elástica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bere ekintzak eraginkortasun, adimen eta trebezia-maila handiarekin egiten dituen kirolariaren kualitatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oinarrizko abilezia motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oinarrizko trebetasun motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>habilidad motriz básica</term>
+    </tig>
+    <tig>
+      <term>destreza motriz básica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertzepziozko trebetasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>habilidad perceptiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zubia egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hacer el puente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baloia lurretik birarazi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hacer rodar el balón</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artaziak egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hacer tijeras</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorputzeko higiene</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>higiene corporal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ilara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errenkada</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hilera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hiperaktibitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hiperactividad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulaturaren hipertonia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hipertonía de la musculatura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hipertrofia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hipertrofia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hezur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hueso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulkada</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impulso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albo-makurdura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>albora makurtze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inclinación lateral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-hastapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kirolean haste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iniciación deportiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inspirazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>arnas hartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inspiración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación deportiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>interakzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>elkarrekintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interacción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Esfortzuen artean atsedenaldiak tartekatuz, lana eta atsedena txandakatzen dituen entrenamendu-sistema. Horrek, ahalegin bakoitzaren ondotik nolabait errekuperatu, eta errepikapen bakoitzean nahi den intentsitatearekin lan egiteko modua ematen dio gorputzari.</descrip>
+    </descripGrp>
+    <tig>
+      <term>interval training</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interval training</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>epaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juez</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Olgeta edo atsegin hartzea beste helbururik ez duen jarduera fisiko edo mentala, arautua nahiz arautu gabea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jolas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jostaketa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehiazko jolas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego competitivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lankidetza-jolas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego cooperativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fantasiazko jolas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego de fantasía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>imitaziozko jolas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego de imitación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-joko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kirol-jolas</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego deportivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jolas funtzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego funcional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol aurreko joko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego predeportivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baloia jaurti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lanzar el balón</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zango-jaurtitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lanzamiento de la pierna</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurrerantz murgildu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lanzarse hacia delante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzaren alde bat besteari nagusitzea zeregin motorrak egitean. Hazkunde neurologikoko prozesu bat da, eta eboluzio bati esker albo bateko gorputz-atal bat kontrako aldeko atalari nagusitzen zaio, modu naturalean, ariketa fisikoaren bidez zuzendua nahiz indartua izan daitekeen arren.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lateralitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lateralidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lepoko zartako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>latigazo cervical</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu-lesio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lesión muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lotailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ligamento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lordosi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lordosis</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luxación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>malabarismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>malabarismo</term>
+    </tig>
+    <tig>
+      <term>juegos malabares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>manipulazioak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manipulaciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esku nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mano dominante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Luzera eta intentsitate oso aldakorreko txango edo paseoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ibilaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcha</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lekualdatze-modalitate bat: bi oinetako batek beti egon behar du zoruarekin kontaktuan, eta, gorputzaren grabitate-zentroa bermatze-oinaren ardatzaren gainetik pasatzen den arte, zango hori ezin da belaunetik flexionatu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ibilketa atletiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcha atlética</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ibilaldi neurtu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcha regulada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu-masa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>masa muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Muskuluak igurtzi, estutu edo kolpekatzean datzan praktika terapeutikoa. Muskuluak egoera hoberenean mantentzeko, nahiz tonifikatu, erlaxatu edota lesio baten ondotik suspertu eta egoera normala berreskuratzeko egin ohi da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>masaje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>masaje</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastika erritmikoan, egurrez edo material sintetikoz egindako birla-itxurako eskuzko aparatua, luzeran 40-50 cm-koa eta pisuan gutxienez 150 g-koa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mazo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>maza</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mekanismo erreflexu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mecanismo reflejo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>minitramp</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mini-tramp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastikan, gorputzaren zeharkako ardatzaren inguruan airean biraketa osoa egitean datzan ariketa; edozein aparatutan egin daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jauzi nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mortal</term>
+    </tig>
+    <tig>
+      <term>salto mortal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gizabanakoak, gainerako animalia-espezie gehienek bezala, mugimendu autogenoak sortzeko duen gaitasuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>motrizitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>motricidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hezur-giltzaduren eta bizkarrezurraren prestazio eta ezaugarrietan oinarrituz mugimenduak sortzeko gaitasuna. Giltzaduren forma eta egiturak eta muskulu, tendoi eta lokailuen luzera eta elastikotasunak osatzen dute mugikortasunaren oinarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>giltzadura-mugikortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>artikulazioen mugikortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movilidad articular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Norabide desberdinetan diharduten bi indar edo gehiagoren lehiaren ondorioz gertatzen den fenomenoa, espazioan gorputzak lekuz aldatzen direnean gauzatzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mugimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mugimendu erritmiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movimiento rítmico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>borondatezko mugimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>nahitako mugimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movimiento voluntario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mugimendu zirkular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movimiento circular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mugimendu pendular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pendulu-mugimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movimiento pendular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu eskeletiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>músculo esquelético</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu abduktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>muskulu urruntzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>músculo abductor</term>
+    </tig>
+    <tig>
+      <term>músculo separador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu aduktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>muskulu hurbiltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>músculo aductor</term>
+    </tig>
+    <tig>
+      <term>músculo aproximador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu agonista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>músculo agonista</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu antagonista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>músculo antagonista</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muskulu sinergista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>músculo sinergista</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espazioaren okupazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ocupación del espacio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>orientazio espazial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>orientación espacial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>geldialdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gizonezkoen gimnastika artistikoan erabiltzen den aparatua: zuntz edo egur leundu, gogor eta elastikozko bi barra dira, 3,50 m-ko luzera dutenak, elkarrekiko paraleloan eta bata bestetik 42-52 cm-ra kokatuak, eta altuera erregulagarriko bina euskarriren gainean bermatzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>paraleloak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>barra paraleloak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>paralelas</term>
+    </tig>
+    <tig>
+      <term>barras paralelas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Emakumeen gimnastika artistikoan erabiltzen den aparatua: zuntz edo egurrezko bi barra dira, 2,40 m-ko luzera eta 42-48 mm-ko diametroa dutenak, elkarrekiko paraleloan eta altuera diferenteetan kokatuak, eta bina euskarri finkoren gainean bermatzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>paralelo asimetrikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>barra paralelo asimetrikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>paralelas asimétricas</term>
+    </tig>
+    <tig>
+      <term>barras paralelas asimétricas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lasterketarako korridore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pasillo de carrera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jolastoki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jolasleku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patio de recreo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eredu motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patrón motor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pilota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pelota</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertzepzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hautemate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>percepción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>entrenamenduaren periodizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>entrenamendua zatikatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>periodización del entrenamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>posizio-aldaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permuta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bermatzeko oin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pie de apoyo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oin nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pie dominante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zango flexionatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pierna flexionada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Pilates</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Pilates</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzaren luzetarako ardatzaren inguruan 360º-ko bira bat edo gehiago egitean datzan ariketa gimnastikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pirueta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pirueta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hanka bat jaso eta gorputza kontrako noranzkoan inklinatzean datzan ariketa gimnastikoa. Hankaren jarrera eta igoeraren arabera, izan daiteke bizkar-plantxa (hanka aurrerantz eta gorputza atzerantz), aurpegi-plantxa (gorputza aurrerantz eta hanka atzerantz) eta albo-plantxa (gorputza alde baterantz eta hanka kontrako alderantz).</descrip>
+    </descripGrp>
+    <tig>
+      <term>plantxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plancha</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Giza gorputza aurreko eta atzeko aldeetan zatitzen duen planoa; abdukzio eta adukzioko mugimenduak plano horretan gertatzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>plano frontal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plano frontal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Giza gorputzaren enborra goiko eta beheko zatietan banatzen duen planoa; plano horretan gertatzen dira errotazioko mugimenduak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>plano horizontal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zeharkako plano</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plano horizontal</term>
+    </tig>
+    <tig>
+      <term>plano transversal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputza eskuineko eta ezkerreko aldeetan banatzen duen planoa; plano horretan gertatzen dira flexioa eta estentsioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>plano sagital</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plano sagital</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zenbait ariketa fisiko ikasi eta egiteko erabili ohi den aparatua, hainbat moduluz osatua: moduluak bata bestearen gainean jarriz, altuera diferenteak lortzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>plinto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plinton</term>
+    </tig>
+    <tig>
+      <term>plinto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastikan gorputza ezartzeko erabiltzen diren oinarrizko moduetariko bakoitza. Gorputz-adarren, enborraren edo buruaren posizioa aldatuz, gainerako abiatzeko jarrerak sortzen dira: tente edo zutikakoa, belaunikokoa, eseritakoa, etzanekoa eta esekitakoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>posizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>posición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atsedeneko jarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>posición de descanso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ohiko ariketa gimnastikoetan erabiltzen den funtsezko jarrera, gainerako jarrera guztien abiapuntua: zutik, oinak elkarren ondoan bilduta eta zuzen, enborra zuzen, burua aurrera begira eta besoak enborrari itsatsita.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zutikako jarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tenteko jarrera</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>posición de firmes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>abiapuntuko jarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>abiatzeko jarrera</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>posición de partida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarrera horizontal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>etzanera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>posición horizontal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>postura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>postura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mugimendu bat denborazko eta espaziozko zehaztasun jakin batzuetan egiteko ezaugarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>doitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>precisión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirol-entrenamenduaren prozesua osatzen duten zatietako bat: bere helburua kirolariaren ezaugarri fisikoak hobetzea da, ondoren errendimendu hobea lortzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prestakuntza fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>preparación física</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presionatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zanpatu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presionar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>progresio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>progresión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskuen barne-errotazioa, gorputzaren erdiko marra edo lerrorantz, eskuak aurrera begirako jarreratik abiatuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pronazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pronación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esfortzu-proba</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prueba de esfuerzo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>proba fisiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prueba física</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>martxan jartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puesta en acción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pultsazio minutuko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>p/m</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>taupada minutuko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>t/m</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pulsaciones por minuto</term>
+    </tig>
+    <tig>
+      <term>p/m</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pultsometro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pulsómetro</term>
+    </tig>
+    <tig>
+      <term>pulsímetro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>punteria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puntería</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>harrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hartze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recepción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azterketa mediko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>mediku-azterketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reconocimiento médico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirola praktikatzean esfortzu bat egin ondoren, kirolariak sasoi fisiko egokia berreskuratzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errekuperazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recuperación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uretako errehabilitazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rehabilitación acuática</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erlaxazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relajación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erlaxatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relajarse</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errelebo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relevo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirol-ekintza baten edo jarduera fisiko baten emaitza, une jakin batean. Parametro fisikoak zein fisiologikoak erabiliz neurtu edo agerian jar daiteke: esate baterako, minutuko arnas bolumena edo bihotz-maiztasuna, mugitutako halteren pisua edo proba jakin batean lortutako emaitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errendimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rendimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>rol-banaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reparto de roles</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errepikapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>repetición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Entrenamenduetan, gorputz- eta kirol-jarduerarik gabeko tartea. Atseden-garaiak saioen arteko erregenerazio-maila bizkortzen du, nekea arinduz, segidan karga edo esfortzu handiagoak egitea ahalbidetzen du, eta lesioak agertzeari aurrea hartzeko modua ematen digu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atsedenaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>atseden</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reposo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erresistentzia aerobiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>resistencia aeróbica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erresistentzia anaerobiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>resistencia anaeróbica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzaren zeharkako ardatza mugimendu-ardatz gisa hartuz, gerritik gorako zatia atzerantz eramatean datzan mugimendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erretrobertsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retroversión</term>
+    </tig>
+    <tig>
+      <term>extensión hacia atrás</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zurruntasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rigidez</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hazkunde-erritmo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ritmo de crecimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baloia atzerantz birarazi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rodar el balón hacia atrás</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baloia aurrerantz birarazi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rodar el balón hacia delante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errotazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rotación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuntz-haustura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rotura de fibras</term>
+    </tig>
+    <tig>
+      <term>desgarro muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontaktuan dauden bi azalen artean sortzen den indarra. Azal bat bestearen gainean lerratzeari edota elkarren aurka biratzeari kontra egiten dio indar horrek</descrip>
+    </descripGrp>
+    <tig>
+      <term>marruskadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rozamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albo-gurpil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rueda lateral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jauzi egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>salto egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saltar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sokasaltoan aritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saltar a la comba</term>
+    </tig>
+    <tig>
+      <term>saltar a la cuerda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jauzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>salto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zaldi-jauzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salto del potro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saltometro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saltómetro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zangalatrau eserita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentado a horcajadas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zangoak gurutzatuta eserita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentado con piernas cruzadas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albo batera aldentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>separación lateral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Gorputz Hezkuntzako saio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sesión de Educación Física</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sinergia muskular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sinergia muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>puntuazio-sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema de puntuación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egoera motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>situación motriz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gainkarga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobrecarga</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gainentrenamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobreentrenamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gainluzatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gaintiramendu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobreestiramiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltzadurak askatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soltar articulaciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mugimenduen arintasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soltura de los movimientos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>spinning</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>spinning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>stretching</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>stretching</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suelo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Besaurrearen mugimendua, eskua barrutik kanporantz birarazten duena, esku-ahurrak aurrealderantz erakutsiz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>supinazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>supinación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zintzilikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eseki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suspenderse</term>
+    </tig>
+    <tig>
+      <term>colgarse</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gimnastikako taula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ariketen taula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tabla de gimnasia</term>
+    </tig>
+    <tig>
+      <term>tabla de ejercicios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputz-hezkuntzan eta kirolean ikasleei agintzen zaizkien ariketa fisikoak; horietan, alderdi funtzional hutsez gain pertzepzio edo ezagutza-mailako bestelako helburuak ere garatu eta lantzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zeregin motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ataza motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tarea motriz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tatami</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tatami</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tendinitis</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tendinitis</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tendoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tendón</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tentsio muskular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tensión muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zaintiratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tirón muscular</term>
+    </tig>
+    <tig>
+      <term>distensión muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulkada hartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tomar impulso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tonu muskular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>muskulu-tonu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tono muscular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tonu postural</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tono postural</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baldartasun motor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>torpeza motriz</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorputz-enborraren bihurdura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>torsión del tronco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zirkuituko lan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trabajo en circuito</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastika artistikoan, hainbat tresnatara sartzeko unean kirolariaren bulkada handitzeko erabiltzen den aparatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tranpolin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jauzi egiteko tranpolin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trampolín</term>
+    </tig>
+    <tig>
+      <term>trampolín de salto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ibilbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recorrido</term>
+    </tig>
+    <tig>
+      <term>trayectoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gora egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trepar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sokan gora egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>soka igo</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trepar la soga</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jauzi nagusi hirukoitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>triple salto mortal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estropezu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>behaztopa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tropezón</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trostan ibili</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trotar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trosta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trote</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sostenguko oinarria kokotsak, bularrak, eta izterren, belaunen nahiz oinen aurrealdeak osatzen duten etzateko modua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ahoz beherako etzanera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ahuspezko etzanera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tumbado boca abajo</term>
+    </tig>
+    <tig>
+      <term>decúbito prono</term>
+    </tig>
+    <tig>
+      <term>decúbito ventral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sostenguko oinarria garondoak, bizkarrak, ipurmasailek, eta izterren, hanken nahiz oinen atzealdeak (orpoek alegia) osatzen duten etzateko modua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ahoz gorako etzanera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tumbado boca arriba</term>
+    </tig>
+    <tig>
+      <term>decúbito supino</term>
+    </tig>
+    <tig>
+      <term>decúbito dorsal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>abiadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velocidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desplazamendu-abiadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lekualdatze-abiadura</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velocidad de desplazamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreakzio-abiadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velocidad de reacción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>keinu-abiadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velocidad gestual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aldagela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vestuario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bibrazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vibración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarrerazko akats</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>akats postural</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vicio postural</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikuspen periferiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visión periférica</term>
+    </tig>
+    <tig>
+      <term>visión marginal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputz osoa bere zeharkako ardatzaren gainean lekuz aldatzea eragiten duen mugimendu zirkularra, ardatz horizontalean gertatzen dena. Aurreranzko nahiz atzeranzko iraulketa izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>iraulketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>volteo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albo-iraulketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>volteo lateral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zeharkako ardatzaren inguruan eta eskuak, bizkarra eta burua bermatuz egindako 360º-ko biraketa. Aurrerantz nahiz atzerantz egin daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itzulipurdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voltereta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurreranzko itzulipurdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voltereta adelante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzeranzko itzulipurdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voltereta atrás</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aireko itzulipurdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voltereta en el aire</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oxigeno-bolumen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>volumen de oxígeno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hegaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vuelo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banakako kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte individual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behaketa-erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro de observación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behe-atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tren inferior</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>enbor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tronco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goi-atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tren superior</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Fisiologia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorputz-irudi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imagen corporal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>herri-kirol jaialdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>festival de deporte popular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hipopresibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ariketa abdominal hipopresibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hipopresivo</term>
+    </tig>
+    <tig>
+      <term>ejercicio abdominal hipopresivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pelbis-zoru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suelo pélvico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>talde-estrategia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estrategia de conjunto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>natura-inguruneko jarduerak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actividades en el medio natural</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>joko-eremu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espacio de juego</term>
+    </tig>
+    <tig>
+      <term>terreno de juego</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eraso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ataque</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Talde baten kontra ari den beste taldea (edo talde horretako jokalaria).</descrip>
+    </descripGrp>
+    <tig>
+      <term>aurkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adversario</term>
+    </tig>
+    <tig>
+      <term>contrario</term>
+    </tig>
+    <tig>
+      <term>oponente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>defentsa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defensa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko talde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equipo local</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanpoko talde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equipo visitante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-jai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fiesta deportiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-pista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pista deportiva</term>
+    </tig>
+    <tig>
+      <term>pista de deportes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontraeraso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contraataque</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>competencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehiaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>competición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>partida</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>partido</term>
+    </tig>
+    <tig>
+      <term>encuentro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saskiratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canasta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>talde-kirol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deporte de equipo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>taldekide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compañero de equipo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>topaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>meeting</term>
+    </tig>
+    <tig>
+      <term>reunión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txapelketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campeonato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uzkurdura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contracción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Anatomia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gihar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>masa magra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehiaketa-sistemaren edo zoriaren ondorioz irabazlea eta galtzailea sortzen dituen jarduera arautua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>joko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gimnasta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautazko ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio libre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nahitaezko ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio obligatorio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoruko ariketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio de suelo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gimnastikako, balleteko eta dantzako elementuak konbinatzen dituen gimnastikako diziplina; ariketak musikaz lagunduta egiten dira, bakarka nahiz taldeka, eta soka, uztaia, baloia, mazoak edo xingola erabiltzen dira. Jatorrian emakumeen diziplina izan den arren, azken urteotan gizonezkoak ere aritzen dira gimnastika erritmikoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gimnastika erritmiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gimnasia rítmica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>narrasean ibili</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>herrestan ibili</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>arrastaka ibili</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>andar a rastras</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Gimnastika</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lerradura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deslizamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

@@ -1,0 +1,8041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Irudia, Ikus-entzunezkoak eta Soinua Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Irudia, Ikus-entzunezkoak eta Soinua Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="534613">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bikoizketa-zuzendari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>director de doblaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>directeur du doublage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dubbing director</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534614">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argazki-zuzendari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>director de fotografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>directeur de la photographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>director of photography</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534615">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produkzio-zuzendari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>director de producción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>directeur de production</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>production manager</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534616">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kliskagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disparador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déclencheur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trigger</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534617">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>distantzia kritiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distancia crítica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distance critique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>critical distance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534618">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>foku-distantzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>distantzia fokal</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distancia focal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distance focale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>focal length</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534619">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>distantzia hiperfokal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distancia hiperfocal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distance hyperfocale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hyperfocal distance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534620">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>distortsio harmoniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>distortsio ez-lineal</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distorsión no lineal</term>
+    </tig>
+    <tig>
+      <term>distorsión armónica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distorsion non linéaire</term>
+    </tig>
+    <tig>
+      <term>distorsion harmonique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>harmonic distortion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534621">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anplitude-distortsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distorsión de amplitud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distorsion d'amplitude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>amplitude distortion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534622">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fase-distortsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distorsión de fase</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distorsion de phase</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>phase distortion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534623">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>intermodulazio-distortsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distorsión intermodular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distorsion d'intermodulation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>intermodulation distortion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534624">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bikoizle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bikoizketa-aktore</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actor de doblaje</term>
+    </tig>
+    <tig>
+      <term>doblador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>acteur de doublage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dubber</term>
+    </tig>
+    <tig>
+      <term>dubbing actor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534625">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bikoizketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>doblaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>doublage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dubbing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534626">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kamera mugitzeko erabiltzen den orga moduko euskarri edo plataforma gurpilduna; euskarri horren bidez egiten den eragiketa. Gehienetan errail gainean ibiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dolly</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dolly</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dolly</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dolly</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534627">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekualizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ecualización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>égalisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>equalization</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534628">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekualizadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ekualizagailu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ecualizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>égalisateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>equalizer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534629">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Grabazioan edo filmazioan lortutako irudiak eta soinuak aukeratzeko, mozteko eta antolatzeko prozesua, kontakizuna osatzeko helburuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>editatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>edición</term>
+    </tig>
+    <tig>
+      <term>montaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>editing</term>
+    </tig>
+    <tig>
+      <term>cutting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534630">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>editatze ez-lineal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>edición no lineal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montage non-linéaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>non-linear editing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534631">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi irudi- edo marrazki-eredu gainjartzean sortzen den efektu desegokia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>moiré efektu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efecto moiré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effet de moiré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>moiré effect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534632">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soinu-efektuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efectos de sonido</term>
+    </tig>
+    <tig>
+      <term>efectos sonoros</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effets sonores</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sound effects</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534633">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>efektu bereziak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efectos especiales</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effets spéciaux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>special effects</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534634">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektibo baten ardatz geometrikoa eta filmatutako edo fotografiatutako objektua lotzen dituen zuzena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ardatz optiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eje óptico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>axe optique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>optical axis</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534635">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empalmadora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>colleuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>splicer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534636">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>emultsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>emulsión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émulsion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>emulsion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534637">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>audio-sarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>soinu-sarrera</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entrada de audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>entrée audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audio in</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534638">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>linea-sarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entrada de línea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>entrée de ligne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>line in</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534639">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideo-sarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entrada de vídeo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>entrée vidéo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video in</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534640">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eszenografia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escenografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scénographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scenography</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534641">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jokaespazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>espazio eszeniko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espacio escénico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>espace scénique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acting area</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534642">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Koloretako telebistetan bideo-irudiak nola transmititu behar diren ezartzen duten hiru estandarretako bakoitza (PAL, SECAM eta NTSC).</descrip>
+    </descripGrp>
+    <tig>
+      <term>kolore-estandar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estándar de color</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>norme de couleurs</term>
+    </tig>
+    <tig>
+      <term>standard de couleurs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>colour standard</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534643">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>grabazio-estudio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estudio de grabación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>studio d'enregistrement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>recording studio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534644">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telebista-estudio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estudio de televisión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>studio de télévision</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>television studio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534645">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Plano guztien kolore-dentsitatea eta argitasuna ebaluatzean datzan eragiketa. Negatiboa muntatzen amaitu ondoren eta lehen kopia positibatu aurretik egiten da, argi- eta kolore-batasuna lortzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>etalonaje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>etalonaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étalonnage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>etalonnage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534646">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esposizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>exposición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>exposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exposure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534647">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fase</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fase</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>phase</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>phase</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534648">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>filmazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>filmatze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filmación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tournage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>filming</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534649">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beroaren kontrako iragazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filtro anticalórico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>filtre anticalorifique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat filter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534650">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kolore-iragazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filtro de color</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>filtre coloré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>colour filter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534651">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goi-paseko iragazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filtro de paso alto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>filtre passe-haut</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>high-pass filter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534652">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behe-paseko iragazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filtro de paso bajo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>filtre passe-bas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>low-pass filter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534653">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iragazki degradatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filtro degradado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>filtre dégradé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>graduated filter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534654">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>polarizazio-iragazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filtro polarizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>filtre de polarisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polarizing filter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534655">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektibo txiki eta xumeei argazkia egiteko erabiltzen den eraztun itxurako flasha. Ez du itzalik egiten.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eraztun-flash</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flash de anillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>flash annulaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ring flash</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534656">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argazki-makinari lotutako flash berezia. Flashean bertan sartutako aginduek argazki-makina egokitzen dute, eta, alderantziz, argazki-makinan sartutako aginduek flash mota hori egokitzen dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>flash dedikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flash dedicado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>flash dédié</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dedicated flash</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534657">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>foku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>projecteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spotlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534658">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hondo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>arrière-plan</term>
+    </tig>
+    <tig>
+      <term>fond</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>background</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534659">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argazkilari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fotógrafo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>photographe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photographer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534660">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fotograma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fotograma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>photogramme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photogram</term>
+    </tig>
+    <tig>
+      <term>frame</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534661">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fotometro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fotómetro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>photomètre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photometer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534662">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fotomuntaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fotomontaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>photomontage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photo-montage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534663">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Soinua pixkanaka apaltzen joan eta zeharo isiltzean datzan efektua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>irteera-itzaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fundido de salida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fermeture en fondu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fade-out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534664">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zurira itzaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fundido a blanco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fondu au blanc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fade to white</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534665">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beltzera itzaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fundido a negro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fondu au noir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fade-out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534667">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irabazi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ganancia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534668">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudien gainean karaktere alfanumerikoak, grafikoak eta bestelako ikurrak ezartzeko tresna elektronikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>idazkun-makina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>generador de caracteres</term>
+    </tig>
+    <tig>
+      <term>tituladora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>synthétiseur d'écriture</term>
+    </tig>
+    <tig>
+      <term>générateur de caractères</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>character generator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534669">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barra-sorgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>generador de barras</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>générateur de barres</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bar generator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534670">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>grabagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grabador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enregistreur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>recorder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534671">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>grabazio analogiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grabación analógica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enregistrement analogique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>analog recording</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534672">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soinu-grabazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grabación de sonido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enregistrement du son</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sound recording</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534673">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideo-grabazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grabación de vídeo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enregistrement vidéo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video recording</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534674">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>grabazio digital</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grabación digital</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enregistrement numérique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>digital recording</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534675">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>musika-grabazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grabación musical</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enregistrement de musique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>music recording</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534676">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>garabi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grúa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>grue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crane</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534677">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gidoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scénario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>screenplay</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534678">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>halo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>halo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>halo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534679">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telebista-kameretan, seinale optikoak seinale elektriko bihurtzen dituen gailua. Plaka batean, bilbatutako puntuen multzo bat sortuz deskonposatzen da irudia, eta karga elektrikoak sortzen dira, puntu bakoitzak jasotzen duen argi-intentsitatearen arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ikonoskopio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iconoscopio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>iconoscope</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>iconoscope</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534680">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurre-argiztapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aurretiko argiztapen</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iluminación frontal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éclairage de face</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>front lighting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534681">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>albo-argiztapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>albotiko argiztapen</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iluminación lateral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éclairage latéral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>side lighting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534682">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi finko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imagen fija</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>image fixe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>still picture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534683">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argazki-irudi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imagen fotográfica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>image photographique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photographic image</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534684">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordenagailuz sortutako irudi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imagen generada por ordenador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>image de synthèse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>computer generated image</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534685">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi mugikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imagen móvil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>image mobile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>moving image</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534686">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sinkronizazio-pultsu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impulso de sincronización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>impulsion de synchronisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sync pulse</term>
+    </tig>
+    <tig>
+      <term>synchronizing pulse</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534687">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estudioaren eta kontrol-gelaren arteko komunikazioa bideratzen duen aparatu-sistema, mikrofonoz eta entzungailuz osatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>interkomunikazio-sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intercomunicador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interphone</term>
+    </tig>
+    <tig>
+      <term>système d'intercommunication</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>talkback</term>
+    </tig>
+    <tig>
+      <term>tally</term>
+    </tig>
+    <tig>
+      <term>intercommunication system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534688">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>interferentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interferencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interférence</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>interference</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534689">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Film baten behin betiko lehen positibotik ateratako negatiboa, zinema-aretoetan banatu beharreko kopiak egiteko erabilia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>internegatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internegativo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>internégatif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>internegative</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534690">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>interpositibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interpositivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interpositif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>interpositive</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534691">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudien bidez, eta testu osagarriz, egindako deskribapena edo istorioa. Ordenagailuz sortutako irudiari ere esaten zaio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>infografia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>infografía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>infographie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>computer graphics</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534692">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jirafa</term>
+    </tig>
+    <tig>
+      <term>percha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>girafe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>boom</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534693">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi-laborategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>laboratorio de imagen</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>laboratoire d´image</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>image laboratory</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534694">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Emultsio baten esposizio-bitartea, hau da, gehiegizko eta gutxiegizko esposizioen artekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>esposizio-latitude</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>latitud de exposición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>latitude d'exposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exposure latitude</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534695">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikus-entzunezko hizkuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lenguaje audiovisual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>langage audiovisuel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audio-visual language</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534696">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Fresnel foku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foco Fresnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>projecteur à lentille de Fresnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Fresnel spotlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534697">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>editatze-erabakien zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de decisiones de edición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liste des décisions de montage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>edit decision list</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534698">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kolore jakin bateko hondo batean (urdin edo berdean, oro har) grabatutako irudiak beste hondo baten gainean ezartzeko aukera eskaintzen duen sistema elektronikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>chroma key</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chroma key</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>incrustation couleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>colour key</term>
+    </tig>
+    <tig>
+      <term>chroma key</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534699">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>luminantzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luminancia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>luminance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>luminance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534700">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi artifizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz artificial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lumière artificielle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>artificial light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534701">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telebista-kamerak goialdean izaten duen argi txikia. Kamera hori transmititzen ari denean, argia piztu egiten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>abisu-argi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz de aviso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe de signalisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>warning light</term>
+    </tig>
+    <tig>
+      <term>tally light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534702">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektu batera zuzenean argi-iturritik iristen den argia, hots, islatuta iristen ez dena eta objektuak berak igortzen ez duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>argi intzidente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz incidente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lumière incidente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>incident light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534703">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi natural</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz natural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lumière naturelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>natural light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534704">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi islatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz reflejada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lumière réfléchie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reflected light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534705">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontraste-bitarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>margen de contraste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contraste maximal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>contrast range</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534706">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>material fotosentikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>material fotosensible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>matériel photosensible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photosensitive material</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534707">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nahasketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>nahaste</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mezcla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mixage</term>
+    </tig>
+    <tig>
+      <term>mélange</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mix</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534708">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi-nahasgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mezclador de imagen</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mélangeur d'image</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vision mixer</term>
+    </tig>
+    <tig>
+      <term>switcher</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534709">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanoi-mikrofono</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>micrófono de cañón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>micro-canon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shotgun microphone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534710">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kondentsadore-mikrofono</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>micrófono de condensador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>microphone électrostatique</term>
+    </tig>
+    <tig>
+      <term>microphone à condensateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>condenser microphone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534711">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>papar-mikrofono</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lavaliere mikrofono</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>micrófono lavalier</term>
+    </tig>
+    <tig>
+      <term>micrófono de solapa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>micro-cravate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tie microphone</term>
+    </tig>
+    <tig>
+      <term>lavaliere microphone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534712">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hari gabeko mikrofono</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>micrófono inalámbrico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>microphone sans fil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wireless microphone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534713">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>modulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>modulador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>modulateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>modulator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534714">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurrebistako monitore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>monitor de previo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>écran d'épreuve</term>
+    </tig>
+    <tig>
+      <term>écran de précontrôle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>preview monitor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534715">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uhin-formaren monitore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>monitor de forma de onda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>moniteur de forme d'onde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waveform monitor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534716">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>negatibo-editatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montaje de negativo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montage négatif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>negative cutting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534717">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lineaz kanpo editatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montaje off line</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montage hors-ligne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>off-line editing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534718">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurretiko editatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lehen editatze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montaje previo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bout-à-bout</term>
+    </tig>
+    <tig>
+      <term>premier montage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rough cut</term>
+    </tig>
+    <tig>
+      <term>first cut</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534719">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kamera-mugimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>movimiento de cámara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mouvement de caméra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>camera movement</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534720">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sarrera askotatik bat hartu eta irteera bakarra botatzen duen gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>multiplexadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>multiplexor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>multiplexeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>multiplexer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534721">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hondo-musika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hondoko musika</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>música de fondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>musique de fond</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>background music</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534722">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>negatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>negativo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>négatif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>negative</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534723">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interferentzia batek pantailako irudian sortutako efektua. Pantailan hainbat kolore-pikorta elurraren antzera ikusten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nieve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>neige</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>snow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534724">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudia norabide bertikalean estutzen duen objektiboa. Ondorioz, irudiak zabalagoa ematen du norabide horizontalean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>objektibo anamorfiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objetivo anamórfico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objectif anamorphoseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anamorphic lens</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534725">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leiar eta ispilu kurboen bidez egindako objektiboa. Tamainaz ez da handia, eta foku-distantzia handiekin lan egiteko aukera ematen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>objektibo katadioptriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objetivo catadióptrico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objectif catadioptrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>catadioptrical lens</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534726">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>obturadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>obturador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>obturateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shutter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534727">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uhin geldikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>onda estacionaria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>onde stationnaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>standing wave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534728">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uhin garraiatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>onda portadora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>onde porteuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>carrier wave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534729">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kamerari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>operador de cámara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caméraman</term>
+    </tig>
+    <tig>
+      <term>cadreur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cameraman</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534730">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konexio-panel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>panel de conexiones</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tableau de raccordement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>patch panel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534731">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pantaila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>écran</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>screen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534732">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pantailan aldi berean bi irudi edo gehiago, bakoitza aparteko eremu batean, bistaratzeko aukera eskaintzen duen efektua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pantaila zatitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalla partida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>image composite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>split screen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534733">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>film magnetiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>película magnética</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>film magnétique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>magnetic film</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534734">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderantzizko film</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>película inversa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pellicule inversible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reversal film</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534735">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>audio-pista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>soinu-pista</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pista de audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piste audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audio track</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534736">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontrol-pista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pista de control</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piste de contrôle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>control track</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534737">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideo-pista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pista de vídeo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piste vidéo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video track</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534738">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudiak eta grabatutako soinua bateratzeko erabiltzen diren audio-sarrerak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>klik-pista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pista click</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>piste-métronome</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>click track</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534739">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehen plano</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>primer plano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>premier plan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>foreground</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534740">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plató</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plateau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>set</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534741">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>positibatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>positivado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tirage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>printing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534742">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>positibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>positivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>positif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>positive</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534743">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>preprodukzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>preproducción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>préproduction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>preproduction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534744">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>postprodukzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>postproducción</term>
+    </tig>
+    <tig>
+      <term>posproducción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>postproduction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>post-production</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534745">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurreanplifikadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>preamplificador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>préamplificateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>preamplifier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534746">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produkzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ekoizpen</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>production</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>production</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534747">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ekoizle</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>productor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>producteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>producer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534748">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produktore eragile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ekoizle eragile</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>productor ejecutivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>producteur délégué</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>executive producer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534749">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>formatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>formato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>format</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>format</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534750">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eremu-sakonera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>profundidad de campo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>profondeur de champ</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>depth of field</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534751">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irrati-programa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>irratsaio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa de radio</term>
+    </tig>
+    <tig>
+      <term>programa radiofónico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émission de radio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>radio program</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534752">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telebista-programa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>telebista-saio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa de televisión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émission de télévision</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>television program</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534753">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>grabatutako programa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa en diferido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émission en différé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>recorded program</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534754">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuzeneko programa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa en directo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émission en direct</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>live program</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534755">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>programa pilotu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa piloto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émission pilote</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pilot program</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534756">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>programazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>programmation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>programming</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534757">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>proiektagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proyector</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>projecteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>projector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534758">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gailu elektroniko batek distortsiorik gabe erreproduzi ditzakeen seinale-maila altuenen eta baxuenen arteko tartea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tarte dinamiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rango dinámico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dynamique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dynamic range</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534759">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errealizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>realización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réalisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>production</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534760">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errealizadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>realizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réalisateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>producer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534761">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hargailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>receptor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>récepteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>receiver</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534762">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>islagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reflector</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réflecteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reflector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534763">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pantaila baten neurri horizontalaren eta bertikalaren arteko proportzioa. Ohiko pantailena 4:3 da, bereizmen handiko pantailena, berriz, 16:9.</descrip>
+    </descripGrp>
+    <tig>
+      <term>formatu-ratio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aspektu-ratio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relación de aspecto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rapport de format</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aspect ratio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534764">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoom-ratio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relación de zoom</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rapport du zoom</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>zoom range</term>
+    </tig>
+    <tig>
+      <term>zoom ratio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534765">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>seinale/zarata ratio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>relación señal-ruido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rapport signal sur bruit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>signal-to-noise ratio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534766">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soinua erreproduzitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reproducción de sonido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>reproduction sonore</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sound reproduction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534767">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bereizmen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>definición</term>
+    </tig>
+    <tig>
+      <term>resolución</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>définition</term>
+    </tig>
+    <tig>
+      <term>résolution</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>resolution</term>
+    </tig>
+    <tig>
+      <term>definition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534768">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>maiztasun-erantzun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>frekuentzia-erantzun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>respuesta en frecuencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réponse en fréquence</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>frequency response</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534769">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzerapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retardo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>retard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>delay</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534770">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errebelatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>revelado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>développement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>developing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534771">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreberberazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reverberación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réverbération</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reverberation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534772">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zarata arrosa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ruido rosa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bruit rose</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pink noise</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534773">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zarata zuri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ruido blanco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bruit blanc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>white noise</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534774">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontrol-gela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sala de control</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>salle de régie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>control room</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534775">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>audio-irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>soinu-irteera</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida de audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sortie audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audio out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534776">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>linea-irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida de línea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sortie de ligne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>line out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534777">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideo-irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida de vídeo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sortie vidéo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video out</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534778">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kolore jakin baten intentsitatea. Kolore hura grisarekin nahastuta dagoen proportzioa adierazten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>asetasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saturación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>saturation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>saturation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534779">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sentikortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sensibilidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sensibilité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sensitivity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534780">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sentsitometro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sensitómetro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sensitomètre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sensitometre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534781">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>audio-seinale</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>soinu-seinale</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>señal de audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>signal audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audio signal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534782">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telekomunikazioetan, aurretik ezarritako sinkronizazio-, ekualizazio-, kontrol- edo jarraitutasun-balioak zaintzen dituen seinalea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pilotu-seinale</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>señal de sincronía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>signal pilote</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pilot tone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534783">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideo-seinale</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>señal de vídeo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>signal vidéo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video signal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534784">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sinkronizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sincronización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>synchronisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sync</term>
+    </tig>
+    <tig>
+      <term>synchronization</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534785">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gainesposizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gehiegizko esposizio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobreexposición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>surexposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>overexposure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534786">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudi baten gainean letrak, marrazkiak edo grafikoak ezartzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gainjartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobreimpresión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>surimpression</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>superimposition</term>
+    </tig>
+    <tig>
+      <term>overlay</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534787">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Soinua filmean grabatzeko erabiltzen den sistema. Soinu-seinalearen uhin-forma inprimatu egiten da filmean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soinu optiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sonido óptico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>son optique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>optical sound</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534788">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Soinua filmean grabatzeko erabiltzen den sistema. Filmak banda magnetiko mehe-mehea du alboan, eta soinua bertan grabatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soinu magnetiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sonido magnético</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>son magnétique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>magnetic sound</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534789">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Motelgailu-sistema bat eta arnes berezi bat erabiliz, kamerariari kamera soinean eramateko modua eskaintzen dion tresna. Tresna horri esker, irudiak ez du egonkortasunik galtzen kameraria mugitu arren.</descrip>
+    </descripGrp>
+    <tig>
+      <term>steadicam</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>steadicam</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>steadicam</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>steadicam</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534790">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azpiesposizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gutxiegizko esposizio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>subexposición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sous-exposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>underexposure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534791">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azpititulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>azpidatzi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>subtítulo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sous-titre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>subtitle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534792">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kamera-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de cámara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien à la caméra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>camera technician</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534793">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argiztapen-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de iluminación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éclairagiste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lighting technician</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534794">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de imagen</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien de l'image</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video engineer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534795">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laborategiko teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de laboratorio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien de laboratoire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>laboratory technician</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534796">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>postprodukzio-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de postproducción</term>
+    </tig>
+    <tig>
+      <term>técnico de posproducción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien de postproduction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>post-production technician</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534536">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argazki batek duen maila, esaterako distira, paperaren kalitatea, kontrastea, eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>akabera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acabado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>finition</term>
+    </tig>
+    <tig>
+      <term>finissage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>finish</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534537">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azetona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acetona</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>acétone</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acetone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534538">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bozgorailuetatik irteten den hotsa mikrofonoak atzitzean eta bigarren aldiz anplifikatzean sortzen den zarata berezia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>akoplatze akustiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acople acústico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rétroaction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acoustic feedback</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534539">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>metagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acumulador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accumulateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>accumulator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534540">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>akustika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acústica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>acoustique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acoustics</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534541">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bereizmen handi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alta definición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>haute définition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>high definition</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534542">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altuen bozgorailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>altavoz de agudos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>haut-parleur d'aigus</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tweeter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534543">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baxuen bozgorailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>altavoz de graves</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>haut-parleur de graves</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>woofer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534544">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>handitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ampliación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agrandissement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>enlargement</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534545">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anplifikadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amplificador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>amplificateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>amplifier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534546">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anplitude</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amplitud</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>amplitude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>amplitude</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534547">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kolore-analizagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>analizador de color</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>analyseur de couleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>colour analyzer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534548">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banda-zabalera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ancho de banda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>largeur de bande</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bandwidth</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534549">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Film baten formatuaren neurria. Diagonalki zenbat milimetro dituen adierazten du: adibidez, 8 mm, super 8, 16 mm, super 16, 35 mm edo 70 mm.</descrip>
+    </descripGrp>
+    <tig>
+      <term>film-zabalera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ancho de película</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>largeur du film</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>film width</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534550">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zinta edo film batean, audio- edo bideo-seinalea grabatzeko behar den tarte zabalera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pista-zabalera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ancho de pista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>largeur de piste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>track width</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534551">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kamerak objektu bat fotografiatu edo filmatzeko erabiltzen duen ikuspuntua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kamera-angelu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ángulo de cámara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>angle de la caméra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>camera angle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534552">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Objektibo batek hartzen duen ikuspegi-eremua. Adibidez, teleobjektibo bat erabilita ikusangelu txikiagoa izango dugu objektibo arrunt bat erabilita baino.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ikusangelu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ángulo de visión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>angle de vue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>angle of view</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534553">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>antena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>antena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>antenne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>antenna</term>
+    </tig>
+    <tig>
+      <term>aerial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534554">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi-graduagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>atenuador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gradateur de lumière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534555">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>attrezzo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>atrezo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accessoires</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>props</term>
+    </tig>
+    <tig>
+      <term>properties</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534556">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>entzungailuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>auriculares</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>casque d'écoute</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>headphones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534557">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kamera-laguntzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>auxiliar de cámara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assistant cadreur</term>
+    </tig>
+    <tig>
+      <term>assistant-caméraman</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>camera assistant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534558">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Filmazio-egitaraua prestatu, filmazioa koordinatu eta teknikarien lana gainbegiratzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zuzendaritza-laguntzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ayudante de dirección</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assistant réalisateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>associate director</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534559">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktoreari laguntzen dion pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>produkzio-laguntzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ayudante de producción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assistant producteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>associate producer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534560">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuri-balantze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balance de blancos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balance des blancs</term>
+    </tig>
+    <tig>
+      <term>équilibre des blancs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>white balance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534561">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kolore-balantze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balance de color</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balance des couleurs</term>
+    </tig>
+    <tig>
+      <term>équilibre des couleurs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>colour balance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534562">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beltz-balantze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balance de negros</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réglage du niveau de noir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>black balance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534563">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banda zabal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banda ancha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>large bande</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wide band</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534564">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi-banda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banda de imagen</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bande image</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>image band</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534565">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>babes-banda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banda de protección</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bande de garde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>guard band</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534566">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banda estu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banda estrecha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bande étroite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>narrow band</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534567">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soinu-banda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banda sonora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bande son</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sound track</term>
+    </tig>
+    <tig>
+      <term>audio band</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534568">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehen mailako hiru koloreak, horien osagarriak, eta zuria eta beltza erakusten dituen barra-multzoa. Kamerak, monitoreak eta irudiak kromatikoki doitzeko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kolore-barra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barra de color</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>barre de couleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>colour bar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534569">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekortze horizontal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barrido horizontal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balayage horizontal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>horizontal scanning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534570">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekortze bertikal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barrido vertical</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balayage vertical</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vertical scanning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534571">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bobina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bobina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bobine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spool</term>
+    </tig>
+    <tig>
+      <term>reel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534572">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezabatze-buru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabeza de borrado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tête d'effacement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>erase head</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534573">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>buru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabezal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tête</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>head</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534574">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>grabazio-gela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabina de grabación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cellule d'enregistrement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>recording room</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534575">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estudio-kamera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara de estudio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caméra de studio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>studio camera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534576">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanpo-kamera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kamera eramangarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara de exteriores</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caméra portative</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>field camera</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534577">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kamera geldo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara lenta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ralenti</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slow motion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534578">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kamera laster</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara rápida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accéléré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fast motion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534579">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>channel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534580">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errail</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carril</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rail</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rail</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534581">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zelula fotoelektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>célula fotoeléctrica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cellule photoélectrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photoelectric cell</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534582">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Antzerkietan, telebistan edo zinean, zeru zabala edo muga gabeko sentsazioa emateko erabiltzen den atzealdea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ziklorama</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ciclorama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cyclorama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cyclorama</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534583">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zinta magnetiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinta magnética</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bande magnétique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>magnetic tape</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534584">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zinta nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zinta master</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinta master</term>
+    </tig>
+    <tig>
+      <term>cinta patrón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bande maîtresse</term>
+    </tig>
+    <tig>
+      <term>bande mère</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>master tape</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534585">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabili gabeko zinta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinta virgen</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bande vierge</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blank tape</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534586">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Publikoarentzat ez diren seinaleak zirkuitu mugatu batean transmititzen dituen transmisio-instalazio autonomoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zirkuitu itxi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circuito cerrado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>circuit fermé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>closed circuit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534587">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>claridad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clarté</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lightness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534588">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>klaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>claqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>claquette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534589">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kodegailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codificador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>codeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>encoder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534590">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>denbora-kode</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>código de tiempo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>code temporel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>time code</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534591">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konpresio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compresión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compression</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>compression</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534592">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ikus-entzunezko komunikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunicación audiovisual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>communication audiovisuelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audio-visual communication</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534593">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>counter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534594">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Programa edo film bateko irudiak eta soinuak muntatzean errespetatu behar den narrazio-hurrenkera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarraitutasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>raccord</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>continuidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>continuité</term>
+    </tig>
+    <tig>
+      <term>enchaînement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>raccord</term>
+    </tig>
+    <tig>
+      <term>continuity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534595">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi-kontrako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contraluz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contre-jour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>backlighting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534596">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pantailan agertzen diren irudi-zatirik argienen eta ilunenen arteko erlazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontraste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contraste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contraste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>contrast</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534597">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bihurgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convertidor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>convertisseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>converter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534598">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lan-kopia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>copión</term>
+    </tig>
+    <tig>
+      <term>copia de trabajo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>copie de travail</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>work print</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534599">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gortina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errezel-efektu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cortinilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effet de volet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534600">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kredituak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>créditos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>générique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>credits</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534601">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>krominantzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>crominancia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chrominance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chrominance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534602">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telebista-emisio edo bideo-erreprodukzio bat osatzen duten oinarrizko irudietako bakoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>koadro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuadro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>image</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>picture</term>
+    </tig>
+    <tig>
+      <term>frame</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534603">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>deskodegailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>decodificador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décodeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>decoder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534604">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dekoratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>decorado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>set</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534605">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuzendaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dirección</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>direction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>direction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534606">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bazterkin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>descarte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chute</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>out-take</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534607">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desmagnetizagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desmagnetizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>démagnétiseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bulk eraser</term>
+    </tig>
+    <tig>
+      <term>degausser</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534608">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>difusore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>difusor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diffuseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scrim</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534609">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diafragma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>iris</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iris</term>
+    </tig>
+    <tig>
+      <term>diafragma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diaphragme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diaphragm</term>
+    </tig>
+    <tig>
+      <term>iris</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534610">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diapositiba</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diapositiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diapositive</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534611">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuzendari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>director</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>directeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>director</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534612">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuzendari artistiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>director artístico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>directeur artistique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>art director</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534535">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudi batean, zentrotik ertzerantz gertatzen den kalitate-murrizketa, bai araztasunean bai koloretan. Objektu baten irudiak edo berak ematen duen argiak lentearen puntu bakarrera egiten ez duenean sortzen da fenomeno hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aberrazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aberración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aberration</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aberration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534797">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produkzio-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de producción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien de production</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>production technician</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534798">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errealizazio-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de realización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien de réalisation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534799">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soinu-teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de sonido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ingénieur du son</term>
+    </tig>
+    <tig>
+      <term>technicien du son</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audio technician</term>
+    </tig>
+    <tig>
+      <term>sound engineer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534800">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudi-tratamenduko teknikari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>técnico de tratamiento de imágenes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>technicien de traitement d'images</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>image processing technician</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534801">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telezinema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>telecine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>télécinéma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>telecine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534802">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>teleobjektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>teleobjetivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>téléobjectif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>telephoto lens</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534803">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kamera-objektiboaren azpiko monitore batean testua bistaratzen duen sistema. Horri esker, esatariak kamerari begira irakur dezake testua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>telehitzemaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>teleprompter</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>teleprompter</term>
+    </tig>
+    <tig>
+      <term>teleapuntador</term>
+    </tig>
+    <tig>
+      <term>teleprónter</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>télésouffleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>teleprompter</term>
+    </tig>
+    <tig>
+      <term>autocue</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534804">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>teletestu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>teletexto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>télétexte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>teletext</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534805">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable bidezko telebista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>televisión por cable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>télévision par câble</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cable television</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534806">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>satelite bidezko telebista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>televisión vía satélite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>télévision par satellite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>satellite television</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534807">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>transduktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transductor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>transducteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>transducer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534808">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tratamendu fotografiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tratamiento fotográfico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>traitement photographique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photo processing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534809">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>travelling</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>travelling</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>travelling</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>travelling</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534810">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tripode</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trípode</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>trépied</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tripod</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534811">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kamera-kontroleko unitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>unidad de control de cámara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bloc de commande de caméra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>camera control unit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534812">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>unitate mugikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>unidad móvil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>unité mobile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mobile unit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534813">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudi baten banaketa kromatikoa eta asetasun-maila erakusten duen tresna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bektoreskopio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vectorscopio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vecteurscope</term>
+    </tig>
+    <tig>
+      <term>oscilloscope vectoriel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vectorscope</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534814">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Proiektore bati kanpoaldean ezartzen zaion metalezko pieza, itzala egiteko edo argiaren intentsitatea murrizteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bisera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coupe-flux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>barn door</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534815">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bisore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>viseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>viewfinder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534816">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoom</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zoom</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>zoom</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>zoom</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534817">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soinu-nahasgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mezclador de sonido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mélangeur de son</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sound mixer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534818">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>digitalizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>digitalización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>numérisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>digitization</term>
+    </tig>
+    <tig>
+      <term>digitizing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534819">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plano ertain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plano medio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plan moyen</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>medium shot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534820">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plano amerikar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plano americano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plan américain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>two-shot</term>
+    </tig>
+    <tig>
+      <term>close medium shot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534821">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plano orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plano general</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plan général</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>long shot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534822">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irudia edo soinua pixkanaka desagertzean datzan efektua. Irudia beltzera edo zurira urtu daiteke, edo pixkanaka agertzen den beste irudi batekin kateatu; soinuarekin, berriz, soinu bat hondora doalarik beste bat lehen planora dator, edo biak kateatu daitezke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itzaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fundido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fondu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fade</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534823">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Uhin edo seinale batek transmisio-sistema batetik pasatzean nozitzen duen deformazioa edo nahi gabeko aldaketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>distortsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distorsión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distorsion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>distortion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534824">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mikrofono dinamiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>micrófono dinámico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>microphone dynamique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dynamic microphone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534825">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iragazki-euskarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portafiltros</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>porte-filtre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>filter holder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534826">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>elikagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alimentador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alimentateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>feeder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534827">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>objektibo angeluhandi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objetivo gran angular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objectif grand-angle</term>
+    </tig>
+    <tig>
+      <term>objectif grand-angulaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wide-angle lens</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534828">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arrain-begi objektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objetivo ojo de pez</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objectif oeil-de-poisson</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fish-eye lens</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534829">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>foku-distantzia finkoko objektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objetivo de distancia focal fija</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objectif à focale fixe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fixed-focal-length lens</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534830">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>foku-distantzia aldakorreko objektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>objetivo de distancia focal variable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>objectif à focale variable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>variable-focal-length lens</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534831">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Programazioa osatzen duten tarteak (saioak, iragarkiak, promozioak, betegarriak) antolatzeaz arduratzen den saila, emisioan etenik gerta ez dadin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aurkezpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>continuidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>continuité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>presentation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534832">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Obturadorea zabalik dagoen denbora.</descrip>
+    </descripGrp>
+    <tig>
+      <term>esposizio-denbora</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tiempo de exposición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>temps d'exposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exposure time</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534833">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luz principal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lumière principale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>key light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534834">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>distortsio lineal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distorsión lineal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distorsion linéaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>linear distortion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534835">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hartualdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>toma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise de vue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>take</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534836">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>igorgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>emisor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émetteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>emitter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534837">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>transmisore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transmisor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>transmetteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>transmitter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534838">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irekidura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apertura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ouverture</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aperture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534839">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irrati-emanaldiak barreiatzeko leku jakin batean dagoen aparatu eta instalazioen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>irrati-estazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estación de radio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>station radio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>radio station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534840">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>koloretako telebista</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>televisión en color</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>télévision en couleurs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>colour television</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534841">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsola</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consola</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>console</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>console</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534842">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>linea orekatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>línea balanceada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ligne balancée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>balanced line</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534843">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nahasgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mezclador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mélangeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mixer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534844">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nahasketa-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de mezclas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>table de mixage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mixing desk</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534845">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>phantom elikadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alimentación phantom</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alimentation fantôme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>phantom power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534846">
+  <descrip type='subjectField'>Soinua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zortzidun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>octava</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>octave</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>octave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534595">
+  <descrip type='subjectField'>Irudia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi kontra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>a contraluz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>en contre-jour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>in backlighting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534640">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eszenografo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>antzeztoki-arduradun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escenógrafo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scénographe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>set designer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534640">
+  <descrip type='subjectField'>Produkzioa eta errealizazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Albistegian zer eduki, zer ordenatan eta zelan aurkeztuta sartuko diren zehaztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>edizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dirección</term>
+    </tig>
+    <tig>
+      <term>edición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>direction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>direction</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

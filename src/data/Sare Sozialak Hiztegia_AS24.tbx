@@ -1,0 +1,7109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sare Sozialak Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Sare Sozialak Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Web 2.0-ren eta sare sozialen erabiltzailea, aldi berean produktore eta kontsumitzaile dena. Web 2.0 zerbitzuetan eta sare sozialetan bi alderdiak batu ohi dituzte erabiltzaileek.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prosumitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>"Produktore" eta "kontsumitzaile" hitzen uztarketaz osatutako terminoa da.</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prosumidor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prosommateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>prosumer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argazkiak argitaratzeko eta partekatzeko helburu nagusia duen bloga. Sarrera bakoitzean argazki bat gehitu ohi da; gehienetan, etiketatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fotoblog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fotoblog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogue photo</term>
+    </tig>
+    <tig>
+      <term>photoblogue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photoblog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argitaratzeko sisteman sartu den baina oraindik argitaratu ez den sarrera, artikulu edo mezua. Geroago zuzendu edo hobetzeko asmoa dagoenean gorde ohi da sistema horretan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zirriborro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>borrador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brouillon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>draft</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>ASCII karaktereekin egindako irudia, albo batetik begiratuta giza aurpegiaren itxura duena. Aurpegiaren espresioarekin bidaltzaileak bere gogo-aldartea adierazten du: adibidez, :) alaitasuna adierazteko, edo :( tristura adierazteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>emotikono</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>emoticono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>frimousse</term>
+    </tig>
+    <tig>
+      <term>émoticône</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>emoticon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Audio-fitxategiak argitaratzeko eta partekatzeko helburu nagusia duen bloga. Sarrera bakoitzean audio-fitxategi bat gehitu ohi da; gehienetan, etiketatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>audioblog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>audioblog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogue audio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>audioblog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Berrerabiltzeko, berriro banatzeko edo bertsioak egiteko eskubideei buruz lege-murrizketarik ez duen edozein eduki: testua, irudia, argazkia edo bestelakoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eduki ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eduki libre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contenido abierto</term>
+    </tig>
+    <tig>
+      <term>contenido libre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contenu libre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open content</term>
+    </tig>
+    <tig>
+      <term>free content</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste erabiltzaile batek lehenago bidalitako txio bat errepikatuz bidaltzen den txioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>birtxio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>birtuit</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>retweet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>retweet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste erabiltzaile batek lehenago bidalitako txio bat errepikatzen duen txioa bidali.</descrip>
+    </descripGrp>
+    <tig>
+      <term>birtxiokatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>birtuiteatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retuitear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>retweeter</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>retweet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bideoak argitaratzeko eta partekatzeko helburu nagusia duen bloga. Sarrera bakoitzean bideo bat gehitu ohi da; gehienetan, etiketatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bideoblog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>vlog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>vblog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>videoblog</term>
+    </tig>
+    <tig>
+      <term>vlog</term>
+    </tig>
+    <tig>
+      <term>vblog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogue vidéo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video blog</term>
+    </tig>
+    <tig>
+      <term>vlog</term>
+    </tig>
+    <tig>
+      <term>vblog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Blog batean idazten duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>blogari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bloguero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogueur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blogger</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Blog batean beste blog bateko edukia gehitzen denean ezar daitekeen esteka berezia. Blogean esteka hori ezarriz, bere testu bat aipatu dela adierazten duen abisua jasoko du jatorrizko blogak. Normalean, jatorrizko testua duen blog-sarreraren iruzkinetan gehitzen da automatikoki abisu hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>trackback</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>atzeraesteka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trackback</term>
+    </tig>
+    <tig>
+      <term>retroenlace</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rétrolien</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trackback</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Blog batean idazten den testu sinatua, normalean argitalpen-data zehaztua duena. Bloga sarrera edo artikuluak idatzi ahala eguneratzen da, eta sarrera bakoitzak iruzkinak jaso ditzake.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>artikulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entrada</term>
+    </tig>
+    <tig>
+      <term>artículo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>billet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>post</term>
+    </tig>
+    <tig>
+      <term>entry</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Blogari bakarra izan ordez hainbat blogarik idatziz osatzen duten bloga.</descrip>
+    </descripGrp>
+    <tig>
+      <term>talde-blog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>blog kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blog colectivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogue collectif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>group blog</term>
+    </tig>
+    <tig>
+      <term>collaborative blog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Blogek, blogariek eta haien arteko konexio eta interakzioek osatutako komunitate edo sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>blogosfera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blogosfera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogosphère</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blogosphere</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Blog-sarrera batera bideratzen duen URL esteka iraunkorra. Sarrera blogeko orrialde nagusitik desagertu eta artxiboetara pasatu eta gero ere esteka ez da aldatzen, eta, horregatik, erraztu egiten du sarrera hori beste blog eta webguneetan modu egonkorrean estekatzea edota geroago berreskuratzeko gordetzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>permalink</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permalink</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>permalien</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>permalink</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Creative Commons lizentzietan erabiltzen den klausuletako bat; edukiak jatorrizko lizentzia berarekin erabili beharra zehazten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>PartekatuBerdin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>SA</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>CompartirIgual</term>
+    </tig>
+    <tig>
+      <term>SA</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Partage des conditions initiales à l'identique</term>
+    </tig>
+    <tig>
+      <term>SA</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ShareAlike</term>
+    </tig>
+    <tig>
+      <term>SA</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Creative Commons lizentzietan erabiltzen den klausuletako bat; edukiak partekatzen uzten du, baldin eta edukian inongo aldaketarik egiten ez bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>LanEratorririkGabe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ND</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>NoDerivadas</term>
+    </tig>
+    <tig>
+      <term>ND</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Pas de modification</term>
+    </tig>
+    <tig>
+      <term>ND</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>NoDerivativeWorks</term>
+    </tig>
+    <tig>
+      <term>NoDerivs</term>
+    </tig>
+    <tig>
+      <term>ND</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Creative Commons lizentzietan erabiltzen den klausuletako bat; edukien egile edo iturriak aipatu beharra ezartzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Aitortu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>BY</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Atribución</term>
+    </tig>
+    <tig>
+      <term>BY</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Paternité</term>
+    </tig>
+    <tig>
+      <term>BY</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Attribution</term>
+    </tig>
+    <tig>
+      <term>BY</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Creative Commons lizentzietan erabiltzen den klausuletako bat; edukien erabilera komertziala egin eta irabazi ekonomikoak lortzea galarazten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>EzKomertziala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>NC</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>NoComercial</term>
+    </tig>
+    <tig>
+      <term>NC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Pas d'utilisation commerciale</term>
+    </tig>
+    <tig>
+      <term>NC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>NonCommercial</term>
+    </tig>
+    <tig>
+      <term>NC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu edo elementu bati atxikitzen zaion identifikatzailea. Kontzeptu, leku, erabiltzaile edo kategoria jakin batekin lotzen ditu irudiak, bideoak, testuak edo estekak, elementu hori deskribatuz eta haren berreskuratzea ahalbidetuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>etiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tag</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>etiqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étiquette</term>
+    </tig>
+    <tig>
+      <term>tag</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edukia era kolaboratiboan eta hierarkizaziorik gabe sailkatzeko prozedura, egindako sailkapenak beste erabiltzaileekin partekatzeko aukera ematen duena. Sare sozialeko inguruneetan erabiltzen da, hala nola Delicious edo Diigo (estekak), Flickr edo Instagram (argazkiak), Youtube (bideoak) eta antzekoetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>folksonomia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>folcsonomía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>folksonomie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>folksonomy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edukien autoreen aitortza egitearekin bat eduki horiek kopiatzeko, aldatzeko edo berriro banatzeko baimena ematen duen lizentzia. Mota honetako lizentziak zehaztea izan da Creative Commons erakundearen helburua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lizentzia ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>licencia abierta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>licence ouverte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open content license</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egitura txikiko blog-mota, gai edo hari zehatzik gabe egilearen gogoeta laburrak, irudiak, bideoak edo bestelako edukiak argitaratzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tumblelog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tlog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tumblelog</term>
+    </tig>
+    <tig>
+      <term>tlog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tumblelog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tumblelog</term>
+    </tig>
+    <tig>
+      <term>tlog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Emotikono-mota berezia, jatorriz Japoniakoa, aurpegiaren irudia bertikalean irudikatzen duena; hau da, ez da burua albo batera okertu behar aurpegia ikusteko: adibidez, O_o harridura adierazteko edo >_< mina adierazteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bertikono</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kaomoji</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>verticono</term>
+    </tig>
+    <tig>
+      <term>kaomoji</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émoticône japonaise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>verticon</term>
+    </tig>
+    <tig>
+      <term>kaomoji</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Era guztietako edukia partekatuz harreman horizontala edo parekoa bideratzen duen sarea, adibidez: Facebook, Google plus, Tuenti eta Twitter.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sare sozial horizontal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizarte-sare horizontal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red social horizontal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau social horizontal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>horizontal social network</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaile askok gogokotzat markatu duten txioa idatzi duen erabiltzailea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>favstar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>favstar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>favstar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>favstar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaile bakoitzak bere edukiak baino etiketatzen ez dituen folksonomia. Ondorioz, elementu bakoitza pertsona bakarrak etiketatzen du. Folksonomia estuaren adibide gisa, Flickr aipa daiteke: erabiltzaile bakoitzak berak igotako irudiak baino ez ditu etiketatzen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>folksonomia estu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>folcsonomía estrecha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>folksonomie étroite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>narrow folksonomy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaile batek blog edo sare sozial bateko sarrera bati erantzunez idazten duen testua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>iruzkin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comentario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>commentaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>comment</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaile batek sare sozial batean eratzen duen irudi- edo argazki-bilduma, normalean gai bati buruzkoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>album</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>álbum</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>album</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>album</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaile guztiek eduki guztietan etiketak gehitzeko aukera eskaintzen duen folksonomia. Ondorioz, erabiltzaile askok elementu berbera etiketa dezakete, eta elementu horren informazioa osatuz joango da. Folksonomia zabalaren adibide ezaguna Delicious da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>folksonomia zabal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>folcsonomía amplia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>folksonomie générale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>broad folksonomy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaileak profilean bere buruaren aurkezpen gisa idazten duen esaldi edo idazki laburra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaileak eduki-mota edo gai jakin batekin harremanetan jartzen dituen sarea. Eduki horiek izan daitezke, adibidez: argazkiak (Flickr, Instagram), bideoak (YouTube, Vimeo), musika (Spotify) eta aurkezpenak (Scribd, Slideshare).</descrip>
+    </descripGrp>
+    <tig>
+      <term>sare sozial bertikal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizarte-sare bertikal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red social vertical</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau social vertical</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vertical social network</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaileak sare sozial baten bidez komunikatzen eta interakzioan ibiltzen diren ingurune edo espazio birtuala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sare-sozialeko ingurune</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizarte-sareko ingurune</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entorno de red social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>environnement de réseautage social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>social networking environment</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaileei eduki estatikoak pasiboki kontsumitzeko aukera besterik ematen ez dien web-zerbitzuen multzoa. Nolabait, Interneteko lehen belaunaldia eratzen du. Web 2.0 erako zerbitzuen aurrekoa da, hau da, interakzioa eta parte-hartzea ezartzen dituen zerbitzuen aurrekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Web 1.0</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Web 1.0</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Web 1.0</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Web 1.0</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaileen artean lankidetza, interakzioa eta informazio-trukea bideratzen dituzten web-zerbitzuen multzoa. Haientzat sortu diren eduki estatikoak pasiboki kontsumitzeaz gainera, erabiltzaileak berak ere eduki-sortzaile dira eredu honetan. Mota honetakoak dira, besteak beste, sare sozialeko zerbitzuak, wikiak, blogak edo folksonomiak. Nolabait, Interneteko bigarren belaunaldia eratzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Web 2.0</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Web 2.0</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Web 2.0</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Web 2.0</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozialetan erabiltzaile-izen bat gehitua duen mezu edo argitalpena. Erabiltzaile jakin bati zuzentzeko edo erreferentzia egiteko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aipu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mención</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mention</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mention</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estekak partekatzeko helburu nagusia duen bloga. Sarrera bakoitzean esteka bat gehitu ohi da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>linklog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>linklog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>linklog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>linklog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Facebook edo LinkedInen moduko sare sozialetan, administratzaile batek gai bati buruzko interakzioa pizteko sortzen duen orria. Erabiltzaileak orri horretara batu daitezke, talde horretako kide egiteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>talde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grupo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>groupe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>group</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Facebookeko hitzordu bat antolatzen duen erabiltzailea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>antolatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>organizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hôte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>host</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Facebookeko orri batek duen jarraitzailea. Orri hori atsegin izateko botoiari emanez bihurtzen da erabiltzaile bat zale.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zale</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>fan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>admirador</term>
+    </tig>
+    <tig>
+      <term>fan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fan</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Facebooken moduko sare sozialetan, enpresa, erakunde edo pertsona publiko batek sor dezakeen espazio berezia. Helburu espezifikoak izateaz gainera, taldeek edo profilek ez bezalako aukerak eskaintzen ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>orri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>página</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>page</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>page</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Facebooken moduko sare sozialetan, erabiltzaile batek sortzen duen orri berezia; lagunei ekitaldi edo gertaera jakin baten berri emateko eta bertarako gonbita zabaltzeko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzordu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>evento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>événement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>event</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Facebooken, beste erabiltzaile baten kontaktu-zerrendan dagoen erabiltzailea. Lagun izateko, eskaera bidaltzen da, eta beste profilak onartu egin behar du eskaera hori; horrela, bien artean harremana eratu eta edukiak partekatu ahal izango dituzte.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lagun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amigo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ami</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>friend</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Facebooken moduko sare sozialetan, erabiltzaile baten profilean dagoen atal nagusia. Argitaratzen dituen sarrera edo eguneratzeak biltzen ditu, eta lagunek iruzkinak edo estekak parteka ditzakete bertan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>horma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wall</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Fitxategietako metadatuetan geoetiketak gehitzeko prozesua. Etiketa berezi horietan, informazio geografikoa zehazten duten datuak biltzen dira, hala nola geolokalizazioa errazteko koordenatuak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>geoetiketatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>geoetiquetado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>géomarquage</term>
+    </tig>
+    <tig>
+      <term>balisage géographique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geotagging</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gailu mugikorren bidez blogak idazteko, eguneratzeko eta irakurtzeko jarduera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>moblogging</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moblogging</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogage mobile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>moblogging</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Geoetiketatzeko erabiltzen den etiketa edo markatzaile berezia, informazio geografikoa biltzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>geoetiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>geoetiqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>géotag</term>
+    </tig>
+    <tig>
+      <term>balise de géolocalisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geotag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Google plus sare sozialean, erabiltzaile baten kontaktu jakin batzuk biltzen dituen taldea, harremanak eta edukiak partekatzeko bidea ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zirkulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>círculo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cercle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>circle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hainbat erabiltzailek web-nabigatzailearen bidez edita dezaketen web-aplikazioa. Erabiltzaileek modu sinkronoan edo asinkronoan bertako orriak nahi bezala sortu, aldatu eta editatzeko aukera dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>wiki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>wiki</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>wiki</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wiki</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hainbat sare sozialetan goitizenaren edo erabiltzaile-izenaren hasiera adierazteko erabiltzen den ikurra: @.</descrip>
+    </descripGrp>
+    <tig>
+      <term>a bildu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arroba</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>arobase</term>
+    </tig>
+    <tig>
+      <term>arrobe</term>
+    </tig>
+    <tig>
+      <term>a commercial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>at sign</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Harpidetutako hainbat informazio-kanal automatikoki arakatu eta bertako edukia erakusten eta antolatzen duen aplikazio edo webgunea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>batzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agregatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>RSS irakurle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agregador</term>
+    </tig>
+    <tig>
+      <term>lector RSS</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agrégateur</term>
+    </tig>
+    <tig>
+      <term>lecteur RSS</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>feed aggregator</term>
+    </tig>
+    <tig>
+      <term>RSS reader</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Harpidetza egiten duten erabiltzaileei webgune bateko eduki eguneratuak automatikoki jario bidez banatzen dizkien sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>web-sindikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sindicación web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>syndication de contenu Web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>web syndication</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hartzaileak eskatu gabe jasotzen duen mezu edo edukia, gehienetan publizitatea, zabalkunde handia izan dezan sare sozialen edo posta elektronikoaren bidez etengabe bidaltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>spam</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>spam</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spam</term>
+    </tig>
+    <tig>
+      <term>polluriel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spam</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Helbide elektronikoen zerrenda, izen bakar baten bidez identifikatua eta helbide elektroniko propioa duena. Mezu bat bidaltzen denean zerrendaren helbidera, zerrendakide guztiei birbidaltzen zaie.</descrip>
+    </descripGrp>
+    <tig>
+      <term>posta-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>banaketa-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de correo</term>
+    </tig>
+    <tig>
+      <term>lista de distribución</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liste de diffusion</term>
+    </tig>
+    <tig>
+      <term>liste de distribution</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mailing list</term>
+    </tig>
+    <tig>
+      <term>distribution list</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Webgune edo programa informatiko baten egokitasuna. Erabilgarritasuna neurtzeko, erabilera errazten eta atsegin egiten duten hainbat ezaugarri hartzen dira kontuan, hala nola diseinua, edukiak, nabigazioa eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erabilgarritasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>usabilidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>usabilité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>usability</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Informatika-erabiltzaile adituen arteko hizkeran, haiek bezainbesteko ezagutza informatikoak ez dituen erabiltzaile arrunta. Ingelesezko looser (galtzaile, frakasatu) eta user (erabiltzaile) batzetik sortua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>luser</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luser</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>luser</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>luser</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interes berezikotzat edo gogoan hartzekotzat markatzen den txioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gogoko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>favorito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>favori</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>favorite</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Internautak orri batean egiten duen sartu-irten bakoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bisita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>visita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>visite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>visit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Internet bidez atzi daitezkeen eta elkarren artean estekatuta dauden hipertestu-dokumentuak banatzeko sistema. Web-nabigatzaileak erabiliz, testua, irudia, bideoak eta bestelako edukia duten web-orriak ikus ditzake erabiltzaileak, eta batetik bestera nabiga dezake hiperesteken bitartez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>World Wide Web</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>World Wide Web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>World Wide Web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>World Wide Web</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Internet bidez estekak bildu, sailkatu eta partekatzeko aukera ematen duen lineako zerbitzua. Zerbitzu hori eskaintzen duen plataforma ezagun bat Delicious da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>markatzaile sozial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marcador social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>marque-page social</term>
+    </tig>
+    <tig>
+      <term>partage de signets</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>social bookmarking</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Internet bidez audioa edo bideoak era jarraituan transmititzeko teknika; hau da, hartzaileak fitxategia erreproduzi dezake ordenagailura guztiz deskargatua izan gabe.</descrip>
+    </descripGrp>
+    <tig>
+      <term>streaming</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>datu-korronte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>streaming</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>diffusion en flux</term>
+    </tig>
+    <tig>
+      <term>streaming</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>streaming</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Internet bidezko jokoetan edo komunitateetan hasi berria den pertsona. Nolabaiteko arazoak sor ditzake komunitatearen ohiturak edo arauak ez ezagutzeagatik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>newbie</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>newbie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>newbie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>newbie</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneteko erabiltzaile batek bere buruari ematen dion izena, beste erabiltzaile batzuekin komunikatzeko erabiltzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goitizen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>nick</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nick</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pseudonyme</term>
+    </tig>
+    <tig>
+      <term>surnom</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nickname</term>
+    </tig>
+    <tig>
+      <term>nick</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneteko erabiltzaileek bete beharreko gizabidezko edo kortesiazko arauen multzoa; adibidez, mezu iraingarririk edo hizkera desegokirik ez erabiltzea, formatu egokiak erabiltzea eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>netiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>netiqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nétiquette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>netiquette</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneteko fenomeno berezia; emozioak irudikatzen dituzten karikaturazko aurpegi batzuk erabiltzean datza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>rage comic</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rage comic</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rage comic</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rage comic</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneteko komunitateak sortu, kudeatu eta dinamizatzeko ardura duen pertsona edo enpresa baten edota marka baten ospe digitala kudeatu eta zaintzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>komunitate-kudeatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>community manager</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gestor de comunidades</term>
+    </tig>
+    <tig>
+      <term>community manager</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gestionnaire de communauté</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>community manager</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1. Interneteko plataforma bat erabiliz informazioa partekatzen eta trukatzen duten internautek eratutako komunitatea. 2. Internauten komunitate batek informazioa partekatzeko eta trukatzeko erabiltzen duen Interneteko plataforma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sare sozial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizarte-sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>social network</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneten edo bestelako sare telematiko baten bidez interesak, edukiak eta iritziak partekatzen dituzten erabiltzaileen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>komunitate birtual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunidad virtual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>communauté virtuelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>virtual community</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Internet erabiltzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>internauta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zibernauta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internauta</term>
+    </tig>
+    <tig>
+      <term>cibernauta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>internaute</term>
+    </tig>
+    <tig>
+      <term>cybernaute</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>internaut</term>
+    </tig>
+    <tig>
+      <term>cybernaut</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneten eztabaidak edo iritzi-trukea egiteko webgunea, erabiltzaileek gai bati buruz idatzitako mezuak eta erantzunak jasotzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>foro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>forum</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>forum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irabazi-asmorik gabeko erakundea, sormenezko lanak teknologia berrien bidez partekatzeko tresna juridiko berriak (CC lizentziak) eratu dituena. Lau klausula bereizten ditu: Aitortu (BY), EzKomertziala (NC), LanEratorririkGabe (ND) eta PartekatuBerdin (SA). Eta, klausula horien konbinazioz, sei lizentzia-mota eskaintzen dira, egileak publikoari eman nahi dizkion eskubideak hauta ditzan: CC BY, CC BY-SA, CC BY-ND, CC BY-NC, CC BY-NC-SA eta CC BY-NC-ND.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Creative Commons</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Creative Commons</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Creative Commons</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Creative Commons</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Karaktere-kopuru laburreko sarrerak idazteko blog-sistema berezia. Twitter da era horretako zerbitzu ezagunena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mikroblog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>microblog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>microblogue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>microblog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Komunitate birtual batentzat informazioa bilatu, hautatu, editatu, antolatu eta partekatzeaz arduratzen den pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eduki-editore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eduki-arduradun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsable de contenidos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éditeur de contenu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>content curator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontu-erabiltzailearen identitatea egiaztatua duen kontua. Kontu egiaztatuetan ikono berezi bat jarri ohi da (adibidez, ikur urdin argi bat Twitterren), kontu faltsua ez dela adierazteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontu egiaztatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenta verificada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compte vérifié</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>verified account</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku edo puntu konkretu bat koordenatu-sistema jakin batean kokatzeko teknika.</descrip>
+    </descripGrp>
+    <tig>
+      <term>geolokalizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>georreferentziazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>geolocalización</term>
+    </tig>
+    <tig>
+      <term>georreferenciación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>géolocalisation</term>
+    </tig>
+    <tig>
+      <term>géoréférencement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geolocation</term>
+    </tig>
+    <tig>
+      <term>georeferencing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>LinkedInen moduko sare sozialetan, erabiltzaile batekin harreman zuzena eratua duen konexio edo erabiltzailea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lehen mailako konexio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konexio zuzen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conexión de primer grado</term>
+    </tig>
+    <tig>
+      <term>conexión directa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>connexion du premier degré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>direct connection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>LinkedInen moduko sare sozialetan, erabiltzaile batekin harremana eratua duen erabiltzailea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konexio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conexión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>connexion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>connection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>LinkedInen moduko sare sozialetan, erabiltzaile baten bigarren mailako konexio baten konexioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hirugarren mailako konexio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conexión de tercer grado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>connexion du troisième degré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>third-degree connection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>LinkedInen moduko sare sozialetan, erabiltzaile baten lehen mailako konexio baten konexioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bigarren mailako konexio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conexión de segundo grado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>connexion du deuxième degré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>second-degree connection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema informatiko bateko segurtasun-sisteman baimenik gabe sartzen saiatzen den pertsona. Crackerraren asmoa, gehienetan, onuraren bat lortzea edo protesta egitea izan ohi da; askotan, lizentziapeko softwarean aldaketak egiten dituzte lizentziarik gabe erabili eta banatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>cracker</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cracker</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cracker</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cracker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordenagailu bateko segurtasun-sisteman baimenik gabe sartzen saiatzen den pertsona. Hackerraren asmoa, gehienetan, sistemaren ahultasuna agerian uztea eta bere trebezia erakustea izaten da; ez du crackerrak izaten duen asmo edo izaera kriminala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hacker</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pirata informatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hacker</term>
+    </tig>
+    <tig>
+      <term>pirata informático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bidouilleur</term>
+    </tig>
+    <tig>
+      <term>fouineur</term>
+    </tig>
+    <tig>
+      <term>pirate informatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hacker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Programak eta fitxategiak behera kargatzeko edo partekatzeko foroetan besteek egindako ekarpenak eskertu gabe baliatzen dituen erabiltzailea, trukean ekarpenik egiten ez duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>leecher</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>leecher</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>leecher</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leecher</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozial bateko bi erabiltzaileren arteko mezua, haiek bakarrik irakur dezaketena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mezu pribatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>mezu zuzen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mensaje privado</term>
+    </tig>
+    <tig>
+      <term>mensaje directo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>message privé</term>
+    </tig>
+    <tig>
+      <term>message directe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>private message</term>
+    </tig>
+    <tig>
+      <term>direct message</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozial bateko erabiltzaile batek bere buruaz eskaintzen dituen datu pertsonalen edo bestelako datuen multzoa, sare horretan duen identitatea nolabait eratzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>profil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perfil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>profil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>profile</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozial bateko erabiltzaile baten profilaren adierazpen grafikoa. Edozein irudi erabil badaiteke ere, profila pertsona bati badagokio, ohikoa izaten da pertsonaren argazkiren bat erabiltzea, eta, marka edo zerbitzu bati badagokio, logotipoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>avatar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>avatar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>avatar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>avatar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozial baten bidez beste erabiltzaile batekin harremana eratu duen erabiltzailea. Sare sozial batzuek izen berezia ematen diote bertako kontaktuari (adibidez, Facebooken "lagun" deitzen zaie).</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontaktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contacto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contact</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>contact</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozial batzuetan haur eta nerabeak babesteko ezarri den sistema. Haur edo nerabeenganako abusuren bat detektatzen bada sarean, baliabide hori erabil daiteke agintariei lehenbailehen horren berri emateko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>izu-botoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botón del pánico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bouton d'alarme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>panic button</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozial, foro edo Interneteko bestelako komunitate batean, gainerako erabiltzaileak probokatzeko eta gogaitzeko asmoz edo besterik gabe ondo pasatzeko asmoz mezu probokatzaileak edo interesik gabekoak plazaratzen aritzen den pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>trol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>troll</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>troll</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozialaren orri edo horma nagusiaren alboan dagoen barra, hainbat funtzio eta aukera eskaintzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alboko barra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barra lateral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>barre latérale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sidebar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozialek eskaintzen dituzten ezaugarriez baliatzen den marketineko teknika edo prozedura berezia. Publizitatu nahi den produktu, zerbitzu, ideia edo mezu bati sare sozialen bidez hedapen zabal eta lasterra ematean datza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>marketin biral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>marketing viral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>marketing viral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>viral marketing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozialen bidez argitara ematen den testua, bidalketa edo bestelako edukia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>argitalpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>publication</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>publication</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona edo giza talde bat sare sozialen bitartez jazartzea, sare horietan irainak edo bestelako ekintza erasokorrak barreiatuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ziberjazarpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>cyberbullying</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ciberacoso</term>
+    </tig>
+    <tig>
+      <term>ciberbullying</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cyberharcèlement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cyberbullying</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozialen edo posta elektronikoaren bidez hedapen zabal eta lasterra duen bideoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bideo biral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>video viral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vidéo virale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>viral video</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozialen edo posta elektronikoaren bidez hedapen zabal eta lasterra duen umorezko mezu sinplea; gehienetan, jatorrizko irudi, bideo edo testu baten aldaera satirikoa behin eta berriz eginez transmititzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>meme</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>meme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mème internet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>meme</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sare sozialetako erabiltzaile batek sarean eskura duen informazio-atal berezia, erabiltzaile horri dagokiona. Erabiltzaile-izen eta pasahitz baten bidez sartzen da atal horretara, eta era pertsonalizatuan kudea dezake.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erabiltzaile-kontu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenta</term>
+    </tig>
+    <tig>
+      <term>cuenta de usuario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compte</term>
+    </tig>
+    <tig>
+      <term>compte utilisateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>account</term>
+    </tig>
+    <tig>
+      <term>user account</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Softwareko eta hardwareko hainbat modulu eta eginbide funtzionatzeko erabiltzen den sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>plataforma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plataforma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plateforme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>platform</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>TCP/IP protokoloen bidez ordenagailuak edo sareak zuzenean konektatzen dituen sare informatiko deszentralizatu eta erraldoia, mundu osoan hedatua dagoena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Internet</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Internet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Internet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Internet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telefono mugikorretan, tabletetan eta antzeko gailu mugikorretan exekutatzeko bereziki diseinatutako aplikazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aplikazio mugikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>app</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplicación móvil</term>
+    </tig>
+    <tig>
+      <term>app</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>application mobile</term>
+    </tig>
+    <tig>
+      <term>appli</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mobile application</term>
+    </tig>
+    <tig>
+      <term>app</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren bidez ospe handia lortu duen pertsona, jarraitzaile asko izan ohi dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>twitstar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>twitstar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>twitstar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twitstar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren idatzitako mezu laburra, 140 karakterera mugatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tuit</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tweet</term>
+    </tig>
+    <tig>
+      <term>gazouillis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tweet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren moduko sare sozialetan, traol-hitz edo hashtag baten hasiera adierazteko erabiltzen den ikurra: #.</descrip>
+    </descripGrp>
+    <tig>
+      <term>traol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almohadilla</term>
+    </tig>
+    <tig>
+      <term>hash</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>croisillon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hash</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren moduko sare sozialetan, beste erabiltzaile baten txioak jasotzeko harpidetuta dagoen erabiltzailea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarraitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seguidor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>abonné</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>follower</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren moduko sare sozialetan, beste erabiltzaile baten txioak jasotzeko harpidetuta egon.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarraitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seguir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>être abonné</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>follow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren moduko sare sozialetan, erabiltzaile batekiko harpidetza eten eta haren txioak jasotzeari utzi.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarraitzeari utzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dejar de seguir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>se désabonner</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>unfollow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren moduko sare sozialetan, traol (#) ikurraz hasita idazten den karaktere-segida, mezua etiketatzeko erabiltzen dena. Karaktere-segida horretan klik eginez, traol-hitz bera duten mezuak berreskura daitezke. Gai zehatz baten inguruan aritzeko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>traol-hitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>traol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hashtag</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>etiqueta</term>
+    </tig>
+    <tig>
+      <term>hashtag</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mot-dièse</term>
+    </tig>
+    <tig>
+      <term>hashtag</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hashtag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren moduko sare sozialetan, une jakin bateko txioetan gehien aipatzen den gaia edo hitz-multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>joerako gai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>uneko gai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tendencia del momento</term>
+    </tig>
+    <tig>
+      <term>tema del momento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tendance</term>
+    </tig>
+    <tig>
+      <term>sujet tendance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trending topic</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren txio bat edo txioak idatzi.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txiokatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tuiteatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tuitear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>twitter</term>
+    </tig>
+    <tig>
+      <term>gazouiller</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tweet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren txioak idazten dituen erabiltzailea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txiolari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tuitlari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tuitero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>twitteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twitter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren, balore-burtsako konpainien emaitzak ikusteko erabiltzen den ikurra: $. Traolaren erabilera eta funtzio berak ditu, eta konpainiaren laburduraren aurrean jartzen da; adibidez, $GOOG, Google konpainiari buruzko informazioa eskuratzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>cashtag</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cashtag</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cashtag</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cashtag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren moduko sare sozialetan, erabiltzaile batek beste erabiltzaile bati bere jarraitzaile izatea eragotzi. Hortaz, erabiltzaile blokeatuak ezingo ditu blokeatzailearen txioak zuzenean jaso.</descrip>
+    </descripGrp>
+    <tig>
+      <term>blokeatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bloquear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bloquer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>block</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Txat-mota berezia, Internet bidez audioa eta bideoa erabiliz zuzenean berriketan aritzeko aukera ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bideotxat</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>videochat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>videochat</term>
+    </tig>
+    <tig>
+      <term>vidéobavardage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>videochat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Web bidez audioak edo bideoak eskaintzeko prozedura. Datu-korrontearen teknologia erabiltzen du, fitxategi horiek zuzenean edo geroago erreproduzitzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>webcast</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>webcast</term>
+    </tig>
+    <tig>
+      <term>difusión por web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>webdiffusion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>webcast</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Web-arakatzaile bat erabiliz urrutiko zerbitzari batean exekuta daitekeen aplikazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>web-aplikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>web-app</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplicación web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>application Web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>web application</term>
+    </tig>
+    <tig>
+      <term>web-based application</term>
+    </tig>
+    <tig>
+      <term>web app</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Webgune batean egindako eguneratzeen informazio laburtua jasotzen duen fitxategia. Erabiltzaileak bere agregatzailean jaso dezake, baldin eta jario horretara harpidetuta badago.</descrip>
+    </descripGrp>
+    <tig>
+      <term>web-jario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuente web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fil d'actualité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>feed</term>
+    </tig>
+    <tig>
+      <term>web feed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Webgune batek jasotako bisiten datuak bildu eta analizatzeko tekniken multzoa. Erabiltzaileen ezaugarriak eta portaera aztertzea izan ohi da helburua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>web-analitika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>analítica web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>analyse Web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Web analytics</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Webgune bateko artikulu edo dokumentu baterako esteka bat jartzen denean webgune horren egileek jakinarazpen bat jasotzeko balio duen sistema. Horri esker, egileak erraz jakingo du bere edukia nor eta non estekatzen ari den.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pingback</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pingback</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pingback</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pingback</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Webgune jakin batzuk sustatzeko helburu hutsa duen bloga. Webgune horiek bilatzaileetan duten posizioa hobetu nahi izaten dute, gero bertan bisitarien arabera ordaintzen duten publizitate-iragarkiak argitaratzeko asmoz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>splog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>spam blog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>splog</term>
+    </tig>
+    <tig>
+      <term>spam blog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>splogue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>splog</term>
+    </tig>
+    <tig>
+      <term>spam blog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Webgune pertsonal edo kolektiboa, aldizka-aldizka eguneratzen dena erabiltzaileak idatzitako sarrera edo artikuluen bitartez. Sarrera edo artikulu horiek kronologikoki ordenatuta eskaintzen dira, berrienetik zaharrenera, eta bisitariek iruzkinak egin ditzakete.</descrip>
+    </descripGrp>
+    <tig>
+      <term>blog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>weblog</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blog</term>
+    </tig>
+    <tig>
+      <term>weblog</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blog</term>
+    </tig>
+    <tig>
+      <term>weblog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Web-jario edo sindikazio-sistema baten bidez multimedia-fitxategiak (audioak, bideoak) banatzeko sistema. Erabiltzaileak fitxategi horiek jasoko ditu, eta nahi duenean erreproduzitzeko aukera izango du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>podcast</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>podcast</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>podcast</term>
+    </tig>
+    <tig>
+      <term>baladodiffusion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>podcast</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Web-sarea datu-base handitzat hartuta, informazio semantikoa eta adimen artifizialaren teknologiak aplikatzeko asmoa luketen web-zerbitzuen multzoa. Nolabait, Interneteko hirugarren belaunaldia eratzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Web 3.0</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Web 3.0</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Web 3.0</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Web 3.0</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>XML lengoaian oinarritutako fitxategi-formatua, web-jario bidez sarean informazioa banatzeko erabilia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>RSS</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>RSS</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>RSS</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>RSS</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zerbitzari bati konektatuta, hari informazioa, zerbitzuak edo bestelako baliabideak eskatzen dizkion programa informatikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bezero</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cliente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>client</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>client</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontua ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abrir una cuenta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ouvrir un compte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open an account</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sarbide ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acceso abierto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>libre accès</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open access</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguneratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>actualizar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mettre à jour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>update</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administrador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>administrateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>administrator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web-ostatatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alojamiento web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hébergement web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>web hosting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aplikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplicación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>application</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>application</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>autentifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autenticación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>authentification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>authentication</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>blog korporatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blog corporativo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogue d'entreprise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corporate blog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>blog pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blog personal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blogue personnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal blog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>channel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontua itxi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cerrar una cuenta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fermer un compte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>close an account</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txat</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dialogue en ligne</term>
+    </tig>
+    <tig>
+      <term>bavardage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txateatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>txatean jardun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chatear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dialoguer en ligne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>FTP bezero</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cliente FTP</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>client FTP</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>FTP client</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telefono, tableta edo antzeko gailu mugikor batean instalatuta dagoen programa bezeroa; aplikazioak programatzeko interfazea erabiltzen du sare sozial batera konektatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bezero mugikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cliente móvil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>client mobile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mobile client</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kode ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>código abierto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>code source ouvert</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open source code</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezarpenak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>configuración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>paramètres</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>settings</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eduki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contenido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contenu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>content</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pasahitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contraseña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mot de passe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>password</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>copyfree</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>copyfree</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>copyfree</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>copyfree</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>copyleft</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>copyleft</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>copyleft</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>copyleft</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>copyright</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>copyright</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>copyright</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>copyright</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>posta elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>correo electrónico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>courrier électronique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electronic mail</term>
+    </tig>
+    <tig>
+      <term>e-mail</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>krakeatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>crackear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>craquer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>testu-koadro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuadro de texto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>zone de texte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>text box</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontu korporatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenta corporativa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compte d'entreprise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corporate blog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontu faltsu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenta falsa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>faux compte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fake account</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontu ofizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenta oficial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compte officiel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>official account</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontu pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenta personal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compte personnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal account</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu irekiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>datos abiertos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>données ouvertes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>helbide elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>posta elektronikoko helbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dirección de correo electrónico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>adresse de courrier électronique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electronic mail address</term>
+    </tig>
+    <tig>
+      <term>e-mail address</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gailu mugikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dispositivo móvil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>appareil mobile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mobile device</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jabari publiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dominio público</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>domaine public</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>public domain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esteka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enlace</term>
+    </tig>
+    <tig>
+      <term>vínculo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lien</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>link</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estekatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enlazar</term>
+    </tig>
+    <tig>
+      <term>vincular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>link</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etiketatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>etiquetado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étiquetage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tagging</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Twitterren, ostiraletan gertatu ohi den fenomeno berezia: norberari aipagarriak iruditzen zaizkion erabiltzaileak gomendatzen dira, #followfriday edo #FF traol-hitza erabiliz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>follow friday</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>follow friday</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>follow friday</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>follow friday</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elementu multimedien sail bat erakusten duen leihoa edo menua. Elementu horiek irudiak, soinuak edo bideoak izan daitezke, besteak beste.</descrip>
+    </descripGrp>
+    <tig>
+      <term>galeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>galería</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>galerie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gallery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>edukien kudeaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gestión de contenidos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gestion de contenu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>content management</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontuen kudeaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gestión de cuentas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gestion des comptes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>account management</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hackeatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hackear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bidouiller</term>
+    </tig>
+    <tig>
+      <term>fouiner</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hacker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Posta-zerrenda edo foroetan, mezu bati erantzunez bidalitako mezu-katea, jatorrizko mezua ere hartzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eztabaida-hari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hilo de discusión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fil de discussion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>discussion thread</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzeko planoko irudi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imagen de fondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>image d'arrière-plan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>background image</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabiltzaile-interfaze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interfaz de usuario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interface utilisateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>user interface</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web-interfaze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interfaz web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interface web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>web interface</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>joko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juego</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jeu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>game</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lagun-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de amigos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liste d'amis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>list of friends</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabiltzaile-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de usuarios</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liste d'utilisateurs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>user list</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eduki berri bat sortzeko beste web-aplikazio batzuetako edukia erabiltzen duen webgune edo web-aplikazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mashup</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mashup</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mashup</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mashup</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneten eta Web 2.0 teknologien bitartez erabiltzen diren komunikazio-plataformetako bakoitza; erabiltzaileek edukiak sortu, editatu, argitaratu eta trukatu egin ditzakete plataforma horietan, elkarren artean komunikatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>komunikabide sozial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medio social</term>
+    </tig>
+    <tig>
+      <term>medio de comunicación social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>média social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>social medium</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mezu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mensaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>message</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>message</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bat-bateko mezularitza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mensajería instantánea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>messagerie instantanée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>instant messaging</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>miembro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>membre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>member</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web-nabigatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>web-arakatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>navegador web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>navigateur web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>web browser</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabiltzaile-izen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nombre de usuario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nom d'utilisateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>user name</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabilera-arau</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>norma de uso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conditions d'utilisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>term of use</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jakinarazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>notificación</term>
+    </tig>
+    <tig>
+      <term>alerta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>notification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>notification</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ontologia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ontología</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ontologie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ontology</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>orri ofizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>página oficial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>page officielle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>official page</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web-orri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>página web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>page web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>web page</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gako-hitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>palabra clave</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mot-clé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>key word</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iragarki-banda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>banner</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pancarta</term>
+    </tig>
+    <tig>
+      <term>banner</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bannière publicitaire</term>
+    </tig>
+    <tig>
+      <term>bandeau publicitaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>advertising banner</term>
+    </tig>
+    <tig>
+      <term>banner</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>profil korporatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perfil corporativo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>profil d'entreprise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corporate profile</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>profil pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perfil personal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>profil personnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal profile</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontua pertsonalizatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>personalización de cuenta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>personnalisation de compte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>account customization</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>blog-plataforma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plataforma de blogs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plateforme de blogues</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blog platform</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mikroblog-plataforma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plataforma de microblogs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plateforme de microblogues</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>microblog platform</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>multimedia-plataforma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plataforma multimedia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plateforme multimédia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>multimedia platform</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>portail</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>portal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pribatutasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privacidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>confidentialité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>privacy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legeak sorkuntza edo lan baten autoreari aitortzen dizkion eskubideen multzoa.  Eskubide horiei esker, autoreak lan hori argitaratzeko, aldatzeko edo ustiatzeko ahalmena du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jabetza intelektual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>propiedad intelectual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>propriété intellectuelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>intellectual property</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datuak babeste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>datu-babes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>protección de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>protection des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data protection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>protokolo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>protocolo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>protocole</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>protocol</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Internet bidez konektatzeko sare-mota: ez dago zerbitzari zentralik, ez eta bezero finkorik ere, konektatutako nodo guztiek elkarren bezero eta zerbitzari gisa funtzionatzen baitute txandaka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>parekoen sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>P2P sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red de pares</term>
+    </tig>
+    <tig>
+      <term>red P2P</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau pair-à-pair</term>
+    </tig>
+    <tig>
+      <term>réseau poste à poste</term>
+    </tig>
+    <tig>
+      <term>réseau P2P</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>peer-to-peer network</term>
+    </tig>
+    <tig>
+      <term>P2P network</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku edo puntu konkretuak koordenatu-sistema jakin batean kokatzeko aukera eskaintzen duen sare soziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>geolokalizazioko sare sozial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>geolokalizazioko gizarte-sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red social de geolocalización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau social de géolocalisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geolocation social network</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialen motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sare sozial mugikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizarte-sare mugikor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red social móvil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau social mobile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mobile social network</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>birbideratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>redireccionamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>redirection</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>redirection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>URLa laburtze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reducción de URL</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réduction d'URL</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>URL shortening</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gordailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errepositorio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>repositorio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dépôt</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>repository</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekitaldien zuzeneko emanaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retransmisión de eventos en directo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>retransmission d'événements en direct</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>broadcasting of live events</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kodea berrerabiltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reutilización de código</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réutilisation de code</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>code reuse</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>informazioa berrerabiltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reutilización de información</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réutilisation de l'information</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reuse of information</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txat-gela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sala de chat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bavardoir</term>
+    </tig>
+    <tig>
+      <term>salle de conversation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chat room</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irudiak ostatatzeko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de alojamiento de imágenes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>service de hébergement d'images</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>image hosting service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Interneten ostatatzeko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de alojamiento de Internet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>service de hébergement en Internet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Internet hosting service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideoak ostatatzeko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de alojamiento de videos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>service de hébergement de vidéos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video hosting service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sare profesionaleko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de red profesional</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseautage professionnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>professional network service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sare sozialeko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizarte-sareko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de red social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseautage social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>social networking service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>URLa laburtzeko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de reducción de URL</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>service de réduction d'URL</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>URL shortening service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web-zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>service web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>web service</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerbitzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servidor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>serveur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>server</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>FTP zerbitzari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servidor FTP</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>serveur FTP</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>FTP server</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sesión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>session</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>session</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>edukiak kudeatzeko sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema de gestión de contenidos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>système de gestion de contenu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>content management system</term>
+    </tig>
+    <tig>
+      <term>CMS</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>webgune</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sitio web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>site web</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>website</term>
+    </tig>
+    <tig>
+      <term>site</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>software libre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>software libre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>logiciel libre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>free software</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>harpidetza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>subscripción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>abonnement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>subscription</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordenagailu eramangarri txikia, telefono adimendunak baino handiagoa eta ukipen-pantailaz hornitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tableta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tableta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tablette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tablet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohar-taula elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>BBS</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tablón de anuncios electrónico</term>
+    </tig>
+    <tig>
+      <term>BBS</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>babillard électronique</term>
+    </tig>
+    <tig>
+      <term>BBS</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Bulletin Board System</term>
+    </tig>
+    <tig>
+      <term>BBS</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefono adimendun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>smartphone</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>teléfono inteligente</term>
+    </tig>
+    <tig>
+      <term>smartphone</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>téléphone intelligent</term>
+    </tig>
+    <tig>
+      <term>ordiphone</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>smartphone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>troleatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trolear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>troller</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>troll</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabiltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>usuario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>utilisateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>user</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabiltzaile aurreratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>usuario avanzado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>utilisateur avancé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>advanced user</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azken erabiltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>usuario final</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>utilisateur final</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>final user</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web korporatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>web corporativo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>web d'entreprise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corporate web</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web semantiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>web semántica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>web sémantique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>semantic web</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>web sozial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizarte-web</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>web social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>web social</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>social web</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aplikazio edo programa txikia, gailu mugikorretik, ordenagailuko mahaigainetik edo webgune batetik erraz ireki daitekeena. Informazio jakin bat kontsultatzeko edo maiz erabiltzen den funtzio bat modu sinplean erabiltzeko balio du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>widget</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>widget</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>widget</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>widget</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sarean konektatutako ordenagailu batetik bestera fitxategiak bidaltzeko erabiltzen den sare-protokoloa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fitxategiak transferitzeko protokolo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>FTP</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>protocolo de transferencia de ficheros</term>
+    </tig>
+    <tig>
+      <term>FTP</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>protocole de transfert de fichier</term>
+    </tig>
+    <tig>
+      <term>FTP</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>File Transfer Protocol</term>
+    </tig>
+    <tig>
+      <term>FTP</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema informatiko batean sartzeko eta hura nolabait hondatzeko helburua duen softwarea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>malware</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>software gaizto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>malware</term>
+    </tig>
+    <tig>
+      <term>software malicioso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>logiciel malveillant</term>
+    </tig>
+    <tig>
+      <term>maliciel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>malware</term>
+    </tig>
+    <tig>
+      <term>malicious software</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema informatiko batean sartu eta sistema horretako parte edo fitxategi batzuetarako sarbidea oztopatzen duen softwarea; erreskate bat eskatzen du oztopoa askatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ransomware</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ransomware</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ransomware</term>
+    </tig>
+    <tig>
+      <term>rançongiciel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ransomware</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema informatiko batean sartu, bertako informazioa bildu eta, jabearen baimenik gabe, informazio hori kanpora transmititzen duen softwarea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>spyware</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>software espioi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>spyware</term>
+    </tig>
+    <tig>
+      <term>software espía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>logiciel espion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spyware</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema informatiko batean sartu eta automatikoki iragarki bat exekutatzen edo bistaratzen duen softwarea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>adware</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>publizitate-software</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adware</term>
+    </tig>
+    <tig>
+      <term>software de publicidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>logiciel publicitaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>adware</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema informatiko batean sartu, bere burua bikoiztu eta konektatuta dauden sistema eta ordenagailuetara barreiatzen den softwarea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>har</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gusano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ver</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>worm</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona batek Interneten bidez proiektatzen duen identitate birtuala. Interneten duen jardueraren bitartez eta gainerako erabiltzaileek pertsona horrekin duten interakzioen bidez osatzen eta formatzen da haren identitate digitala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>identitate digital</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>identidad digital</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>identité numérique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>digital identity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irakasleak eta ikasleak elkarrekin komunikatzeko eta lan egiteko eratutako komunitate birtuala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ikaskuntza-komunitate birtual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunidad virtual de aprendizaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>communauté virtuelle d'apprentissage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>virtual learning community</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona batek ikaskuntza-prozesu pertsonalerako erabiltzen dituen tresnen, informazio-iturrien, konexioen eta jardueren multzoa; barnean hartzen ditu sare sozialak eta Web 2.0 teknologiak: blogak, wikiak, batzaileak eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ikaskuntza-ingurune pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>PLE</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entorno personal de aprendizaje</term>
+    </tig>
+    <tig>
+      <term>PLE</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>environnement d'apprentissage personnel</term>
+    </tig>
+    <tig>
+      <term>EAP</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal learning environment</term>
+    </tig>
+    <tig>
+      <term>PLE</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Informazio, tresna eta bestelako baliabide informatikoak Interneteko espazio birtual batean biltegiratzeko eta erabiltzeko sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hodei-konputazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hodei-informatika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>computación en la nube</term>
+    </tig>
+    <tig>
+      <term>informática en la nube</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>informatique en nuage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cloud computing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>softwarea zerbitzu gisa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>software como servicio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>logiciel en tant que service</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>software as a service</term>
+    </tig>
+    <tig>
+      <term>SaaS</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plataforma zerbitzu gisa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plataforma como servicio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plate-forme en tant que service</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>platform as a service</term>
+    </tig>
+    <tig>
+      <term>PaaS</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telefono adimendunen bidezko mezularitzan edo web bidezko komunikazioetan erabiltzen den ideograma edo irudi estandarizatua, jatorriz Japoniakoa eta emotikonoen antzeko funtzioa betetzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>emoji</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>emoji</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emoji</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>emoji</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Telekomunikazio-sare batean informazioa lehentasun-irizpiderik edo sarrera-debekurik gabe berdintasunez zabaltzean datzan printzipioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sarearen neutraltasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>neutralidad de la red</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>neutralité du réseau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>net neutrality</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona, enpresa edo marka baten ospeak edo estimuak Interneten duen isla.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ospe digital</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reputación digital</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réputation en ligne</term>
+    </tig>
+    <tig>
+      <term>cyber-réputation</term>
+    </tig>
+    <tig>
+      <term>web-réputation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>digital reputation</term>
+    </tig>
+    <tig>
+      <term>online reputation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>2009an Satoshi Nakamotok sorturiko kriptodirua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bitcoin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bitcoin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bitcoin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bitcoin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Sare sozialetako funtzioak eta osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Trukerako baliabide digitala, Interneteko transakzioetan diruaren funtzioa betetzen duena. Kriptografia erabiltzen da diru-sorrera eta eragiketak bermatzeko. Sortu zen lehen kriptodirua bitcoina da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kriptodiru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>criptomoneda</term>
+    </tig>
+    <tig>
+      <term>criptodivisa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crypto-monnaie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cryptocurrency</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona edo erakunde baten identitatea iruzur bidez ordeztuz, informazio konfidentziala ilegalki eskuratzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>phising</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>phising</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>phising</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>phising</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interneten eskaintzen diren eduki guztietatik abiatuta, komunitate birtual batentzat garrantzitsua den informazioa bilatu, hautatu, editatu, antolatu eta partekatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eduki-edizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>edukiez arduratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>curación de contenidos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>édition de contenu</term>
+    </tig>
+    <tig>
+      <term>curation de contenu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>content curation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azpiegitura zerbitzu gisa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>infraestructura como servicio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>infrastructure en tant que service</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>infrastructure as a service</term>
+    </tig>
+    <tig>
+      <term>IaaS</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

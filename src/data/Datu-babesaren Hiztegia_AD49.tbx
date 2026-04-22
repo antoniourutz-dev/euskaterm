@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Datu-babesaren Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Datu-babesaren Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="534900">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Fitxategiari buruzko jakinarazpenak bete behar dituen baldintza guztiak betez gero, Datuak Babesteko Bulegoak fitxategia Datuak Babesteko Erregistro Nagusian erregistratzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fitxategia inskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción del fichero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>inscription de fichier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>file registration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534901">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aldi baterako fitxategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>fitxategi iragankor</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero temporal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fichier temporaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>temporary file</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534902">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sarbideen erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro de accesos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>access record</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534903">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu-zifratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cifrado de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chiffrement des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data encryption</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534904">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bildutako edo erregistratutako datuak datu-tratamendurako gordetzea. Datuak biltzeko edo erregistratzeko helburua bete eta gero, datu horiek ezingo dira gehiago interesduna identifikatzeko moduan gorde.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-kontserbazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conservación de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>stockage des données</term>
+    </tig>
+    <tig>
+      <term>conservation des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data storage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534905">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baimenduta ez dauden pertsonei edo erakundeei jakinaraz ezin dakizkiokeen datuen ezaugarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-konfidentzialtasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>confidencialidad de los datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>confidentialité des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data confidentiality</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534906">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu-fitxategi ez-automatizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero no automatizado de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fichier non automatisé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>non-automated data file</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534907">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zuzenbide pribatuaren baitako pertsona, enpresa edo erakundeen kontrolpekoak diren fitxategiak, edo zuzenbide publikoko korporazioen kontrolpeko fitxategiak, baldin eta fitxategi horiek ez badaude zuzenbide publikoko ahalmenak gauzatzeari zorrozki lotuta</descrip>
+    </descripGrp>
+    <tig>
+      <term>titulartasun pribatuko datu pertsonalen fitxategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero de datos personales de titularidad privada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal data files in private ownership</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534908">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fitxategiaren helburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>finalidad del fichero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>finalité du fichier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>purpose of the file</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534909">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzailea identifikatu eta haren nortasuna egiaztatu ondoren soilik, datuak atzitzeko edo baliabide informatikoak dauden lekura sartzeko aukera ematen duen segurtasun-eragiketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sarbide-kontrol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>control de acceso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contrôle d'accès</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>control access</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534910">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baimendu gabeko sarbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acceso no autorizado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accès non autorisé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>unauthorised access</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534911">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datuetan hirugarrenen bidez sartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acceso por cuenta de terceros</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>access on behalf of third parties</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534912">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona fisiko edo juridikoa, izaera publiko zein pribatukoa, edo administrazioko organoa, baina ondorengoetako bat ez dena: ukitua edo interesatua, tratamenduaren arduraduna, tratamendu-eragilea, edo azken bi horien zuzeneko agintepean datuak tratatzeko baimena duten pertsonetako bat. Era berean, datuen trafikoan subjektu berezitu gisa diharduen nortasun juridikorik gabeko erakundea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hirugarren</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tercero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>third party</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534913">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Babestutako baliabide informatikoak dauden lekuetara baimendutako eta autentifikatutako erabiltzaileei bakarrik sartzen uzten dien sarbide-kontrola.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sarbide fisikoaren kontrol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>control de acceso físico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contrôle d'accès physique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>physical access control</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534914">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Babestutako datuak behar bezala baimendutako eta autentifikatutako erabiltzaileei bakarrik atzitzen uzten dien sarbide-kontrola.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sarbide logikoaren kontrol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>control de acceso lógico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contrôle d'accès logique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>logical access control</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534915">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu-tratamenduan edo -transferentzian, nahita edo nahi gabe, aldatzen edo ezabatzen ez diren eta formatu berean kontserbatzen diren datuen ezaugarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-osotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>integridad de los datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>intégrité des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data integrity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534916">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Segurtasunari eragiten dioten irregulartasunen historia eta argibideak biltzen dituen erregistroa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>segurtasun-gorabeheren erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro de incidencias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534917">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabiltzaile-profil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perfil de usuario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>profil d'usager</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>user profile</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534918">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>benetako datu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>datos real</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>real data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534919">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datuak Babesteko Euskal Bulegoaren zuzendariari aholkuak emateko erakundea, Datu pertsonaletarako titulartasun publikoko fitxategiei eta Datuak Babesteko Euskal Bulegoa sortzeari buruzko Legean ezarritakoaren arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Datuak Babesteko Euskal Bulegoaren Kontseilu Aholku-emailea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Consejo Consultivo de la Agencia Vasca de Protección de Datos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534920">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu-fitxategi guztiek bete behar dituzten segurtasun-neurriak, 1720/2007 Errege Dekretuan ezartzen direnak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oinarrizko segurtasun-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida de seguridad de nivel básico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534921">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinarrizko eta goi-mailako segurtasun-neurrien artean daudenak, 1720/2007 Errege Dekretuan ezarritakoarekin bat.</descrip>
+    </descripGrp>
+    <tig>
+      <term>maila ertaineko segurtasun-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida de seguridad de nivel medio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534922">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bereziki babestutako datuen fitxategiek bete behar dituzten segurtasun-neurriak, 1720/2007 Errege Dekretuan ezartzen direnak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goi-mailako segurtasun-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida de seguridad de nivel alto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534898">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritar orok duen eskubidea erabakitzeko noiz eta nola plazaratu bere bizitzari buruzko isilpeko datuak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>informazio-autodeterminazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autodeterminación informativa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>autodétermination informative</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>informational self-determination</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534899">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu pertsonalen fitxategi bat sortzen duen edonork duen betebeharra Datuak Babesteko Bulegoari fitxategiaren berri emateko. Tratamendu-kontrolatzailea, fitxategiaren helburua, kokalekua, dituen datuak zein motatakoak diren, eta zein mailatako segurtasun-neurriak eska daitezkeen zehaztu behar zaizkio, besteak beste, Datuak Babesteko Bulegoari.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fitxategiaren jakinarazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>notificación del fichero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>notification du fichier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>file notification</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534923">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aldez aurretik biltegiratutako datuak selektiboki atzitzeko eragiketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-berreskuratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recuperación de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>recherche de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data retrieval</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534924">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interesdunak atzera botatzea bere datu pertsonalak tratatzeko eman duen baimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>adostasuna ezeztatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>revocación del consentimiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>révocation du consentement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>revocation of consent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534925">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ukitua informatzeko betebehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>interesduna informatzeko betebehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deber de información al interesado</term>
+    </tig>
+    <tig>
+      <term>deber de información al afectado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>obligation d'informer la personne concernée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>duty to inform the data subject</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534926">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu egoki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato adecuado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée adéquate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>adequate data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534927">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beharrezko datu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato pertinente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée pertinente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>relevant data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534928">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>neurriko datu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato no excesivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée non excessive</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>not excessive data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534929">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Akatsik ez duen datua. Datuak zehatzak izatea ezinbesteko baldintza da datu-tratamendua legezkoa izateko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu zehatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato exacto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée exacte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>accurate data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534930">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Informaziorik berriena isla dezan, gaurkotutako datua. Datuak gaurkotuak izatea ezinbesteko baldintza da datu-tratamendua legezkoa izateko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu eguneratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato puesto al día</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée mise à jour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>updated data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534931">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskubide-babes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tutela de derechos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>protection des droits</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>protection of rights</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534932">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datuak babesteko kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato de protección de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contrat de protection des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data protection contract</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534933">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interesduna ez den beste pertsona bati datuak erakustea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datuak lagatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>datuak komunikatze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cesión de datos</term>
+    </tig>
+    <tig>
+      <term>comunicación de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>communication de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data communication</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534850">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu pertsonaletarako titulartasun publikoko fitxategiei eta Datuak Babesteko Euskal Bulegoa sortzeari buruzko Legean ezarritako zereginak dituen erakundea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Datuak Babesteko Euskal Bulegoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Agencia Vasca de Protección de Datos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534851">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Agentzia independentea, ahalmena duena bai datu pertsonalen datu-baseak erregistratzeko bai legeak ezarritakoarekin bat ez datozen datuak aldarazteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datuak babesteko agentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agencia de protección de datos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534852">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu pertsonaletarako titulartasun publikoko fitxategiei eta Datuak Babesteko Euskal Bulegoa sortzeari buruzko Legearen arabera, fitxategiaren helburua, edukia eta erabilera erabakitzen duen pertsona, erakundea, entitatea, korporazioa edo administrazio-organoa. Dituen eginkizunak segurtasun-agirian zehazten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tratamenduaren arduradun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsable del fichero</term>
+    </tig>
+    <tig>
+      <term>responsable del tratamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>responsable du traitement</term>
+    </tig>
+    <tig>
+      <term>responsable du fichier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>controller</term>
+    </tig>
+    <tig>
+      <term>data controller</term>
+    </tig>
+    <tig>
+      <term>file controller</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534853">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Identifikatutako edo identifikagarri diren pertsona fisikoei buruzko informazioa, dela zenbaki bidezkoa, alfabetikoa, grafikoa, fotografikoa, akustikoa edo beste era batekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>izaera pertsonaleko datu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>datu pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato de carácter personal</term>
+    </tig>
+    <tig>
+      <term>dato personal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée à caractère personnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534854">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu pertsonalen edozein multzo antolatu, edozein modutara sortua, jasoa, antolatua eta edozein modutara atzi daitekeena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu pertsonalen fitxategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero de datos personales</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fichier de données à caractère personnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal data file</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534855">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Automatizatutako edo automatizatu gabeko eragiketa eta prozedura teknikoak, datu pertsonalak biltzeko, erregistratzeko, kontserbatzeko, lantzeko, aldatzeko, blokeatzeko eta ezerezteko erabil daitezkeenak; baita kontsultetatik, interkonexioetatik eta transferentzietatik eratorritako datu-lagapenak ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu pertsonalen tratamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tratamiento de datos de carácter personal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>traitement de données à caractère personnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal data processing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534856">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratatu beharreko datu pertsonalen titularra den pertsona fisikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ukitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>interesdun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>afectado</term>
+    </tig>
+    <tig>
+      <term>interesado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>personne concernée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data subject</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534857">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamenduaren arduradunaren izenean, datu pertsonalak tratatzen dituen pertsona fisiko zein juridikoa, agintaritza publikoa, zerbitzua edo bakarrik nahiz beste batzuekin batera jardun dezakeen beste edozein erakunde.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tratamendu-eragile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encargado del tratamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sous-traitant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data processor</term>
+    </tig>
+    <tig>
+      <term>processor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534858">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interesdunaren borondate-adierazpen aske, zalantzarik gabe, zehatz eta arrazoitua, hari dagozkion datu pertsonalak tratatzeko beharrezkoa dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ukituaren adostasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>interesdunaren adostasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consentimiento del interesado</term>
+    </tig>
+    <tig>
+      <term>consentimiento del afectado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>consentement de la personne concernée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>consent of data subject</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534859">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edozein pertsonak kontsulta dezakeen fitxategia, baldin eta arau murriztaileren batek hori eragozten ez badio, edo kontsulta egiteko betekizun bakar gisa ezarritako kontraprestazioa ordaintzen badu. Jendearen eskurako iturri dira, soil-soilik, sustapen-erroldak, telefono-zerrendak, lanbide-taldeetara bildutako pertsonen zerrendak, egunkariak, aldizkari ofizialak eta komunikabideak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jendearen eskurako iturri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuente accesible al público</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>source accessible au public</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>public accessible source</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534860">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu-transferentzia jasotzen duen edozein pertsona fisiko edo juridiko, publiko edo pribatu edo administrazio-organo, edo nortasun juridikorik ez izan arren, subjektu berezitu gisa diharduen edozein erakunde.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-hartzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>datuen lagapen-hartzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>destinatario de datos</term>
+    </tig>
+    <tig>
+      <term>cesionario de los datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>destinataire de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data recipient</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534861">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritar orok duen bere-berezko eskubidea fitxategi batean berari buruz dauden datu pertsonalak ezagutzeko, baita datuen iturria eta egin diren edo egingo diren datu-lagapenen berri izateko ere. Adingabeen edo pertsona ezgaien kasuan izan ezik, eskubide hori interesdunak baliatu behar du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datuetan sartzeko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de acceso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit d'accès</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right of access</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534862">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sekretu-eginbehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sekretua gordetzeko eginbehar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deber de secreto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>obligation du secret</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>duty of secrecy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534863">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interesdunak duen eskubidea -bere egoera partikularra dela-eta zilegi diren arrazoiak aintzat hartuta-, berari dagozkion datuak inongo tratamendutan erabil ez daitezen, estatuko legerian bestelakorik ezartzen ez bada, behintzat.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aurka egiteko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de oposición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit d'opposition</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right to object</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534864">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontrol-agintaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autoridad de control</term>
+    </tig>
+    <tig>
+      <term>autoridad supervisora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>autorité de contrôle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>supervisory authority</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534865">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Agiri pribatua, tratamenduaren arduradunak ezarritako segurtasun-prozedura, -neurri, -arau eta -politika guztiak biltzen dituena, eta informazio-sistema nahiz datu pertsonalen fitxategiak atzi ditzakeen edonork errespetatu beharrekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>segurtasun-agiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>documento de seguridad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534866">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu pertsonalen babes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>datu pertsonalak babeste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>protección de datos personales</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>protection des données personnelles</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>protection of personal data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534867">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu Pertsonalak Babesteari buruzko Lege Organikoan ezarritakoaren arabera, Datuak Babesteko Agentziaren barruan dagoen organoa. Titulartasun publikoko nahiz pribatuko fitxategiak Datuak Babesteko Erregistro Nagusian inskribatu behar dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Datuak Babesteko Erregistro Nagusia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro General de Protección de Datos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534868">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datuak Babesteko Erregistro Nagusiaren pareko organoa EAEn, Datuak Babesteko Euskal Bulegoaren barruan dagoena, Datu pertsonaletarako titulartasun publikoko fitxategiei eta Datuak Babesteko Euskal Bulegoa sortzeari buruzko Legearen arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Datuak Babesteko Erregistroa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro de Protección de Datos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534869">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu pertsonalen tratamendu oro, baldin eta lortzen den informazioa ezin bada lotu pertsona fisiko identifikatuarekin edo identifikagarriarekin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>disoziazio-prozedura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento de disociación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>procédé de dissociation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dissociative procedure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534870">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ezereztutako datu pertsonalak identifikatzea eta erreserbatzea, trata ez daitezen. Blokeatutako datu pertsonalak administrazio publikoen, epaileen edo auzitegien esku geratzen dira soilik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datuak blokeatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bloqueo de los datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>verrouillage de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blocking of data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534871">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamenduaren arduradunek edo horien elkarteek adostutako kode deontologikoa, datu pertsonalak egoki tratatzen direla bermatzeko. Datuak Babesteko Erregistro Nagusian edo autonomia-erkidegoek horretarako sortutakoetan inskribatu behar da jokabide-kodea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ereduzko kode</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jokabide-kode</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>código de conducta</term>
+    </tig>
+    <tig>
+      <term>código tipo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>code de conduite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>code of conduct</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534872">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zuzenean edo zeharka, bere nortasun fisikoari, fisiologikoari, psikikoari, ekonomikoari, kulturalari edo sozialari buruzko edozein informazioren bidez, identifika daitekeen pertsona oro. Pertsona fisiko bat ez da identifikagarritzat joko identifikatzeko neurriz gaindiko ahalegina egin behar bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsona fisiko identifikagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pertsona fisiko identifikatu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>persona física identificable</term>
+    </tig>
+    <tig>
+      <term>persona física identificada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>personne physique identifiée</term>
+    </tig>
+    <tig>
+      <term>personne physique identifiable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>identified natural person</term>
+    </tig>
+    <tig>
+      <term>identifiable natural person</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534873">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1720/2007 Errege Dekretuaren arabera, Europako Esparru Ekonomikotik kanpo datuak igortzea dakarren datu-tratamendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>nazioarteko datu-transferentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transferencia internacional de datos</term>
+    </tig>
+    <tig>
+      <term>movimiento internacional de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>transfert international de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>international data transfer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534874">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Interesduna identifikatzeko aukerarik emango ez duen moduan tratatutako datua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu disoziatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato disociado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée anonymisée</term>
+    </tig>
+    <tig>
+      <term>donnée rendue anonyme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anonymized data</term>
+    </tig>
+    <tig>
+      <term>depersonalised data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534875">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arrazari edo jatorri etnikoari buruzko datu pertsonalak, baita iritzi politikoei buruzkoak, sinesmen erlijioso edo filosofikoei buruzkoak, sindikatuetan parte hartzeari buruzkoak, edo osasun edo sexualitateari buruzkoak ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bereziki babestutako datu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato especialmente protegido</term>
+    </tig>
+    <tig>
+      <term>dato sensible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>donnée sensible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>specially protected data</term>
+    </tig>
+    <tig>
+      <term>sensitive data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534876">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datuak edo baliabideak erabiltzeko baimena duen subjektua edo prozesua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erabiltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>usuario</term>
+    </tig>
+    <tig>
+      <term>usuario de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>utilisateur</term>
+    </tig>
+    <tig>
+      <term>utilisateur de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data user</term>
+    </tig>
+    <tig>
+      <term>user</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534877">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu-fitxategi bat atzitzen saiatzen den erabiltzailea nor den jakiteko eragiketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>identifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>identificación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>identification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>identification</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534878">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pasahitza, kodea, ezaugarri biometrikoak edo bestelako informazioa erabiliz, erabiltzailearen nortasuna benetakoa dela egiaztatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>autentifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autenticación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>authentification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>authentication</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534879">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sinatzaile baten nortasuna egiaztatzeko erabiltzen den agiri elektronikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sinadura elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>firma electrónica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>signature numérique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>e-signature</term>
+    </tig>
+    <tig>
+      <term>electronic signature</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534880">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Fitxategi automatizatu bateko datuen kopia, datuak berreskuratzeko aukera ematen duen euskarri batean egina, aldiro-aldiro eguneratzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>segurtasun-kopia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>babeskopia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>copia de respaldo</term>
+    </tig>
+    <tig>
+      <term>copia de seguridad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>copie de sauvegarde</term>
+    </tig>
+    <tig>
+      <term>copie de sécurité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>backup</term>
+    </tig>
+    <tig>
+      <term>backup copy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534881">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamendu-kontrolatzaileak izendatutako pertsona edo pertsona-taldea, segurtasun-agirian ezarritako segurtasun-neurriak koordinatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>segurtasun-arduradun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsable de seguridad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>responsable de la sécurité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>security officer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534882">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontrol agintaritza independentea, Europako Parlamentuaren eta Kontseiluaren 45/2001 (EE) Erregelamenduak, 2000ko abenduaren 18koak, ezarritakoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Datuak Babesteko Ikuskatzaile Europarra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Supervisor Europeo de Protección de Datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Contrôleur européen de la protection des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>European Data Protection Supervisor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534883">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu-bilketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recogida de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collecte de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data collection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534884">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>intimitaterako eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la intimidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit à la vie privée</term>
+    </tig>
+    <tig>
+      <term>droit à l'intimité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right of privacy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534885">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>titulartasun publikoko datu pertsonalen fitxategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero de datos personales de titularidad pública</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fichier de données à caractère personnel détenus par les organismes publics</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>personal data files in public ownership</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534886">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritar orok duen bere-berezko eskubidea, berari buruzko datu pertsonalak dituen tratamendu-kontrolatzaileari datu horiek zuzen ditzan eskatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datuak zuzentzeko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de rectificación de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit de rectification des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right to rectify the data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534887">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritar orok duen bere-berezko eskubidea fitxategi batean berari buruz dauden datu pertsonalak ezerez daitezen eskatzeko, datu horiek ez datozenean bat aplikagarri diren xedapenetan ezarritakoarekin edo ez direnean zuzenak edo osoak. Datuak ezereztean blokeatu egingo dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datuak ezerezteko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de cancelación de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit à l'effacement des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right to erasure of data</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534888">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baliabide elektroniko edo telematikorik erabiltzen ez duen datu-tratamendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-tratamendu ez-automatizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tratamiento no automatizado de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>traitement non automatique de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>non-automated data processing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534889">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritarrek duten eskubidea ez geratzeko beraiengan ondore juridikoak dituen edo herritar horiek modu garrantzitsuan ukitzeko moduko ondore juridikoak dituen erabaki baten mende. Betiere, erabaki hori soil-soilik oinarritzen bada herritarren nortasunaren alde batzuk balioesteko erabili behar diren datuen tratamenduan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aurkaratzeko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de impugnación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit de contestation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right of complaint</term>
+    </tig>
+    <tig>
+      <term>right to challenge</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534890">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabiltzaile bati emandako baimena, baliabide jakin bat erabil dezan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baimendutako sarbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acceso autorizado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accès autorisé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>authorized access</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534891">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datuak Babesteko Bulegoan datu pertsonalen fitxategia inskribatzeko eskabidea betetzen duen pertsona. Pertsona hori tratamendu-kontrolatzailea ez denean, Bulegoaren eta haren arteko bitartekari-lana egiten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fitxategi-deklaratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declarante de ficheros</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534892">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datuen segurtasunari eragiten dion edo eragin diezaiokeen edozein irregulartasun.</descrip>
+    </descripGrp>
+    <tig>
+      <term>segurtasun-gorabehera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>incidencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>incident de sécurité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>incident</term>
+    </tig>
+    <tig>
+      <term>security incident</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534893">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamendu automatizatua ematen zaion datu pertsonalen fitxategia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-fitxategi automatizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero automatizado de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fichier automatisé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>automated data file</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534894">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu-tratamendu automatizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tratamiento automatizado de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>traitement automatisé de données</term>
+    </tig>
+    <tig>
+      <term>traitement automatique de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>automated data processing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534895">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herri edo eskualde bateko biztanleen izenak eta bestelako datuak biltzen dituen erregistroa, etengabe eguneratzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biztanleria-erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>biztanleen fitxategi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro de población</term>
+    </tig>
+    <tig>
+      <term>fichero de población</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>registre de population</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>population register</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534896">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideozaintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>videovigilancia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vidéosurveillance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video telemonitoring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534897">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jendearen eskurako iturria, Estatistikako Institutu Nazionalak eta autonomia-erkidegoetako haren pareko erakundeek sustapen-lanak egin nahi dituztenei eskura diezaieketena, horiek hala eskatuz gero.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sustapen-errolda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>censo promocional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534934">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edozein motatako bitartekoak erabiliz sistema informatikoen artean burututako informazio-transmisioa edo datu-euskarrien edozein eratako garraioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>datu-transferentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transferencia de datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>transfert de données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data transfer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534935">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datuen tratamenduari uzte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cesación del tratamiento de datos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534936">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>informazio-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de información</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit à l'information</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right to information</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534937">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsulta-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de consulta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>droit de consultation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>right to consultation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534938">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>datu-segurtasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seguridad de los datos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sécurité des données</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>data security</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="534938">
+  <descrip type='subjectField'>Datu pertsonalen babesa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Datu pertsonaletarako titulartasun publikoko fitxategiei eta Datuak Babesteko Espainiako Bulegoa sortzeari buruzko Errege Dekretuan ezarritako zereginak dituen erakundea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Datuak Babesteko Espainiako Bulegoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Agencia Española de Protección de Datos</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

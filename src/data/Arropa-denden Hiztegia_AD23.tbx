@@ -1,0 +1,4347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Arropa-denden Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Arropa-denden Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="363916">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>galtza-zango</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pernera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jambe de pantalon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trouser leg</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363917">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Besoak eta enborra aldaketaraino estaltzen dituen jantzia, aurretik irekia eta alkandoraren, atorraren edo barnekoaren gainean janzten dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jaka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chaqueta</term>
+    </tig>
+    <tig>
+      <term>americana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>veste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jacket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363918">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bermuda-galtzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bermudak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón bermudas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bermuda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Bermuda shorts</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363919">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Berokiek, anorakek eta abarrek izaten duten buru-estalgarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txano</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kaputxa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capucha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>capuchon</term>
+    </tig>
+    <tig>
+      <term>capuche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hood</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363920">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi zati dituen mahuka: gainaldea eta azpialdea. Besoaren formari oso ongi egokitzen zaio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jostun-mahuka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga sastre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche tailleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tailored sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363921">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Burua hotzetik edo eguzkitik babesteko jantzia, biseraduna edo gabea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txano</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gorra</term>
+    </tig>
+    <tig>
+      <term>gorro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>casquette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363922">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goialdean oso zabala eta ukondotik eskumuturreraino estua den mahuka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mahuka harro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga abullonada</term>
+    </tig>
+    <tig>
+      <term>manga jamón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche à gigot</term>
+    </tig>
+    <tig>
+      <term>manche gigot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leg-of-mutton sleeve</term>
+    </tig>
+    <tig>
+      <term>puffed sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363923">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputz osoa estaltzen duen jantzia, ehun sendoz egina. Bereziki, lanerako erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lohihartzeko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>buzo</term>
+    </tig>
+    <tig>
+      <term>mono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>combinaison</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>coverall</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363924">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jantzi bat beste batekin, edo soinean jartzen dugun bestelako objektu batekin, harmoniaz elkartu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konbinatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>combinar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assortir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>match-up</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363925">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jantzi batzuek duten lokarria, jantzia gorputzera doitzeko. Adibidez, zango zabaleko galtza askok horrelako lokarria izaten dute behealdeko irekidura zangora doitzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>doitze-lokarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cordón de ajuste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordon de serrage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drawstring</term>
+    </tig>
+    <tig>
+      <term>chockcord</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363926">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jantziei papar aldean josten zaien apaingarri izurra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>paparreko parpaila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chorrera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jabot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jabot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363927">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lepoaldean hasten den eta besaburua estaltzen duen mahuka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>raglan mahuka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga ranglán</term>
+    </tig>
+    <tig>
+      <term>manga raglán</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche raglan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>raglan sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363928">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mahukarik ez duen jantzia, normalean atorraren, alkandoraren edo elastikoaren gainetik janzten dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>barneko motz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chaleco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gilet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waistcoat</term>
+    </tig>
+    <tig>
+      <term>vest</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363929">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mahukarik gabeko jantzi luzea, sorbaldak eta besoak estaltzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soingaineko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kapa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pèlerine</term>
+    </tig>
+    <tig>
+      <term>cape</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cloak</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363930">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sporteko jaka gurutzatua. Jatorrian, eskola- eta talde-uniforme gisa erabiltzen zen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>blazer</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blazer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blazer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blazer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363931">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gerrirainoko jaka, askotan, gerrialde elastikoa izan ohi duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kazadora</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cazadora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blouson</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind breaker</term>
+    </tig>
+    <tig>
+      <term>hunting-jacket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363932">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sporteko jaka txanoduna, hotzetik eta haizetik babesteko erabiltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>anorak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anorak</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>anorak</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anorak</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363933">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zango estuak dituen galtza ez-elastikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>galtza zango-estuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>praka zango-estuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón pitillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pantalon cigarette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leggings</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363934">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zango-aztaletarainoko galtzak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arrantza-galtzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>arrantza-prakak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón pesquero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pantacourt</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gauchoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363935">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mutur biribilak dituen lepo-mota. Umeen jantzietan oso erabilia da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>claudine lepo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello bebé</term>
+    </tig>
+    <tig>
+      <term>cuello claudine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col Claudine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Peter Pan collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363936">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ertz biribildun oihal-zerrenda zuzen batek osatutako lepo-mota, Txinako jantzi tipikoetan oso erabilia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mao lepo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello mao</term>
+    </tig>
+    <tig>
+      <term>cuello mandarín</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col chinois</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mandarin collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363937">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lepo luze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello cisne</term>
+    </tig>
+    <tig>
+      <term>cuello alto</term>
+    </tig>
+    <tig>
+      <term>cuello vuelto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col roulé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>turtleneck</term>
+    </tig>
+    <tig>
+      <term>rolled collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363938">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>galtza-gona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>praka-gona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falda pantalón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jupe-culotte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pantskirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363939">
+  <descrip type='subjectField'>Jantzien deskripzioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itzulgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reversible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réversible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reversible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363940">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tutu-gona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falda de tubo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jupe droite</term>
+    </tig>
+    <tig>
+      <term>jupe tube</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>straight skirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363941">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lepo hegaldun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello de pajarita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col cassé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wing-tip collar</term>
+    </tig>
+    <tig>
+      <term>wing collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363942">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zira</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impermeable</term>
+    </tig>
+    <tig>
+      <term>chubasquero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>imperméable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>raincoat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363943">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zango-muskuluak ez hozteko, kirolariek erabiltzen duten artilezko jantzia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zango-berogarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calentador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jambière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leg warmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363944">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lepoko zapi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>fular</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>foulard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scarf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363945">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jantziei ukondoaren parean jartzen zaien babesa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ukondo-babes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>renfort de coude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>elbow patch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363946">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jertse</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jersey</term>
+    </tig>
+    <tig>
+      <term>suéter</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jersey</term>
+    </tig>
+    <tig>
+      <term>chandail</term>
+    </tig>
+    <tig>
+      <term>tricot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jersey</term>
+    </tig>
+    <tig>
+      <term>pullover</term>
+    </tig>
+    <tig>
+      <term>sweater</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363947">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Saldu gabe geratu diren edo akatsen bat duten salgaiak eskaintzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>saldo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>saldo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363948">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Salgaiak ohi baino merkeago eskaintzea, saltzaileak bere jarduera komertziala utzi edo aldatu nahi duenean, denboraldi bateko salgai guztiak saldu nahi dituenean, edo antzeko beste egoera berezietan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>likidazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>liquidación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liquidation</term>
+    </tig>
+    <tig>
+      <term>liquidation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clearance sale</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363949">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beroki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abrigo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manteau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>coat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363950">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larruzko beroki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abrigo de piel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manteau de fourrure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fur coat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363951">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainu-txabusina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>albornoz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sortie-de-bain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bathrobe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363952">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kotoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>algodón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coton</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cotton</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363953">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>angora</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>angora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>angora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>angora</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363954">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dama</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ante</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ante</term>
+    </tig>
+    <tig>
+      <term>piel de ante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>daim</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>buff</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363955">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presio-botoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botón de presión</term>
+    </tig>
+    <tig>
+      <term>automático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bouton pression</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>snap fastener</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363956">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainujantzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bañador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>maillot de bain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>swimsuit</term>
+    </tig>
+    <tig>
+      <term>bathing suit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363957">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soinean gurutzatzeko poltsa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bandolera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sac à bandoulière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoulder bag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363958">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mantal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robe de chambre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dressing gown</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363959">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bikini</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bikini</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bikini</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bikini</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363960">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>blusa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>blusa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>blouse</term>
+    </tig>
+    <tig>
+      <term>chemisier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blouse</term>
+    </tig>
+    <tig>
+      <term>shirtwaist</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363961">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txapel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>boina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>béret</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>beret</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363962">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sakela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bolsillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>poche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pocket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363963">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>poltsa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bolso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sac à main</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>handle bag</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363964">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>brodatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bordado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>broderie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>embroidery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363965">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>botoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bouton</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>button</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363966">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Galtzontzillo-mota bat, normalean, zabalak eta gerrialde elastikodunak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boxer</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bóxer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caleçon boxeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>boxer shorts</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363967">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azpiko galtza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kulero</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>braga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>culotte</term>
+    </tig>
+    <tig>
+      <term>slip</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>brief</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363968">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lepo-berogarri mota bat, txano gisa ere erabil daitekeena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>buff</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erabilera anitzeko lepo-berogarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>buff</term>
+    </tig>
+    <tig>
+      <term>bufanda multiuso</term>
+    </tig>
+    <tig>
+      <term>braga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>buff</term>
+    </tig>
+    <tig>
+      <term>foulard multi-usages</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>muffler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363969">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lepo-berogarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bufanda</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bufanda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cache-nez</term>
+    </tig>
+    <tig>
+      <term>écharpe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scarf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363970">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>galtzerdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>galtzerdi motz</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calcetín</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363971">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alkandora</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>camisa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chemise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363972">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>elastiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kamiseta</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>camiseta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>maillot</term>
+    </tig>
+    <tig>
+      <term>tee-shirt</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>t-shirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363973">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>puntuzko jaka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>cardigan</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cárdigan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>veste de laine</term>
+    </tig>
+    <tig>
+      <term>cardigan</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cardigan</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363974">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>châle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shawl</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363975">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txandal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chándal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>survêtement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>track suit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363976">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gerriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinturón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ceinture</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>belt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363977">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barrena hartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coger el bajo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ourler</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hem</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363978">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jantzi-osagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>complemento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accessoire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dress accessory</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363979">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorbata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corbata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cravate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tie</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363980">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ehunezko, larruzko edo antzeko edozein materialezko bi atal batzen dituen puntada-segida.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jostura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>costura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>couture</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>seam</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363981">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kremailera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cremallera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fermeture à glissière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>zipper</term>
+    </tig>
+    <tig>
+      <term>slide fastener</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363982">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alkandora-lepo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello camisero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col chemisier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shirt collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363983">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lepo biribil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello cerrado</term>
+    </tig>
+    <tig>
+      <term>cuello redondo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>encolure ras du cou</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>round neck</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363984">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tximinia-lepo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello chimenea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col cheminée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mock turtleneck</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363985">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Poloen lepo-mota tipikoa, botoiduna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>polo-lepo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello de polo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col polo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polo collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363986">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>V-formako lepo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lepo puntadun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello en pico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décolleté en V</term>
+    </tig>
+    <tig>
+      <term>décolleté en pointe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>V-shaped neck</term>
+    </tig>
+    <tig>
+      <term>V-neck</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363987">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jostun-lepo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuello sastre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>col tailleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tailored collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363988">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuero</term>
+    </tig>
+    <tig>
+      <term>piel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cuir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leather</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363989">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azpildura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dobladillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>drapelet cousu</term>
+    </tig>
+    <tig>
+      <term>ourlet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hem</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363990">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anoki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskote</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escote</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décolleté</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>neckline</term>
+    </tig>
+    <tig>
+      <term>décolleté</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363991">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itsasontzi-formako anoki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>itsasontzi-formako eskote</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escote barco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décolleté bateau</term>
+    </tig>
+    <tig>
+      <term>encolure bateau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bateau neck</term>
+    </tig>
+    <tig>
+      <term>boat neckline</term>
+    </tig>
+    <tig>
+      <term>bateau neckline</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363992">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jantzi batek burua sartzeko duen irekidura, soinari uhalik gabe lotzen zaiona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>uhalik gabeko anoki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>uhalik gabeko eskote</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escote palabra de honor</term>
+    </tig>
+    <tig>
+      <term>escote bañera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décolleté bustier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>strapless neckline</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363993">
+  <descrip type='subjectField'>Jantzien deskripzioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inprimatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estampado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>imprimé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>print</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363994">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jupe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>skirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363995">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Abere-, landare- edo mineral-jatorriko zuntza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zuntz natural</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fibra natural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fibre naturelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>natural fibre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363996">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuntz sintetiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fibra sintética</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fibre artificielle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>artificial fibre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363997">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gabardina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gabardina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gabardine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gabardine raincoat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363998">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskularru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>guante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>glove</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363999">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hainbat jantziri, sorbalda barnetik josten zaien gehigarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>besaburuko betegarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hombrera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>épaulette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoulder pad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364000">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>laine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wool</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364001">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arropa zuri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zurimenta</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lencería</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lingerie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lingerie</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364002">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>leotardo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>leotardo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tights</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364003">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>liho</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flax</term>
+    </tig>
+    <tig>
+      <term>linen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364004">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ixte-likidazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>liquidación total</term>
+    </tig>
+    <tig>
+      <term>liquidación por cese de negocio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>solde de fermeture</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>closing down sale</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364005">
+  <descrip type='subjectField'>Jantzien deskripzioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>leun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>liso</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>liso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>uni</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364006">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lycra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lycra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lycra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Lycra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364007">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputzari ondo egokitzen zaizkion galtzak; ehun elastikoz egiten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>galtza elastikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>praka elastikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mallas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caleçon</term>
+    </tig>
+    <tig>
+      <term>maillot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>body sweater</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364008">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahuka motz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga corta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche courte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>short sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364009">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahuka harro motz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga farol</term>
+    </tig>
+    <tig>
+      <term>manga fruncida en boca y corona</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche ballon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>balloon sleeve</term>
+    </tig>
+    <tig>
+      <term>short puff sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364010">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Japoniar kimonoaren diseinuan oinarritutako mahuka zabala, hozkarik ez duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kimono-mahuka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>japoniar mahuka</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga japonesa</term>
+    </tig>
+    <tig>
+      <term>manga kimono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche kimono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kimono sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364011">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahuka luze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga larga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche longue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>long sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364012">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sorbaldatik ia gerriraino hartzen den mahuka zabala, eskumuturrera iritsi ahala gero eta estuagoa dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>saguzar-mahuka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga murciélago</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche chauve-souris</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dolman sleeve</term>
+    </tig>
+    <tig>
+      <term>batwing sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364013">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ukondotik hasi eta eskumuturreraino gero eta zabalagoa den mahuka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pagoda-mahuka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga pagoda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche pagode</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pagoda sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364014">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>panti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>panty</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collant</term>
+    </tig>
+    <tig>
+      <term>panty</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>panty hose</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364015">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>minigona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>minifalda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jupette</term>
+    </tig>
+    <tig>
+      <term>mini-jupe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mini-skirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364016">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>moda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mode</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fashion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364017">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nylon</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nailon</term>
+    </tig>
+    <tig>
+      <term>nilón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nylon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nylon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364018">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jantzietan botoia pasatzeko egiten den irekidura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>botoi-zulo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ojal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boutonnière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>buttonhole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364019">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tximeleta-begizta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pajarita</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nud papillon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bow-tie</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364020">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>galtzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prakak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pantalon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trousers</term>
+    </tig>
+    <tig>
+      <term>pants</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364021">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>golf-galtzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>golf-prakak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón bombacho</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pantalon de golf</term>
+    </tig>
+    <tig>
+      <term>knicker</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>knickerbockers</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364022">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>galtzamotzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prakamotzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón corto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>culotte</term>
+    </tig>
+    <tig>
+      <term>short</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shorts</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364023">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>galtza elefante-hankadunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kanpai-formako prakak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón de pata de elefante</term>
+    </tig>
+    <tig>
+      <term>pantalón de campana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pantalon à pattes d'éléphant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bell bottoms</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364024">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aztalaren erdialderaino iristen diren galtzak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pirata-galtzak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pirata-prakak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón pirata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pantalon corsaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pedal-pushers</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364025">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bakeroak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jeanak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalón vaquero</term>
+    </tig>
+    <tig>
+      <term>pantalón tejano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jean</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jeans</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364026">
+  <descrip type='subjectField'>Jantzien osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>buruko zapi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pañuelo de cabeza</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fichu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>head scarf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364027">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ehun iragazgaitzez egindako sporteko berokia, normalean, txanoduna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>parka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parka</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>parka</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>parka</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364028">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bularra estaltzeko aurrealdea duen galtza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>galtza petodunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>praka petodunak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>peto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>salopette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>overalls</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364029">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pijama</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pijama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyjama</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pajamas</term>
+    </tig>
+    <tig>
+      <term>pyjamas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364030">
+  <descrip type='subjectField'>Jantzien deskripzioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izurtu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plisado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plissé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pleated</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364031">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Polimero sintetiko batekin egindako zuntza, jantzingintzan oso erabilia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>poliamida</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>poliamida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polyamide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polyamide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364032">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Katean ester funtzioak dituzten polimeroekin egindako zuntza, jantzigintzan oso erabilia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>poliester</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>poliéster</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polyester</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polyester</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364033">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mahuka motzeko elastikoa, lepo botoiduna duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>polo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>polo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>golf shirt</term>
+    </tig>
+    <tig>
+      <term>polo shirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364034">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jantzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prenda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vêtement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>garment</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364035">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>probaleku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>saiagela</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>probador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cabine d'essayage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fitting room</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364037">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parpaila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>dentela</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>enkaje</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encaje</term>
+    </tig>
+    <tig>
+      <term>puntilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dentelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lace</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364038">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>puntuzko ehun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>punto</term>
+    </tig>
+    <tig>
+      <term>tejido de punto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tricot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>knitting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364039">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>rayon</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rayón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rayonne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rayon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364040">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legeak horretarako ezarritako baldintzetan eta uneetan, ohiko kalitateko salgaiak ohi baino merkeago eskaintzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>merkealdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rebaja</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>solde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sale</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364041">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguneroko jardunerako jantzi erosoa, kirol-jantzien diseinuan oinarritutakoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sporteko arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa sport</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vêtement sport</term>
+    </tig>
+    <tig>
+      <term>vêtements de sport</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sportswear</term>
+    </tig>
+    <tig>
+      <term>casual wear</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364042">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laneko arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa de trabajo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vêtement industriel</term>
+    </tig>
+    <tig>
+      <term>vêtement de travail</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>industrial clothing</term>
+    </tig>
+    <tig>
+      <term>working clothes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364043">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azpiko arropa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa interior</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sous-vêtement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>underwear</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364044">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zeta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>silk</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364045">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bigarren merkealdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>segunda rebaja</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>deuxième démarque</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364046">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondo eman</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sentar bien</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aller bien</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364047">
+  <descrip type='subjectField'>Jantzien deskripzioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahukagabe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sin mangas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sans manches</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sleeveless</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364048">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hozka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sisa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emmanchure</term>
+    </tig>
+    <tig>
+      <term>entournure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>armscye</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364049">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kapela</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sombrero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chapeau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364050">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kirol-jertse</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>izerditako</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sudadera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>molleton</term>
+    </tig>
+    <tig>
+      <term>pull molletonné</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sweat shirt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364051">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bularretako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sujetador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soutien-gorge</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364052">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>talla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>taille</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>size</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364053">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edozein gaiz eginiko zapia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oihal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>toile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fabric</term>
+    </tig>
+    <tig>
+      <term>cloth</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364054">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bakero</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tela vaquera</term>
+    </tig>
+    <tig>
+      <term>tejido tejano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>denim</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>denim</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364055">
+  <descrip type='subjectField'>Jantzien salmenta</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bigarren eskuko jantzien denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tienda de ropa de segunda mano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>friperie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>used clothing shop</term>
+    </tig>
+    <tig>
+      <term>second-hand clothing shop</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364056">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bularraldea soilik estaltzen duen jantzi motza, gorputzera doitua eta normalean uhalik ez duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>top</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>top</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>haut</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>top</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364057">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>emakume-janzki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>traje sastre</term>
+    </tig>
+    <tig>
+      <term>traje de chaqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>costume tailleur</term>
+    </tig>
+    <tig>
+      <term>tailleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>suit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364058">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>janzki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>traje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>costume</term>
+    </tig>
+    <tig>
+      <term>complet-veston</term>
+    </tig>
+    <tig>
+      <term>complet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>business suit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364059">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hiru laurdeneko beroki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tres cuartos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manteau trois-quarts</term>
+    </tig>
+    <tig>
+      <term>trois-quarts</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>three-quarter coat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364060">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>belkro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velcro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>attache velcro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Velcro tape</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364061">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soineko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vestido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dress</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364062">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biskosa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>viscosa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>viscose</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>viscose</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364063">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parpaila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bolante</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>volante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>volant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flounce</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364064">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jantzi polar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>forro polar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polaires</term>
+    </tig>
+    <tig>
+      <term>vêtements polaires</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polar wear</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364065">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>belus ildokatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>velours côtelé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corduroy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364066">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>galtzetakoa</termNote>
+    </tig>
+    <tig>
+      <term>aloz</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pinza</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pince</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dart</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364067">
+  <descrip type='subjectField'>Jantzien deskripzioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>koadrodun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>de cuadros</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>à carreaux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>checked</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364068">
+  <descrip type='subjectField'>Jantzien deskripzioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>marradun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>a rayas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rayé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>striped</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364069">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Artilezko euskal jaka tipikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kaiku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>kaiku</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364070">
+  <descrip type='subjectField'>Lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kolore askotako marrez osatutako ehuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mila-marra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>milrayas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mille-raies</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mille-rayé</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364071">
+  <descrip type='subjectField'>Jantzien osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hiru laurdeneko mahuka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manga tres cuartos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche trois-quarts</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>three-quarter sleeve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364072">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>galtzoinak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>galtzontzilloak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzoncillos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>slip d'homme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>underpants</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364073">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tanga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tanga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>string</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>G-string</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364074">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>paxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>faja</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gaine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>girdle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="364075">
+  <descrip type='subjectField'>Jantzi motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirola egiteko bereziki diseinatutako arropa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kirol-jantzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ropa de deporte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vêtements de sport</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sportswear</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

@@ -1,0 +1,4311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zigor-arloa eta espetxe zaintza Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Zigor-arloa eta espetxe zaintza Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="666278">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Funtzionario publikoak egiten duen delitua: agintari eskudunak eskatu arren, beharrezkoa den laguntza ez ematea Justizia Administrazioari edo beste zerbitzu publiko bati.</descrip>
+    </descripGrp>
+    <tig>
+      <term>laguntza ukatzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>laguntza ukatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de denegación de auxilio</term>
+    </tig>
+    <tig>
+      <term>denegación de auxilio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666274">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Besteak beste barneratuari egotzitako egitateen xehetasunak, diziplina-espedientearen zenbakia, espedientearen aurretik egindako prozedurazko oinarrizko egintzen laburpen txikia eta barneratuari ezarritako zehapena jasotzen dituen erabakia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erabaki zehatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zehapen-erabaki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acuerdo sancionador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666275">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bigarren graduan sailkatutako zigortuei, atxilotuei eta sailkatu gabeko zigortuei aplikatzen zaien erregimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregimen arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen ordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666276">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainiar batek atzerriko herrialde bat Espainiaren kontra gerran sartzeko adierazpena egitera induzitzea edo, helburu hori lortzeko, atzerriko herrialdearekin ituna egitea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>traizio delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>traizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de traición</term>
+    </tig>
+    <tig>
+      <term>traición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666277">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Administrazio publikoaren aurkako delitua: agintari edo funtzionario publikoak, bere onurarako edo beste inoren onurarako, bere kabuz edo beste pertsona baten bidez, emaria, mesedea edo edozein motatako ordainketa eskatzea edo jasotzea edota eskaintza edo hitzematea onartzea, bere karguan aritzean kargu horri dagozkion eginbeharren aurkako egitate bat gauzatzeko edo egin beharrekoa ez egiteko edo justifikaziorik gabe atzeratzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>funtzionario-eroskeriaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>funtzionario-eroskeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de cohecho</term>
+    </tig>
+    <tig>
+      <term>cohecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666280">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erantzukizun penaletik salbuesten duen justifikatze-kausetako bat. Defentsa legitimoan, norberaren nahiz beste baten eskubideak defendatzeko jarduten da, baldin eta honako betekizun hauek pilatzen badira: a) Bidezkoa ez den erasoa. Ondasunak defendatzeko kasuan, bidezko ez den erasotzat hartzen da haien aurkako erasoa, baldin eta eraso hori delitua bada eta ondasunok narriatzeko edo galtzeko arrisku larrian jartzen baditu. Bizilekua edo bizilekuko gelak defendatzeko kasuan, bidezko ez den erasotzat hartzen da bizilekuan edo bizilekuko geletan bidegabe sartzea. b) Bidezko ez den erasoa eragotzi edo hari aurre egiteko erabili den bidearen zentzuzko beharrizana. c) Defendatzaileak behar besteko probokaziorik ez egitea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bidezko defentsa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>defentsa legitimo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legítima defensa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666279">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erantzukizun penaletik salbuesten duen justifikatze-kausetako bat. Beharrizan-egoeran, norberaren edo beste inoren aurkako kaltea saihesteko beste pertsona baten ondasun juridiko bat lesionatzen da, edo eginbehar bat hausten da, eta honako betekizun hauek pilatzen dira: eragindako kaltea saihestu nahi dena baino handiagoa ez izatea, beharrizan-egoera subjektuak berariaz sortua ez izatea eta beharrizana duenak bere burua sakrifikatzeko betebeharrik ez izatea ogibidea edo kargua dela-eta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>beharrizan-egoera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estado de necesidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666281">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eginbeharra betetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cumplimiento de deber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666282">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskubide, kargu edo ogibidearen egikaritza legitimo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskubide, kargu edo ogibidearen bidezko egikaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ejercicio legítimo de derecho, oficio o cargo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666283">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Atxilotua, presoa edo zigortua espetxeratzea. Atxilotzeko agindu judizialaren, espetxeratze-manamenduaren edo agintaritza judizial eskudunak emandako epai irmoaren edo behin-behineko espetxeratze-autoaren bidez egiten da espetxeratze hori, atxilotze-agindua polizia judizialak edo fiskaltzak ematen duen kasuetan izan ezik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxean sartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ingreso en establecimiento penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666284">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzia izapidetzen ari den bitartean prozesatuari, inputatuari edo akusatuari ematen zaion askatasuna, fidantzapekoa nahiz fidantzarik gabekoa. Ihes egingo duela susmarazten duen arrazoirik ez dagoenean eta egotzitako delitua biziki larria ez denean ematen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>behin-behineko askatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libertad provisional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666285">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegiek ezarritako segurtasun-neurri askatasun-gabetzaileak betetzeko zentro berezia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxeko establezimendu psikiatriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento psiquiátrico penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666286">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Auzitegiek, besteak beste epaiaren emaitza bermatzeko edo jokoan egon daitezkeen hainbat ondasun babesteko, behin-behinean hartzen duten neurria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kautela-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kautelazko neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida cautelar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666287">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuak egindako diziplinazko arau-hauste ez-astuna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>falta arin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falta leve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666288">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuak egindako diziplinazko arau-hauste larria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>falta astun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falta grave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666289">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuak egindako diziplinazko arau-hauste oso larria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>falta oso astun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falta muy grave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666290">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuak egindako diziplinazko arau-haustea, zehapena dakarrena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diziplina-falta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diziplinazko falta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falta disciplinaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666291">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Psikiatrek, psikologoek, mediku orokorrek, erizainek eta gizarte-langileek osatzen duten lantaldea, espetxeetako establezimendu psikiatrikoetan barneratutako pazienteei behar duten laguntza espezializatua ematen diena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diziplina anitzeko lantalde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equipo multidisciplinar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666292">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste batekin edo batzuekin batera delitu egin duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>egilekide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coautor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666293">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratu bakoitzari ezarritako tratamendu-programak edo espetxe-eredu indibidualak betearazteaz arduratzen den lantaldea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lantalde tekniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equipo técnico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666294">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratu bakoitzari ezarritako tratamendu-programak edo espetxe-eredu indibidualak betearazteaz arduratzen den lantaldearen nahitaezko txostena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lantalde teknikoaren nahitaezko txosten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>informe preceptivo del equipo técnico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666295">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste eginkizun batzuen artean, barneratu bakoitzarentzako tratamendu-programak edo betearazpeneko espetxe-eredu indibidualak ezartzeaz arduratzen den batzarra. Barneratuaren pertsonalitatearen berezitasunak eta kondenaren gutxi gorabeherako iraupena hartzen dira kontuan barneratuak egin beharreko jarduera definitzerakoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tratamendu-batzar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta de tratamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666296">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste eginkizun batzuen artean, barneratu bakoitzarentzako tratamendu-programak edo betearazpeneko espetxe-eredu indibidualak ezartzeaz arduratzen den batzarraren txostena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tratamendu-batzarraren txosten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>informe de la junta de tratamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666297">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste pertsona baten duintasuna lesionatzen duen ekintza edo adierazpena, pertsona horren izen onari kalte egiten diona edo haren estimazioaren aurka atentatzen duena. Ekintza edo adierazpen horiek delitu izaten dira haien izaera, ondore eta inguruabarren arabera jendeak larritzat hartzen dituenean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>irain delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>irain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de injuria</term>
+    </tig>
+    <tig>
+      <term>injuria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666298">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bigarren graduan sailkatutako zigortuei, atxilotuei eta sailkatu gabeko presoei aplikatzen zaien erregimenaz arduratzen den establezimendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregimen arrunteko establezimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento de régimen ordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666299">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delituaren egile, egilekide, ezinbesteko laguntzaile, induzitzaile, sopikun edo estaltzaile izateak dakarren ondorioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erantzukizun kriminal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erantzukizun penal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsabilidad criminal</term>
+    </tig>
+    <tig>
+      <term>responsabilidad penal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666300">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitu egitera bultzatzea, pertsona-multzo baten aurrean edo inprimaketa, irrati-difusioa edo antzeko eraginkortasuna duen eta publizitatea errazten duen beste edozein bide erabilita zuzenean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>delitu egiteko probokazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>provocación para delinquir</term>
+    </tig>
+    <tig>
+      <term>provocación delictiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666301">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitu egitea erabaki duenak beste pertsona bat edo batzuk delitu egitera gonbidatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>delitu egiteko proposamen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>delitu egitea proposatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proposición para delinquir</term>
+    </tig>
+    <tig>
+      <term>proposición delictiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666302">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitu egin dela jakinda eta bertan egile edo sopikun gisa parte hartu gabe, delitu hori gauzatu eta gero modu hauetakoren batean esku hartzen duen pertsona: 1) irabazirik lortzeko asmorik gabe, egileei edo sopikunei laguntza emanez, haiek delituaren probetxu, produktu edo preziotik onura atera dezaten; 2) delitua ezagutu dadin eragozteko, delitu horren gorputza, efektuak edo tresnak ezkutatuz, aldatuz edo deuseztatuz;  3) inguruabar jakin batzuetan, agintaritzaren zein haren agenteen ikerketa saihesteko edo haien bilaketatik edo harrapaketatik ihes egiteko, delitu baten ustezko erantzuleei laguntza emanez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>estaltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encubridor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666303">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delituaren egile, ezinbesteko laguntzaile edo induzitzaile izan gabe, aurretiazko edo une bereko egintzen bidez delitugintzan parte hartzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sopikun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cómplice</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666304">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitugile batek hainbat delitu egin dituenean eta, ondorioz, hainbat arau penal aplikatu behar zaizkionean sortzen den egoera. Delitu-pilaketa erreala, ideala edo mediala izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>delitu-pilaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concurso de delitos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666305">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitugilearen, egilekidearen, ezinbesteko laguntzailearen, induzitzailearen, sopikunaren edo estaltzailearen zigor-erantzukizuna amaitzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erantzukizun kriminala azkentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erantzukizun penala azkentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extinción de la responsabilidad criminal</term>
+    </tig>
+    <tig>
+      <term>extinción de la responsabilidad penal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666306">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitugilea erantzukizun kriminaletik salbuesten duen inguruabarra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inguruabar salbuesle oso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunstancia eximente completa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666307">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erantzukizun kriminaletik salbuesteko baldintza guztiak betetzen ez direnean gertatzen den inguruabar aringarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inguruabar salbuesle ez-oso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>inguruabar salbuesle osatugabe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunstancia eximente incompleta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666308">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitugilearen erantzukizun penala arintzen duen inguruabarra. Adibidez, errudunak, haren aurkako prozedura judiziala abian dela jakin aurretik, egindako arau-haustea agintaritzari aitortzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inguruabar aringarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aringarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunstancia atenuante</term>
+    </tig>
+    <tig>
+      <term>atenuante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666309">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitugilearen erantzukizun penala astuntzen duen inguruabarra. Adibidez, berrerorlea izatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inguruabar astungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>astungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunstancia agravante</term>
+    </tig>
+    <tig>
+      <term>agravante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666310">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Dolozko delitua egiteagatik ezarritako zigorraren ondorio erantsia, delituaren efektuen galera, delitua prestatzeko nahiz egikaritzeko erabili diren ondasunen, bitartekoen edo tresnen galera eta delitutik datozen irabazien galera dakarrena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konfiskazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konfiskatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comiso</term>
+    </tig>
+    <tig>
+      <term>decomiso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666311">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitu egin duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>egile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666312">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egite edo ez-egite baten ondorioz delitu bat baino gehiago eratzen denean sortzen den delitu-pilaketa. Kasu horietan, arau-hauste astunenari ezarritako zigorra goiko erdian ezartzen da (hau da, zigorra 6 - 10  urte-bitartekoa izan badaiteke, 8 - 10 urte bitarteko zigorren bat ezartzen da). Zigor horrek ezin du gainditu arau-hausteak banaturik zigortuz gero ezarri beharreko zigorren baturak dakarren zigorra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>delituen pilaketa ideal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concurso ideal de delitos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666313">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hainbat egite edo ez-egite autonomoren ondorioz delitu bat baino gehiago eratzen denean eta besteren batek delitu egiteko beharrezko bidea denean sortzen den delitu-pilaketa. Kasu horietan, delitu-pilaketa idealaren kasuan aurreikusitako zigorra ezartzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>delituen pilaketa medial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concurso medial de delitos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666314">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beste pertsona bat edo beste batzuk delitu egitera induzitzen dituen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>induzitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inductor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666315">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gainditu ezin daitekeen beldurrak bultzatuta jokatzeagatik erantzukizun kriminaletik salbuesten duen justifikatze-kausa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>beldur gaindiezin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>miedo insuperable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666316">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erantzukizun penala azkentzeko moduetako bat, zigorra eta zigorraren ondoreak osoro suntsiarazten dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>amnistia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amnistía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666317">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxea ez den establezimendu publikoa: bertan, Espainiako lurraldetik kanporatzeko espedientepean dauden atzerritarrak modu kautelar eta prebentiboan atxikitzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atzerritarrak barneratzeko zentro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>CIE</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>centro de internamiento de extranjeros</term>
+    </tig>
+    <tig>
+      <term>CIE</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666318">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxe-administrazioak kontrol-helburu desberdinekin erabiltzen duen tresna. Fitxategiak honako sailkapen hau du (kontuan hartuta, besteak beste, egindako delituak, haien eragin soziala, talde antolatu eta kriminaletako kidetza, eta arriskugarritasuna): FIES-1 (Zuzeneko kontrola), FIES-2 (Narkotrafikatzaileak), FIES-3 (Talde armatuak), FIES-4 (Segurtasun Indarrak eta Espetxe Erakundeko funtzionarioak) eta FIES-5 (Ezaugarri bereziak).</descrip>
+    </descripGrp>
+    <tig>
+      <term>Jarraipen Bereziko Barneratuen Fitxategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>FIES</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Fichero de Internos de Especial Seguimiento</term>
+    </tig>
+    <tig>
+      <term>FIES</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666319">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxe-administrazioaren mende dagoen diziplina anitzeko administrazio-unitatea. Askatasunaz gabetzeko zigorraren ordezko zigorren eta neurri alternatiboen betearazpenaz arduratzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zigorrak eta neurri alternatiboak kudeatzeko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de gestión de penas y medidas alternativas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666320">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxean elkarbizitza ordenatu eta baketsua lortzeko arau- edo neurri-multzoa. Giltzaperatuek tratamenduaren arrakastarako giro egokia izan dezaten ezartzen da, baita haiek atxikitzeko eta jagoteko ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxe-erregimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666321">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxeetako Zuzendaritza Nagusiaren mende dagoen organo espezializatu ibiltaria. Besteak beste, presoen birsailkapen-eskaerak arretaz aztertzeaz arduratzen da: batetik, tratamendu-batzorde berak bitan lehen graduan sailkatu dituen presoenak aztertzen ditu, eta, bestetik, kondenaren erdia betea izanik, bitan bigarren graduan sailkatuak izan direnena. Organo honek esku hartzeko eskaera formala egin behar da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>behaketarako espetxe-zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central penitenciaria de observación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666322">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxetik kanpo dagoen bizitegi-instalazio batean barneratzea, ahal dela erkidego-inguruneko etxebizitza arrunt batean. Etxebizitzak titulartasun publiko edo pribatukoak izan daitezke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxearen mendeko unitatean barneratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internamiento en unidad dependiente del centro penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666323">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estatuak zigorra oso-osorik edo zati batean barkatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>indultu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>indulto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666324">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Besteak beste falta astunak eta oso astunak zehatzen dituen batzordea. Gutxienez hilean lautan biltzen da, eta hauek ditu kideak: zuzendaria, erregimeneko zuzendariordea, legelari bat, zerbitzuburu bat (funtzionarioen artean urtero aukeratutakoa) eta beste funtzionario bat (funtzionarioen artean urtero aukeratutakoa).</descrip>
+    </descripGrp>
+    <tig>
+      <term>diziplina-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comisión disciplinaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666325">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Giza bizitzaren aurkako delitua: beste pertsona bati bizia kentzea, beharrezko zuhurtziarik edo arretarik ezaren ondorioz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zuhurtziagabekeriazko giza hilketaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zuhurtziagabekeriazko giza hilketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de homicidio imprudente</term>
+    </tig>
+    <tig>
+      <term>homicidio imprudente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666326">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Giza bizitzaren aurkako delitua: beste pertsona bati bizia kentzea, betiere honako inguruabarretatik bat gertatzen denean: maltzurkeria; prezio, sari edo hitzematearengatik egitea; eta, ankerkeriaren bidez, ofendituaren mina nahita eta bihotz gogorrez handitzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erailketa delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erailketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de asesinato</term>
+    </tig>
+    <tig>
+      <term>asesinato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666327">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Giza bizitzaren aurkako delitua: beste pertsona bati bizia kentzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>giza hilketa delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>homizidio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de homicidio</term>
+    </tig>
+    <tig>
+      <term>homicidio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666328">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hainbat egite edo ez-egite autonomoren ondorioz delitu bat baino gehiago eratzen denean sortzen den delitu-pilaketa; guztiak prozedura penal bakarrean bidera daitezke. Erantzuleari egin dituen arau-hauste guztien zigorrak ezartzen zaizkio, batera bete ditzan, baldin eta zigor horiek, zer izaera eta ondorio dituzten kontuan izanda, batera betetzekoak badira. Hala izan ezean, bata bestearen ondoren betetzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>delituen pilaketa erreal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concurso real de delitos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666329">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hartzekodunei ondasunak ezkutatzea, zor zaiena kobra ezin izan dezaten.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ondasunak ostentzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ondasunak ostentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de alzamiento de bienes</term>
+    </tig>
+    <tig>
+      <term>alzamiento de bienes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666330">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Presoari kasu berezi batzuetan ematen zaion baimena. Kasu berezi horiek dira: gurasoen, ezkontidearen, seme-alaben, anai-arreben eta presoarekin lotura estua duten bestelako pertsonen heriotza edo gaixotasun larria, edo emaztearen edo presoarekin antzeko maitasun-harremanak dituen pertsonaren erditzea edo antzeko beste edozein arrazoi garrantzitsu eta egiaztatu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>irteteko baimen berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permiso de salida extraordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666331">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hirugarren graduan sailkatuta egonik, askatasun-aldi batzuk dituen erregimenean tratamendua jarrai dezaketen zigortuei aplikatzen zaien erregimenaz arduratzen den establezimendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregimen irekiko establezimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento de régimen abierto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666332">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hirugarren graduan sailkatuta dauden presoentzako espetxeak duen atala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atal ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección abierta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666333">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hirugarren graduan sailkatuta egonik, askatasun-aldi batzuk dituen erregimenean tratamendua jarrai dezaketen zigortuei aplikatzen zaien erregimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregimen ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen abierto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666334">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egitatea era maltzurrean gauzatzean datzan inguruabar astungarria. Maltzurkeria dago errudunak pertsonen aurkako edozein delitu zuzenean edo bereziki segurtatzeko bideak, moduak edo erak erabiltzen baditu, ofendituaren defentsatik arriskurik ez hartzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>maltzurkeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alevosía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666335">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egitatea donari baten truke gauzatzean datzan inguruabar astungarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recompensa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666336">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inoren konfiantzaz gehiegi edo era desegokian baliatzean datzan inguruabar astungarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konfiantza-abusu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konfiantzaz abusatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abuso de confianza</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666337">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Errudunak berriro delitu egitean datzan inguruabar astungarria. Berrerortzea egongo da, errudunak, delitu egiten duenerako, betearazi beharreko kondena jaso badu Zigor Kodearen titulu berean bildutako delitu baten ondorioz, betiere delitu hori izaera berekoa bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berrerortze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reincidencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666338">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamendu-batzarrak egiten duen proposamena, zigor askatasun-gabetzaileetan inguruabar zehatzak biltzen dituzten epaituentzat ezartzen den baldintzapeko askatasunaren ingurukoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baldintzapeko askatasunaren proposamen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>propuesta de libertad condicional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666339">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontuzko araua urratzen denean sortzen den delitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zuhurtziagabekeria delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito imprudente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666340">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jakinaren gainean eta borondatez gauzatzen den delitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dolozko delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito doloso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666341">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Justizia Administrazioaren aurkako delitua: epaile edo magistratuak, jakinaren gainean egonik edo zuhurtziagabekeria astun zein ezjakite barkaezinarengatik, zuzena ez den epaia edo ebazpena ematea, edota epaitzeari uko egitea, legezko arrazoirik azaldu gabe edo legearen iluntasun, askiez edo isiltasunaren aitzakian, edota Justizia Administrazioan asmo gaiztoz gertatutako atzerapenaren erruduna izatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>funtzionario publikoen prebarikazio delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>funtzionario publikoen prebarikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de prevaricación de los funcionarios públicos</term>
+    </tig>
+    <tig>
+      <term>prevaricación de los funcionarios públicos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666342">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Justizia Administrazioaren aurkako delitua: arau-haustea ikertzeko betebeharra duen funtzionario judizial edo administratibo baten aurrean, pertsona bati arau-hauste kriminal bat faltsuki egoztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>akusazio faltsuaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>akusazio faltsu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de acusación falsa</term>
+    </tig>
+    <tig>
+      <term>acusación falsa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666343">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuei askatasuneko bizimodurako prestatzeko ematen zaien astebururako baimena. Aldez aurretik, lantalde teknikoak nahitaezko txostena egin behar izaten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>astebururako irteteko baimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permiso de salida de fin de semana</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666344">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuei askatasuneko bizimodurako prestatzeko ematen zaien baimena. Aldez aurretik, lantalde teknikoak nahitaezko txostena egin behar du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>irteteko baimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>irteera-baimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permiso de salida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666345">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuei askatasuneko bizimodurako prestatzeko ematen zaien baimen arrunta. Aldez aurretik, lantalde teknikoak nahitaezko txostena egin behar izaten du. Baimena gehienez zazpi egunera artekoa izaten da, urtean hogeita hamasei eta berrogeita zortzi eguneko mugarekin, bigarren graduko barneratuen kasuan eta hirugarren gradukoen kasuan, hurrenez hurren, betiere kondenaren laurdena azkendu bada eta portaera txarrik izan ez bada.</descrip>
+    </descripGrp>
+    <tig>
+      <term>irteteko baimen arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permiso de salida ordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666346">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Prebentiboei askatasuneko bizimodurako prestatzeko ematen zaien baimena. Aldez aurretik, lantalde teknikoak nahitaezko txostena egin behar izaten du, eta dagokion agintaritza judizialak onartu, kasuan-kasuan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prebentiboen irteteko baimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>permiso de salida de preventivos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666347">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legea edo araua ez betetzea, urratzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arau-hauste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>infracción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666348">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legeak zigor astunarekin zigortzen duen dolozko edo zuhurtziagabekeriazko egite edo ez-egitea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666349">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egia esateko zina egin eta jakinaren gainean egiaren kontrakoa deklaratzen denean egiten den delitua; lekuko, aditu eta interpreteek egiten dute.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lekukotza faltsu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>falso testimonio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666350">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Nazio-, etnia-, arraza- edo erlijio-talde bat edo kideen desgaitasunagatik zehaztutako talde bat oso-osorik edo zati batean suntsitzeko asmoz egiten den delitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>genozidio delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>genozidio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de genocidio</term>
+    </tig>
+    <tig>
+      <term>genocidio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666351">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Norbaitek delituaren erantzuleei delitu horren efektuez aprobetxa daitezen laguntza ematea, edo efektu horiek jaso, eskuratu edo ezkutatzea, irabaziak lortzeko asmoz, ondarearen edo gizarte- eta ekonomia-ordenaren aurka delitu egin dela jakinda eta delitu horretan egile edo sopikun gisa parte hartu gabe.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errezibitze delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errezibitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de receptación</term>
+    </tig>
+    <tig>
+      <term>receptación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666352">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Norbaitek, edozein bide edo prozedura erabiliz, beste bati gorputz-osotasunean, osasun fisikoan edo mentalean kaltea eragitea, betiere kalte hori objektiboki sendatzeko tratamendu medikoa edo kirurgikoa behar bada hasierako mediku-laguntzaz gain. Ez da tratamendu medikotzat hartuko medikuak lesioaren inguruan egiten duen zaintza edo jarraipen hutsa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lesio delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lesio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de lesión</term>
+    </tig>
+    <tig>
+      <term>lesión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666353">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Norbanako bat inoren bizilekuan sartzea edo gelditzea, bertan bizi gabe eta bertako bizilagunaren borondatearen aurka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bizilekua bortxatzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bizilekua bortxatzea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de allanamiento de morada</term>
+    </tig>
+    <tig>
+      <term>allanamiento de morada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666354">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ohorearen aurkako delitua: pertsona batek beste bati delitu bat egoztea, faltsua dela jakinda edota egia ausartegi mespretxatuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kalumnia delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kalumnia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de calumnia</term>
+    </tig>
+    <tig>
+      <term>calumnia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666355">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondarearen aurkako delitua: irabaziak lortzeko asmoarekin, beste baten gauza higigarriez jabetzea, indarkeriarik eta larderiarik gabe, jabearen borondatearen aurka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ebasketa delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ebasketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de hurto</term>
+    </tig>
+    <tig>
+      <term>hurto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666356">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondarearen aurkako delitua: irabaziak lortzeko asmoz beste baten gauza higigarriez jabetzea, eta gauzetan indarra erabiliz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gauzetan indarra erabiliz egindako lapurreta delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gauzetan indarra erabiliz egindako lapurreta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de robo con fuerza en las cosas</term>
+    </tig>
+    <tig>
+      <term>robo con fuerza en las cosas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666357">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondarearen aurkako delitua: irabaziak lortzeko asmoz beste baten gauza higigarriez jabetzea, gauzetan indarra erabiliz edota pertsonen aurka indarkeria edo larderia baliatuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lapurreta delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lapurreta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de robo</term>
+    </tig>
+    <tig>
+      <term>robo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666358">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondarearen aurkako delitua: irabaziak lortzeko asmoz beste baten gauza higigarriez jabetzea, pertsonen aurka indarkeria edo larderia erabiliz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsonen aurkako indarkeria edo larderia erabiliz egindako lapurreta delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pertsonen aurkako indarkeria edo larderia erabiliz egindako lapurreta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de robo con violencia o intimidación</term>
+    </tig>
+    <tig>
+      <term>robo con violencia o intimidación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666359">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondarearen aurkako delitua: norbaitek, irabaziak lortzeko asmoz eta indarkeria edo larderia erabiliz, beste pertsona bat egintza edo negozio juridiko bat egitera edo ez egitera behartzea, pertsona horren edo beste inoren ondarearen kalterako</descrip>
+    </descripGrp>
+    <tig>
+      <term>estortsio delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>estortsio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de extorsión</term>
+    </tig>
+    <tig>
+      <term>extorsión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666360">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordena publikoaren aurkako delitua: agerian eta modu nahasian altxatzea, indarrez edo legezko bideetatik kanpo, legeen aplikazioa eragozteko, edozein agintariri, korporazio ofiziali edo funtzionario publikori bere funtzioan bidezko eran jardutea edo bere erabakiak betetzea eragozteko edo Administrazioak edo epaileek emandako ebazpenak betetzea eragozteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>albaramendu delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>albaramendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de sedición</term>
+    </tig>
+    <tig>
+      <term>sedición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666361">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Osotasun moralaren aurkako delitua: agintari edo funtzionario publikoak, bere karguaz abusatuz, pertsona bati baldintza eta prozedura desegokiak ezartzea, helburu hauekin: pertsona horren aitortza edo informazioa lortzea, pertsona horrek gauzatu duen edo gauzatu duela susmatzen den egitatearengatik zigortzea, edo edozein motatako diskriminazioa egitea. Gainera, beharrezkoa da baldintza eta prozedura horien izaeraren, iraupenaren edo bestelako inguruabarren ondorioz gorputzeko edo buruko sufrimenduak eragitea, ezagutu, bereizi edo erabakitzeko ahalmenak ezabatzea edo gutxitzea, edo beste edozein modutan pertsonaren osotasun moralaren aurka atentatu egitea </descrip>
+    </descripGrp>
+    <tig>
+      <term>tortura delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tortura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de tortura</term>
+    </tig>
+    <tig>
+      <term>tortura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666362">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Emakume bati legean baimentzen diren kasuetatik kanpo abortua gauzatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>abortu delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>abortu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de aborto</term>
+    </tig>
+    <tig>
+      <term>aborto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666363">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Askatasunaren aurkako delitua: pertsona bat giltzaperatzea edo atxilotzea, askatasuna kenduta eta atxilotuaren borondatearen kontra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legearen aurkako atxiloketa delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legearen aurkako atxiloketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de detención ilegal</term>
+    </tig>
+    <tig>
+      <term>detención ilegal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666364">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainiako lurraldean, indarkeria, larderia edo engainua erabiliz, edota nagusitasun edo beharrizan-egoeraz nahiz biktimaren ahuleziaz abusatuz, biktima atzematea, garraiatzea, lekualdatzea, hartzea, harrera egitea edo ostatu ematea, helburu hauek izanik: bortxazko lanak edo zerbitzuak, esklabotza edo esklabotzaren, mirabetzaren edo eskaletasunaren antzeko praktikak inposatzea; sexu-ustiaketa, pornografia barne, edo gorputz-organoak ateratzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gizakien salerosketa delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizakien salerosketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de trata de seres humanos</term>
+    </tig>
+    <tig>
+      <term>trata de seres humanos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666365">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sexu-mesedeak eskatzea, laneko, irakaskuntzako edo zerbitzu-eskaintzako harreman jarraitu edo ohikoen eremuan, betiere jokabide horrekin biktimarengan larderiako, etsaigoko edo umiliazioko egoera objektiboa eta larria sortuz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sexu-jazarpenaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sexu-jazarpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de acoso sexual</term>
+    </tig>
+    <tig>
+      <term>acoso sexual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666366">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Babesik gabe eta arrisku nabari eta larrian dagoen pertsona ez sorostea, betiere pertsona hori sorosteak arriskurik ez badakar sorotsi behar duenarentzat edo beste norbaitentzat.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sorospen-eginbeharra ez betetzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sorospen-eginbeharra ez betetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de omisión del deber de socorro</term>
+    </tig>
+    <tig>
+      <term>omisión del deber de socorro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666367">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondarearen aurkako delitua: irabaziak lortzeko asmoz beste bati okerra eragiteko engainu nahikoa erabiltzea, bere buruaren edo beste baten kaltean xedatze-egintzak gauzatzera induzituz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>maula delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>maula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de estafa</term>
+    </tig>
+    <tig>
+      <term>estafa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666368">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tratu apalesgarriaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tratu apalesgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de trato degradante</term>
+    </tig>
+    <tig>
+      <term>trato degradante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666369">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laneko jazarpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>laneko jazarpenaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>mobbing</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acoso laboral</term>
+    </tig>
+    <tig>
+      <term>delito de acoso laboral</term>
+    </tig>
+    <tig>
+      <term>mobbing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666370">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Presoak duen diru-kopurua, espetxean sartzean duen diruarekin eta ondoren legezko jatorria duen edozein kontzepturengatik jasotzen duenarekin osatua. Funts hori kudeatu ahal izango dute espetxe-administrazioak edo finantza-erakunde laguntzaileek, espetxe-administrazioarekin sinatutako hitzarmenaren bidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pekulio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>peculio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666371">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Presoari esleitutako espetxe-egoera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxe-gradu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grado penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666372">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigor-arloko prozesuan zitatuta edo epatuta egonda, agertu ez den erruztatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>auzi-iheslari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rebelde</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666373">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arriskugarritasun handia izateagatik edo nabarmenki gainerako erregimenetan ezin moldatzeagatik lehen graduan sailkatuta dauden zigortuei eta inguruabar berberak betetzen dituzten prebentiboei aplikatzen zaien erregimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregimen itxi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen cerrado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666374">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sekulako arriskugarritasuna izateagatik edo nabarmenki gainerako erregimenetan ezin moldatzeagatik lehen graduan sailkatuta dauden zigortuei eta inguruabar berberak betetzen dituzten prebentiboei aplikatzen zaien erregimenaz arduratzen den establezimendua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregimen itxiko establezimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento de régimen cerrado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666375">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sexu-askatasunaren aurkako delitua, indarkeriarik gabe, larderiarik gabe eta adostasunik gabe egina.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sexu-abusuaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sexu-abusu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de abuso sexual</term>
+    </tig>
+    <tig>
+      <term>abuso sexual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666376">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamendu-batzarrak zigortua espetxera iristean egiten duen sailkapena. Gehienez ere bi hilabeteko epean egin behar izaten du, epaiaren lekukotza jasotzen duenetik kontatzen hasita. Zigortua lehen, bigarren edo hirugarren graduan sailkatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>barneratuaren hasierako sailkapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clasificación inicial del interno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666377">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamendu-batzarrak zigortua espetxera iristean egiten duen sailkapena berriro ikustea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hasierako sailkapena berrikuste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>revisión de la clasificación inicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666378">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tratamendu-batzarrak zigortua espetxera iristean hura sailkatzeko egiten duen proposamena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hasierako sailkapen-proposamen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>propuesta de clasificación inicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666379">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barneratuei tratamendu-jarduera zehatzak egiteko ematen zaien irteera-baimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>programatutako irteera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida programada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666380">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxe barruko segurtasuna kontrolatzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>funtzionario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>funcionario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666381">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigor askatasun-gabetzaileak betetzeko modalitatea, epaituak honako inguruabar hauek betetzen dituenean ezartzen dena: espetxe-tratamenduko hirugarren graduan egotea, ezarritako kondenaren hiru laurdenak beteak izatea eta jokabide ona erakutsi eta epaituaren gizarteratzeari buruzko iragarpen indibidualizatua baiezkoa izatea azken txostenean. Halaber, baldintzapeko askatasuna aplika daiteke epaituek 70 urte bete dituztenean edota gaixotasun oso larria edo sendaezina dutenean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baldintzapeko askatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libertad condicional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666382">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigor eta kautela-neurri askatasun-gabetzaileak betetzeko espetxe-administrazioaren zentroa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento penitenciario</term>
+    </tig>
+    <tig>
+      <term>prisión</term>
+    </tig>
+    <tig>
+      <term>cárcel</term>
+    </tig>
+    <tig>
+      <term>centro penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666383">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigor Kodeak delitu egin duenari ezartzen dion zehapena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666384">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epailearen kontrolpean jartzen den kondenatuari ematen zaion askatasuna: Zigor Kodean zehaztutako neurri bat edo batzuk bete beharra izaten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zaintzapeko askatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libertad vigilada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666385">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigortuak zigorra erregimen arrunteko establezimenduetan betetzeari dagokion sailkapena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bigarren graduko sailkapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clasificación en segundo grado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666386">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigortuak zigorra erregimen irekiko establezimenduetan betetzeari dagokion sailkapena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hirugarren graduko sailkapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clasificación en tercer grado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666387">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigortuak zigorra erregimen itxiko establezimenduetan betetzeari dagokion sailkapena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lehen graduko sailkapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clasificación en primer grado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666388">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prebentziozko espetxeratzearen denbora kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>behin-behineko espetxealdiaren denbora kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>behin-behineko espetxealdian igarotako denbora kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abono del tiempo de prisión provisional</term>
+    </tig>
+    <tig>
+      <term>abono de prisión provisional</term>
+    </tig>
+    <tig>
+      <term>abono de prisión preventiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666389">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezinbesteko laguntzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cooperador necesario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666390">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Zigor Kode</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>10/1995 Lege Organikoa, azaroaren 23koa, Zigor Kodeari buruzkoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ZK</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Código Penal</term>
+    </tig>
+    <tig>
+      <term>Ley orgánica 10/1995, de 23 de noviembre, del Código Penal</term>
+    </tig>
+    <tig>
+      <term>CP</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666391">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ofendituaren barkamen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>perdón del ofendido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666392">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigorraren preskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zigorra preskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prescripción de la pena</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666393">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizarteratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reinserción social</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666394">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ohiko errudun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reo habitual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666395">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biktima</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>víctima</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666396">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>genero-indarkeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>violencia de género</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666397">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko indarkeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>familia-indarkeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>violencia doméstica</term>
+    </tig>
+    <tig>
+      <term>violencia familiar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666398">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sexu-askatasunaren aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra la libertad sexual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666399">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>osasun publikoaren aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra la salud pública</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666400">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Gizarte Segurantzaren aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra la Seguridad Social</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666401">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bide-segurtasunaren aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra la seguridad vial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666402">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsonen aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra las personas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666403">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzerritarren eskubideen aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra los derechos de los ciudadanos extranjeros</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666404">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>langileen eskubideen aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra los derechos de los trabajadores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666405">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>familia-eskubideen eta -eginbeharren aurkako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito contra los derechos y deberes familiares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666406">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sexu-erasoaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>sexu-eraso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de agresión sexual</term>
+    </tig>
+    <tig>
+      <term>agresión sexual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666407">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>agintaritzaren aurkako atentatuaren delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agintaritzaren aurkako atentatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de atentado contra la autoridad</term>
+    </tig>
+    <tig>
+      <term>atentado contra la autoridad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666408">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>manipulazio genetikoari buruzko delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>manipulazio genetiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito relativo a la manipulación genética</term>
+    </tig>
+    <tig>
+      <term>manipulación genética</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666409">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prostituzioari buruzko delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito relativo a la prostitución</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666410">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>delitu-saiakuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>saiakuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tentativa de delito</term>
+    </tig>
+    <tig>
+      <term>tentativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666411">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legez Espainian bizilekurik ez duten atzerritarrak nazio-lurraldetik kanporatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expulsión del territorio nacional de extranjeros no residentes legalmente en España</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666412">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>segurtasun-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medida de seguridad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666413">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigor erantsi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena accesoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666414">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsona juridikoari aplikatzeko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena aplicable a persona jurídica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666415">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokala edo establezimendua ixteko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lokala edo establezimendua ixte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de clausura de local o establecimiento</term>
+    </tig>
+    <tig>
+      <term>clausura de local o establecimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666416">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etorkizunean jarduerak egitea debekatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>etorkizunean jarduerak egitea debekatzeko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibición de realizar actividades en el futuro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666417">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsona juridikoa desegiteko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pertsona juridikoa desegite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de disolución de la persona jurídica</term>
+    </tig>
+    <tig>
+      <term>disolución de la persona jurídica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666418">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desgaikuntza zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>desgaikuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de inhabilitación</term>
+    </tig>
+    <tig>
+      <term>inhabilitación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666419">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desgaikuntza absolutu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>desgaikuntza absolutuko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erabateko desgaikuntzako zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de inhabilitación absoluta</term>
+    </tig>
+    <tig>
+      <term>inhabilitación absoluta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666420">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desgaikuntza bereziko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>desgaikuntza berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de inhabilitación especial</term>
+    </tig>
+    <tig>
+      <term>inhabilitación especial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666421">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>enplegu edo kargu publikorako desgaikuntza bereziko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>enplegu edo kargu publikorako desgaikuntza berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de inhabilitación especial para empleo o cargo público</term>
+    </tig>
+    <tig>
+      <term>inhabilitación especial para empleo o cargo público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666422">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dirulaguntzak eta laguntza publikoak lortzeko desgaikuntza zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>dirulaguntzak eta laguntza publikoak lortzeko desgaikuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de inhabilitación para obtener subvenciones y ayuda públicas</term>
+    </tig>
+    <tig>
+      <term>inhabilitación para obtener subvenciones y ayudas públicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666423">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanbiderako desgaikuntza zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lanbiderako desgaikuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de inhabilitación profesional</term>
+    </tig>
+    <tig>
+      <term>inhabilitación profesional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666424">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hartzekodunen eskubideak babesteko esku-hartze judizialeko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hartzekodunen eskubideak babesteko esku-hartze judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de intervención judicial para salvaguardar los derechos de los acreedores</term>
+    </tig>
+    <tig>
+      <term>intervención judicial para salvaguardar los derechos de los acreedores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666425">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>langileen eskubideak babesteko esku-hartze judizialeko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>langileen eskubideak babesteko esku-hartze judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de intervención judicial para salvaguardar los derechos de los trabajadores</term>
+    </tig>
+    <tig>
+      <term>intervención judicial para salvaguardar los derechos de los trabajadores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666426">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>une oroko lokalizazioko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>une oro lokalizatuta egoteko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de localización permanente</term>
+    </tig>
+    <tig>
+      <term>localización permanente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666427">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>isun zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>isun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de multa</term>
+    </tig>
+    <tig>
+      <term>multa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666428">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>isuna ez ordaintzeagatik sortutako erantzukizun pertsonal subsidiario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsabilidad personal subsidiaria por impago de multa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666429">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espetxe zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>espetxealdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de prisión</term>
+    </tig>
+    <tig>
+      <term>prisión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666430">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aldi baterako enplegu edo kargu publikorik gabe uzte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aldi baterako enplegu edo kargu publikorik gabe uzteko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>enplegu edo kargualdi publikoa etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de suspensión de empleo o cargo público</term>
+    </tig>
+    <tig>
+      <term>suspensión de empleo o cargo público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666431">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsona juridikoaren jarduerak eteteko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pertsona juridikoaren jarduerak etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de suspensión de las actividades de la persona jurídica</term>
+    </tig>
+    <tig>
+      <term>suspensión de las actividades de la persona jurídica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666432">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizartearentzako lanak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gizartearentzat lan egiteko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena de trabajos en beneficio de la comunidad</term>
+    </tig>
+    <tig>
+      <term>trabajos en beneficio de la comunidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666433">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigor astun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena grave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666434">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigor arin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena leve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666435">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigor ez hain astun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>astuntasun txikiagoko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena menos grave</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666436">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskubideez gabetzeko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskubideak kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pena privativa de derechos</term>
+    </tig>
+    <tig>
+      <term>privación de derechos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666437">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigor askatasun-gabetzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>askatasunaz gabetzeko zigor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>askatasuna kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privación de libertad</term>
+    </tig>
+    <tig>
+      <term>pena privativa de libertad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666438">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>guraso-ahalaz gabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>guraso-ahala kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privación de la patria potestad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666439">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ibilgailu motordunak eta ziklomotorrak gidatzeko eskubideaz gabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ibilgailu motordunak eta ziklomotorrak gidatzeko eskubidea kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privación del derecho a conducir vehículos a motor y ciclomotores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666440">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>armak eduki eta eramateko eskubideaz gabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>armak eduki eta eramateko eskubidea kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privación del derecho a la tenencia y porte de armas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666441">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>leku jakin batzuetan bizilekua izateko eskubideaz gabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>leku jakin batzuetan bizilekua izateko eskubidea kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privación del derecho a residir en determinados lugares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666442">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>leku jakin batzuetara joateko debeku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibición de acudir a determinados lugares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666443">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biktimarengana hurbiltzeko debeku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibición de aproximarse a la víctima</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666444">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bizilekutik irteteko debeku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibición de ausentarse del lugar de residencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666445">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biktimarekin komunikatzeko debeku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prohibición de comunicarse con la víctima</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666446">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espetxe-administrazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>espetxeetako administrazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administración penitenciaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666447">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espetxean sartzeko manamendu baten ondorioz, espetxean epai irmoaren zain barneratua dagoen pertsona. Epai irmoa izatean, pertsona askea edo zigortua izango da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>preso prebentibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>preso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>preso preventivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666448">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presoak zaintze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>presoen zaintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>custodia de presos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666449">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltzaperatuaren osotasun fisikorako eta moralerako eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la integridad física y moral del recluso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666450">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltzaperatuaren eta haren familiaren intimitaterako eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la intimidad personal y familiar del recluso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666451">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltzaperatuaren komunikazioen sekreturako eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho al secreto de las comunicaciones del recluso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666452">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atxilotu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>detenido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666453">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Espetxeetako Zuzendaritza Nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Dirección General de Instituciones Penitenciarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666454">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>preso ohi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ex preso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666455">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigor eta kautela-neurri askatasun-gabetzaileak betez, espetxean barneratua dagoen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxeratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>incurso penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666456">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espetxe-zaintzako epaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zaintza-epaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juez de vigilancia penitenciaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666457">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espetxe-zaintzako epaitegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juzgado de vigilancia penitenciaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666458">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Espetxeen Lege Organiko Orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>1/1979 Lege Organiko Orokorra, irailaren 26koa, Espetxeei buruzkoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ELOO</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Ley Orgánica General Penitenciaria</term>
+    </tig>
+    <tig>
+      <term>Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria</term>
+    </tig>
+    <tig>
+      <term>LOGP</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666459">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sarreren liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de ingresos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666460">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kondenaren likidazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kondena likidatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>liquidación de condena</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666461">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epai irmo baten ondorioz, espetxean barneratua dagoen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zigortu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>preso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>penado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666462">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espetxeko tratamendu-programa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa de tratamiento penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666463">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Espetxeen Erregelamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>190/1996 Errege Dekretua, otsailaren 9koa, Espetxeen Erregelamendua onestekoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>EE</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Reglamento Penitenciario</term>
+    </tig>
+    <tig>
+      <term>Real Decreto 190/1996, de 9 de febrero, por el que se aprueba el Reglamento Penitenciario</term>
+    </tig>
+    <tig>
+      <term>RP</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666464">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>paketea hartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recepción de paquete</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666465">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zigor eta kautela-neurri askatasun-gabetzaileak betez, espetxean, ospitalean edo bestelako egoitza batean egotera behartuta dagoen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>giltzaperatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>barneratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recluso</term>
+    </tig>
+    <tig>
+      <term>interno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666466">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presoa espetxera eramate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>presoa espetxera ekartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>traslado de preso a centro penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666467">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabat biluzita miatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>biluzi integraleko miaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cacheo con desnudo integral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666468">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barneratua miatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cacheo del interno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666469">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>elkarbizitzako bisean biseko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>elkarbizitzako komunikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>elkarbizitzako bisita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vis a vis de convivencia</term>
+    </tig>
+    <tig>
+      <term>comunicación de convivencia</term>
+    </tig>
+    <tig>
+      <term>visita de convivencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666470">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idatzizko komunikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>komunikazio idatzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunicación escrita</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666471">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komunikazio berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunicación extraordinaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666472">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>senideekiko bisean biseko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>senideekiko komunikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>familiako bisita</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vis a vis familiar</term>
+    </tig>
+    <tig>
+      <term>comunicación familiar</term>
+    </tig>
+    <tig>
+      <term>visita familiar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666473">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bisean biseko intimo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>komunikazio intimo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bisita intimo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vis a vis íntimo</term>
+    </tig>
+    <tig>
+      <term>comunicación íntima</term>
+    </tig>
+    <tig>
+      <term>visita íntima</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666474">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ahozko komunikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunicación oral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666475">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komunikazio arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunicación ordinaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666476">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefono bidezko komunikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>komunikazio telefoniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comunicación telefónica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666477">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ahozko komunikazioan esku-sartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intervención de la comunicación oral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666478">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzerritarrak kontrolpean izateko zentro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>CECE</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>centro de estancia controlada de extranjeros</term>
+    </tig>
+    <tig>
+      <term>CECE</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666479">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizarteratze-zentro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>centro de inserción social</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666480">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>helburuko establezimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento de destino</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666481">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jatorriko establezimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento de origen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666482">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prebentiboen establezimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento de preventivos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666483">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>establezimendu misto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento mixto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666484">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barneratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666485">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendekotasuna gainditzeko zentroan barneratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internamiento en centro de deshabituación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666486">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>heziketa bereziko zentroan barneratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internamiento en centro educativo especial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666487">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gazteentzako sailean barneratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internamiento en departamento para jóvenes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666488">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizarteratze-zentroan barneratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internamiento en un centro de inserción social</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666489">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>amen unitatean barneratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>internamiento en unidades de madres</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666490">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erregimen ireki murriztu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen abierto restringido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666491">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lan eginez zigorra ordaintzeko onura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>beneficio de la redención de pena</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666492">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espetxe-onura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>beneficio penitenciario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666493">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atxilotua espetxetik ateratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>excarcelación de detenido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666494">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baldintzapeko askatasunari buruzko espediente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expediente de libertad condicional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666495">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behin betiko askatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libertad definitiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666496">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>askatasun-manamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aske uzteko manamendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mandamiento de libertad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666497">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ahozko komunikazioak mugatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>limitación de las comunicaciones orales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666498">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kargu-orri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pliego de cargos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666499">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>paseoa kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>paseoaz gabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privación de paseo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666500">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteteko baimena kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>irteera-baimenaz gabetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>privación de permiso de salida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666501">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diziplina-prozedura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento disciplinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666502">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ziegan isolatzeko zehapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ziegan bakartzeko zehapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sanción de aislamiento en celda</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666503">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diziplina-zehapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diziplinazko zehapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sanción disciplinaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666504">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona heldu batekin sexu-harremanak izateko gutxieneko adina, legeak ezartzen duena. Pertsona adingabea adin horretara iritsi ez bada, harremana izateko adostasunak ez du legezko baliorik, eta, ondorioz, legea urratzen du pertsona helduak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sexurako adostasun-adin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>edad de consentimiento sexual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="666505">
+  <descrip type='subjectField'>Zuzenbide penala</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Delitu larri batzuen kasuan (adibidez, adingabeak erailtzea edo terrorismo delituak) ezartzen den zigor berezia: epe zehatzik gabeko espetxealdia ezartzen zaio delitugileari, eta, 25 eta 35 urte bitarteko aldia pasatutakoan (delituaren arabera), berrikusi egiten da zigorra, delitugilea espetxetik aterako den erabakitzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>espetxealdi iraunkor berrikusgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prisión permanente revisable</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

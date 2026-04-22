@@ -1,0 +1,4166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oinetakoen Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Oinetakoen Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="363763">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>abarka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abarca</term>
+    </tig>
+    <tig>
+      <term>albarca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>abarca</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363764">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>distira eman</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abrillantar</term>
+    </tig>
+    <tig>
+      <term>pulir</term>
+    </tig>
+    <tig>
+      <term>aprestar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polish</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363765">
+  <descrip type='subjectField'>Oinetakogintzako tresnak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zulatzeko aliketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alicate abreojales</term>
+    </tig>
+    <tig>
+      <term>troquel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emporte-pièce</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>press knife</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363766">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larruzko piezei lodiera bera eman azalera osoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lisatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alisar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>égaliser</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>level</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363767">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espartin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>abarketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alpargata</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>espadrille</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>espadrille</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363768">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dama</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ante</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ante</term>
+    </tig>
+    <tig>
+      <term>piel de ante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>daim</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>buff</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363769">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>babutxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>babucha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>babouche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>babouche</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363770">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oxford-aren antzeko zapata, oinetakoaren atzealderaino, zuzen-zuzenean, iristen den pieza bakarreko oinetako-bularra josita duena oinetako-laurdenen gainean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>balmoral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balmoral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>balmoral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>balmoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363771">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kirola egiteko bereziki diseinatutako oinetakoak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kirol-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>playera</term>
+    </tig>
+    <tig>
+      <term>zapatilla de deporte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sneaker</term>
+    </tig>
+    <tig>
+      <term>jogger</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sneaker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363772">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>box-calf</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>becerro graneado</term>
+    </tig>
+    <tig>
+      <term>box-calf</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>box-calf</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>box-calf</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363773">
+  <descrip type='subjectField'>Osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>betun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ziraia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>betún</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cirage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe polish</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363774">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>botte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363775">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izter-bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>arrantzale-bota</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de agua hasta cadera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>botte de pêcheur</term>
+    </tig>
+    <tig>
+      <term>botte de pêche</term>
+    </tig>
+    <tig>
+      <term>botte cuissarde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hip wader</term>
+    </tig>
+    <tig>
+      <term>thigh boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363776">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kautxuzko bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gomazko bota</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de agua</term>
+    </tig>
+    <tig>
+      <term>katiuska</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>botte en caoutchouc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Wellington</term>
+    </tig>
+    <tig>
+      <term>wader</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363777">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saskibaloi-bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de baloncesto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>basket</term>
+    </tig>
+    <tig>
+      <term>chaussure de basket-ball</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>basket-ball boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363778">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eski-bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de esquí</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure de ski</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ski boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363779">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>futboleko bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de fútbol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure de football</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>football boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363780">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mendiko bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de montaña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>botte d'alpinisme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mountaineering boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363781">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bota plataformadun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de plataforma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>platform boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363782">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laneko bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota de trabajo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bottine de sécurité</term>
+    </tig>
+    <tig>
+      <term>bottine de travail</term>
+    </tig>
+    <tig>
+      <term>botte de sécurité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>protection boot</term>
+    </tig>
+    <tig>
+      <term>heavy duty boot</term>
+    </tig>
+    <tig>
+      <term>work style boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363783">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>belaun-bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota hasta pantorrilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>genouillère</term>
+    </tig>
+    <tig>
+      <term>botte à genouillère</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>calf-length boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363784">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zango-erdiko bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota media caña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>demi-botte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>half boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363785">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bota militar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota militar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>botte militaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>jack boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363786">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>unai-bota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bota vaquero</term>
+    </tig>
+    <tig>
+      <term>bota campera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>santiag</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pee-wee</term>
+    </tig>
+    <tig>
+      <term>cowboy boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363787">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bota motz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>botín</term>
+    </tig>
+    <tig>
+      <term>bota baja</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bottine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ankle boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363788">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>antxume-larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabritilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chevreau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>kid-leather</term>
+    </tig>
+    <tig>
+      <term>kidskin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363789">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zapata saredun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calado</term>
+    </tig>
+    <tig>
+      <term>zapato de rejilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ajouré</term>
+    </tig>
+    <tig>
+      <term>découpé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cutout shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363790">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoak muntatzeko moduetako bat; oinetako-gaina barne-zoruari josi ondoren, orkoiarekin behartzen da, eta plataforma itxurako zorua gehitzen zaio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kalifornia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>California</term>
+    </tig>
+    <tig>
+      <term>plataforma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>California</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mandarin</term>
+    </tig>
+    <tig>
+      <term>slip lasting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363791">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txirrindulari-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado de ciclismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure cycliste</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cycling shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363792">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskalatzeko oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado de escalada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure d'escalade</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rock climbing boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363793">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>trekking-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado de trekking</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>botte de randonnée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hiking boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363794">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mokasin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado mocasín</term>
+    </tig>
+    <tig>
+      <term>zapato americano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>flâneur</term>
+    </tig>
+    <tig>
+      <term>mocassin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>loafer</term>
+    </tig>
+    <tig>
+      <term>moccasin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363795">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako plataformadun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzado plataforma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure à plate-forme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>platform shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363796">
+  <descrip type='subjectField'>Osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>adar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oinetako-janzteko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calzador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>corne à chaussure</term>
+    </tig>
+    <tig>
+      <term>chausse-pied</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe horn</term>
+    </tig>
+    <tig>
+      <term>shoehorn</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363797">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aire-ganbera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aire-kuxin</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara de aire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coussin d'air</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>air-sole unit</term>
+    </tig>
+    <tig>
+      <term>air cushion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363798">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egurrezko, larruzko, altzairuzko edo plastikozko pieza, oinetakoaren zamari eta oinetako-uztaiari eusteko, kanpo-zoruaren eta barne-zoruaren artean eta orpoaren parean jartzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kanbrilloi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cambrillón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cambrillon</term>
+    </tig>
+    <tig>
+      <term>cambrion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shank</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363799">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zango</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>jambe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leg</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363800">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1. Lokarri-zuloak jartzeko, oinetako-laurdenen hegalei itsasten zaien bi piezetako bakoitza. 2. Lokarri-kakoak jartzeko, oinetako-laurdenen hegalei itsasten zaien bi piezetako bakoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zulo-mihi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kako-mihi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carrillera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>garant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>eyelet tab</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363801">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kautxu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>goma</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caucho</term>
+    </tig>
+    <tig>
+      <term>goma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>caoutchouc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rubber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363802">
+  <descrip type='subjectField'>Osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-eskuila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cepillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brosse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>brush</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363803">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larruzko uhala, oinetakoaren inguruan jartzen dena, barne-zorua lotu dezan, batetik, oinetako-gainarekin, eta, bestetik, oinetako-azpiarekin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bira-uhal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cerco</term>
+    </tig>
+    <tig>
+      <term>cerquillo</term>
+    </tig>
+    <tig>
+      <term>vira</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>trépointe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>welt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363804">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hondartza-txinal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chancla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tong</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flip flop</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363805">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larru bernizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>charol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cuir verni</term>
+    </tig>
+    <tig>
+      <term>verni</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>patent leather</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363806">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txinal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>chinela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mule</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mule</term>
+    </tig>
+    <tig>
+      <term>slide shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363807">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakogintzan, oinetakoen atalak iltzez josi.</descrip>
+    </descripGrp>
+    <tig>
+      <term>iltzeztatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clavar</term>
+    </tig>
+    <tig>
+      <term>clavetear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clouer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nail</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363808">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokarria lotu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>atar empeine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lacer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lace up</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363809">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Takoia zurrunagoa izan dadin, forruaren eta kanpoko larruaren artean (edo forrurik ezean, oinetakoaren barrutik) jartzen den indargarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>takoi-zurrungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrafuerte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contrefort</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>counter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363810">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larruaren berezko ñabardurak agerian uzteko artelazki-zilindro batzuk larruaren gainetik pasatu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>artelazkitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corchear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liéger</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>board</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363811">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artelazki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corcho</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liège</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cork</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363812">
+  <descrip type='subjectField'>Osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cordón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordon</term>
+    </tig>
+    <tig>
+      <term>lacet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe lace</term>
+    </tig>
+    <tig>
+      <term>shoe string</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363813">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>josi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coser</term>
+    </tig>
+    <tig>
+      <term>aparar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coudre</term>
+    </tig>
+    <tig>
+      <term>piquer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sew</term>
+    </tig>
+    <tig>
+      <term>stitch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363814">
+  <descrip type='subjectField'>Osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-krema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>crema para calzado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crème à chaussure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe grease</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363815">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cuir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leather</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363816">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larrua ustel ez dadin, kromo-gatzez prestatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kromoz ontze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kromoz zurratze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>curtido al cromo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tannage au chrome</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chrome tannage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363817">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larrua ustel ez dadin, landare-aterakinez prestatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>landarez ontze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>landarez zurratze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>curtido vegetal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tannage végétal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vegetable tannage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363818">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetako lokarridun mota, oinetako-laurdenen hegalak oinetako-bularrari josirik dituena, baina oxford-etan ez bezala, hegalen azken zatia aske geratzen zaiona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>derbi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>blucher</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derby</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>derby</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>derby</term>
+    </tig>
+    <tig>
+      <term>blucher</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363819">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sobera dauden larru-zatiak moztu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soberakinak ebaki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desvirar</term>
+    </tig>
+    <tig>
+      <term>quitar rebabas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rafraîchir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trim</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363820">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larrua bi geruzatan edo gehiagotan bereizi.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mehetu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dividir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>refendre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>split</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363821">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetako-gaina egiteko erabiliko den larru-zatiaren ertza tolestu eta zoruari itsatsi.</descrip>
+    </descripGrp>
+    <tig>
+      <term>azpildurak egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dobladillar</term>
+    </tig>
+    <tig>
+      <term>doblar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>remplier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fold</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363822">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinbularra gainetik biltzen duena oinetako-atala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oinetako-bular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empeine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>empeigne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>instep</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363823">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoen osagaiak itsasgarrien bidez itsatsi.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kolatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encolar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coller</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>apply cement</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363824">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinazpiko arkuaren parean dagoen oinetako-atala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oinetako-uztai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enfranque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cambrure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waist</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363825">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mihiztatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ensamblado</term>
+    </tig>
+    <tig>
+      <term>ensamblaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assemblage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>assembling</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363826">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barne-zoruaren eta kanpo-zoruaren artean jartzen den larruzko edo bestelako geruza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zoru-arteko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>entresuela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>intercalaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mid sole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363827">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>luzatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estirar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prêter</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stretch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363828">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetakogintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zapatagintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fabricación de calzado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordonnerie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe making</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363829">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetako-gainaren atal bat apaintzeko atal horren ertza koska erregularrak eginez moztu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oxkarratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>festonear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>denteler</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gimp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363830">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondutako larruaren kanpoaldeko geruza, larruari barrena kendutakoan geratzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>larru-gain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flor</term>
+    </tig>
+    <tig>
+      <term>lado flor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fleur sciée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>grain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363831">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>forru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>forro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>doublure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lining</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363832">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-aurre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>frente</term>
+    </tig>
+    <tig>
+      <term>delantera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>avant-pied</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>front</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363833">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetako lokarridun batzuetan, lokarriei eusteko jartzen diren metalezko kakoetako bakoitza, oinetako-gainean jartzen direnak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lokarri-kako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gancho</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crochet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lace-hook</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363834">
+  <descrip type='subjectField'>Osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>belarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hebilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boucle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>buckle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363835">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>orkoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>forme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>last</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363836">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>imitazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>imitación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>imitation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363837">
+  <descrip type='subjectField'>Osagarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iragazgaizteko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impermeabilizante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>imperméabilisant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>water-proofing agent</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363838">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoak egiteko teknika, urtutako gai plastikoak moldeetan sartuz prozesu bakar batean zorua osatzeko eta zorua oinetako-gainari lotzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>injektatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inyectado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fabrication injectée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>injection moulded</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363839">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mihi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lengüeta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>languette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tongue</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363840">
+  <descrip type='subjectField'>Oinetakogintzako tresnak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larrua zulatzeko erabiltzen den tresna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lezna</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>awl</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363841">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoaren aurrealdean jartzen diren kanpo-zorua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zoru-erdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>media suela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>patin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>half sole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363842">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako botoidun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mercedes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Charles IX</term>
+    </tig>
+    <tig>
+      <term>chaussure à boutons</term>
+    </tig>
+    <tig>
+      <term>babies</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>buttoned shoe</term>
+    </tig>
+    <tig>
+      <term>one-bar shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363843">
+  <descrip type='subjectField'>Langileak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-diseinatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>modelista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>modéliste</term>
+    </tig>
+    <tig>
+      <term>créateur</term>
+    </tig>
+    <tig>
+      <term>patronnier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe designer</term>
+    </tig>
+    <tig>
+      <term>shoe patternmaker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363844">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>moldekatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>moldear</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conformer</term>
+    </tig>
+    <tig>
+      <term>emboutir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mould</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363845">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakogintzan, kanpo-zorua eta barne-zorua jostea, tartean oinetako-gainaren ertza dutela, horretarako bereziki diseinatutako makina erabiliz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Blake erako muntatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montado Blake</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cousu Blake</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blake sewing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363846">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakogintzan, zorua bira-uhalaren gainean jostea bi hariko orratz batekin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Good Year erako muntatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montado Good Year</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montage Good Year</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Goodyear outsole stitching</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363847">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoen osagaiak -bereziki barne-zorua eta oinetako-gaina- produktu itsasgarrien bidez itsastea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kolatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montado pegado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>montage à la colle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cementing lasting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363848">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakogintzan, oinetako-gainaren ertza kanpoaldera biratzea, barne-zoruari lotzea, eta hori guztia zoruari jostea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Willy erako muntatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Billy erako muntatze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montado Willy</term>
+    </tig>
+    <tig>
+      <term>montado Billy</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>double montage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Willy type assembly</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363849">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elkarren gainean jarritako bi pieza lotu, adibidez, josiz edo kolaz itsatsiz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>muntatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>montar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>assembler</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>assemble</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363850">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokarri-zulo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ojete</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>oeillet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>eyelet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363851">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetako lokarridun mota, oinetako-laurdenen hegalak azken muturreraino oinetako-bularrari josirik dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oxford</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oxford</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>richelieu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>oxford shoe</term>
+    </tig>
+    <tig>
+      <term>oxford</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363852">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oina gainetik babesten duen oinetako-atala, oinbularretik oin-puntara arteko zatia hartzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oinetako-gain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pala</term>
+    </tig>
+    <tig>
+      <term>empella</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tige</term>
+    </tig>
+    <tig>
+      <term>claque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363853">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>patroi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patrón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>patron de coupe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pattern</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363854">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zulatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>picar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>perforer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>punch</term>
+    </tig>
+    <tig>
+      <term>perforate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363855">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerri-larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piel de cerdo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>peau de porc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hog skin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363856">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>krokodilo-larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piel de cocodrilo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crocodile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crocodile skin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363857">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ardi-larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piel de oveja</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>peau de mouton</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sheepskin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363858">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>suge-larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piel de serpiente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>peau de serpent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>snake skin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363859">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behi-larru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piel de vaca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>peau de vache</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cow hide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363860">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larru sintetiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>piel sintética</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>similicuir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>synthetic leather</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363861">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>planta</term>
+    </tig>
+    <tig>
+      <term>piso</term>
+    </tig>
+    <tig>
+      <term>suela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>semelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363862">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>barne-zoru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plantilla</term>
+    </tig>
+    <tig>
+      <term>palmilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>première</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>insole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363863">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Katean ester funtzioak dituzten polimeroekin egindako zuntza, oinetakogintzan erabilia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>poliester</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>poliéster</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>polyester</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polyester</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363864">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>prentsatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prensar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>écraser</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>press</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363865">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurrealde ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>punta abierta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bout ouvert</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open toe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363866">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aurrealde itxi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>punta cerrada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bout fermé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>closed toe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363867">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>puntako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>puntera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>embout</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>toe-cap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363868">
+  <descrip type='subjectField'>Oinetakogintzako teknikak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Larruzko pieza baten ertzak mehetu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ertzak jaitsi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rebajar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>parer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>skive</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363869">
+  <descrip type='subjectField'>Merkataritza</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetakoak konpontze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reparación</term>
+    </tig>
+    <tig>
+      <term>reparación de calzado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réparation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>repairing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363870">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>safari-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>safari</term>
+    </tig>
+    <tig>
+      <term>pisamierdas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>safari-boot</term>
+    </tig>
+    <tig>
+      <term>chukka</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>desert boot</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363871">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sandalia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sandalia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sandale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sandal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363872">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sandalia itxi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sandalia cerrada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sandalette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sandalette</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363873">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uretako sandalia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sandalia de río</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sandalette en plastique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>river sandal</term>
+    </tig>
+    <tig>
+      <term>water sandal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363874">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sandalia ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sandalia descubierta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nu-pied</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>strippy sandal</term>
+    </tig>
+    <tig>
+      <term>bare foot sandal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363875">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behatz-sandalia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sandalia tipo esclava</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>toe-post sandal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363876">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondutako larruaren barnealdea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>larru-barren</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>serraje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>croûte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flesh split</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363877">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoaren behealdea, alegia, barne-zoruak, bira-uhalak, zoru-artekoak, zoruak eta takoiak osatzen duten multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oinetako-azpi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>solaje</term>
+    </tig>
+    <tig>
+      <term>montaje de pisos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dessous de la chaussure</term>
+    </tig>
+    <tig>
+      <term>dessous</term>
+    </tig>
+    <tig>
+      <term>semelage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bottom assembly</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363878">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoru irristagaitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suela antideslizante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>semelle antidérapante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>non-skid sole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363879">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoari kanpoaldetik jartzen zaion zorua, ibiltzerakoan lurra ukitzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kanpo-zoru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suela exterior</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>semelle d'usure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>outsole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363880">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>takoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>orpo</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tacón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>talon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363881">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetako-uztaia betetzen duen orpo edo takoia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>takoi konpentsatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ziri-takoi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuña corrida</term>
+    </tig>
+    <tig>
+      <term>tacón cuña</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>talon compensé</term>
+    </tig>
+    <tig>
+      <term>semelle compensée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wedge heel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363882">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>orpo ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>talón abierto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emboîtage ouvert</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open back</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363883">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>orpo itxi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>talón cerrado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>closed back</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363884">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>takoiaren barne-zoru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>taloneta</term>
+    </tig>
+    <tig>
+      <term>talonera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>talonnette de propreté</term>
+    </tig>
+    <tig>
+      <term>demi-première</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heel sock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363885">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>takoiaren kanpo-zoru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tapa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bonbout</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heel tip</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363886">
+  <descrip type='subjectField'>Oinetakogintzako lehengaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edozein hari- edo zuntz-mota ehoz egiten den ekaia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ehun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tejido</term>
+    </tig>
+    <tig>
+      <term>textil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>toile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fabric</term>
+    </tig>
+    <tig>
+      <term>cloth</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363887">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soldatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>termofinkatze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>termofijado</term>
+    </tig>
+    <tig>
+      <term>soldadura en caliente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soudé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat sealing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363888">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uhal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tira</term>
+    </tig>
+    <tig>
+      <term>correa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bride</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>strap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363889">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Orkatila biltzen duen oinetako-atala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>orkatila-inguru</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tobillera</term>
+    </tig>
+    <tig>
+      <term>contorno del tobillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ankle-collar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363890">
+  <descrip type='subjectField'>Oinetakoen osagaiak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-laurden</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>trasera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>quartier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>quarter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363891">
+  <descrip type='subjectField'>Langileak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-saltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zapata-saltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vendedor de calzado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vendeur de chaussures</term>
+    </tig>
+    <tig>
+      <term>vendeuse de chaussures</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe retailer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363892">
+  <descrip type='subjectField'>Oinetakogintzako muntatze-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Oinetakoak egiteko teknika, kautxua moldeetan sartuz prozesu bakar batean zorua osatzeko eta zorua oinetako-gainari lotzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bulkanizatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vulcanizado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fabrication vulcanisée</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363893">
+  <descrip type='subjectField'>Merkataritza</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zapata-denda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatería</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cordonnerie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe shop</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363894">
+  <descrip type='subjectField'>Langileak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetakogile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zapatagin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bottier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shoe maker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363895">
+  <descrip type='subjectField'>Langileak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-konpontzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatero remendón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>savetier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cobbler</term>
+    </tig>
+    <tig>
+      <term>shoe mender</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363896">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txapin ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatilla abierta</term>
+    </tig>
+    <tig>
+      <term>pantufla abierta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mule d'intérieur</term>
+    </tig>
+    <tig>
+      <term>mule d'appartement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open back slipper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363897">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ballet-txapin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatilla de ballet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chausson</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ballet slipper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363898">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tenis-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatilla de tenis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tennis</term>
+    </tig>
+    <tig>
+      <term>chaussure de tennis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tennis shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363899">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txapin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapatilla</term>
+    </tig>
+    <tig>
+      <term>pantufla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>charentaise</term>
+    </tig>
+    <tig>
+      <term>pantoufle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slipper</term>
+    </tig>
+    <tig>
+      <term>Albert tab slipper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363900">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bota-itxurako zapata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato abotinado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure montante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>high shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363901">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haurtxo-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato bebé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure de layette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nursery shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363902">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguneroko jardunerako gizonentzako oinetako erosoak, kirol-oinetakoetan oinarritutako diseinudunak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sporteko gizonezko-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato caballero sport</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>men's sports shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363903">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zapata lokarridun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato con cordonera</term>
+    </tig>
+    <tig>
+      <term>zapato de cordón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure à lacets</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tie-shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363904">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gizonezko-zapata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato de caballero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure homme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>men's shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363905">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>olanazko oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato de lona y goma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sans-gêne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slip-on</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363906">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>areto-zapata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato de salón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décolleté</term>
+    </tig>
+    <tig>
+      <term>escarpin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>court shoe</term>
+    </tig>
+    <tig>
+      <term>pump</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363907">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>emakume-zapata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato de señora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure de femme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>women's footwear</term>
+    </tig>
+    <tig>
+      <term>ladies shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363908">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>takoi altuko zapata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato de tacón alto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaussure à talon haut</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>high-heeled shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363909">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ontzi-zapata</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato náutico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>derby-mocassin style bateau</term>
+    </tig>
+    <tig>
+      <term>mocassin bateau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>boat shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363910">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haur-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato niño</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enfant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>children's footwear</term>
+    </tig>
+    <tig>
+      <term>children's shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363911">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dantzari-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oinetako lau</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato plano</term>
+    </tig>
+    <tig>
+      <term>manoletina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ballerine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ballerina</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363912">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguneroko jardunerako emakumeentzako oinetako erosoak, kirol-oinetakoetan oinarritutako diseinudunak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sporteko emakume-oinetako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zapato señora sport</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ladies sports shoe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363913">
+  <descrip type='subjectField'>Oinetako-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskalapoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zueco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sabot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clog</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363914">
+  <descrip type='subjectField'>Merkataritza</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-neurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oinetako-zenbaki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>número de pie</term>
+    </tig>
+    <tig>
+      <term>número</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pointure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>size</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="363915">
+  <descrip type='subjectField'>Merkataritza</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oinetako-neurri solte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oinetako-zenbaki solte</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>número suelto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>invendu</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

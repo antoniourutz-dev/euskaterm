@@ -1,0 +1,6006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hauteskundeen Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Hauteskundeen Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeak egin ondorengo lehen bilkuran izendatzen den behin-behineko organoa, hautetsi zaharrena eta hautetsi gazteena biltzen dituena. Ordezkari-organo bat eratzea da haren helburua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>adin-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa de edad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Administrazioaren ordezkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representante de la Administración</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artekari-egiaztagutun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>credencial de nombramiento de interventor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-prozesua askea, irekia, lehiakorra eta berdina izango dela bermatzeko, autonomia-erkidegoek hauteskunde-administrazioa osatzeko era dezaketen organoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>autonomia-erkidegoko hauteskunde-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta electoral de Comunidad Autónoma</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle Erroldaren Bulegoak egiten duen zerrenda, behin-behineko hauteskunde-zerrendari egindako zuzenketak gehituak dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>behin betiko hauteskunde-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista electoral definitiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Udalek, kontsuletxeek, erregistro zibilek eta zigortuen eta auzi-iheslarien erregistroek emandako informazioan oinarrituta, Hautesle Erroldaren Bulegoak urtero berritzen duen zerrenda.</descrip>
+    </descripGrp>
+    <tig>
+      <term>behin-behineko hauteskunde-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista electoral provisional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-batzordeko kidea, botere judizialak izendatutakoa ez dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bokal ez-judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vocal no judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-batzordeko kidea, botere judizialak izendatutakoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bokal judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vocal judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jarlekuak modu proportzionalean esleitzeko formula. Sistema horren arabera, hautagai-zerrenden boto-kopuruak zutabe batean handienetik txikienera antolatu ondoren, boto-kopurua barrutiari dagozkion jarleku kopuruarekin zatitzen da, eta jarlekuak esleitzen zaizkie zatidura handiena lortzen duten hautagai-zerrendei, handienetik txikienera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>d'Hondt sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema d'Hondt</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreferendum-lege</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ley de referéndum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskualdeko hauteskunde-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta electoral de zona</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskualdeko hauteskunde-batzordearen ordezkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delegado de la junta electoral de zona</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskualdeko hauteskunde-batzordeetan ordezka dezan erakunde politiko batek izendatzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskudun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comisionado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordezkaritza gehiengodun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación mayoritaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-prozesuaren eta berdintasun-printzipioaren gardentasuna eta objektibotasuna bermatzea helburu duen administrazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-administrazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administración electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Errolda-barrutia osatzen duten unitate administratiboetako bakoitza, hauteskunde-mahai bat edo gehiago biltzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-administrazioaren organo gorena eta iraunkorra, hauteskunde-prozesua gardena eta objektiboa izan dadila helburutzat duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-batzorde zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta electoral central</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-batzordeko bokal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vocal de junta electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-batzordeko lehendakari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presidente de junta electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-batzordeko lehendakariorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vicepresidente de junta electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-batzordeko idazkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>secretario de junta electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleek botoa eman dezaten prestatutako lokala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautesleku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>local electoral</term>
+    </tig>
+    <tig>
+      <term>colegio electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herrialde batzuetan, zeharkako sufragio bidez ordezkari politiko jakin bat hautatzeko ardura duen hautesleen kidegoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-kolegio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colegio electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-lege</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ley electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiko bokal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vocal de mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiko kide titular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>miembro titular de mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiko lehendakari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presidente de mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiko ordezko kide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suplente de mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-atal batean hauteskunde-prozesua zuzentzen duten pertsonen multzoa; lehendakaritza-lanak egitea, ordenari eustea eta bozketaren gardentasuna bermatzea da haren egitekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-mahai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Hautesle Erroldaren Bulegoaren probintzia-ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delegación provincial de la Oficina del Censo Electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Hautesle Erroldaren Bulego</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Oficina del Censo Electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jabetza publikoko irrati eta telebistetan hauteskundeekin lotutako programazioa kontrolatzeko helburua duen batzordea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>irrati-telebistako batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comité para radio y televisión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lurralde historikoko hauteskunde-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta electoral de territorio histórico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>probintziako hauteskunde-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta electoral provincial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>udal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ayuntamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>udal-idazkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>secretario de ayuntamiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Abstentzioak, boto zuriak eta boto baliogabeak kontuan izan gabe, aldeko botoak aurkako botoak baino gehiago direnean lortzen den gehiengoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gehiengo soil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gehiengo erlatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mayoría simple</term>
+    </tig>
+    <tig>
+      <term>mayoría relativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Botoa balioduna izan dadin, boto-papera hautestontzian sartu aurretik hura gordetzeko erabili behar den gutun-azala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskundeetako gutun-azal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bozkatzeko gutun-azal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobre electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Boto-emailearen aukera jasotzen duen eta hautesleku bateko hautestontzian sartzen den orria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto-paper</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>papeleta electoral</term>
+    </tig>
+    <tig>
+      <term>papeleta de votación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Boto-eskubidea baliatzeko ekintza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bozketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>votación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bozketa batean parte ez hartzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>abstentzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abstención</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Emandako boto guztien erdiak baino gehiago biltzen dituen gehiengoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gehiengo oso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mayoría absoluta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabaki jakin batzuk hartzeko lortu behar den gehiengoa, gehiengo osoaren muga nabarmen gainditzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gehiengo kalifikatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mayoría cualificada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda bakoitzak hauteskunde-egunean mahaian egoteko eta hauteskundea ezarritako arauekin bat egiten dela egiaztatzeko izenda dezakeen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>artekari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interventor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda baten ikur ofiziala, hauteskundeetan parte hartzeko aurkezpen-idazkian zehaztu behar dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautagai-zerrendaren ikur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>símbolo de candidatura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda baten izendapen ofiziala, hauteskundeetan parte hartzeko aurkezpen-idazkian zehaztu behar dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautagai-zerrendaren izendapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>denominación de candidatura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda baten sigla ofiziala, hauteskundeetan parte hartzeko aurkezpen-idazkian zehaztu behar dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautagai-zerrendaren sigla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sigla de candidatura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-administrazioaren aurrean hauteskundeetara aurkezten den alderdi, federazio edo koalizio bat ordezkatzen duen pertsona. Hautesbarruti bakoitzerako, bere alderdi, federazio edo koalizioaren hautagai-zerrendaren ordezkariak izendatzen ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezkari orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representante general</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeak egiteko hauteskunde-deialdian ezarritako data.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-egun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jornada electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-ekintzetan hautagai-zerrenda baten ordezkari gisa aritzeko hautagai-zerrenda horren ordezkariengandik ahala jaso duen adin nagusiko herritarra, eskubide zibil eta politikoak bete-betean balia ditzakeena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ahaldun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apoderado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Boto-emaile bakoitzari zenbaki bat esleituz hauteskundeetan botoa ematen dutenen kontrola eramateko hauteskunde-mahaian osatzen den zerrenda.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto-emaileen zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de votantes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-aldian gobernuak egiten dituen jardueren multzoa; hauteskundeetan parte-hartzeari buruzko informazioa emateko egiten dira, eta ezin dute eraginik izan hautesleen botoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kanpaina instituzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campaña institucional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeetara elkartuta aurkezten diren alderdi edo talde politikoak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-koalizio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coalición electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Testuinguru politikoa dela-eta hauteskunde-prozesu baten gardentasunari buruzko zalantzak daudenean haren jarraipena egin eta balioesteko izendatzen den pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-behatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>observador electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Boto-kontaketa egin ondoren hauteskunde-mahaiak prestatzen duen espedientea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-espediente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expediente electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda bateko hautagaien izenean aritzen den pertsona, hautagai horien ahalordea duena hauteskunde-gaietako edozein prozeduratan parte hartzeko. Hautagai-zerrendaren ordezkariari igortzen dizkio hauteskunde-administrazioak hautagaiei zuzendutako aldaketak, idazkiak eta epatzeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautagai-zerrendaren ordezkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representante de la candidatura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>administratzaile orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administrador general</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indarrean dagoen legearen arabera, pertsona batek hauteskunde-prozesu batean hautagai-zerrenda bat ordezkatzeko ahalordea duela frogatzen duen akta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ahaldun-egiaztagutun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>credencial de nombramiento de apoderado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aldarrikatze-akta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acta de proclamación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderdi politiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>partido político</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderdi politikoen erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro de partidos políticos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>alderdi-federazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>federación de partidos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>artekari-egiaztagutunaren taloi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>talón de credencial de nombramiento de interventor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baiezko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aldeko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>boto positibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto a favor</term>
+    </tig>
+    <tig>
+      <term>voto afirmativo</term>
+    </tig>
+    <tig>
+      <term>voto positivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legezko baldintzak betetzen ez dituelako baliorik ez duen botoa eta, beraz, balioduntzat hartzen ez dena. Ez du baliorik izaten, besteak beste, ofiziala ez den boto-paper batekin emandako botoak, gutun-azalik gabe emandakoak, boto-paper desberdinekin emandakoak edo aldatutako boto-paperarekin edo gutun-azalarekin emandakoak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto baliogabe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto nulo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto baliodun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto válido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banakako hautagai-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hautagai-zerrenda indibidual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>candidatura individual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>behin-behineko boto-kontaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrutinio provisional</term>
+    </tig>
+    <tig>
+      <term>recuento provisional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bilkura-akta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>saioaren akta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acta de la sesión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto bat baino gehiago edo botoa gaitasunik gabe ematearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito por emisión de varios votos o emisión sin capacidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto negatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aurkako boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto negativo</term>
+    </tig>
+    <tig>
+      <term>voto en contra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sufragio-eskubidea baliatu arren hautagai-zerrenda baten alde egin ez duen hauteslearen botoa. Boto zuritzat hartzen dira bai boto-paperik gabeko gutun-azal batekin emandako botoa, bai, hautagai-zerrenda irekien kasuan, zein hautagai aukeratu den adierazten ez duen boto-paper batekin emandakoa. Boto zuria boto balioduntzat hartzen da, eta, beraz, zenbatu egiten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto zuri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto en blanco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto-eskubidea erabiltzearekin lotutako delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito relacionado con el ejercicio del derecho de voto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-eguna igaro eta handik hiru egunera dagokion hauteskunde-batzordeak egiten duen boto-kontaketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto-kontaketa orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrutinio general</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto-kontaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrutinio</term>
+    </tig>
+    <tig>
+      <term>recuento de votos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto-kontaketaren saio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sesión de escrutinio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-legeak ezartzen dituen baldintzak betez, hautagai-zerrenda bat hautatzeko emandako boto-papera edo boto-paper zuria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto-paper baliodun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>papeleta válida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkaritza proportzionaleko izen askoko hautesbarruti batean, hautesleak edozein erakunde politiko edo zerrendako hautagairi bozkatzeko aukera. Hautesleari bere zerrenda osatzeko aukera ematen dio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto-paper ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>papeleta abierta</term>
+    </tig>
+    <tig>
+      <term>panachage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-administrazioak hautesleen eskura jartzen duen eredu ofizialeko boto-papera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto-paper normalizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>papeleta de votación normalizada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bozkatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>botoa eman</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>votar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bozketa etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suspensión de la votación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bozketa-kabina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>botoa aukeratzeko kabina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabina de votación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-administrazioak hautesleen eskura jartzen duen eredu ofizialeko gutun-azala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bozketako gutun-azal normalizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sobre de votación normalizado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>funtzionario publikoaren dolozko delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito doloso de funcionario público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>funtzionarioaren faltsutze-delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito del funcionario por falsedad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>genero-kuota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuota de género</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-egunaren bezpera. Egun horretan debekatuta dago hauteskunde-kanpainako ekintzak egitea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gogoeta-egun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>jornada de reflexión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagai independente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>candidato independiente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagai nazional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>candidato nacional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-prozesu batean hautetsia izateko aurkezten den pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautagai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>candidato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagaia ordezte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sustitución del candidato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagaiak aldarrikatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proclamación de candidaturas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagaien aurkezpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presentación de candidaturas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagai-zerrendaren administratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskunde-administratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administrador de la candidatura</term>
+    </tig>
+    <tig>
+      <term>administrador electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagai-zerrendaren lurralde-administratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>administrador territorial de candidatura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeen deialdi-egunetik hauteskunde-egunera arteko epea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-aldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>periodo electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-arloko arau-hauste</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>infracción electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-bandera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>banderola electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-batzordearen eraketa-akta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acta de constitución de la junta electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-debate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>debate electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-deialdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convocatoria electoral</term>
+    </tig>
+    <tig>
+      <term>convocatoria de elecciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-dokumentazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>documentación electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-egutegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calendario electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagaiek, hautagai-zerrendaren ordezkariek eta hautagaiak aurkeztu dituzten alderdi politikoek dagokion hauteskunde-batzordearen aurka aurkez dezaketen errekurtsoa; hautetsiak aldarrikatzeari buruz hauteskunde-batzorde batek hartutako erabakiarekin ados ez egoteagatik aurkezten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskundeekiko auzi-errekurtso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso contencioso-electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-ekitaldiko ordena asaldatzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de alteración del orden del acto electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskundeen atzerapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplazamiento de las elecciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-eslogan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskunde-slogan</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eslogan electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erakunde politikoek hauteskunde-deialdiaren egunetik hauteskunde-egunera arte egiten dituzten hauteskunde-gastuak ordain ditzaten emandako dirulaguntza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskundeetako dirulaguntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>subvención electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskundeetako diru-sarrera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ingreso electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-finantzaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>financiación electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-funtsez bidegabe jabetzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de apropiación indebida de fondos electorales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-gastu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gasto electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritarren lagin bati zuzendutako galdeketak oinarritzat hartzen dituen ikerketa sozialerako teknika; hauteskundeen eta, bereziki, hautagai-zerrenden inguruan herritarrek duten iritzi politikoa ezagutzeko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-inkesta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encuesta electoral</term>
+    </tig>
+    <tig>
+      <term>sondeo electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-inkesten arloko delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito en materia de encuesta electoral</term>
+    </tig>
+    <tig>
+      <term>delito en materia de sondeo electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-inprimaki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>impreso electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-iruzur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fraude electoral</term>
+    </tig>
+    <tig>
+      <term>pucherazo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-kanpainako ekitaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto de campaña electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-kanpainan egindako kalumnien eta irainen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito de calumnias e injurias en campaña electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ahalik eta boto gehien eskuratzeko, hauteskundeen aurretik, hauteskundeetara aurkezten diren erakunde politikoek denbora-epe jakin batean egiten dituzten informazio- eta propaganda-ekintzak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-kanpaina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campaña electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-kanpaina ofizialki hasi aurretik, hauteskundeetara aurkeztekoak diren erakunde politikoek beren hautagaiak, programa, etab. ezagutzera emateko egiten dituzten ekintzen multzoa. Hauteskunde-kanpainaurrean erakunde politikoek ezin dute eskatu beren aldeko botoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-kanpainaurre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>precampaña electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-kartel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskunde-afixa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cartel electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-gastuak ordaintzeko hautagai-zerrenda bakoitzak ireki behar duen banku-kontua. Hautagai-zerrendak biltzen duen diru guztia kontu horretan sartu beharko du, eta kontu horretatik ordaindu behar ditu hauteskundeetara aurkezteak eragiten dizkion gastu guztiak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-kontu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuenta electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-kontuak faltsutzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito por falseamiento de cuentas electorales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautatzen den jarleku-kopuru osotik hautagai-zerrenda edo giza talde batek eskuratzen duen jarleku-multzoa. Hauteskunde-sistema batzuetan gutxieneko kuotak ezartzen dira giza talde jakin batzuentzat.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-kuota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuota electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-liburuxka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>folleto electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaia uztearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito por abandono de la mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiaren aurrean egiaztatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acreditación ante la mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiaren eraketa-akta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acta de constitución de la mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiko kide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>miembro de mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiko boto-kontaketaren akta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acta de escrutinio de la mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-mahaiko boto-kontaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escrutinio de la mesa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-kanpainan egiten den bilera; jendaurrean gai politikoak, sozialak eta ekonomikoak eztabaidatzeko eta hautagai-zerrenda baten aldeko botoa eskatzeko egiten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-mitin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mitin electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda batean edo kargu politiko bat izateko hautetsien artean historian zehar baztertua izan den giza talde batek beste giza taldeekiko ordezkaritza orekatua izatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-parekotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>paridad electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeetara aurkezten den erakunde politiko baten helburuak eta konpromisoak biltzen dituen agiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-programa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-propaganda postontzietan banatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mailing electoral</term>
+    </tig>
+    <tig>
+      <term>buzoneo electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-propagandaren arloko delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito en materia de propaganda electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-propaganda postaz bidaltze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>envío postal de propaganda electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-propagandarako doako tarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>hedabideetan</termNote>
+    </tig>
+    <tig>
+      <term>hauteskunde-propagandarako doako gune</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>kalean</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espacio gratuito de propaganda electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-propaganda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>propaganda electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Europar Batasunaren Funtzionamenduari buruzko Tratatuak behartzen duen prozedura, Europar Batasuneko estatu guztietan Europako Parlamentuko kideak printzipio berak errespetatuz eta sufragio unibertsal zuzenaren bidez hauta daitezen bermatzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-prozedura uniforme</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procedimiento electoral uniforme</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-prozesu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proceso electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-publizitateko panel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>valla electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-ustelkeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corrupción electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-zuzenketarako eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de rectificación electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesbarruti bateko hautesle-kopuru jakin baten sinadura berme gisa erabiliz osatzen den talde politikoa; soilik hautesbarruti horretan egitekoa den hauteskunde-prozesu jakin baterako aurkeztu ahal izango du hautagai-zerrenda.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautesle-elkarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agrupación de electores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleak botoa sar dezan diseinatutako kutxa zigilatua, ezarritako eredu ofizialarekin bat datorrena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautestontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>urna electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautestontzia artekariak edo hauteskunde-mahaiko kideak ohartu gabe irekitzea ezinezkoa egiten duen tresna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautestontziko zigilu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>precinto de urna electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautetsiak aldarrikatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proclamación de electos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona bat hauteskunde-prozesu baten hautetsia izan dela frogatzen duen agiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautetsi-egiaztagutun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>credencial de electo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto-paper irakurri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>papeleta leída</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautetsiek ganberetan hartzen duten eserlekua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jarleku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escaño</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi alderdi politiko edo gehiagok hauteskundeetara aliantza bat eratuz elkarrekin aurkezteko sinatzen duten hitzarmena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>koalizio-itun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pacto de coalición</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kuota nahiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuota suficiente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barruti bateko jarleku guztien kopurua boto-kopuruarekin zatituz kalkulatzen den kuota. Kuota honen arabera, erakunde politiko bakoitzari jarleku bana esleitzen zaio lortutako kuota oso bakoitzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kuota zehatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuota exacta</term>
+    </tig>
+    <tig>
+      <term>cuota simple</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legebiltzar-talde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>parlamentuko talde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grupo parlamentario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legegintzako herri-ekimen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>iniciativa legislativa popular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>funtzionario-ofizioaz abusatzearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito del funcionario por abuso de oficio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordezko administratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suplente de administrador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordezko hautagai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suplente de candidato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pankarta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pancarta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parlamentua desegite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legebiltzarra desegite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disolución parlamentaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parlamentuaren desegite aurreratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legebiltzarraren desegite aurreratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disolución parlamentaria anticipada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Parlamentu edo legebiltzar batean gobernuaren alde egiten duten parlamentarien edo legebiltzarkideen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>parlamentu-gehiengo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legebiltzarreko gehiengo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mayoría parlamentaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parlamentuko debate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legebiltzarreko debate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>debate parlamentario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>posta bidezko botoaren izapideen arauak haustearen delitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>delito por infracción de los trámites para el voto por correo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>publizitate instituzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad institucional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>talde politiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grupo político</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>titulartasun publikoko hedabide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>titulartasun publikoko zabalkunde-bide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>medios de difusión de titularidad pública</term>
+    </tig>
+    <tig>
+      <term>medios de comunicación de titularidad pública</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerrendaburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabeza de lista</term>
+    </tig>
+    <tig>
+      <term>candidato número uno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde bidez kargu publiko edo eginkizun publiko bat betetzeko hautatutako pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautetsi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Autonomia-erkidego baten legebiltzarra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>parlamentu autonomiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parlamento autonómico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Biztanle-kopurua kontuan hartu gabe legeak hautesbarruti bakoitzari esleitzen dion ordezkari-kopuru finkoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hasierako gutxieneko ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación mínima inicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Botoa emateko eskubidea baliatu ahal izateko legeak ezartzen dituen baldintzak betetzen dituen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautesle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Botoa emateko eskubidea egiaz baliatzen duen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto-emaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>votante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bozketa bidez agintari politikoak hautatzeko prozesua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleak era automatizatuan eta gutun-azalik edo boto-paperik erabili gabe botoa emateko egiten dituen eragiketen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto electrónico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainiako Diputatuen Kongresuko kide izateko hautesleek hautets dezaketen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>diputatugai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>candidato a diputado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gehiengo erlatiboko izen askoko barruti batean, hautesleak alderdien hautagai-zerrenda itxiak hautatzera behartzen dituen boto-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>izen askoko gehiengoko hauteskunde-sistema aniztun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>taldekako boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema electoral mayoritario plurinominal con pluralidad</term>
+    </tig>
+    <tig>
+      <term>voto en bloque</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-sistema proportzional baten bidez hautatzen diren jarlekuetako bakoitza eskuratzeko behar den boto-kopurua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-zatidura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cociente electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herrialde baten lurralde osoan egiten den erreferenduma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreferendum nazional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>nazio-erreferendum</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>referéndum nacional</term>
+    </tig>
+    <tig>
+      <term>referendo nacional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritarren borondatea haiek hautetsitako ordezkarien bitartez bideratzen duen erregimen politikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezkaritzako demokrazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>democracia representativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Izen askoko barruti batean, jarlekuak hautagai-zerrenda bakoitzak eskuratu dituen boto-proportzioaren arabera banatzen dituen hauteskunde-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>izen askoko hauteskunde-sistema proportzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema electoral proporcional plurinominal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jarlekuak alderdien edo hautagaien artean banatzerakoan inolako eraginik ez duen botoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto galdu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto malgastado</term>
+    </tig>
+    <tig>
+      <term>voto perdido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jarlekuak barrutietan proportzionalki ez banatzea, hautesle batzuen botoak beste hautesle batzuen botoarekiko balio desberdina izan dezan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hainbanaketa desbideratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hainbanatze desbideratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prorrateo desviado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritarren kopuruaren eta/edo beste irizpide batzuen arabera, jarlekuak barrutietan proportzionalki banatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hainbanaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hainbanatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prorrateo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jarlekuak esleitzeko, lurralde osoa hauteskundeetako esparru administratibo bakartzat hartzen duen hautesbarrutia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautesbarruti bakar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunscripción única</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jarlekuak gehiengo absolutuaren edo soilaren arabera esleitzen dituen sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gehiengoko hauteskunde-sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema electoral mayoritario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkari bat lortzeko hautagai-zerrenda batek gutxienez eskuratu behar duen boto-proportzioa. Boto-proportzio hori eskuratzeak ez du bermatzen hautagai-zerrenda batek ordezkari bat izango duenik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inklusio-atalase</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>umbral de inclusión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkaririk lortu gabe geratzeko hautagai-zerrenda batek gehienez eskura dezakeen boto-proportzioa. Boto-proportzio hori gaindituz gero, ordezkari bat lortuko du hautagai-zerrendak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baztertze-atalase</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>umbral de exclusión</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkaritza proportzionaleko formula batekin izen askoko barruti batean hautesleari hautagaiak nahiaren arabera antolatzeko aukera ematen dion botoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto bakar transferigarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto único transferible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Parlamentua edo legebiltzarra bi ganberatan (goiko ganbera eta beheko ganbera) antolatzen duen sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ganbera-bitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bicameralismo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Parlamentua edo legebiltzarra hautatzeko arau- eta prozedura-mota bat baino gehiago (normalean, gehiengo absolutuko eta ordezkaritza proportzionaleko arauak) erabiltzen dituen sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-sistema misto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema electoral mixto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Testuinguru politikoak hautesleari eskaintzen dizkion aukeren artean bat hautatzeko eta hura adierazteko prozesua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-portaera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comportamiento electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Udalbatza bateko buru izateko aurkezten den pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alkategai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>candidato a alcalde</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema proportzionalean, erakunde politiko edo hautagaiek eserlekuak lortzeko estatu- edo barruti-mailan lortu behar duten gutxieneko boto-proportzioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-muga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barrera electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>herri-galdeketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consulta popular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eserlekuen banaketan zuzenean eragiten duen oinarrizko erabaki politikoen multzoa. Hona zein diren erabakiok: hautesbarruti-motak (izen bakarrekoa edo izen askokoa); hauteskunde- edo banaketa-formula (d'Hondt, adibidez); botoa adierazteko moduak (zerrenda irekiak, zerrenda itxiak eta aldaezinak, zerrenda itxiak eta aldagarriak) eta hautatu beharreko ordezkari-kopurua; eta, dagokionean, zein den hauteskunde-muga.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>posta bidezko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto por correspondencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>18 urte beteak dituen pertsona. Hautesle, hautagai, hauteskunde-administratzaile, ahaldun edo artekari izateko ezinbesteko baldintza da adin nagusikoa izatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>adin nagusiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mayor de edad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautetsia bere hautesleen borondatea errespetatzera eta haien iritziaren arabera bozkatzera behartzen duen agindua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aginduzko mandatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mandato imperativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aldi labur batez atzerriko herrialde batean bizi den hauteslea, egoitza duen herrialdean bozkatzeko aukera duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aldi baterako atzerrian bizi den hautesle egoiliar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>AAHE</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elector residente temporalmente en el extranjero</term>
+    </tig>
+    <tig>
+      <term>ERTA</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Udalbatza bateko burua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alkate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alcalde</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aniztasun politiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pluralismo político</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bozketa-sistema, hautesleari organo baterako baino gehiagorako hautagaiak boto bakar bat emanez hautatzeko aukera ematen diona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arraste-boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto de arrastre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda batek bere lehen jarlekua eskuratzeko behar duen boto-proportzioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atalase eraginkor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>umbral efectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aldi luze batez atzerriko herrialde batean bizi diren hautesleak biltzen dituen errolda.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atzerrian bizi diren egoiliarren hautesle-errolda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>AEHE</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>censo electoral de residentes-ausentes</term>
+    </tig>
+    <tig>
+      <term>CERA</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Autonomia-erkidegoetako parlamentuak edo legebiltzarrak berritzeko egiten diren hauteskundeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde autonomikoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>autonomia-erkidegoko hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones autonómicas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagaiak hautetsiak izateko boto baliodunen gehiengo absolutua lortzera behartzen dituen hauteskunde-sistema. Hautagaietako bakar batek gehiengo absolutua lortzen ez badu, boto baliodun gehien lortu dituzten hautagaien artean bigarren hauteskunde-itzuli bat egiten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>balotaje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bi itzuliko hauteskunde-sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>balotaje</term>
+    </tig>
+    <tig>
+      <term>sistema electoral a dos vueltas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bateraezintasun-arrazoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>causa de incompatibilidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>batzar nagusiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juntas generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>batzar nagusietarako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>foru-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones a juntas generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beheko ganbera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>behe-ganbera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara baja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai-zerrenda batek baino gehiagok boto-kopuru bera eskuratzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berdinketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai bat kargu baterako behin baino gehiagotan hautetsia izatea. Sistema presidentzialistek berrautapenerako muga bat ezartzen dute, baina sistema parlamentarioetan hautagai bat etengabe hautetsia izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berrautapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reelección</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-sistema batean, bi jarleku esleituak dituen hauteskunde-eremu geografikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bi izeneko barruti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunscripción binominal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bigarren itzuli</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>segunda vuelta</term>
+    </tig>
+    <tig>
+      <term>doble vuelta electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle bakoitzak gehienez hauta daitezkeen jarleku adina hautagai bozka ditzan, gehiengo erlatiboko edo absolutuko izen askoko barrutietan ezartzen den boto-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto anizkoitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto múltiple</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gehiengo erlatiboko izen askoko barruti batean, hautesleari hautagai bakarra hautatzeko aukera ematen dion botoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto bakar transferiezin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto único no transferible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto bakar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto único</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleak gogokoen ez duen hautagaiari ematen dion botoa; beste arrazoi batzuen artean, barruti bateko jarlekuen banaketan edo hauteskundeetatik sortuko den gobernu-eraketan eragina izateko ematen dio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto baliagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto útil</term>
+    </tig>
+    <tig>
+      <term>voto táctico</term>
+    </tig>
+    <tig>
+      <term>voto estratégico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto irisgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+      <termNote type='usageNote'>Ikus "Braille sistema bidezko boto irisgarri"</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto accesible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baldintza berezi batzuk betetzen dituen hautesleari boto bat baino gehiagorekin hauteskundeetan parte hartzeko aukera ematen dion boto-sistema. Boto indartua da, besteak beste, boto anizkoitza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto indartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto reforzado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle bakoitzak hautagai bati boto bat baino gehiago eman diezaion gehiengo erlatiboko izen askoko barrutietan ezartzen den boto-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto metagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto acumulativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleak hauteskunde-mahaira joanda ematen duen botoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto presentzial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>boto pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto personal</term>
+    </tig>
+    <tig>
+      <term>voto presencial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle bakoitzari bere botoa zatikitan banatzeko aukera ematen dion boto-sistema. Botoaren zatiki bakoitza hautagaien artean bere lehentasunen arabera bana dezake hautesleak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto zatitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto fraccionado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona itsuek edo ikusteko desgaitasun larria dutenek balia dezaketen boto irisgarria; betiere, aldez aurretik prozesu hori erabiltzeko eskaera egin behar dute. Boto-paper normalizatuak eta Braille sisteman idatzitako informazio-agiri bereziak jartzen dira pertsona horien eskura, botoa eman dezaten.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Braille sistema bidezko boto irisgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Braille boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto Braille</term>
+    </tig>
+    <tig>
+      <term>voto accesible mediante sistema Braille</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainiako monarkia parlamentarioan Senatuarekin batera Gorte Nagusiak osatzen dituen ganbera. Senatuak baino eskumen gehiago ditu, eta, horien artean, gobernuko presidentea izendatzekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Diputatuen Kongresua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Congreso de los Diputados</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Diputatuen Kongresurako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones al Congreso de los Diputados</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Soilik hauteskundeei begira egindako politika.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elektoralismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electoralismo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi jakin batek irabaztera bideraturik antolatutako hauteskundeak, askatasunaren eta aukera-berdintasunaren printzipioak errespetatzen ez dituztenak. Ohikoak dira erregimen autoritarioetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erdi-lehiazko hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones semi-competitivas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreferendum lotesle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>referéndum vinculante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aldez aurretik proposatutako testu bati buruz sufragio unibertsalaren bidez bozketa egiteko sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreferendum</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>referéndum</term>
+    </tig>
+    <tig>
+      <term>referendo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Udalerria banatuta dagoen errolda-unitate administratiboetako bakoitza, hauteskunde-atal bat edo gehiagoz osatuta dagoena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errolda-barruti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distrito censal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estatutu bat edo haren erreforma bozkatzeko antolatutako erreferenduma.</descrip>
+    </descripGrp>
+    <tig>
+      <term>estatutu-erreferendum</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>referéndum estatutario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Europako Parlamentua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Parlamento Europeo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Europako Parlamenturako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones al Parlamento Europeo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Eusko Legebiltzarrerako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones al Parlamento Vasco</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Askatasun politikorik gabe egiten diren hauteskundeak, non hautesleak ez duen aukerarik gogokoen duen alderdi politikoa hautatzeko. Ohikoak dira erregimen autoritarioetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lehiarik gabeko hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones no competitivas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Foru Aldundiko Diputatuen Kontseiluko kidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>foru-diputatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diputado foral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arabako Biltzar Nagusiak osatzen dituzten eta botoa emateko eskubidea duten kideen izen historikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Biltzar Nagusietako biltzarkide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procurador en juntas generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gipuzkoako Batzar Nagusiak osatzen dituzten eta botoa emateko eskubidea duten kideen izen historikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Batzar Nagusietako ahaldun batzarkide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>procurador-juntero en juntas generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Batzar nagusiek bere kideen artean hautatuko ordezkari politikoa, beste zeregin batzuen artean, Diputatuen Kontseilua zuzentzeko, foru-diputatuen jarduerak zuzentzeko eta koordinatzeko, eta gobernu-programa zehazteko eta bideratzeko ardura duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ahaldun nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diputatu nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diputado general</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bizkaiko Batzar Nagusiak osatzen dituzten eta botoa emateko eskubidea duten kideen izen historikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Batzar Nagusietako ahaldun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apoderado en juntas generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Botoa emateko eskubidea ikasketa-maila edo gaitasun intelektual jakin bat duten hautesleei soilik aitortzen dien sufragio-mota.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gaitasunaren araberako sufragio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio capacitario</term>
+    </tig>
+    <tig>
+      <term>voto de capacidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehiakide bati edo gehiagori nahita mesede edo kalte egiteko moldatutako barruti-mugen diseinua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gerrymandering</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gerrymandering</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gobernuan txandakatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alternancia en el gobierno</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ganbera biko sistematan, sufragio unibertsal zuzenaren bidez hautetsitako ganbera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goiko ganbera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>goi-ganbera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara alta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainiako parlamentua, ganbera bikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Gorte Nagusiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Cortes Generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ganbera biko sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema bicameral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Gorte Nagusietako diputatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>diputatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diputado a Cortes Generales</term>
+    </tig>
+    <tig>
+      <term>diputado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Gorte Nagusietarako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones a Cortes Generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautaezintasun-arrazoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hautatua izateko ezintasunaren arrazoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>causa de inelegibilidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagai-zerrenda ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista electoral abierta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagai-zerrenda itxi eta aldaezin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista electoral cerrada y bloqueada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautagai-zerrenda itxi eta aldagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista electoral cerrada y no bloqueada</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagai izateko legeak ezartzen dituen baldintzak betetzen dituen herritarra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elegible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legegintzaldiaren amaiera aurreratzearen ondorioz deitutako hauteskundeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde aurreratuak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones anticipadas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde kantonalak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kantonamendu-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones cantonales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainiako estatuan, Gorte Nagusietarako hauteskundeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde orokorrak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones generales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi politiko bateko kideek hauteskundeetara aurkeztuko duten hautagaia bozketa bidez aukeratzeko prozedura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde primarioak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones primarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-araubide orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen electoral general</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautesbarruti misto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunscripción mixta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeetan hautetsi beharreko jarleku guztietatik kopuru jakin bat esleitzen zaion lurralde-zatia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautesbarruti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskunde-barruti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunscripción electoral</term>
+    </tig>
+    <tig>
+      <term>distrito electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskundeetan parte hartze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>participación electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautagaiek edo erakunde politikoek hautesbarruti batean lortutako botoak eserleku bihurtzeko ezartzen den eragiketa matematikoa, lege-irizpideen araberakoa. Adibidez, Espainian d'Hondt sistema erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-formula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fórmula electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteslea izateko gaitasuna, nazionalitateak, adin-nagusitasunak eta ezgaitze-arrazoirik ez izateak ematen dutena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-gaitasun aktibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskundeetarako gaitasun aktibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad electoral activa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautetsia izateko gaitasuna. Hauteslea izateko baldintza berak betetzeaz gain, hautagai izateko ezinbestekoa da hautaezintasun-arrazoirik ez egotea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-gaitasun pasibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskundeetarako gaitasun pasibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad electoral pasiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hauteskunde-gaitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskundeetarako gaitasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>capacidad electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-kanpainan zehar hautagaiek izandako diru-sarreren jatorria eta gastuen helburua biltzen dituen sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-kontabilitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contabilidad electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Parlamentu edo legebiltzar batean hautetsi batek duen egitekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-mandatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mandato electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-administrazioaren aurrean erakunde politiko batek duen mandataria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-ordezkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representante electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi zein erakunde politiko bakoitzari eskuratzen dituen botoen araberako jarleku-kopuru bat esleitzen dion sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-sistema proportzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema electoral proporcional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-administrazioko organoetako kideak era inpartzialean izendatzeko egiten den zozketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-zozketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sorteo electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkaritza-organoen hautatzea erregulatzen duten arau juridikoen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-zuzenbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesbarruti batean hauteskunde politikoetan parte hartzeko eskubidea duten pertsonen taldea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautesleria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electorado</term>
+    </tig>
+    <tig>
+      <term>cuerpo electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>herri-hautapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elección popular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>herri-subiranotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soberanía popular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritar izateko nolakotasuna; betebehar eta eskubide batzuk ditu berekin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>herritartasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ciudadanía</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Presidente edo lehendakari izendatua izan aurretik, hautagaiak parlamentuaren edo legebiltzarraren konfiantza duela berresteko egiten den bozketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>parlamentuko inbestidura-bozketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>votación de investidura parlamentaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-sistema batean, jarleku bat baino gehiago esleituak dituen hauteskunde-eremu geografikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>izen askoko barruti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunscripción plurinominal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izen askoko gehiengoko boto-kontaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema-electoral mayoritario plurinominal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izen askoko gehiengoko hauteskunde-sistema partzial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema-electoral mayoritario plurinominal parcial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-sistema batean, jarleku bakarra esleitua duen hauteskunde-eremu geografikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>izen bakarreko barruti</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>circunscripción uninominal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jarduneko gobernu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gobierno en funciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Giza taldeen arteko banaketa, haiek alderdi politikoekiko duten jarrera baldintzatzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>klibaje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clivaje</term>
+    </tig>
+    <tig>
+      <term>cleavage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konstituzio-erreferendum</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erreferendum konstituzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>referéndum constitucional</term>
+    </tig>
+    <tig>
+      <term>referendo constitucional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konstituzio-erreforma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reforma constitucional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Garrantzi bereziko erabaki politikoei buruz herritar guztiei zuzendutako erreferenduma, loteslea ez dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsulta-erreferendum</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>referéndum consultivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Toki-araubide berezia: udalerria bada, gobernatzeko eta administratzeko organotzat alkatea eta hautesle guztien artean osatutako auzo-batzarra ditu; udalerria baino lurralde-eremu txikiagoko erakundea bada, gobernatzeko eta administratzeko organotzat auzo-alkatea eta hautesle guztien artean osatutako auzo-batzarra ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontzeju ireki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concejo abierto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontzeju-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones concejiles</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto lagundu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto asistido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Parlamentua edo legebiltzarra berritzeko hauteskundeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legegintza-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones legislativas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehen itzuli</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>primera vuelta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estatu bateko lehendakaria edo presidentea hautatzeko hauteskundeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lehendakaritzarako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lehendakaritza-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones presidenciales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lehiazko hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones competitivas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lurralde-erreferendum</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>referéndum territorial</term>
+    </tig>
+    <tig>
+      <term>referendo territorial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lurralde-ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación territorial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mandatua etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agintaldi-etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suspensión del mandato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gehiengo erlatiboko izen askoko barruti batean ematen den botoa, hautesle bakoitzari barrutiaren jarleku-kopurua baino hautagai-kopuru txikiagoa hautatzeko aukera ematen diona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>boto mugatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto limitado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Nafarroako Parlamenturako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones al Parlamento de Navarra</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle guztiak hauteskundeetan parte hartzera behartzen dituen boto-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>nahitaezko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto obligatorio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nazionalitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nacionalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>onarpen-boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto de aceptación</term>
+    </tig>
+    <tig>
+      <term>voto absoluto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleari hautagaiak bere lehentasunen arabera antolatzeko aukera ematen dion boto-sistema. Boto bakar transferigarria lehentasunezko boto-mota bat da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordenaren araberako boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>boto ordinal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lehentasunezko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto ordinal</term>
+    </tig>
+    <tig>
+      <term>voto preferencial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Botoa beste pertsona baten bidez emateko aukera, botoa ematera joateko ezintasuna duten hautesleei legeak ematen diena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezkari bidezko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto por representación</term>
+    </tig>
+    <tig>
+      <term>voto por delegación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordezkaritza politiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación política</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteslearen agindura egon beharrik gabe, hautetsiari bere erabaki politikoak hartzeko askatasuna ematen dion mandatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordezkaritza-mandatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ordezkaritzako agintaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mandato representativo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Parlamentu edo legebiltzar bateko kidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>parlamentari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legebiltzarkide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parlamentario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parlamentu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legebiltzar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parlamento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parlamentu-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones parlamentarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parlamentuko ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación parlamentaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parlamentu-mandatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>parlamentu-agintaldi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mandato parlamentario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herritarrek subiranotasunari, herritartasunari, botere bereziei eta abarri buruzko proposamen bat bozka dezaten aginte publikoek egiten duten galdeketa; nagusiki, izaera politikoa du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>plebiszitu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plebiscito</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erakunde politiko batek legegintza baterako dituen helburu eta konpromiso politikoak biltzen dituen adierazpena. Programa politikoa bat etor daiteke, osorik edo zati batean, gobernua eratu duen erakunde politikoaren (edo erakunde politikoen) hauteskunde-programarekin.</descrip>
+    </descripGrp>
+    <tig>
+      <term>programa politiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa político</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle bakoitzari hautatzekoak diren jarlekuak baino boto gehiago emateko aukera eskaintzen dion boto-sistema. Hautesleak bere lehentasunen arabera antola ditzake hautagaiak, edo hautagai bati boto bat baino gehiago eman.</descrip>
+    </descripGrp>
+    <tig>
+      <term>puntuazio bidezko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto por puntuación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>quorum</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuórum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>senatari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>senador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>senatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>senado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>senaturako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>senatu-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones al senado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>subiranotasun nazional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>nazioaren subiranotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soberanía nacional</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sufragio aktiboko eskubidea etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>suspensión del derecho de sufragio activo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legeak ezarritako baldintzak betetzen dituzten adin nagusiko herritarrek hauteskunde bakoitzean botoa behin emateko duten eskubidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sufragio aktiboko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>botoa emateko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de sufragio activo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sufragio berdin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio igual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sufragio libre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio libre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleek hauteskundeetan hautatuak izateko duten eskubidea; betiere, hauteskunde-legeek eskubide hori baliatzeko debekurik ezartzen ez badiete izango dute eskubide hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sufragio pasiboko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de sufragio pasivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sufragio sekretu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio secreto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Adin nagusiko herritar guztiei botoa emateko eskubidea aitortzen dien sufragioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sufragio unibertsal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio universal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Botoa emateko eskubidea pertsona-talde jakin batzuei aitortuz hautesleria murrizten duen sufragioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errolda-sufragio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio censitario</term>
+    </tig>
+    <tig>
+      <term>sufragio restringido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sufragio-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de sufragio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>transfugismo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transfuguismo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskundeen arteko epean erakunde politiko batetik beste batera pasatzen den hautetsia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>transfuga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tránsfuga</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>udal-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones municipales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uharte-kabildoetarako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones a los cabildos insulares</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jarleku bakar batzuk betetzeko soilik deitzen diren hauteskundeak; besteak beste, barruti batean hautagai-zerrendarik aurkezten ez denean egiten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zatikako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hauteskunde partzialak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones parciales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkari politikoak zeharkako sufragio bidez hautatzeko egiten diren hauteskundeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zeharkako hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones indirectas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleari bere ordezkariak hautatzeko bitartekari bat izendatzeko aukera ematen dion sufragioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zeharkako sufragio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio indirecto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zinegotzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concejal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuzenbidezko biztanleria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>población de derecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuzeneko demokrazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>democracia directa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ordezkari politikoak zuzeneko sufragio bidez hautatzeko egiten diren hauteskundeak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zuzeneko hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones directas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesleari bere ordezkariak zuzenean hautatzeko aukera ematen dion sufragioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zuzeneko sufragio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sufragio directo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdi politiko baten zuzendaritzak ordezkari-organo batean dituen alderdikide hautetsiei inposatzen dien boto-portaera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderdi-diziplina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>boto-diziplina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disciplina de partido</term>
+    </tig>
+    <tig>
+      <term>disciplina de voto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erakunde politiko batek hauteskundeetara aurkeztu ahal izateko barruti bakoitzerako aurkeztu behar duen zerrenda, hautesleek hautetsi ahal izango dituzten pertsonen izenak biltzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautagai-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de candidatos</term>
+    </tig>
+    <tig>
+      <term>candidatura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hautesle-errolda</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errolda-datu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dato censal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hautesle-errolda</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle guztiek hauteskunde-administrazioarengandik jasotzen duten txartela, hautesle-erroldan sartuta daudela eta botoa zein hauteskunde-ataletan eta -mahaitan eman behar duten jakinarazten diena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errolda-txartel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tarjeta censal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hautesle-errolda</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hauteskunde-erroldan inskribatuta egoteko eskubidea duen herritar batek, hauteskunde-erroldan agertzen ez bada, eskubide hori duela frogatzeko erabil dezakeen agiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errolda-ziurtagiri berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificación censal específica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hautesle-errolda</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Posta bidezko botoa eman ahal izateko hautesleak behar duen eta Hautesle Erroldaren Bulegoak ematen duen ziurtagiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errolda-ziurtagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificación de inscripción en el censo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hautesle-errolda</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautesleen fitxategi nazional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero nacional de electores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hautesle-errolda</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle izateko baldintzak betetzen dituzten eta aldi baterako edo behin betiko sufragio-eskubidea kendu ez zaien pertsonak biltzen dituen erregistro ofiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hautesle-errolda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>censo electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hautesle-errolda</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautesle-erroldan inskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción censal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hautesle-elkartearen sustatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promotor de agrupación de electores</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Frantziako V. Errepublikan Senatuarekin batera Frantziako Parlamentua osatzen duen ganbera. Senatuak baino eskumen gehiago ditu, eta, horien artean, lehen ministroa kargutik kentzekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Asanblea Nazionala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Asamblea Nacional</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Assemblée nationale</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ganbera bakarreko sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema unicameral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Parlamentua edo legebiltzarra ganbara bakarrean antolatzen duen sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ganberabakartasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>unicameralismo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>boto-asmo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intención de voto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herrialde batzuetan (adibidez, Estatu Batuetan eta Suitzan), alderdi edo erakunde politiko bateko hautagaiak izendatzeko sistema berezia. Alderdi bakoitzeko hautagaien aldeko pertsonak bilera batean elkartzen dira, eta, formula proportzional baten bidez, ordezkariak hautatzen dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>caucus</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caucus</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Norberaren borondatetik at dagoen faktoreren batengatik botoa eman ezinik geratu diren pertsonen abstentzioa. Faktore horiek izan daitezke, besteak beste, erroldan akatsen bat izatea, gaixo egotea edo beste hainbat arrazoirengatik hauteslekura joan ezin izatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>abstentzio tekniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abstención técnica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-prozesua</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabaki gabeko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezbaiko boto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>voto indeciso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskualde-hauteskundeak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>elecciones regionales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>EAEko lurralde historiko bateko Batzar Nagusietako kidea, bertan botoa emateko eskubidea duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>batzarkide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>juntero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Hauteskunde-administrazioa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hautesle Erroldaren Bulegoak egiten duen zerrenda, hauteskundeetan bozka dezaketen pertsonak biltzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hauteskunde-zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista electoral</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

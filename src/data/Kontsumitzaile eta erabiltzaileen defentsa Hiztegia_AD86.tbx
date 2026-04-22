@@ -1,0 +1,2569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kontsumitzaile eta erabiltzaileen defentsa Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Kontsumitzaile eta erabiltzaileen defentsa Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Legitimoki espero izatekoa den segurtasun edo kalitate maila eskaintzen ez duen produktua. Segurtasunaren arloan, inguruabar guztiak hartuko dira kontuan, baina, bereziki, produktuaren aurkezpena, produktuaren arrazoizko erabilera eta zirkulazioan jartzeko unea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>produktu akastun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto defectuoso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Akzio judizial kolektiboa, honako helburu hau duena: demandatua deuseztzat eman diren baldintza orokorrak kentzera eta aurrerantzean horiek ez erabiltzera epai bidez kondenatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bukarazte-akzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción de cesación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Akzio judizial kolektiboa, honako helburu hau duena: epai bidez deklaratzea kontratu-klausula bat baldintza orokorra dela-eta, Kontratuetako Baldintza Orokorren Erregistroan inskribatu behar dela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>deklaratze-akzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción declarativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Alderdien arteko gatazkan arbitraje-lanak egiten dituen pertsona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arbitro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>árbitro</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontratu batean baino gehiagotan txertatzeko aurrez prestatutako klausulak, alderdietako batek kontratuan sartzen dituenak, edozein dela ere klausula horien egile materiala, kanpoko itxura, hedadura eta bestelako inguruabarrak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontratuetako baldintza orokorrak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>condiciones generales de la contratación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arbitraje Batzorde Nazionalaren bitartez funtzionalki Kontsumo Institutu Nazionalari atxikita dagoen kide anitzeko organoa, Kontsumoko Arbitraje Sisteman irizpide homogeneoak ezartzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumoko Arbitraje Batzordeen Komisioa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Comisión de las Juntas Arbitrales de Consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arbitraje Batzordeari aurkeztutako auziak ebazten dituen organoa. Herri Administrazioaren zerbitzuan dagoen langile batez, kontsumitzaileen eta erabiltzaileen sektoreko ordezkari batez eta enpresa-sektoreko ordezkari batez osatuta dago.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arbitraje-elkargo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colegio arbitral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaile gehienek oinarrizko produktu gisa kontsumitzen duten ondasun edo zerbitzua, legeak bereziki babesten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erabilera arrunteko produktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto de uso común</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Banan-banan negoziatu gabeko edozein estipulazio eta espresuki onartu gabeko edozein praktika, baldin eta, fede onak eskatzen duenaren kontra, desoreka handia sortzen badu kontratuak alderdiei dakarzkien eskubide eta betebeharren artean, kontsumitzailearen eta erabiltzailearen kaltetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>abusuzko klausula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula abusiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona fisikoa edo juridikoa, bere enpresa- edo lanbide-jarduera arlo publiko nahiz pribatuan garatzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>enpresaburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empresario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bidaia konbinatua erosten duen edo erosteko konpromisoa hartzen duen pertsona fisikoa edo juridikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontratugile nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contratante principal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bidaia konbinatuak maiz antolatzen dituen pertsona fisiko edo juridikoa, eta, zuzenean edo txikizkari baten bidez, saltzen dituena edo salmentan eskaintzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bidaia-antolatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>organizador de viajes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bidaia-agentzia handizkariekin lan egiten duen agentzia, bidaiariei haiek antolatutako bidaiak eta zerbitzu turistikoak zuzenean saltzen dizkiena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bidaia-agentzia txikizkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agencia de viajes detallista</term>
+    </tig>
+    <tig>
+      <term>agencia de viajes minorista</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bidaia-agentzia txikizkarientzat bidaia konbinatuak antolatzen dituen bidaia-agentzia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bidaia-agentzia handizkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agencia de viajes mayorista</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehiakide baten izen ona gutxiesten duen publizitatea. Edukiagatik, aurkezteko eragatik edo hedatzeko moduagatik, pertsona edo enpresa bat, enpresaren produktuak, zerbitzuak, jarduerak edo inguruabarrak edo enpresaren markak, izen komertzialak edo zeinu bereizgarriak iraintzen edo gutxiesten ditu, edo horien izen ona zikintzen du, zuzenean edo zeharka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>publizitate desleial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad desleal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktu edo zerbitzu bat hornitzen duen pertsona fisikoa edo juridikoa. Produktu edo zerbitzu hori gerora eraldatu, berriro saldu edo kontsumitu egin daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hornitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proveedor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresaburuen eta kontsumitzaileen eta erabiltzaileen arteko gatazkak ebazteko judizioz kanpoko sistema; kontsumitzaileen eta erabiltzaileen erreklamazioak ebazten ditu, betiere, intoxikaziorik, lesiorik edo heriotzarik gertatu ez bada eta arrazoizko delitu-zantzurik ez badago. Ebazpena loteslea eta betearazlea da bi alderdientzat.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumoko Arbitraje Sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Sistema Arbitral de Consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabakia auzigaiari buruzko lege-xedapenetan soilik oinarritzen duen arbitrajea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zuzenbideko arbitraje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arbitraje de derecho</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erabakia usadioan eta auzipeko egintzak gertatzen diren lekuko ohitura profesionaletan oinarritzen duen arbitrajea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ekitateko arbitraje</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arbitraje de equidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estatuaren eta autonomia-erkidegoen arteko lankidetzarako organo gorena. Osasun eta Kontsumoko ministroak eta gaian eskumena duten autonomia-erkidegoetako sailburuek osatzen dute, eta ministroa da burua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumo Sektoreko Konferentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>KSK</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Conferencia Sectorial de Consumo</term>
+    </tig>
+    <tig>
+      <term>CSC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baliabide elektronikoak soilik erabiliz bideratzen den kontsumo-arbitrajea; baliabide elektronikoak erabiltzen dira arbitraje-eskaeratik prozedura amaitu arte, baita jakinarazpenak egiteko ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumoko arbitraje elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arbitraje de consumo electrónico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Funtzionalki Kontsumo Institutu Nazionalari atxikita dagoen kide anitzeko organoa, kontsumo-arbitrajean ordezkaritza eta partaidetza dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumoko Arbitraje Sistemaren Kontseilu Orokorra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Consejo General del Sistema Arbitral de Consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gaixoek beren osasunari buruzko informazioa jasotzeko duten eskubidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>laguntza-informazioa jasotzeko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la información asistencial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hartzaileak okerreko portaera edo iritzira eraman ditzakeen publizitatea; haien portaera ekonomikoa ukitzera irits daiteke, baita lehiakide bati kalte egitera ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>publizitate engainagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>iruzurrezko publizitate</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad engañosa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baliabide materialak, pertsonalak eta diruzkoak erabiliz merkatuan produktu zein zerbitzu bat eskuragarri jartzen duena; horretarako, produktu zein zerbitzu hura eraldatzen du, eta hari balio erantsia ematen dio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fabrikatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fabricante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontratuetako baldintza orokor diren kontratu-klausulak inskribatzeko erregistroa. Kontratuetako Baldintza Orokorrei buruzko apirilaren 13ko 7/1998 Legean xedatzen dira erregistro honi buruzkoak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontratuetako Baldintza Orokorren Erregistroa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro de Condiciones Generales de la Contratación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontratugile nagusiak edo beste onuradun batek egindako lagapenaren ondorioz, bidaia konbinatua hartzen duen pertsona fisikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lagapen-hartzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cesionario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsultarako, aholkurako, partaidetzarako eta administrazioen arteko koordinaziorako organoa. Kontsumoan parte hartzen duten gizarte-eragileen arteko lankidetza sustatzen du, baita kontsumitzaileen eta erabiltzaileen eskubideak babesteaz arduratzen diren herri-administrazioekikoa ere, ahalik eta babes handiena lortzeko Euskal Autonomia Erkidegoan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Euskadiko Kontsumoko Kontsulta Batzordea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Comisión Consultiva de Consumo de Euskadi</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileen eta erabiltzaileen kexak eta erreklamazioak jaso, erregistratu, hartu izanaren berri eman eta, ondoren, beharrezko entitateetara edo erakundeetara bidaltzen dituen bulegoa. Kontsumitzaileak eta erabiltzaileak artatzeaz, defendatzeaz eta babesteaz ere arduratzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen informaziorako bulego</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oficina de información a los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>oficina de información a las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileek eta erabiltzaileek beren elkarteen bidez kontsultarako eta ordezkaritza instituzionalerako duten estatu-mailako organoa. Barnean hartzen ditu autonomiaz gaindiko eremuan diharduten eta ordezkaritza handiena duten kontsumitzaileen eta erabiltzaileen elkarteak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumitzaileen eta Erabiltzaileen Kontseilua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>KEK</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Consejo de Consumidores y Usuarios</term>
+    </tig>
+    <tig>
+      <term>CCU</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileen eta erabiltzaileen eskubideak sustatzen dituen erakundea, Estatuko Administrazio Orokorrekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumo Institutu Nazionala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>KIN</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Instituto Nacional del Consumo</term>
+    </tig>
+    <tig>
+      <term>INC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileen eta erabiltzaileen interes kolektiboei kalte egin dieten gatazkak ebazteko kontsumo-arbitrajea; horren bidez, gatazkak prozedura bakarrean bideratzen dira, kasu faktiko berean oinarrituta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumoko arbitraje kolektibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arbitraje de consumo colectivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumo Institutu Nazionalean kudeatzen den Erregistroa. Bertan inskribaturik egon behar dute estatu-eremuko kontsumitzaileen eta erabiltzaileen elkarteek eta beren eginkizunak nagusiki autonomia-erkidego baten eremuan betetzen ez dituzten guztiek.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumitzaileen eta Erabiltzaileen Elkarteen Estatuko Erregistroa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro Estatal de Asociaciones de Consumidores y Usuarios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumo Sektoreko Konferentziaren organo betearazlea. Kontsumo Sektoreko Konferentziak emandako mandatuak betetzen ditu, eta proposamenak aurkezten dizkio, onets ditzan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumoko Lankidetza Batzordea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>KLB</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Comisión de Cooperación de Consumo</term>
+    </tig>
+    <tig>
+      <term>CCC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Laudo baten bidez gatazka konpontzen duen kide bakarreko edo anitzeko organoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arbitraje-organo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>órgano de arbitraje</term>
+    </tig>
+    <tig>
+      <term>órgano arbitral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehiakide bat edo hark eskainitako ondasuna edo zerbitzua modu esplizituan edo inplizituan aipatzen duen publizitatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>publizitate konparatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad comparativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Instalazio desmuntagarri edo garraiagarriak erabiliz aire zabalean eta kaleetan egiten den salmenta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>salmenta ibiltari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kalez kaleko salmenta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>venta ambulante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Saltokitik kanpo zuzenean kontsumitzailearen edo erabiltzailearen etxean egiten den salmenta-mota. Enpresa saltzailearen ordezkari bat joaten da bertara, erosleari produktuaren edo zerbitzuaren ezaugarriak erakusteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>etxez etxeko salmenta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>venta a domicilio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileek eta erabiltzaileek ondasunei eta zerbitzuei buruzko informazioa euskaraz nahiz gaztelaniaz jasotzeko duten eskubidea. Kontsumitzaileen eta Erabiltzaileen Estatutuaren abenduaren 22ko 6/2003 Legeko 14. artikuluak arautzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen hizkuntza-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho lingüístico de las personas consumidoras y usuarias</term>
+    </tig>
+    <tig>
+      <term>derecho lingüístico de los consumidores y usuarios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondasun higigarri oro, nahiz eta beste ondasun higigarri edo higiezin bati elkarturik edo hartan integraturik egon.</descrip>
+    </descripGrp>
+    <tig>
+      <term>produktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondasun-fabrikatzailea, zerbitzu-emailea edo haien bitartekaria, edo Europar Batasunean ondasuna edo zerbitzua inportatzen duena; bai eta izaera horrekin aurkezten den edozein pertsona, ondasunean edo zerbitzuan bere izena, marka edo beste zeinu bereizgarriren bat zehazten badu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ekoizle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>productor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontratu baten bitartez zerbitzu jakin batzuk jasotzeko eskubidea duen pertsona fisikoa edo juridikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>onuradun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>beneficiario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsonaren duintasunaren aurkako publizitatea, edo Espainiako Konstituzioak aitortutako balioak edo eskubideak urratzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zilegi ez den publizitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>publizitate ez-zilegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad ilícita</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktua kontsumitu, erabili edo manipulatzeari buruz ematen den informazioa behar bestekoa ez denean, okerra denean edo zehaztugabea denean sortzen den akatsa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>informazio-akats</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defecto de información</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktu batek serie bereko gainerako produktuen segurtasun edo kalitate maila bera ez duenean sortzen den akatsa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fabrikazio-akats</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defecto de fabricación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktuak produkzio-prozesuaren tarteko urratsetan eta amaieran lortu beharreko kalitate-maila ziurtatzeko gainditu behar dituen kontrol-proben multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kalitate-kontrol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>control de calidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sareetako eta/edo komunikazio elektronikoetako zerbitzuetako eragile bati edo gehiagori ezarritako betebeharra: erabiltzaile guztiei arrazoizko prezioan gutxieneko zerbitzuak ematea, erabiltzaile horien kokaleku geografikoa Espainiako Estatuan edozein dela ere.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zerbitzu unibertsal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio universal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sortutako gatazka ebazteko arbitraje-elkargoak ematen duen erabakia, alderdientzat loteslea dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arbitraje-laudo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>laudo arbitral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Urte batetik gorako balio-bizitza duen produktua, agente ekonomikoek (familiek, enpresek eta gobernuek) beren funtzionamendu eta/edo mantenurako eskatzen dutena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumo-ondasun iraunkor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bien de consumo duradero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Xedetzat kontsumitzaileen eta erabiltzaileen eskubide eta interes legitimoen defentsa duen irabazi-asmorik gabeko erakundea. Elkarteei buruzko legerian aurreikusitakoaren arabera eratua dago, eta Kontsumitzaileen eta Erabiltzaileen Defentsarako Lege Orokorraren testu bategina eta bestelako lege osagarriak onesten dituen azaroaren 16ko 1/2007 Errege Dekretuan eta dekretuaren garapen-arauetan galdaturiko berariazko betekizunak betetzen ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen elkarte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>asociación de consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>asociación de personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zalantzazko kasuetan kontsumitzaileari edo erabiltzaileari mesede handiena egiten dion erabakia hartu behar dela dioen printzipioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pro consumatore printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio pro consumatore</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona fisikoa edo juridikoa, ondasun bat erosiz edo zerbitzu bat kontratatuz kontsumo-harreman batean azken jasotzaile gisa parte hartzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consumidor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondasunak edo zerbitzuak seguruak izateko eginbehar orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>deber general de seguridad de bienes o servicios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen hezkuntza- eta prestakuntza-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la educación y formación de los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>derecho a la educación y formación de las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen prestakuntza-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la formación de los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>derecho a la formación de las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen informazio-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho a la información de los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>derecho a la información de las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileen interesei zuzenean eragiten dieten xedapenak egiterakoan kontsumitzaileek kontsultatuak izateko duten eskubidea. Kontsumitzaileek eta erabiltzaileek kontsumitzaileen elkarteen bidez baliatzen dute eskubide hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsulta-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de consulta</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>partaidetza-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de participación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ordezkaritza-eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de representación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen oinarrizko eskubideak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derechos básicos de los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>derechos básicos de las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen elkarteen independentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>independencia de las asociaciones de consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>independencia de las asociaciones de personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hornitzaile berarekin kontratu bidezko lotura bat izateagatik kontsumitzaile- edo erabiltzaile-talde batek dituen interes komunak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen interes kolektiboak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intereses colectivos de los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>intereses colectivos de las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zehaztu gabeko kontsumitzaile- edo erabiltzaile-talde batek dituen interes komunak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen interes lausoak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intereses difusos de los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>intereses difusos de las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumitzaileei eta erabiltzaileei aitortutako eskubideen ukaezintasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>irrenunciabilidad de los derechos reconocidos a los consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>irrenunciabilidad de los derechos reconocidos a las personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskaintza engainagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eskaintza faltsu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>iruzurrezko eskaintza</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oferta engañosa</term>
+    </tig>
+    <tig>
+      <term>oferta falsa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sustapen engainagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>promozio engainagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promoción engañosa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontzienteki hautematen ez den publizitatea, pertzepzio-atalasetik beherako ikus-entzunezko estimuluak erabiltzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>publizitate subliminal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad subliminal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>1/2007 Legegintzako Errege Dekretua, azaroaren 16koa, Kontsumitzaile eta Erabiltzaileen Defentsarako Lege Orokorraren eta beste lege osagarri batzuen testu bategina onesten duena</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkatutik behin betiko kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retirada definitiva del mercado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkatutik zuhurtziaz kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>merkatutik zuhurtziaz erretiratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>retirada precautoria del mercado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen elkarteen gardentasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transparencia de las asociaciones de consumidores y usuarios</term>
+    </tig>
+    <tig>
+      <term>transparencia de las asociaciones de personas consumidoras y usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabiltzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>usuario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txertaezintasun-akzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción de no incorporación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Akzio judizial indibiduala, honako helburu hau duena: epai bidez deklaratzea kontratuko baldintza orokorra den kontratu-klausula bat zuzenbidean erabat deuseza dela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>deuseztasun-akzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acción de nulidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>klausula eztabaidatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula controvertida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>deusez deklaratutako klausula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>klausula deusez</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula declarada nula</term>
+    </tig>
+    <tig>
+      <term>cláusula nula</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aldez aurretik idatziriko klausula; hau da, edukian kontsumitzaileak esku-hartzeko aukerarik izan ez duen klausula. Kasu batzuetan, abusuzko klausula izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>banan-banan negoziatu gabeko klausula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula no negociada individualmente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>urrunetik egindako kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato celebrado a distancia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkataritza-establezimendutik kanpo egindako kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato celebrado fuera de establecimiento mercantil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atxikitze-kontratu partikular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato de adhesión particular</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zerbitzuak emateko kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato de prestación de servicios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>publizitate-kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato de publicidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>finantzaketari lotutako kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato vinculado a financiación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontratuan atzera egiteko eskubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derecho de desistimiento del contrato</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produktua etiketatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>etiquetado del producto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileak erosi edo kontrataturiko produktuarentzat ezarritako legezko bermeaz gain enpresak eskaintzen duen berme osagarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berme komertzial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>garantía comercial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktu baten saltzaileak eta ekoizleak legez duten betebeharra, kontratatzeko edo entregatzeko unean produktu hark izan ditzakeen akatsetatik kontsumitzailea babesteko ezartzen dena. Hainbat aukera bermatzen dizkio kontsumitzaileari: doako konponketa edo produktua ordeztea, eta, asebeteta geratzen ez bada, ordaindutako dirua jasotzea edo prezio-jaitsiera bat izatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>legezko berme</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>garantía legal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontratu aurreko informazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>información precontractual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>7/1998 Legea, apirilaren 13koa, Kontratuetako Baldintza Orokorrei buruzkoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Kontratuetako Baldintza Orokorrei buruzko Legea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Ley sobre Condiciones Generales de la Contratación</term>
+    </tig>
+    <tig>
+      <term>Ley 7/1998, de 13 de abril, sobre Condiciones Generales de la Contratación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondasunen edo zerbitzuen eskaintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oferta de bienes o servicios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondasunen edo zerbitzuen sustapen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ondasunen edo zerbitzuen promozio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promoción de bienes o servicios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ondasunen edo zerbitzuen publizitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad de bienes o servicios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumo-harreman batean parte hartzen duen pertsona-talde bati egotz dakiokeen erantzukizuna; erantzukizun horren arabera, taldeko kide guztiek batera bete behar dituzte dagozkien betebeharrak. Hartzekodunak, hori betearazteko, pertsona bakoitzaren edo guztien kontra jo dezake.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erantzukizun solidario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsabilidad solidaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Etxetresnak konpontzeko, instalatzeko edo mantentzeko zerbitzua, bezeroen etxeetan edo saltokietan eskaintzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>laguntza teknikoko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>LTZ</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de asistencia técnica</term>
+    </tig>
+    <tig>
+      <term>SAT</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saldu ondoko zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio posventa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>klausulak banan-banan negoziatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>negociación individual de las cláusulas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fabrikatzailea erantzukizunetik salbuesteari buruzko klausula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cláusula de exoneración de la responsabilidad del fabricante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>diseinu-akats</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defecto de diseño</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Atzerrian erositako produktuak edo zerbitzuak bere herrialdean merkaturatzen dituen pertsona fisikoa edo juridikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inportatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>importador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktu bat merkaturatu aurretik eraldatzen duen profesionala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>manipulatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manipulador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produktu iraunkor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>izaera iraunkorreko produktu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto de naturaleza duradera</term>
+    </tig>
+    <tig>
+      <term>producto duradero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egiazkoa ez den onura emateko gai izango balitz bezala merkaturatzen den iruzurrezko produktua edo zerbitzua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>mirarizko produktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto milagro</term>
+    </tig>
+    <tig>
+      <term>producto milagroso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espresuki debekaturiko produktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>berariaz debekatutako produktu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto prohibido expresamente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkatutik kendutako produktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto retirado del mercado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>geldieran utzitako produktu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto suspendido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzailearen beharrak asetzeko ahalmena duen produktu zein zerbitzua, horretarako ekoizpen-prozesuan beharrezko eraldaketa guztiak egin zaizkiona.</descrip>
+    </descripGrp>
+    <tig>
+      <term>produktu bukatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>producto terminado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>produktu akastunek eragindako kalteen erantzukizun zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsabilidad civil por los daños ocasionados por productos defectuosos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fabrikatzailearen kontratuzko erantzukizun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>fabrikatzailearen kontratu-erantzukizun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsabilidad contractual del fabricante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fabrikatzailearen kontratuz kanpoko erantzukizun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>responsabilidad extracontractual del fabricante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>osasunerako arrisku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>riesgo para la salud</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>segurtasunerako arrisku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>riesgo para la seguridad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jatorriko akats</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defecto originario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidaia konbinatua ezerezte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cancelación del viaje combinado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bidaia bat kontratatu duen kontsumitzaileak bidaiarako baldintzak betetzen dituen beste pertsona bati bidariaren erreserba uztea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreserba lagatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cesión de la reserva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>laguntza-kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato de asistencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidaia konbinatuko kontratu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrato de viaje combinado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa edo profesional batek kontsumitzaileari egiten dion merkataritza-proposamen idatzia. Proposamenean jasota geratzen dira haren baldintza nagusiak eta haiek errespetatzeko enpresak edo profesionalak hartzen duen konpromisoa. Behin kontratua sinatuta, kontsumitzaileak eskubidea du eskaintzan jasotzen dena eskatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>egitarau-eskaintza lotesle</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>programa-oferta vinculante</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidaia konbinatuaren kontratua suntsiarazte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>resolución del contrato del viaje combinado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumoko harreman juridiko batean parte hartzen duten alderdiek Kontsumoko Arbitraje Sistemaren bidez beren arteko gatazkak ebazteko akordioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arbitraje-hitzarmen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convenio arbitral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa edo profesional bat Kontsumoko Arbitraje Sistemari atxikita dagoela egiaztatzen duen dokumentu ofiziala, haren bezeroek ikusteko moduan jartzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumoko Arbitraje Sistemako atxikipen-bereizgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>distintivo de adhesión al Sistema Arbitral de Consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumoko Arbitraje Sistemari atxikitzeko aurkeztu duen eskaintza publikoa onartu zaion enpresa edo profesionala. Establezimendu horrek Kontsumoko Arbitraje Sistemako atxikipen-bereizgarria erabiltzeko eskubidea du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumo-arbitrajeari atxikitako establezimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>establecimiento adherido al arbitraje de consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Kontsumoko Arbitraje Batzorde Nazionala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Junta Arbitral Nacional de Consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Kontsumoko Lurraldeko Arbitraje Batzordea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Junta Arbitral Territorial de Consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Enpresa edo profesional batek egiten duen aldebakarreko eskaintza, kontsumitzaileekiko edo erabiltzaileekiko kontsumo-harreman juridikoetan izan ditzakeen gatazkak konpontzeko kontsumoko arbitraje sistemaren mende jartzea onartuz egiten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumoko Arbitraje Sistemari atxikitzeko eskaintza publiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oferta pública de adhesión al Sistema Arbitral de Consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>6/2003 Legea, abenduaren 22koa, Kontsumitzaileen eta Erabiltzaileen Estatutuari buruzkoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Kontsumitzaileen eta Erabiltzaileen Estatutua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Ley 6/2003, de 22 de diciembre, de Estatuto de las Personas Consumidoras y Usuarias</term>
+    </tig>
+    <tig>
+      <term>Estatuto de las Personas Consumidoras y Usuarias</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktu, zerbitzu edo merkataritza-ekintza zehatz batzuek kasuan kasuko araudia betetzen dutela kontrolatzeko egiten den egiaztapen-jarduera programatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ikuskapen-kanpaina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campaña de inspección</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Establezimendutik kanpoko erosketa, salgai baten saltzailea eta eroslea fisikoki aurrez aurre ez daudenean egiten dena. Salgaiaren eskaintza saltzaileak antolatutako urruneko komunikazio- eta kontratazio-sistema baten bidez egiten da, eta erosleak sistema horren bidez onartzen du eskaintza.</descrip>
+    </descripGrp>
+    <tig>
+      <term>urruneko erosketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compra a distancia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eroslearen etxean, saltzailearena ez den leku batean, edo ohiko establezimendutik kanpoko beste leku batean egiten den erosketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>establezimendutik kanpoko erosketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compra fuera del establecimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileen edo erabiltzaileen kontsumo-ohiturak haien benetako beharretara egokitzea kontuan hartzen duen kontsumoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumo arduratsu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consumo responsable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ondorengo belaunaldien etorkizuna arriskuan ez jartzera bideratutako kontsumoa. Kontsumitzailearen edo erabiltzailearen oinarrizko beharrak asetzen eta bizitza-kalitate hobea bermatzen ahalik eta baliabide natural, hondakin zein gai kutsatzaile gutxien erabiltzea du helburu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumo jasangarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>consumo sostenible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Bidaia konbinatuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Garraio-enpresak ontziratzeko txartela duen bidaiari bati ontziratzen ez uztea, nahiz eta bidaia-erreserba berretsi zaion eta fakturazio-baldintzak bete dituen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ontziratzea ukatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>denegación de embarque</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eusko Jaurlaritzan kontsumoaren arloko eskumena duen sailari atxikitako erakunde autonomoa. Kontsumitzaileen eta erabiltzaileen defentsari eta babesari buruzko Eusko Jaurlaritzaren politikak zehaztea, planifikatzea, bultzatzea eta betearaztea dira haren helburuak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumobide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Kontsumoko Euskal Institutua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Instituto Vasco de Consumo</term>
+    </tig>
+    <tig>
+      <term>Kontsumobide</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona fisiko zein juridikoen ez-ordaintzeak biltzen dituen datu-fitxategi automatizatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsona berankorren zerrenda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pertsona berankorren erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lista de personas morosas</term>
+    </tig>
+    <tig>
+      <term>registro de personas morosas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainian kontsumoko mugaz gaindiko erreklamazioen eskumena duen erakundea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumitzailearen Europako Zentroa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Centro Europeo del Consumidor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zor bat garaiz ez ordaintzea edo bestelako betebehar bat garaiz ez betetzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>berankortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>morosidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileek eta erabiltzaileek establezimenduetan erreklamazioak aurkezteko eskuragarri izan behar duten inprimaki ofiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erreklamazio-orri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hoja de reclamaciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Europar Batasuneko herrialdeen artean informazioa azkar trukatzeko alerta-sistema; administrazio eskudunei kontsumoko produktu jakin batzuek kontsumitzaileen osasunerako edo segurtasunerako ekar dezaketen arriskuaren berri emateko eratzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>RAPEX</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kontsumo-produktuen erabileratik eratorritako arriskuei buruzko informazioak trukatzeko Europar Batasuneko sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>RAPEX</term>
+    </tig>
+    <tig>
+      <term>sistema comunitario de intercambio rápido de informaciones sobre los peligros derivados de la utilización de productos de consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estatu barruan informazioa azkar trukatzeko alerta-sistema; administrazio eskudunei kontsumoko produktu jakin batzuek kontsumitzaileen osasunerako edo segurtasunerako ekar dezaketen arriskuaren berri emateko eratzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Produktu Ez-seguruen Alerta Sarea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Red de Alerta de Productos Inseguros</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumo-arloan Toki Administrazioari dagozkion eskumenen barruan, kontsumitzaileen eta erabiltzaileen eskubide eta interesak sustatzea eta babestea helburu duen udal-organoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Kontsumitzaileei informazioa emateko udal-bulegoa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>KIUB</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Oficina Municipal de Información a la persona consumidora</term>
+    </tig>
+    <tig>
+      <term>OMIC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>saldoen salmenta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>venta de saldos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Produktu edo zerbitzu jakin batzuk ezagutzera emateko edo haien erosle-kopurua handitzeko egiten den salmenta-mota.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sustapeneko salmenta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>promozio-salmenta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>venta en promoción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>merkealdiko salmenta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>venta en rebajas</term>
+    </tig>
+    <tig>
+      <term>venta con rebaja</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erantzukizun zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>likidazioko salmenta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>venta en liquidación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Herri-administrazioaren kontrol-jarduera, kontsumitzaileei zuzendutako produktuen eta zerbitzuen segurtasuna eta kontsumoaren inguruko arauekiko egokitasuna bermatzea helburu duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>merkatu-kontrol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>control de mercado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Arbitraje-prozeduran gatazkako alderdien arteko adostasuna lortzeko bitartekari-lanetan diharduen pertsonak egiten duen lana.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bitartekaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mediación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontratuak eta bermeak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bezeroarentzako arreta-zerbitzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>servicio de atención al cliente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Orokorra</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaile edo erabiltzaile bakoitzak dituen zuzeneko interesak. Banakako interesak interes kolektiboei eta interes lausoei kontrajartzen zaizkie.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumitzaileen eta erabiltzaileen banakako interesak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>intereses individuales de las personas consumidoras y usuarias</term>
+    </tig>
+    <tig>
+      <term>intereses individuales de los consumidores y usuarios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumoko arbitraje instituzionala kudeatzen duen administrazio-organoa, arbitrajeko alderdiei eta arbitroei zerbitzu teknikoak eta administrazio nahiz idazkaritzakoak ematen dizkiena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumoko arbitraje-batzorde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta arbitral de consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontsumoko arbitraje-sistema</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kontsumitzaileei eta erabiltzaileei zuzendutako hezkuntza- eta prestakuntza-jarduera; haien eskubideak eta betebeharrak ezagutaraztea, horiek erabiltzen eta betetzen jakitea eta kontsumo arduratsua sustatzea dira jardueraren helburuak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontsumo-arloko hezkuntza eta prestakuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>formación en materia de consumo</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

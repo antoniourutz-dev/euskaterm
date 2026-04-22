@@ -1,0 +1,2729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Erregistro Zibila Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Erregistro Zibila Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egintza inskribagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>inskribatzeko moduko egintza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acto inscribible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena gehitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adición de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nazionalitatea eskuratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adquisición de nacionalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena aldatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alteración de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Froga-baliorik ez duen idazpena; informazio-balio hutsa izaten du legeak bestelakorik zehaztu ezean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistroko idatzohar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>idatzohar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anotación registral</term>
+    </tig>
+    <tig>
+      <term>anotación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>abizen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apellido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aldebakarreko borondatezko adierazpena, etorkizunean ezgaitasun bat izatea aurreikusten duen pertsona batek beste pertsona bati ahalmenak eskuordetzan ematekoa, haren izenean jardun dezan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>prebentziozko ahalordetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prebentziozko ahalorde-emate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>apoderamiento preventivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Antzinako inskripzioen paper-sortak eta liburuak biltzen zituen artxiboa, erregistroaren bestelako eraikin batean kokatzen zena. Erregistro nagusiak desagertuz gero, desagertutako idazpenak berreratu ahal izango ziren artxibo horri esker. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistro Zibilaren artxibo probintzial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Erregistro Zibilaren probintzia-artxibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>archivo provincial del Registro Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Euskarri eta formatu elektronikoan egindako idazpena, Erregistroen eta Notariotzaren Zuzendaritza Nagusiak onartutako ereduetara egokitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>idazpen elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>asiento electrónico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilean dokumentatzen diren datu eta egitateen adierazpen idatzia. Hiru motatako idazpenak egiten dira: inskripzioak, idatzoharrak eta ezerezteak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistro-idazpen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>asiento registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legezko absentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ausencia legal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona batek, ezgaitu deklaratua izaten denerako, beretzat egindako tutore-izendapena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>autotutoretza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>autotutela</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erregistroko laguntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erregistro-laguntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>auxilio registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inskripzio-tituluak baloratzeko eta edukiaren eta araudiaren arabera idazpena egitea bidezkoa den ala ez erabakitzeko erregistroko arduradunari edo erregistratzaileari esleitutako funtzioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistro-kalifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erregistroko kalifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calificación registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izen-abizenak aldatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>izen-abizenen aldaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cambio de nombre y apellidos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskatutako inskripzioaren eduki oso-osoa jasotzen duen ziurtagiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hitzez hitzeko baiezko ziurtagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hitzez hitzeko ziurtagiri positibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificación positiva literal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eliza-ziurtagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificación eclesiástica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskatutako idazpenik jasota ez dagoela adierazten duen ziurtagiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezezko ziurtagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ziurtagiri negatibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificación negativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eskatutako inskripzioaren laburpena jasotzen duen ziurtagiria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baiezko ziurtagiri laburtu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ziurtagiri positibo arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificación positiva en extracto</term>
+    </tig>
+    <tig>
+      <term>certificación positiva ordinaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehenengo inskripzioarekin irekitako erregistro indibidualari esleitutako kodea, sistema informatikoak nortasun-agiri nazionalerako ematen duen sekuentzia alfanumerikoz osatutakoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kode pertsonal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>código personal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena osatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>complementación de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egiaztapen osagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>comprobación supletoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nazionalitatea gordetze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conservación de nacionalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena zuzentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rectificación de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Laguntza-kargua, jarduteko gaitasun osoa ez duen pertsonaren gaitasuna osatzen duena. Kuradoreak ez du ordezten, ordezkatzen edo zaintzen ezgaitua, osatu egiten du haren gaitasuna berak bakarrik gauza ezin ditzakeen egintzetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kuradoretza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>curatela</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona fisiko baten kaudimengabezia deklaratzen duen ebazpen judiziala; ondorioz, konkurtsopekoa ezgaituta geratzen da bere ondasunak administratzeko eta beste hainbat gauza egiteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konkurtsoaren deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konkurtso-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konkurtsoa deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de concurso</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezagutza-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de conocimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>heriotza-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>heriotza deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de fallecimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona baten jarduteko gaitasuna osorik edo zati batean mugatu dela deklaratzen duen ebazpen judiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezgaitze-deklarazio judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezgaitzeko deklarazio judizial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de incapacitación judicial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jaiotza-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jaiotzaren deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de nacimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona batek, familiarteko batzuen kaltetan, bere ondarea xahutu edo suntsitu izana deklaratzen duen ebazpen judiziala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zarrastelkeria-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zarrastel deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de prodigalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Likidezia falta deklaratzen duen ebazpen judiziala; ukituari debeku edo muga batzuk jartzen zaizkio hartzekodunen aldeko neurri bermatzaile gisa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ordainketa-etenduraren deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ordainketa-etendura deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de suspensión de pagos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>borondate-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de voluntad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desagertuaren defendatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>desagertutakoaren defendatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defensor del desaparecido</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>heriotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>defunción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irekiera-eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>irekierako eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencia de apertura</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itxiera-eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>itxierako eginbide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>diligencia de cierre</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainiako Erregistro Zibileko zuzendaritza- eta kontsulta-zentroa, besteak beste.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistroen eta Notariotzaren Zuzendaritza Nagusia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ENZN</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Dirección General de los Registros y del Notariado</term>
+    </tig>
+    <tig>
+      <term>DGRN</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nazionalitate bikoitz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>doble nacionalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dokumentu kauto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agiri kauto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>documento auténtico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dokumentu publiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>agiri publiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>documento público</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inskripzioaren eraginkortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>inskripzioaren efikazia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eficacia de la inscripción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Adingabea guraso-ahaletik edo tutoretzatik askatzea. Adin-nagusitasunera heltzean, ezkontzean, guraso-ahala egikaritzen dutenek nahiz epaileak ematean gauzatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>emantzipazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>emancipación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Erregistro Zibilaren Bulego Zentraleko arduradun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encargado de la oficina central del Registro Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>adopzio-eskritura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>adopzioaren eskritura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escritura de adopción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egoera zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estado civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ziurtagiria egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ziurtagiria jaulkitze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expedición de certificación</term>
+    </tig>
+    <tig>
+      <term>expedición de certificado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilek erabiltzen duten prozedura, batez ere inskripzio-datuak berreratzeko edo osatzeko, okerrak artezteko eta akatsak zuzentzeko baliatzen dutena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gobernu-espediente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erregistro-espediente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expediente gubernativo</term>
+    </tig>
+    <tig>
+      <term>expediente registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontza-espediente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontzaren espediente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>expediente matrimonial</term>
+    </tig>
+    <tig>
+      <term>expediente de matrimonio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena egite</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extensión de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egoera-agiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fe de estado</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bizi-agiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fe de vida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egitate baten adierazpen dokumental laburtua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fitxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ficha</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Fitxen multzo antolatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fitxategi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fichero</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi pertsonaren artean dagoen lotura juridikoa, egitate natural edo egintza juridiko baten ondorioz bata bestearen ondorengoa denean sortzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>filiazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>seme-alabatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filiación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>adopziozko filiazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>adopzio bidezko seme-alabatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filiación adoptiva</term>
+    </tig>
+    <tig>
+      <term>filiación por adopción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>amarengandiko filiazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>amarengandiko seme-alabatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filiación materna</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontzazko filiazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontzazko seme-alabatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filiación matrimonial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>filiazio natural</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filiación natural</term>
+    </tig>
+    <tig>
+      <term>filiación por naturaleza</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontzaz kanpoko filiazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontzaz kanpoko seme-alabatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filiación no matrimonial</term>
+    </tig>
+    <tig>
+      <term>filiación extramatrimonial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aitarengandiko filiazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aitarengandiko seme-alabatasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>filiación paterna</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sinatzaile baten identitatea egiaztatzeko erabiltzen den agiri elektronikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sinadura elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>firma electrónica</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inskripzio nagusiak eta haren orri-bazterreko idazpenek osatzen zuten liburu-zatia. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistro-folio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erregistroko folio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>folio registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egitate inskribagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>inskribatzeko moduko egitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hecho inscribible</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Epai judizial baten bidez, jarduteko gaitasuna osorik edo zati batean mugatzea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezgaitze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezgaiketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>incapacitación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpenaren zehaztasunik ez</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inexactitud del asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsonaren heriotzaren eta horren inguruko hainbat daturen (dataren, orduaren eta lekuaren) fede ematen duen idazpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>heriotza-inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>heriotzaren inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>heriotza inskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción de defunción</term>
+    </tig>
+    <tig>
+      <term>inscripción de fallecimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Adingabea guraso-ahaletik edo tutoretzatik askatu izanaren fede ematen duen idazpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>emantzipazio-inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>emantzipazioaren inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>emantzipazioa inskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción de emancipación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ezkondu izanaren eta ezkontzaren inguruko hainbat daturen (dataren, orduaren eta lekuaren) fede ematen duen idazpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezkontza-inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontzaren inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontza inskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción de matrimonio</term>
+    </tig>
+    <tig>
+      <term>inscripción matrimonial</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inskribatuaren jaiotza-egitatearen eta horren inguruko hainbat daturen (izenaren, abizenaren, dataren, orduaren, lekuaren, sexuaren eta, hala dagokionean, filiazioaren) fede ematen duen idazpena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jaiotza-inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jaiotzaren inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>jaiotza inskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción de nacimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ofiziozko inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ofizioz egindako inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción de oficio</term>
+    </tig>
+    <tig>
+      <term>inscripción practicada de oficio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inskripzio nagusi baten aldamenean, orriaren ertzean, egiten zen inskripzio osagarria, inskripzio nagusian jaso ezin ziren egitate inskribagarriak jasotzekoa. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>orri-bazterreko inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bazterrean inskribatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción marginal</term>
+    </tig>
+    <tig>
+      <term>inscripción al margen</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistroko atal bakoitzeko liburuetan egiten zen idazpena, erregistro-folioa irekitzen zuena. Jaiotza, ezkontza, heriotza edo tutoretzaren edo legezko ordezkaritzaren eraketa soilik jaso zitezkeen inskripzio nagusi bidez. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inskripzio nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción principal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Froga-balioa duen idazpena, pertsonen egoera zibilari buruzko egitate eta egintzak eta Erregistro Zibilaren Legean zehaztutako gainerakoak erregistratzekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistroko inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>inskripzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inscripción</term>
+    </tig>
+    <tig>
+      <term>inscripción registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena etete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>idazpena etenda uzte</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interrupción de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>abizenen hurrenkera aldatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>abizenen ordena aldatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inversión del orden de los apellidos</term>
+    </tig>
+    <tig>
+      <term>alteración del orden de los apellidos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Dokumentu-multzo josia, erregistroko idazpenen edo inskripzioen aurrekari dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>paper-sorta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legajo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Paper tinbreduna, abortatutako haurren gurasoen datuak, jaiotza- eta heriotza-akta eta ehorzketa-lizentzia jasotzen dituena. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>abortuen paper-sorta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>legajo de abortos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren antolamendu juridikoa helburu duen legea. Zehazki, hauek arautzea du xede: Erregistro Zibilaren antolaketa, zuzendaritza eta funtzionamendua, erregistroan jasotzen diren egitateen eta egintzen sarrera-modua, eta erregistroko edukiaren publikotasuna eta ondoreak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistro Zibilaren Legea</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>EZL</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Ley del Registro Civil</term>
+    </tig>
+    <tig>
+      <term>LRC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Liburu nagusiaren liburu osagarrietako bakoitza. Hauek ziren liburu horiek: liburu egunkariak, pertsonalaren eta bulegoaren liburuak eta erregistratzaileak beharrezkotzat jotzen zituen edo Erregistroen eta Notariotzaren Zuzendaritza Nagusiak agintzen zituen gainerako koaderno lagungarriak. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>liburu lagungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro auxiliar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ezkontza-ziurtagiriarekin irekitzen zen liburua, erregistro-aipamen hauek ziurtatzen zituena: ezkontza-sozietatearen erregimen ekonomikoa; ezkontide bien seme-alaben jaiotza eta ezkontideek batera adoptatutako seme-alabena; ezkontideen heriotza, eta ezkontzaren deuseztasuna edo ezkontideen dibortzioa edo banantzea. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>familia-liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de familia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zentraleko liburua, udal-erregistroetan egiten diren inskripzio jakin batzuen bikoiztuekin osatutakoa. Hauek dira inskripzio horiek: jarduteko gaitasunaren aldaketa judizialak, tutoretza-karguen eraketa eta aldaketa, guraso-ahalaren luzapena edo itzulketa, guraso-ahalpean ez dauden ustezko ezgaien edo adingabeen zaintzari edo administrazioari buruzko neurri judizialak, kargu horien zaintza edo kontrola, eta ondare babestuen eraketa eta ondare babestuen administratzaileen izendapena eta aldaketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezgaitzeen, tutoretza-karguen eta ondare babestuen administratzaileen liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de incapacitaciones, cargos tutelares y administradores de patrimonios protegidos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Liburu lagungarria, atal hauek dituena: inbentarioa, pertsonala, ikuskapenak eta lurralde-eremua eta azken horren aldaketak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pertsonalaren eta bulegoaren liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro de personal y oficina</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Liburu lagungarria, dokumentuen sarrera eta irteera erregistratzea eta orri-bazterreko idazpenetako daten egiazkotasuna bermatzea helburu zuena. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>liburu egunkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro diario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren Bulego Zentraleko liburua, inskripzio hauek jasotzen dituena: Elizan egindako kontzientziazko ezkontzak (bi ezkongaiek hori eskatuz gero) eta dispentsa bidez sekretuan egindako ezkontza zibilak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>isilpeko ezkontzen liburu berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontza sekretuei buruzko liburu berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro especial de matrimonios secretos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibileko atalei zegokien liburuetako bakoitza. Hauek ziren liburu horiek: jaiotzen liburua, ezkontzen liburua, heriotzen liburua eta tutoretzen eta legezko ordezkaritzen liburua. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>liburu nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>inskripzio-liburu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>libro principal</term>
+    </tig>
+    <tig>
+      <term>libro de inscripciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Heriotza inskribatu ondoren, Erregistro Zibileko arduradunak hilotza lurperatzeko ematen duen baimena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ehorzketa-lizentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lurperatze-lizentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>licencia de enterramiento</term>
+    </tig>
+    <tig>
+      <term>licencia de inhumación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontza kanoniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>matrimonio canónico</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontza zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>matrimonio civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontza sekretu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>isilpeko ezkontza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kontzientziazko ezkontza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>matrimonio secreto</term>
+    </tig>
+    <tig>
+      <term>matrimonio de conciencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jaiotza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nacimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nazionalitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nacionalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jaiotza ez den beste bideren batez eskuratzen den nazionalitatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>nazionalitate eratorri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nacionalidad derivativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Jaiotzaren unetik pertsonak eskuratzen duen nazionalitatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jatorrizko nazionalitate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nacionalidad originaria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>izen berezi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>izen propio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nombre</term>
+    </tig>
+    <tig>
+      <term>nombre propio</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inskribatutako idazpenei buruzko informazioa emateko Erregistro Zibilak jaulkitzen zuen dokumentua. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>informazio-ohar soil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nota simple informativa</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>absentzia-deklarazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>absentzia deklaratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>declaración de ausencia</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren bulegoa, Justizia Ministerioak izendatutako arduradunen erantzukizunpean dagoena eta funtzio nagusi hau duena: Erregistroen eta Notariotzaren Zuzendaritza Nagusiak emandako ebazpenetatik eratorritako inskripzioak egitea. 1957ko ekainaren 8ko Erregistro Zibilaren Legean "Erregistro Zibil zentral" kontzeptua jasotzen zen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistro Zibilaren Bulego Zentrala</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oficina central del Registro Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren bulegoa, Espainiako kontsulen edo diplomaziako misioan dauden atal kontsularren ardura duten funtzionarioen erantzukizunpean dagoena eta funtzio nagusi hau duena: muga-barru kontsularrean espainiarrei gertatutako egitate eta egintzen inskripzioa egitea. 1957ko ekainaren 8ko Erregistro Zibilaren Legean "Erregistro Zibil kontsular" kontzeptua jasotzen zen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistro Zibilaren bulego kontsular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oficina consular del Registro Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren bulegoa, Erregistroen eta Notariotzaren Zuzendaritza Nagusiaren mendeko arduradun baten erantzukizunpean dagoena eta funtzio nagusi hauek dituena: deklarazioak eta eskaerak jasotzea, espedienteak izapidetu eta ebaztea, eta inskripzioak eta ziurtagiriak egitea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistro Zibilaren bulego orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>oficina general del Registro Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpenaren orrialde</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>página del asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>heriotza-ziurtagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificado de defunción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jaiotza-ziurtagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificado de nacimiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gurasoek emantzipatu gabeko seme-alaben gainean dituzten eskubide eta betebeharren multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>guraso-ahal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patria potestad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>absentearen ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación del ausente</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desgaitasuna duen pertsonaren ondare babestu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>patrimonio protegido de la persona con discapacidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nazionalitatea galtze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pérdida de nacionalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren funtzionamendu-irizpidea, Erregistro Zibilean inskribatutako egitateak existitzen direla eta idazpenak legean ezarritako moduan arteztuak edo ezereztuak ez diren bitartean egintzak baliozkoak direla eta errealitatearekin bat datozela ezartzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zehaztasun-presuntzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presunción de exactitud</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren funtzionamendu-presuntzioa, Erregistro Zibilean inskribatutako egitateen eta egintzen edukia osotzat ematen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>osotasun-presuntzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presunción de integridad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egintza juridiko gisa formalizatuta ez dagoen errealitatea hirugarrenen aurka ezin dela baliatu ezartzen duen printzipioa. Errealitate hori existituko ez balitz bezala jardun dezakete hirugarrenek juridikoki.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hirugarrenen aurka baliatzeko ezintasunaren printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de inoponibilidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Erregistro Zibil bakar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro Civil único</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ofizialtasun-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de oficialidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>frogatze-eraginkortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eficacia probatoria</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eraginkortasun eratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eratze-eraginkortasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>eficacia constitutiva</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legezkotasun-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>legezkotasunaren printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de legalidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren funtzionamendu-irizpidea, Erregistro Zibila publiko izatea eta herritarrek beren erregistro indibidualeko datuetara sarrera librea izatea bermatzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>publikotasun-printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>publikotasunaren printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de publicidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena sustatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promoción de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Babes berezipean dauden datuek duten publikotasun mugatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>publikotasun murriztu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>publicidad restringida</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena berreratze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reconstitución de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezkontzaren ondasun-eraentza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontzaren araubide ekonomiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezkontza-sozietatearen ondasun-eraentza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>régimen económico matrimonial</term>
+    </tig>
+    <tig>
+      <term>régimen económico de la sociedad conyugal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erregistratzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registrador</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Absenteei buruzko informazioa jasotzen duen erregistroa, Erregistro Zibilean integratua eta datu hauek erregistratzen dituena: absentzia- eta heriotza-deklarazioak; judizialki izendatutako ordezkaritzak eta horien azkentzea; inbentarioen, emate-autoen eta absentearen ondasunen eskualdaketei eta zamei buruzko eskrituren aipamen zehatzak, eta heriotza-deklarazioaren ondorioz egindako banaketa- eta adjudikazio-eskriturak edo kasuan kasuko banaketa-koadernoak protokoloan jasotzeko aktak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>absenteen erregistro zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro central de ausentes</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona fisikoen egoera zibilari buruzko informazioa inskribatzeko erregistroa. Pertsonen jaiotza, heriotza, ezkontza, gaitasuna eta, orokorrean, egoera zibilaren aldaketak eta Erregistro Zibilaren Legean zehaztutako gainerakoak erregistratzen dira bertan, egitate horiek froga-balioa izan dezaten eta publikoak izan daitezen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistro Zibila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Erregistro Zibil esklusibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Registro Civil exclusivo</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Espainian gertatu eta espainiarrengan edo atzerritarrengan eragina zuten egitate inskribagarri guztiak jasotzen zituen erregistroa. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>udaleko Erregistro Zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>udal-erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro civil municipal</term>
+    </tig>
+    <tig>
+      <term>registro municipal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tutoreen izendapenak inskribatzen diren erregistroa, haiek beren kargua egikaritu ahal izateko bete beharrekoa dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tutoretzen erregistro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro de tutelas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pertsona bakoitzak duen erregistroa, identitateari, egoera zibilari eta Erregistro Zibilaren uztailaren 21eko 20/2011 Legean jasotako gainerako inguruabarrei buruzko egitate eta egintzak jasotzen dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistro indibidual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro individual</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehen auzialdiko epailerik gabeko udalerrietarako, hau da, Erregistro Zibila bake-epaileen ardurapean zegoen udalerrietarako eratutako erregistroa. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>udal-erregistro delegatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>udal-erregistro ez-oso</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro municipal delegado</term>
+    </tig>
+    <tig>
+      <term>registro municipal incompleto</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barruti judizialeko buruan soilik zegoen erregistroa, lehen auzialdiko epailearen ardurapekoa. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>udal-erregistro nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>udal-erregistro arrunt</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro municipal principal</term>
+    </tig>
+    <tig>
+      <term>registro municipal ordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lehen auzialdiko hainbat epaitegi zeuden udalerrietan ezarritako erregistroa, udalerri guztirako bakarra eta lehen auzialdiko epaile baten edo batzuen ardurapekoa. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>udal-erregistro bakar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>registro municipal único</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren Legea betearaztea helburu duen erregelamendua. Bertan zehazten dira erregistroko datu-fitxategi automatizatuen konfigurazioa eta kudeaketa, eta idazpenak nahiz ziurtagiriak egiteko modua eta gainerako xehetasunak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>Erregistro Zibilaren Erregelamendua</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>EZE</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>Reglamento del Registro Civil</term>
+    </tig>
+    <tig>
+      <term>RRC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>legezko ordezkaritza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>representación legal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren zatia, 1957ko ekainaren 8ko Erregistro Zibilaren Legeari jarraikiz egoera zibilaren egitate nagusiak bereizita jasotzen zituena. Erregistro Zibilak lau atal zituen: jaiotzen atala, ezkontzen atala, heriotzen atala eta tutoretzen eta legezko ordezkaritzen atala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Heriotzen egitate egiaztatuen inskripzioak jasotzen zituen Erregistro Zibilaren atala. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>heriotzen atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección de defunciones</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ezkontza zibilen edo erlijiosoen inskripzioak jasotzen zituen Erregistro Zibilaren atala. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ezkontzen atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección de matrimonios</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregistro Zibilaren atala, Kode Zibilaren 30. artikuluaren betekizunak betetzen zituzten jaiotzen inskripzio nagusiak eta jaiotakoen egoera zibilean eragina zuten egitate guztien orri-bazterreko inskripzioak jasotzen zituena. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>jaiotzen atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección de nacimientos</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tutoretza- edo kuradoretza-karguen inskripzioak, pertsona fisikoen gainerako legezko ordezkaritzen inskripzioak eta horien guztien aldaketen inskripzioak jasotzen zituen Erregistro Zibilaren atala. Kontzeptua 1957ko ekainaren 8ko Erregistro Zibilaren Legeak jasotzen zuen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tutoretzen eta legezko ordezkaritzen atal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sección de tutelas y representaciones legales</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpena kentze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>supresión de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egoera zibilari buruzko egitateak jasotzen dituen baliabide edo euskarri idatzi nahiz ahozkoa, idazpenak egiteko oinarri moduan hartzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inskripzio-titulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>inskripzioa egiteko titulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erregistro-titulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>título de inscripción</term>
+    </tig>
+    <tig>
+      <term>título registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku edo inguruabar berezietan, hala nola itsasoko edo aireko bidaian, espetxeetan, ospitaleetan edo antzeko establezimendu publikoetan, edo inkomunikatuta dauden herriguneetan edo erregistro-bulegotik urrun dauden guneetan gertatutako jaiotzen, ezkontzen edo heriotzen inskripzioak egiteko legeak ahalbidetzen duen baliabidea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aparteko titulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezohiko titulu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>título extraordinario</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>idazpenaren liburuki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tomo del asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Idazpen baten eduki osoa beste erregistro batera edo erregistro bereko beste leku batera kopiatzea, jatorrizko idazpena indarrik gabe utziz, ezereztu egiten baita.</descrip>
+    </descripGrp>
+    <tig>
+      <term>idazpena lekualdatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>traslado de asiento</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erakunde juridikoa, guraso ahalpean ez dauden adingabe emantzipatugabeak, ezgai deklaratuak, guraso-ahal luzatuaren menpe daudenak edo babesgabezia-egoeran diren adingabeak eta horien ondasunak zaintzeko eratua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>tutoretza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tutela</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>inskripzioa sustatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>promover inscripción</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>auzotasun zibil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vecindad civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>auzotasun zibil erkide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vecindad civil común</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>auzotasun zibil foral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vecindad civil foral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Inskribatutako idazpenen edukia ziurtatzeko erregistroko arduradunak edo idazkariak ematen duen dokumentua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistroko ziurtagiri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>certificación registral</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Edozein motatako erregistro-idazpenei efikazia, erabat edo zati batean, kentzen dien idazpena. Ezerezten den idazpena deuseza delako, efikaziarik gabea delako, egitate edo egintza hori existitzen ez delako edo legeak ezarritako beste arrazoiren batengatik egiten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erregistro-ezerezte</term>
+      <termNote type='normativeAuthorizaion'>4</termNote>
+    </tig>
+    <tig>
+      <term>ezerezte</term>
+      <termNote type='normativeAuthorizaion'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cancelación registral</term>
+    </tig>
+    <tig>
+      <term>cancelación</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Egintza juridiko gisa formalizatuta dagoen errealitatea hirugarrenen aurka balia daitekeela ezartzen duen printzipioa. Hirugarrenek nahitaez kontuan izan beharko dute egintza hori.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hirugarrenen aurka baliatzeko ahalmenaren printzipio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>principio de oponibilidad</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erregistro zibila</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Erregistro Zibilaren bulego orokorreko arduradun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>encargado de la oficina general del Registro Civil</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

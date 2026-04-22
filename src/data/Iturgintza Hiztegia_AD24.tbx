@@ -1,0 +1,7174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iturgintza Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Iturgintza Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txorrota elektroniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo electrónico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet électronique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electronic tap</term>
+    </tig>
+    <tig>
+      <term>electronic faucet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bloke berean bi aginte eta irteerako aho bat dituen txorrota; aginte batek ur beroa kontrolatzen du, besteak hotza, eta biak konbinatuz lortzen da ur-tenperatura epela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>monoblok txorrota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bi aginteko txorrota</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo monobloc</term>
+    </tig>
+    <tig>
+      <term>grifo mezclador bimando</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet mélangeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>monobloc mixer</term>
+    </tig>
+    <tig>
+      <term>mixing valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aginte bakar batekin ur beroaren eta hotzaren nahaste-neurria eta ur-kopurua kontrolatzen dituen txorrota.</descrip>
+    </descripGrp>
+    <tig>
+      <term>aginte bakarreko txorrota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo monomando</term>
+    </tig>
+    <tig>
+      <term>grifo mezclador monomando</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet mitigeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mono mixer tap</term>
+    </tig>
+    <tig>
+      <term>single-handle faucet</term>
+    </tig>
+    <tig>
+      <term>monobloc faucet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pixatoki-txorrota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo para urinario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet d'urinoir</term>
+    </tig>
+    <tig>
+      <term>robinet de chasse pour urinoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>urinal tap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txorrota tenporizadoredun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ixte automatikoko txorrota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo temporizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet à poussoir</term>
+    </tig>
+    <tig>
+      <term>robinet à fermeture automatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>self closing tap</term>
+    </tig>
+    <tig>
+      <term>timed flow valve</term>
+    </tig>
+    <tig>
+      <term>self closing faucet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txorrota termostatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo termostático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet mitigeur thermostatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thermostatic mixing valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uhate-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de compuerta</term>
+    </tig>
+    <tig>
+      <term>válvula de compuerta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet-vanne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gate valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Irteerako hodiarekin angelu bat eratzen duela jartzen den balbula. Higiene-ontzietako ur-sarrerak ixteko jartzen da, adibidez (ur hotzarentzat bat, eta beroarentzat beste bat).</descrip>
+    </descripGrp>
+    <tig>
+      <term>eskuaira-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de escuadra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet équerre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>angle valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ixteko giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pasoko giltza</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de paso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet d'arrêt</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stop valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bola-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>esfera-balbula</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de paso con cierre a esfera</term>
+    </tig>
+    <tig>
+      <term>válvula de esfera</term>
+    </tig>
+    <tig>
+      <term>válvula de bola</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet à boule</term>
+    </tig>
+    <tig>
+      <term>robinet à bille</term>
+    </tig>
+    <tig>
+      <term>robinet sphérique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ball valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ixteko giltza nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de paso general</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet d'arrêt général</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>main shutoff valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erregulazio-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erregulatzeko balbula</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de regulación</term>
+    </tig>
+    <tig>
+      <term>válvula de regulación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vanne de régulation</term>
+    </tig>
+    <tig>
+      <term>valve de régulation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>control valve</term>
+    </tig>
+    <tig>
+      <term>regulating valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>husteko giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de vaciado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet de vidange</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waste cock</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hodi-sarean sortzen diren presio-kolpeak orekatzeko gailua; era askotakoak daude (aire-kuxinezkoak, malgukizkoak, mintzezkoak), eta gorako hodien punturik gorenetan jartzen dira, uraren abiada edo emaria handiak diren lekuan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ahari-kolpearen kontrako balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula antiariete</term>
+    </tig>
+    <tig>
+      <term>antiariete</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>antibélier</term>
+    </tig>
+    <tig>
+      <term>dispositif antibélier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>non-concussive valve</term>
+    </tig>
+    <tig>
+      <term>water-hammer arrester</term>
+    </tig>
+    <tig>
+      <term>water hammer shock arrestor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Flotagailu batek eraginda funtzionatzen duen balbula; flotagailua aurrez ezarritako maila batera iristen denean, itxi egiten da ur-iturria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>flotagailu-balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula de flotador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soupape à flotteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>float valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erradiadore-balbula termostatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula de radiador termostática</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet de radiateur thermostatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thermostatic radiator valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atzeraezeko balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>atzera ezineko balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eusteko balbula</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula de retención</term>
+    </tig>
+    <tig>
+      <term>válvula antirretorno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soupape de retenue</term>
+    </tig>
+    <tig>
+      <term>clapet anti-retour</term>
+    </tig>
+    <tig>
+      <term>clapet de non-retour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>check valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>segurtasun-balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula de seguridad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soupape de sûreté</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>safety valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Instalazioko hornidura-sarean airea sartzen eta ateratzen uzteko gailua. Hodiak hustu eta fluidorik gabe geratzen direnean, airea sartzen uzten du; eta fluidoz betetzen eta funtzionatzen hasten direnean, airea purgatu egiten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hutsaren aurkako balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula de ventosa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>reniflard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>vacuum valve</term>
+    </tig>
+    <tig>
+      <term>vacuum breaker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>balbula termostatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mezclador termostático</term>
+    </tig>
+    <tig>
+      <term>válvula mezcladora termostática</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vanne thermostatique à eau</term>
+    </tig>
+    <tig>
+      <term>vanne thermostatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thermostatic mixing valve</term>
+    </tig>
+    <tig>
+      <term>thermostatic valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presioa jaisteko balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>balbula presio-murriztaile</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula reductora de presión</term>
+    </tig>
+    <tig>
+      <term>válvula presostática</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réducteur de pression</term>
+    </tig>
+    <tig>
+      <term>détendeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pressure reducing valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presioa erregulatzeko balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula reguladora de presión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manodétendeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pressure regulating valve</term>
+    </tig>
+    <tig>
+      <term>pressure equalising valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tresna sanitario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aparato sanitario</term>
+    </tig>
+    <tig>
+      <term>sanitario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>appareil sanitaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sanitary ware</term>
+    </tig>
+    <tig>
+      <term>bathroom fitting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainuontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bañera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baignoire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bath</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzairu esmaltatuzko bainuontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bañera de acero esmaltado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baignoire en acier émaillé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>enameled steel bath</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esertzeko bainuontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bainuontzi txiki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>polibán</term>
+    </tig>
+    <tig>
+      <term>bañera de asiento</term>
+    </tig>
+    <tig>
+      <term>bañaseo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baignoire sabot</term>
+    </tig>
+    <tig>
+      <term>baignoire à siège</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slipper bath</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hidromasaje-bainuontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bañera de hidromasaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baignoire d'hydromassage</term>
+    </tig>
+    <tig>
+      <term>baignoire à remous</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>whirlpool bath</term>
+    </tig>
+    <tig>
+      <term>hydromassage bathtub</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dutxa-barra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>barra de ducha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>barre de douche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower bar</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bidet</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bidé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bidet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bidet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dutxa-kabina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabina de ducha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cabine de douche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower cubicle</term>
+    </tig>
+    <tig>
+      <term>shower enclosure</term>
+    </tig>
+    <tig>
+      <term>shower cabin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hidromasaje-kabina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cabina de hidromasaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cabine d'hydromassage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydromassage shower cabin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hormako gas-galdara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caldera mural a gas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaudière murale gaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wall-hung gas boiler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berokuntza lagungarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calefacción móvil</term>
+    </tig>
+    <tig>
+      <term>calefacción complementaria</term>
+    </tig>
+    <tig>
+      <term>calefacción auxiliar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffage d'appoint</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>supplementary heating</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gasezko ur-berogailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calentador de gas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffe-eau à gaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gas heater</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>istanteko ur-berogailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calentador instantáneo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffe-eau instantané</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flash heater</term>
+    </tig>
+    <tig>
+      <term>instantaneous water heater</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komuneko tanga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cisterna de water</term>
+    </tig>
+    <tig>
+      <term>tanque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réservoir de chasse</term>
+    </tig>
+    <tig>
+      <term>chasse d'eau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>WC cistern</term>
+    </tig>
+    <tig>
+      <term>flush tank</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hidromasaje-zutabe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>columna de hidromasaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>colonne d'hydromassage</term>
+    </tig>
+    <tig>
+      <term>colonne de douche hydrothérapie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydromassage shower column</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Dutxa-barrak, hodi malguak eta dutxa-telefonoak osatutako multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dutxako multzo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conjunto de ducha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ensemble de douche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower kit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konketa-aska</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cubeta del lavabo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vasque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>basin</term>
+    </tig>
+    <tig>
+      <term>bowl</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>xukadera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>xukaleku</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escurreplatos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>égouttoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dish drainer</term>
+    </tig>
+    <tig>
+      <term>drainer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Txorrota eta dutxa-telefonoa elkarrekin lotzen dituen mahuka.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dutxako hodi malgu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>flexo de ducha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower hose</term>
+    </tig>
+    <tig>
+      <term>flex hose</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bi askako harraska</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fregadero de dos senos</term>
+    </tig>
+    <tig>
+      <term>fregadero de dos cubetas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>évier à deux cuves</term>
+    </tig>
+    <tig>
+      <term>évier à deux bacs</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>double sink</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aska bakarreko harraska xukaderadun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fregadero de un seno y escurridor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>évier d'une cuve avec égouttoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>single bowl sink with drainer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aska bakarreko harraska</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fregadero de un seno</term>
+    </tig>
+    <tig>
+      <term>fregadero de una cubeta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>évier à un cuve</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>single sink</term>
+    </tig>
+    <tig>
+      <term>single compartment sink</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzarian sartzeko harraska</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>harraska ahokagarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fregadero encastrable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>évier à encastrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>self-rimming sink</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Komunean eginkariak egiteko higiene-ontzia; ur-ponpa bat izaten du, gainera, eginkariak kanpora husteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>komun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>komunontzi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inodoro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>WC</term>
+    </tig>
+    <tig>
+      <term>water</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>toilet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>oin gaineko konketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lavabo con pedestal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ensemble lavabo-colonne</term>
+    </tig>
+    <tig>
+      <term>lavabo sur colonne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pedestal washbasin</term>
+    </tig>
+    <tig>
+      <term>pedestal lavatory</term>
+    </tig>
+    <tig>
+      <term>pedestal lavatory sink</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzarian sartzeko konketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>landatzeko konketa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lavabo encastrable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lavabo à encastrer</term>
+    </tig>
+    <tig>
+      <term>vasque à encastrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>countertop basin</term>
+    </tig>
+    <tig>
+      <term>countertop basin sink</term>
+    </tig>
+    <tig>
+      <term>built-in washbasin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskuak garbitzeko konketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lavamanos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lave-mains</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wash-hand basin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dutxako itxitura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>dutxako manpara</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mampara de baño</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>parois de douche</term>
+    </tig>
+    <tig>
+      <term>pare-douche de baignoire</term>
+    </tig>
+    <tig>
+      <term>écran pare-douche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower screen</term>
+    </tig>
+    <tig>
+      <term>shower door</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dutxa-telefono</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mango de ducha</term>
+    </tig>
+    <tig>
+      <term>teléfono de ducha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pommeau de douche</term>
+    </tig>
+    <tig>
+      <term>douchette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hand-held shower head</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komun turkiar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>placa turca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>WC à la turque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>squat closet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dutxaontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plato de ducha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>receveur de douche</term>
+    </tig>
+    <tig>
+      <term>bac à douche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower tray</term>
+    </tig>
+    <tig>
+      <term>shower basin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur beroko erradiadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>radiador de agua caliente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>radiateur à eau chaude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hot water heater</term>
+    </tig>
+    <tig>
+      <term>hot water heater radiator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barrutik fluido beroa zirkularaziz beroa ingurura zabaltzen duen azalera handiko berogailu metalikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oliozko erradiadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>radiador de aceite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>radiateur à bain d'huile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>oil filled radiator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komun-aska</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>taza de aspiración</term>
+    </tig>
+    <tig>
+      <term>cubeta del retrete</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cuvette WC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>WC pan</term>
+    </tig>
+    <tig>
+      <term>WC bowl</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur-berogailu elektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>termo elektriko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>metaketazko ur-berogailu elektriko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>termo eléctrico</term>
+    </tig>
+    <tig>
+      <term>calentador eléctrico</term>
+    </tig>
+    <tig>
+      <term>calentador acumulador eléctrico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffe-eau à accumulation électrique</term>
+    </tig>
+    <tig>
+      <term>chauffe-eau électrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electric water heater</term>
+    </tig>
+    <tig>
+      <term>electric storage water heater</term>
+    </tig>
+    <tig>
+      <term>water cylinder</term>
+    </tig>
+    <tig>
+      <term>hot water tank</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komuneko birringailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>triturador de baño</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boîte de désintégration</term>
+    </tig>
+    <tig>
+      <term>broyeur de WC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flushing grinder unit</term>
+    </tig>
+    <tig>
+      <term>toilet grinder unit</term>
+    </tig>
+    <tig>
+      <term>macerator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hormako pixatoki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>urinario mural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>urinoir mural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wall hung urinal</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Garbiketako ur zikinak edota etxeko hainbat materia solido (hondakin, paper, etab.) botatzeko erabiltzen den higiene-ontzia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>isurontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vertedero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vidoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>slophopper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hodi nagusitik datorren fluidoa hartu eta eraikin batera edo beste leku batera eramateko jartzen den hodia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lotura-hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hargune-hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acometida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccordement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>connection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bero-metagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acumulador de calor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accumulateur thermique</term>
+    </tig>
+    <tig>
+      <term>accumulateur de chaleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat accumulator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>loturako kutxatila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arqueta de paso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>regard de raccordement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>junction manhole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erregistro-kutxatila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arqueta de registro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>regard</term>
+    </tig>
+    <tig>
+      <term>regard de visite</term>
+    </tig>
+    <tig>
+      <term>chambre de visite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>inspection chamber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Etxe barruko saneamendu-sarearen azkeneko elementua, sare nagusiko usain txarrak barrura sartzen uzten ez duena. Estolda-sarearekin lotzen da hodi baten bitartez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sifoi-kutxatila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arqueta sifónica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chambre de visite siphonique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>siphonic manhole</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zorroten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>beherako hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bajante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau de descente</term>
+    </tig>
+    <tig>
+      <term>tuyau de chute</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>downcomer</term>
+    </tig>
+    <tig>
+      <term>soil pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>euri-urak jaisteko zorroten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bajante de aguas pluviales</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau de descente pluviale</term>
+    </tig>
+    <tig>
+      <term>tuyau de descente d'eaux pluviales</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>downspout</term>
+    </tig>
+    <tig>
+      <term>rainwater downpipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko urak jaisteko zorroten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bajante de desagües de aparatos sanitarios</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau de descente d'eaux ménagères</term>
+    </tig>
+    <tig>
+      <term>descente d'eaux ménagères</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waste stack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bero-ponpa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bomba de calor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pompe à chaleur</term>
+    </tig>
+    <tig>
+      <term>pompe de chaleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat pump</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kondentsazio-galdara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caldera de condensación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaudière à condensation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>condensing boiler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berokuntza zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calefacción central</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffage central</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>central heating</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berokuntza elektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calefacción eléctrica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffage électrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electric heating</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>banakako berokuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calefacción individual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffage individuel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>private heating</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zoru bero-emaile bidezko berokuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zoru erradiatzaile bidezko berokuntza</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calefacción por suelo radiante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chauffage au sol rayonnant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>radiant floor heating</term>
+    </tig>
+    <tig>
+      <term>underfloor heating</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur beroa eramateko hodiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canalización de agua caliente</term>
+    </tig>
+    <tig>
+      <term>tubería de agua caliente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canalisation d'eau chaude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hot water piping system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gas-hodiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gasa eramateko hodiak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canalización de gas</term>
+    </tig>
+    <tig>
+      <term>tubería de gas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canalisation gaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gas piping</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goitik beherako hodietatik hustutako urak jaso eta eraikinetik kanpora ateratzen dituen tutu horizontala. Gutxienez % 1,5eko malda du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kolektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hodi biltzaile</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colector</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collecteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>main sewer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barrutik pasatzen zaion fluidoaren tenperatura kanpokoa baino handiagoa edo txikiagoa denean, hodi batek jasaten dituen luzera-aldaketak konpentsatzen dituen gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dilatazio-konpentsagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compensador de dilatación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compensateur de dilatation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>expansion compensator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eraikin bateko etxe-jabe bakoitzaren kontsumo partikularra neurtzen duen kontagailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>banakako kontagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contador divisionario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compteur divisionnaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>submeter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontagailu nagusi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contador general</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compteur général</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>master meter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bi tutuko instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación bitubular</term>
+    </tig>
+    <tig>
+      <term>distribución bitubo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation bitube</term>
+    </tig>
+    <tig>
+      <term>distribution bitube</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>two pipe distribution system</term>
+    </tig>
+    <tig>
+      <term>two pipe installation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estraktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extractor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>extracteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>extractor fan</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ura presio txikiarekin iristen denean, eraikinaren lekurik zailenetara igoarazteko balio duen instalazioa; ura erregulatzeko edo biltzeko andel bat, ur-ponpa bat, presio-andel bat eta by-pass bat izaten ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>presio-igogailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grupo de presión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>groupe d'eau sous-pression</term>
+    </tig>
+    <tig>
+      <term>surpresseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>water pressure booster system</term>
+    </tig>
+    <tig>
+      <term>booster</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hidronahasgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>hidromezclador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hydromélangeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydromixer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ageriko instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación aérea</term>
+    </tig>
+    <tig>
+      <term>instalación vista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation apparente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exposed installation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko ur beroaren instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación de agua caliente sanitaria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation d'eau chaude sanitaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>domestic hot water installation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berokuntza-instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación de calefacción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation de chauffage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heating installation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>airea girotzeko instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>klimatizazio-instalazio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación de climatización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation de climatisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>air conditioning system</term>
+    </tig>
+    <tig>
+      <term>air conditioning installation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ura husteko instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación de evacuación</term>
+    </tig>
+    <tig>
+      <term>instalación de desagüe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation d'évacuation</term>
+    </tig>
+    <tig>
+      <term>branchement d'évacuation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>outlet installation</term>
+    </tig>
+    <tig>
+      <term>discharge system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gasa banatzeko sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red de distribución de gas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau de distribution de gaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gas distribution system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horman sartutako instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación empotrada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation encastrée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>built-in installation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Instalazioko hoditik ura edo gasa hartzeko konexio-gunea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hargune</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>toma</term>
+    </tig>
+    <tig>
+      <term>punto de toma</term>
+    </tig>
+    <tig>
+      <term>punto de acometida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>intake</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>purgagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>purgador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>purgeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pet cock</term>
+    </tig>
+    <tig>
+      <term>cock valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erregailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>quemador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brûleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>burner</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>purga-txorrota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo de purga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet de purge</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bleeder valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ura banatzeko sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red de distribución de agua</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau de distribution d'eau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>water distribution system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itzulerako hodiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red de retorno</term>
+    </tig>
+    <tig>
+      <term>tubería de retorno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau de retour</term>
+    </tig>
+    <tig>
+      <term>canalisation de retour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>return line</term>
+    </tig>
+    <tig>
+      <term>return pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>keak ateratzeko bide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gas erreen aterabide</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salida de humos</term>
+    </tig>
+    <tig>
+      <term>salida de gases quemados</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sortie des fumées</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fumes exit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>termostato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>termostato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>thermostat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thermostat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bainuontzi akriliko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bañera acrílica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baignoire en acrylique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>acrylic bath</term>
+    </tig>
+    <tig>
+      <term>acrylic resin bathtub</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dutxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ducha</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>douche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shower</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ke-kanpai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>campana extractora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hotte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hood</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hodi bat edo aparatu bat erabiltzeko moduan utzi, uraren edo gasaren instalazio nagusiarekin lotu ondoren.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konektatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conectar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brancher</term>
+    </tig>
+    <tig>
+      <term>connecter</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>connect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>husteko sare</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>red de evacuación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau d'évacuation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drainage system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>balbula-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de válvula</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet à soupape</term>
+    </tig>
+    <tig>
+      <term>robinet à clapet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>globe valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bero-igorgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>emisor de calor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>émetteur de chaleur</term>
+    </tig>
+    <tig>
+      <term>élément chauffant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heating unit</term>
+    </tig>
+    <tig>
+      <term>heat-emitting unit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Konketa, bainuontzi edo andel batean gainezka ez egiteko jartzen den hustubidea; ontziari zulo bat egiten zaio altuera jakin batean, eta, ura zulo horretara iristen denean, zulotik husten hasten da, gainezka egin gabe.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gainezkabide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rebosadero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>trop-plein</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>overflow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kobrezko hodi malgu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kobre suberatuzko hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de cobre blando</term>
+    </tig>
+    <tig>
+      <term>tubo de cobre recocido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en cuivre recuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flexible copper pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>komun kimiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inodoro químico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>toilette chimique</term>
+    </tig>
+    <tig>
+      <term>latrine chimique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chemical toilet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Errekuntza presio atmosferikoan egiten duen galdara. Galdara-labean errekuntza egiteko behar den airea gelatik hartzen du galdarak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>galdara atmosferiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caldera atmosférica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaudière atmosphérique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>atmospheric boiler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Errekuntzarako airea kanpotik hartzen duen galdara-mota. Tximiniak bi hodi izaten ditu, bata kanpoko airea barrura sartzeko, eta bestea barruko keak kanpora ateratzeko. Tiro behartuko galdarak izaten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>galdara itxi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caldera estanca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaudière étanche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tight boiler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hiru bideko balbula</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula de tres vías</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet à trois voies</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>three-way valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>andel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>depósito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réservoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tank</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gas-erreguladore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador de gas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>régulateur de gaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gas regulator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presio-hargune</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>toma de presión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise de pression</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pressure tap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gas-kontagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contador de gas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compteur de gaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gas meter</term>
+    </tig>
+    <tig>
+      <term>gas counter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>desugertzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>decapante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>décapant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flux</term>
+    </tig>
+    <tig>
+      <term>soldering flux</term>
+    </tig>
+    <tig>
+      <term>brazing flux</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigilatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sellador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scellant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sealant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tefloi-zinta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinta de teflón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ruban teflon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>teflon tape</term>
+    </tig>
+    <tig>
+      <term>denso tape</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahuka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manguera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manche</term>
+    </tig>
+    <tig>
+      <term>tuyau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hose</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aho-zabalgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abocardador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>évaseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flaring tool</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hotzeko zizel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cortafrío</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ciseau à froid</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cold chisel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>karraka</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lima</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lima</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lime</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>file</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi bakarreko instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hodi bakarreko banaketa-sistema</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación monotubular</term>
+    </tig>
+    <tig>
+      <term>distribución monotubular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation monotube</term>
+    </tig>
+    <tig>
+      <term>distribution monotube</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>one-pipe installation</term>
+    </tig>
+    <tig>
+      <term>one-pipe distribution system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anodo galbaniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>anodo suntsigarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ánodo de sacrificio</term>
+    </tig>
+    <tig>
+      <term>ánodo galvánico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>anode consommable</term>
+    </tig>
+    <tig>
+      <term>anode sacrificielle</term>
+    </tig>
+    <tig>
+      <term>anode galvanique</term>
+    </tig>
+    <tig>
+      <term>anode réactive</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sacrificial anode</term>
+    </tig>
+    <tig>
+      <term>active anode</term>
+    </tig>
+    <tig>
+      <term>galvanic anode</term>
+    </tig>
+    <tig>
+      <term>reactive anode</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kalibre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calibre</term>
+    </tig>
+    <tig>
+      <term>pie de rey</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pied à coulisse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>caliper square</term>
+    </tig>
+    <tig>
+      <term>slide caliper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Leku jakin batetik denbora-unitate bakoitzeko igarotzen den likido- edo gas-kantitatea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>emari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caudal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>débit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flow rate</term>
+    </tig>
+    <tig>
+      <term>discharge</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eme-eme ukondo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codo hembra hembra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coude femelle-femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>female-female elbow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>korrosio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corrosión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>corrosion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>corrosion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>manometro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manómetro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manomètre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>manometer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>disko-makina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>amoladora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>meuleuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>disc grinder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>nibel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>nivel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>niveau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>level</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rosca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>filetage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thread</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soldadura bigun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eztainuzko soldadura</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soldadura blanda</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>soudure tendre</term>
+    </tig>
+    <tig>
+      <term>brasure douce</term>
+    </tig>
+    <tig>
+      <term>soudure à l'étain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>soft solder</term>
+    </tig>
+    <tig>
+      <term>light brazing</term>
+    </tig>
+    <tig>
+      <term>tin solder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>soldadura gogor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soldadura fuerte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brasure forte</term>
+    </tig>
+    <tig>
+      <term>soudure forte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hard solder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presio manometriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presión manométrica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pression manométrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gauge pressure</term>
+    </tig>
+    <tig>
+      <term>manometric pressure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presio atmosferiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presión atmosférica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pression atmosphérique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>atmospheric pressure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>silikona</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>silicona</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>silicone</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>silicone</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Txorrota baten zurtoinean ur-isuriak geldiarazteko jartzen den itxitura-azkoina.</descrip>
+    </descripGrp>
+    <tig>
+      <term>iztupa-kaxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prensaestopas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>presse-étoupe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>compression gland</term>
+    </tig>
+    <tig>
+      <term>stuffing box</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estankotasun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estanquidad</term>
+    </tig>
+    <tig>
+      <term>estanqueidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étanchéité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tightness</term>
+    </tig>
+    <tig>
+      <term>watertightness</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tiro behartuko galdara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caldera de tiro forzado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaudière à tirage forcé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>forced draught boiler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tiro naturaleko galdara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caldera de tiro natural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chaudière à tirage naturel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>natural draught boiler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etxeko ur bero</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agua caliente sanitaria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>eau chaude sanitaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>domestic hot water</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kobre suberatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cobre recocido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cuivre recuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>annealed copper</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dilatazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zabalkuntza</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dilatación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dilatation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>expansion</term>
+    </tig>
+    <tig>
+      <term>dilatation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi hodi batu, ahoz aho edo beste era batera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lotu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>elkartu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>ahokatu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empalmar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccorder</term>
+    </tig>
+    <tig>
+      <term>relier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>join</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horman sartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>landatu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>empotrar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>encastrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>build in</term>
+    </tig>
+    <tig>
+      <term>fit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eztainu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estaño</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tin</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iztupa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estopa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>étoupe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>oakum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>jario</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>isuri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fuga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fuite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>leak</term>
+    </tig>
+    <tig>
+      <term>leakage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdinurtu esmaltatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fundición esmaltada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fonte émaillée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>enameled cast iron</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ur-instalazioko hodi batean sortzen den presio-kolpe zakarra; txorrota bat edo balbula bat azkarregi ixteagatik sortzen da eta zarata, dardara edota hodiak lehertzea eragin dezake.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ahari-kolpe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>golpe de ariete</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coup de bélier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>water hammer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Instalazio batean, hodiari dilatatzen uzteko egiten den juntura malgu edo mugikorra.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dilatazio-juntura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta de dilatación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>joint de dilatation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>expansion joint</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presio hidrauliko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presión hidráulica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pression hydraulique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydraulic pressure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>roza</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>saignée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>groove</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zigilatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sellado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scellement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sealing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>teilakatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gainjartze</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>solape</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chevauchement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>overlapping</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aliketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alicates</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pince</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pliers</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presio-aliketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alicates de presión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pince-étau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>locking pliers</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aliketa zabalgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aho zabalgarriko aliketa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alicate extensible</term>
+    </tig>
+    <tig>
+      <term>alicates pico loro</term>
+    </tig>
+    <tig>
+      <term>tenaza de apertura múltiple</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pince multiprise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pump pliers</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi-ebakigailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hodi-mozteko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cortatubos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coupe-tube</term>
+    </tig>
+    <tig>
+      <term>coupe-tuyau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pipe cutter</term>
+    </tig>
+    <tig>
+      <term>tubing cutter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi-kurbagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tutu-kurbagailu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>curvadora</term>
+    </tig>
+    <tig>
+      <term>tenaza curvadora</term>
+    </tig>
+    <tig>
+      <term>curvatubos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pince à cintrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bending plier</term>
+    </tig>
+    <tig>
+      <term>tubing bender</term>
+    </tig>
+    <tig>
+      <term>pipe bender</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Buxatutako hodietan bidea irekitzeko balio duen tresna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hodi-libragailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desatascador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déboucheur</term>
+    </tig>
+    <tig>
+      <term>débouchoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>unblocker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kaltzio-kentzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desincrustador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>détartrant</term>
+    </tig>
+    <tig>
+      <term>antitartre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>descaler</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kate-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de cadena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clé à chaîne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chain tongs</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>izar-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de estrella</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clé polygonale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>box-end wrench</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltza tubular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de tubo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clé en tube</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tubular box wrench</term>
+    </tig>
+    <tig>
+      <term>box spanner</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltza finko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave fija</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clé à fourches</term>
+    </tig>
+    <tig>
+      <term>clé plate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>open-end wrench</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>giltza ingeles</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>giltza zabalgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave inglesa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clé à molette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>adjustable spanner</term>
+    </tig>
+    <tig>
+      <term>adjustable wrench</term>
+    </tig>
+    <tig>
+      <term>monkey wrench</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Stillson giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>iturgin-giltza</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave grifa</term>
+    </tig>
+    <tig>
+      <term>llave Stillson</term>
+    </tig>
+    <tig>
+      <term>llave de perro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>clé Stillson</term>
+    </tig>
+    <tig>
+      <term>clé serre-tube</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pipe wrench</term>
+    </tig>
+    <tig>
+      <term>Stillson wrench</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodiak libratzeko malguki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muelle desatascador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>furet</term>
+    </tig>
+    <tig>
+      <term>déboucheur flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drain unblocker</term>
+    </tig>
+    <tig>
+      <term>drain cleaning spring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tutu-malguki</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>tutuak okertzeko malguki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muelle curvatubos</term>
+    </tig>
+    <tig>
+      <term>muelle de doblar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ressort à cintrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pipe bending spring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Kontzeptu teorikoak, materialak eta eragiketak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Instalazio bateko tutu nagusitik ateratako adarra erabiltzailearen zerbitzu-instalazioraino eraman eta horrekin lotu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hargunea egin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acometer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brancher</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>connect</term>
+    </tig>
+    <tig>
+      <term>joint</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdin zerra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>metal-zerra</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sierra de metales</term>
+    </tig>
+    <tig>
+      <term>sierra de arco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>scie à métaux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hacksaw</term>
+    </tig>
+    <tig>
+      <term>metal saw</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gas erregai bat (azetilenoa, hiri-gasa, hidrogenoa, propanoa, etab.) eta gas erregarri bat (airea edo oxigenoa) proportzio eta presio egokietan nahasiz sortutako sugarrarekin objektuak berotzeko edo soldatzeko erabiltzen den tresna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soplete</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soplete</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chalumeau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>welding torch</term>
+    </tig>
+    <tig>
+      <term>blow-torch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kurrika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tenaza</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tenaille</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pincer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuloak egiteko kurrika</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kurrika zulatzaile</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tenaza sacabocados</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emporte pièce</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shell cutter</term>
+    </tig>
+    <tig>
+      <term>punch pliers</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Erremintak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bentosa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ventosa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ventouse</term>
+    </tig>
+    <tig>
+      <term>débouchoir à ventouse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plunger</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>besarkagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>abrazadera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collier de serrage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hose clamp strap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lokailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conexión</term>
+    </tig>
+    <tig>
+      <term>acoplamiento</term>
+    </tig>
+    <tig>
+      <term>racor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accouplement</term>
+    </tig>
+    <tig>
+      <term>raccord</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>connection</term>
+    </tig>
+    <tig>
+      <term>coupling</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tresna sanitarioetatik datozen hainbat hustubide bildu eta, beste hodi batetik, kanpora doan zorroteneraino eramaten dituen ontzi txikia; etxe barruan jartzen da, zorupean, eta ez du uzten ur-sarean sortzen diren usain txarrak geletaraino igotzen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sifoi-poto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bote sifónico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>siphon de maison</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>house trap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>brida</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>brida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collerette</term>
+    </tig>
+    <tig>
+      <term>bride</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flange</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ukondo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coude</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>elbow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>45º-ko ukondo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codo de 45º</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coude à 45º</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>45 degree elbow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>90º-ko ukondo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codo de 90º</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coude à 90º</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>90º elbow</term>
+    </tig>
+    <tig>
+      <term>square elbow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ar-eme ukondo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>codo macho hembra</term>
+    </tig>
+    <tig>
+      <term>codo de unión macho hembra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coude mâle-femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>street elbow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontrabrida</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contrabrida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contrebride</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>companion flange</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontraazkoin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contratuerca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contre-écrou</term>
+    </tig>
+    <tig>
+      <term>écrou frein</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>locknut</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eraikin bateko ur-instalazioan, banaketako hodi bertikalen edo horizontalen eta etxeko aparatu-harguneen arteko lotura egiten duen hodia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>adar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>adar-hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derivación</term>
+    </tig>
+    <tig>
+      <term>tubería de derivación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>branchement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>branch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>T adar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derivación en T</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>branchement en T</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Tee branch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Y adar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>derivación en Y</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>culotte double</term>
+    </tig>
+    <tig>
+      <term>embranchement en Y</term>
+    </tig>
+    <tig>
+      <term>embranchement culotte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Y branch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Urak kanpora ateratzeko zulo, hodi edo kanala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hustubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>isurbide</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desagüe</term>
+    </tig>
+    <tig>
+      <term>sumidero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>orifice d'écoulement</term>
+    </tig>
+    <tig>
+      <term>bonde de vidage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waste</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sifoi-hustubide gainezkabidedun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>válvula sifónica con rebosadero</term>
+    </tig>
+    <tig>
+      <term>desagüe sifónico con rebosadero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bonde avec siphon + trop-plein</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>waste with overflow and trap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>finkagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fijación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fixation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clip</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tangarik gabe, ura zuzenean instalaziotik hartuz, funtzionatzen duen komuneko ponpa; tenporizadore bidez neurtzen du ur-isuria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fluxumetro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fluxómetro</term>
+    </tig>
+    <tig>
+      <term>fluxor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tempoflux</term>
+    </tig>
+    <tig>
+      <term>tempochasse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flushometer valve</term>
+    </tig>
+    <tig>
+      <term>flush valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>forro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fourreau</term>
+    </tig>
+    <tig>
+      <term>gaine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cover</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>juntura bikoniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta bicónica</term>
+    </tig>
+    <tig>
+      <term>junta bicono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>joint bicône</term>
+    </tig>
+    <tig>
+      <term>joint biconique</term>
+    </tig>
+    <tig>
+      <term>raccord à bicône</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biconical coupling</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hodiei desplazamendu txikiak egiten uzteko juntura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>juntura malgu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>joint souple</term>
+    </tig>
+    <tig>
+      <term>joint flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flexible joint</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eraztun edo toru formako juntura; normalean presioan moldekatutako kautxuzkoa izaten da, eta bi gainazal zilindrikoren arteko estankotasun estatikoa eta dinamikoa bermatzen ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>juntura toriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>junta tórica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>joint torique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ring type joint</term>
+    </tig>
+    <tig>
+      <term>O-ring</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lotura malgu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konexio malgu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>latiguillo flexible</term>
+    </tig>
+    <tig>
+      <term>conexión flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flexible connection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Komuneko hustubidean jartzen den diametro handiko tutua; zuzenean urak behera eramaten dituen zorrotenarekin lotzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>komun-hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lotura-tutu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>mangueta</term>
+    </tig>
+    <tig>
+      <term>manguetón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pipe de raccordement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>branch pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Diametro bereko edo desberdineko bi hodi elkartzeko erabiltzen den tutu-formako pieza laburra, hariduna edo gabea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zorro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lotura-mahuka</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manguito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manchon</term>
+    </tig>
+    <tig>
+      <term>manchette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>coupler</term>
+    </tig>
+    <tig>
+      <term>coupling</term>
+    </tig>
+    <tig>
+      <term>socket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mehartzeko zorro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manguito de reducción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manchon réduit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reducing coupler</term>
+    </tig>
+    <tig>
+      <term>reducer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ar-eme zorro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manguito macho hembra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manchon mâle-femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bushing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zorro haridun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zorro hariztatu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>manguito roscado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>manchon taraudé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>threaded coupling</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mehargarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reducción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réduction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reduction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>juntura-tapa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pasatapa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rosetón de pared</term>
+    </tig>
+    <tig>
+      <term>rosetón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rosace</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>escutcheon</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sifoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sifón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>siphon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>trap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sifoi-hustubide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sumidero sifónico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>siphon de cour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>siphon waste</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Iturgintzako osagarria, T formakoa, hodi nagusitik adar bat ateratzeko erabiltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>90º-ko T lotura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>T de 90º</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Té à 90º</term>
+    </tig>
+    <tig>
+      <term>Té égal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Tee</term>
+    </tig>
+    <tig>
+      <term>T fitting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteera meharreko T lotura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>T de reducción</term>
+    </tig>
+    <tig>
+      <term>T de 90º reducida</term>
+    </tig>
+    <tig>
+      <term>T reducida en bifurcación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>Té de réduction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reducing Tee</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tapoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>buxoi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tapón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bouchon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>socket plug</term>
+    </tig>
+    <tig>
+      <term>stopend</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bainuontzian ura nondik aterako den --behetik, bainuontziko txorrotatik, edo goitik, dutxatik-- kontrolatzeko gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>inbertsore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>inversor</term>
+    </tig>
+    <tig>
+      <term>trasfusor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>inverseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diverter valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aluminiozko hodi malgu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo flexible de aluminio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccordement souple</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>aluminium flexible ducting</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lotura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>unión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccord union</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>union</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eme lotura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>unión hembra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccord femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>female pipe coupling</term>
+    </tig>
+    <tig>
+      <term>female connector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ar-eme lotura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>unión macho hembra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccord mâle-femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>male-female union</term>
+    </tig>
+    <tig>
+      <term>male-female connector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>espantsio-ontzi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>vaso de expansión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vasse d'expansion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>expansion tank</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erreten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>teilatu-hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canalón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chéneau</term>
+    </tig>
+    <tig>
+      <term>gouttière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gutter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzairu galvanizatuzko erreten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canalón de acero galvanizado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chéneau en acier galvanisé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>galvanized steel gutter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zinkezko erreten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canalón de cinc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chéneau en zinc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>zinc gutter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>PVCzko erreten</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canalón de PVC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chéneau en PVC</term>
+    </tig>
+    <tig>
+      <term>gouttière en PVC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>PVC gutter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Keak sukalde gaineko kanpaitik edo ura berotzeko galdaratik kanpora ateratzeko jartzen den hodia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kebide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conducto de humos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conduit d'extraction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>extraction duct</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aireztatze-hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>egurasteko haizebide</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conducto de ventilación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conduit de ventilation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>air duct</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hoditeria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hodiak</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>tutueria</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubería</term>
+    </tig>
+    <tig>
+      <term>canalización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canalisation</term>
+    </tig>
+    <tig>
+      <term>tuyauterie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>piping</term>
+    </tig>
+    <tig>
+      <term>piping system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Instalazioak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur hotza eramateko hodiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubería de agua fría</term>
+    </tig>
+    <tig>
+      <term>canalización de agua fría</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canalisation d'eau froide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cold water piping system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berokuntzako hodiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubería de calefacción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canalisation de chauffage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heating pipe system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horman sartutako hodiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubería empotrada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyauterie encastrée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>embedded piping</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ageriko hodiak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubería vista</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyauterie apparente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>exposed piping</term>
+    </tig>
+    <tig>
+      <term>exposed pipeline</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Banakako kontagailutik atera eta kontagailu horri dagokion jabearen giltza nagusiraino igotzen den hodia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gorako hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo ascendente</term>
+    </tig>
+    <tig>
+      <term>montante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau ascendant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>standpipe</term>
+    </tig>
+    <tig>
+      <term>riser</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzairu esmaltatuzko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de acero esmaltado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en acier émaillé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>enameled steel tube</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzairu galvanizatuzko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de acero galvanizado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en acier galvanisé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>galvanized steel pipe</term>
+    </tig>
+    <tig>
+      <term>galvanized pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzairu herdoilgaitzezko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de acero inoxidable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en acier inoxydable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stainless steel pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>altzairu beltzezko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de acero negro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en acier noir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>black steel pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>PVCzko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>polibinil klorurozko hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de cloruro de polivinilo</term>
+    </tig>
+    <tig>
+      <term>tubo de PVC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tube de PVC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>PVC pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kobrezko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de cobre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau de cuivre</term>
+    </tig>
+    <tig>
+      <term>tube de cuivre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>copper pipe</term>
+    </tig>
+    <tig>
+      <term>copper tube</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kobrezko hodi zurrun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de cobre rígido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tube de cuivre rigide</term>
+    </tig>
+    <tig>
+      <term>tube de cuivre écroui</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rigid copper pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zuntz-zementuzko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de fibrocemento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau de fibrociment</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fiber cement pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdinurtuzko tutu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de fundición</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en fonte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cast iron pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdinazko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de hierro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en fer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>iron pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi galvanizatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>burdina galvanizatuzko hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de hierro galvanizado</term>
+    </tig>
+    <tig>
+      <term>tubo galvanizado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau galvanisé</term>
+    </tig>
+    <tig>
+      <term>tuyau en fer galvanisé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>galvanized iron pipe</term>
+    </tig>
+    <tig>
+      <term>galvanized pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burdina beltzezko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de hierro negro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en fer noir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>black iron pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plastikozko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de plástico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en plastique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plastic pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>berunezko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de plomo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en plomb</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lead pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>polibutilenozko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de polibutileno</term>
+    </tig>
+    <tig>
+      <term>tubo de PB</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en polybutyléne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polybutylene pipe</term>
+    </tig>
+    <tig>
+      <term>PB pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>polietilenozko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de polietileno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tube de polyéthylène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polyethylene pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sare-polietilenozko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>PEX hodi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de polietileno reticulado</term>
+    </tig>
+    <tig>
+      <term>tubo PEX</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en polyéthyléne reticulé</term>
+    </tig>
+    <tig>
+      <term>tuyau PER</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cross-linked polyethylene pipe</term>
+    </tig>
+    <tig>
+      <term>PEX pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>polipropilenozko hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de polipropileno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau en polypropylène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>polypropylene pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baliabide mekanikoekin edota lotura-pieza bereziekin besterik kurbatu ezin litekeen material batekin egindako hodia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hodi zurrun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo rígido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau rigide</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rigid conduit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Tutuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi malgu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tuyau flexible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flexible pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txorrotak</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifería</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinetterie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tap set</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hodi baten ahoan, galdaretan eta beste likido-andel batzuetan jartzen den metalezko giltza, likidoaren jarioa erregulatzen duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>txorrota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tap</term>
+    </tig>
+    <tig>
+      <term>faucet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pedal-txorrota</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grifo de pedal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet à pédale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pedal valve</term>
+    </tig>
+    <tig>
+      <term>pedal operated valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Balbulak eta txorrota-motak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erregistro-giltza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>llave de registro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>robinet avant compteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>outside shut-off valve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Iturgintza-laneko piezak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atorra isolatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coquilla aislante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coquille isolante</term>
+    </tig>
+    <tig>
+      <term>chemise de réchauffage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>insulation jacket</term>
+    </tig>
+    <tig>
+      <term>insulating jacket</term>
+    </tig>
+    <tig>
+      <term>heating jacket</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

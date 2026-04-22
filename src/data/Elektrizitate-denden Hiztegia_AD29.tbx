@@ -1,0 +1,4661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Elektrizitate-denden Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Elektrizitate-denden Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="1">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argindarra hornitzen duen enpresak etxebizitza bakoitzeko instalazio elektrikoaren hasieran jartzen duen etengailu automatikoa, bezeroak kontratatutako potentziaren arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>potentzia-kontrolatzeko etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor de control de potencia</term>
+    </tig>
+    <tig>
+      <term>ICP</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="2">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horman sartzeko etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor de empotrar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur à encastrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flush switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="3">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hari arteko etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor de paso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur de lampe de chevet</term>
+    </tig>
+    <tig>
+      <term>interrupteur de fil souple</term>
+    </tig>
+    <tig>
+      <term>interrupteur coupe-fil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>feed-through switch</term>
+    </tig>
+    <tig>
+      <term>cord switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="4">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horma gaineko etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>azaleko etengailu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor de superficie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur en saillie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>surface switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="5">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Etxebizitzako elektrizitate-panelean jartzen den gailu elektrikoa; lurrerako ihes bat dagoenean instalazio elektrikoa berehala deskonektatzea izaten da haren egitekoa, hau da, inork matxuratutako aparatua ukitu aurretik instalazioa deskonektatzea. Pertsona batek instalazioko parte aktibo bat ukituz gero ere, deskonektatu egiten da, pertsona horri kalte larririk eragitera iritsi baino lehen.</descrip>
+    </descripGrp>
+    <tig>
+      <term>etengailu diferentzial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor diferencial</term>
+    </tig>
+    <tig>
+      <term>interruptor automático diferencial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur différentiel</term>
+    </tig>
+    <tig>
+      <term>inter différentiel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plug in circuit breaker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="6">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bi giltzako etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>etengailu bikoitz</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor doble</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur double allumage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>double one-way switch</term>
+    </tig>
+    <tig>
+      <term>two gang rocker switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="7">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erloju-etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor horario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur horaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>time-switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="8">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pertsiana-etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor persiana</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>poussoir de volet roulant</term>
+    </tig>
+    <tig>
+      <term>interrupteur de volet roulant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>blind switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="9">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etengailu polobakar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor unipolar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>inter unipolaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>single-pole switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="10">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hiru harguneko lapur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hiru harguneko konektore</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>adaptador de tres tomas</term>
+    </tig>
+    <tig>
+      <term>ladrón de tres salidas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche triplite</term>
+    </tig>
+    <tig>
+      <term>triplite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>triple tap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="11">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Entxufe batean aldi berean bi tresna edo gehiago konektatzeko balio duen gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lapur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hargune anitzeko konektore</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ladrón</term>
+    </tig>
+    <tig>
+      <term>adaptador multivía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche multiprise</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="12">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arkitekto-lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>beso artikulatuko lanpara</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de arquitecto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe à bras articulé</term>
+    </tig>
+    <tig>
+      <term>lampe d'architecte</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>adjustable-arm lamp</term>
+    </tig>
+    <tig>
+      <term>anglepoise lamp</term>
+    </tig>
+    <tig>
+      <term>architect lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="13">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irakurtzeko lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de lectura</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe de lecture</term>
+    </tig>
+    <tig>
+      <term>liseuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reading lamp</term>
+    </tig>
+    <tig>
+      <term>reading light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="14">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bulego-lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de escritorio</term>
+    </tig>
+    <tig>
+      <term>flexo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe de bureau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>desk lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="15">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irakurtzeko besodun zutikako lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de pie con lector</term>
+    </tig>
+    <tig>
+      <term>lámpara de pie con brazo lector</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampadaire avec liseuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dual reading light floor lamp</term>
+    </tig>
+    <tig>
+      <term>two-in-one torchere lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="16">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zutikako lanpara halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de pie halógena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampadaire halogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halogen floor lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="17">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Petril-horma baten gainean, zutik jartzen den balizatzeko argi bertikala. 40 cm inguruko altuera izaten du lanpararen oinak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>horma gaineko lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de sobremuro</term>
+    </tig>
+    <tig>
+      <term>sobremuro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>borne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>outdoor floor light</term>
+    </tig>
+    <tig>
+      <term>lantern</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="18">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Presio txikiko merkurio-lurrunezko deskarga-lanpara; deskargaren energia ultramoreaz aktibatzen diren hauts fluoreszente bidez egiten du argia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanpara fluoreszente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorescent lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="19">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>armairu-lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara interior de armario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>veilleuse de placard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wardrobe light</term>
+    </tig>
+    <tig>
+      <term>cupboard light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="20">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpara eramangarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lantegiko lanpara</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de mecánico</term>
+    </tig>
+    <tig>
+      <term>lámpara portátil</term>
+    </tig>
+    <tig>
+      <term>lámpara portátil de taller</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>baladeuse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>drop light</term>
+    </tig>
+    <tig>
+      <term>portable light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="21">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esku-argi halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>linterna halogeno</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>linterna halógena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe de poche halogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halogen torch</term>
+    </tig>
+    <tig>
+      <term>halogen flashlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="22">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esku-argi zapal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>linterna zapal</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>linterna plana</term>
+    </tig>
+    <tig>
+      <term>linterna petaca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe plate</term>
+    </tig>
+    <tig>
+      <term>lampe de poche à pile plate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flat flashlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="23">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eskailerako etengailu automatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>minutero de escalera</term>
+    </tig>
+    <tig>
+      <term>automático de escalera</term>
+    </tig>
+    <tig>
+      <term>interruptor temporizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>minuterie d'escalier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>staircase time switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="24">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable-tiragailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pasahilos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tire-fils</term>
+    </tig>
+    <tig>
+      <term>tire-fil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wire puller</term>
+    </tig>
+    <tig>
+      <term>cable puller</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="25">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pila</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cell</term>
+    </tig>
+    <tig>
+      <term>battery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="26">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pila alkalino</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pila alcalina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pile alcaline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>alkaline battery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="27">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pila zapal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pila petaca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pile plate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flat battery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="28">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Pila itzulgarria, hau da, kargatzerakoan energia metatu eta, deskargatzerakoan, itzuli egiten duen pila.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kargatzeko pila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pila kargagarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>acumulador recargable</term>
+    </tig>
+    <tig>
+      <term>pila recargable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pile rechargeable</term>
+    </tig>
+    <tig>
+      <term>accu rechargeable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rechargeable battery</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="29">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sabaian jartzen den lanpara zeharrargi zapala, bonbilla ezkutatzen duen beirazko difusore bat izaten duena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sabai-lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>plafoi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>plafón</term>
+    </tig>
+    <tig>
+      <term>lámpara de plafón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plafonnier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ceiling lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="30">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi fluoreszentearentzako estarter-euskarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hodi fluoreszentearentzako estarter-etxe</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portacebador para tubo fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>support de starter pour tube fluorescent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorescent lamp starter holder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="31">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lanpara batek bonbillaren ipurdia lotzeko eta bonbilla argindarraren zirkuitu elektrikoarekin konektatzeko duen zatia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanpara-euskarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lanpara-etxe</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portalámparas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>douille</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lampholder</term>
+    </tig>
+    <tig>
+      <term>socket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="32">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpara halogenoarentzako euskarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lanpara halogenoarentzako euskarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portalámparas para lámpara halógena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>douille halogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halogen lampholder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="33">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>atezain automatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>atezain elektroniko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portero electrónico</term>
+    </tig>
+    <tig>
+      <term>portero automático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>portier de villa audio</term>
+    </tig>
+    <tig>
+      <term>portier électronique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>door answering system</term>
+    </tig>
+    <tig>
+      <term>electrical door opener</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="34">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bideo-atezain</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bideo-atezain automatiko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portero automático vídeo</term>
+    </tig>
+    <tig>
+      <term>videoportero automático</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>portier de villa vidéo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>video door answering system</term>
+    </tig>
+    <tig>
+      <term>video door intercom</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="35">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kanpoko argi bertikala; lorategietan jartzen da, bide-ertzetako seinale-argi edo girotzeko argi gisa. 60 cm inguruko altuera izaten du lanpararen oinak</descrip>
+    </descripGrp>
+    <tig>
+      <term>argi-hesola</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>baliza-argi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>poste luminoso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>potelet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>light post</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="36">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>entxufe-babes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>protector de enchufe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>éclips de protection</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="37">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gaintentsioen kontrako babes</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>limitador de sobretensión</term>
+    </tig>
+    <tig>
+      <term>protector de sobretensiones</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>parasurtenseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>surge suppressor</term>
+    </tig>
+    <tig>
+      <term>surge protector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="38">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>argi-proiektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proyector de exterior</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>projecteur extérieur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>floodlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="39">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>proiektore halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>proyector halógeno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>projecteur halogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halogen floodlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="40">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sakagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pulsador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bouton-poussoir</term>
+    </tig>
+    <tig>
+      <term>poussoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>push button</term>
+    </tig>
+    <tig>
+      <term>press button</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="41">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpara fluoreszentearentzako balasto</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lanpara fluoreszentearentzako erreaktantzia</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reactancia para lámpara fluorescente</term>
+    </tig>
+    <tig>
+      <term>balasto para fluorescencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ballast de lampe fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorescent lamp ballast</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="42">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Fluoreszente batek behar dituen tresna guztiak barruan hartzen dituela, bloke moduan prestatua dagoen lanpara.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fluoreszente-erregleta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regleta fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réglette fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorescent fitting</term>
+    </tig>
+    <tig>
+      <term>fluorescent fixture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="43">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argi-instalazio batean lanparen argi-fluxua igotzeko edo jaisteko balio duen gailu elektrikoa. Erreostato bat, erlazio aldakorreko autotransformadore bat edo mekanismo elektronikoren bat izaten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>argi-erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador de luz</term>
+    </tig>
+    <tig>
+      <term>variador de luz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gradateur de lumière</term>
+    </tig>
+    <tig>
+      <term>variateur de lumière</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="44">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mahai gaineko erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador de sobremesa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variateur de table</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>table dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="45">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hankako erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador de pie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variateur de sol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>foot dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="46">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sakatze-erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pulsador regulador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variateur à poussoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>push-button dimmer</term>
+    </tig>
+    <tig>
+      <term>push dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="47">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gurpil-erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador giratorio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variateur rotatif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rotary dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="48">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hormako erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador de empotrar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variateur mural</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wall dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="49">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefono-entxufe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>telefono-hargune</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>toma de teléfono</term>
+    </tig>
+    <tig>
+      <term>roseta de teléfono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise téléphonique</term>
+    </tig>
+    <tig>
+      <term>prise téléphone</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>telephone jack</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="50">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argi-foku sail bat gidari bidez instalatzeko sistema, hau da, puntu jakin batean konektatu ordez, argiak gidari batzuetan mugitzeko moduan instalatzeko sistema, airean zintzilikatutako edo sabaian finkatutako gidari bidez. Fokuak berak ere artikulatuak izaten direla kontuan hartuz, sistema egokia da argia nahi den lekura zuzentzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>foku-errail</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rail de focos</term>
+    </tig>
+    <tig>
+      <term>foco sobre carril electrificado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spot sur rail</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bar spotlight</term>
+    </tig>
+    <tig>
+      <term>track-mounted spotlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="51">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>S-19 motako bi bonbilla-ipurdi dituen hodi-formako goritasunezko lanpara.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hodi-bonbilla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bi ipurdiko bonbilla</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sofito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule linéaire</term>
+    </tig>
+    <tig>
+      <term>linolite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>striplight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="52">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fluoreszente-euskarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>fluoreszente-etxe</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>soporte fluorescente</term>
+    </tig>
+    <tig>
+      <term>portafluorescentes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>douille de lampe fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorescent lampholder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="53">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>termostato programagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>termostato programable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>thermostat programmable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>programmable thermostat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="54">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zirkuitu elektriko baten bukaeran, paretan itsatsita jartzen diren elementuak, aparatu elektrikoak larako bidez konektatzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>entxufe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>prisa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>loki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>toma de corriente</term>
+    </tig>
+    <tig>
+      <term>base de enchufe</term>
+    </tig>
+    <tig>
+      <term>enchufe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise de courant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>outlet</term>
+    </tig>
+    <tig>
+      <term>socket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="55">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telebista-entxufe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>telebista-hargune</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>toma de televisión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise télévision</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>TV coaxial socket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="56">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpara halogenoarentzako transformadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transformador para lámpara halógena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>transformateur pour lampe halogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halogen lamp transformer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="57">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable-hodi malgu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hodi malgu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo corrugado</term>
+    </tig>
+    <tig>
+      <term>tubo flexible</term>
+    </tig>
+    <tig>
+      <term>macarrón</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gaine profilée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flexible conduit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="58">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi fluoreszente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tube fluorescent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorescent tube</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="59">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bi ipurdiko lanpara halogeno</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo halógeno</term>
+    </tig>
+    <tig>
+      <term>lámpara halógena lineal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crayon halogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>double ended halogen lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="60">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>burrunbagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>zumbador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>avertisseur</term>
+    </tig>
+    <tig>
+      <term>ronfleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>buzzer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="61">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haririk gabeko bonbilla-ipurdia, horizontalean ateratzen diren bi hankatxo jarrera jakin batean artekatuz lotzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baionetako bonbilla-ipurdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>baionetako bonbilla-zorro</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>casquillo bayoneta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>culot à baïonnette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bayonet cap</term>
+    </tig>
+    <tig>
+      <term>bayonet base</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="62">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pantaila</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>argi-estalki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pantalla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>abat-jour</term>
+    </tig>
+    <tig>
+      <term>garde vue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lamp shade</term>
+    </tig>
+    <tig>
+      <term>shade</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="63">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bi hankako bonbilla-ipurdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bi hankako bonbilla-zorro</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>casquillo de dos patillas</term>
+    </tig>
+    <tig>
+      <term>casquillo bi-pin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>culot à deux broches</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bi-pin base</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="64">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Konexio elektrikoak egiteko gailua, hainbat forma izan ditzakeena. Konpresioz, ahokatuz edo itxitura mekaniko bidez finkatzen da eta, normalean, eroale nagusi baten eta eroale adarkatu baten arteko lotura elektrikoa egiteko balio du. Arra nahiz emea izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conector</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>connecteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>connector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="65">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hari arteko erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador de paso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>variateur de passage</term>
+    </tig>
+    <tig>
+      <term>variateur de fil</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lamp cor dimmer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="66">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>botoi-etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor de flexo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur à bouton-poussoir</term>
+    </tig>
+    <tig>
+      <term>interrupteur à poussoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>push-button switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="67">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Indukzio elektromagnetikoaren bidez, energia mekanikoa energia elektriko bihurtzeko makina.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sorgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>generador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>générateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>generator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="68">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lanpara batek sortzen duen argia banatzeko, iragazteko edo eraldatzeko balio duen aparatua, lanpara bera lotzeko, babesteko eta banaketa-zirkuituarekin konektatzeko behar diren elementu guztiak ere berekin dituena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>luminaria</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>luminaria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>luminaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>luminaire</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="69">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia elektrikoa energia mekaniko bihurtzen duen makina.</descrip>
+    </descripGrp>
+    <tig>
+      <term>motor elektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>motor eléctrico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>moteur électrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electric motor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="70">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aparatu elektriko estatikoa; tentsio eta intentsitate jakin bateko korronte alternoa beste tentsio eta intentsitate bateko korronte bihurtzeko balio du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>transformadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transformador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>transformateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>transformer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="71">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kandela-bonbilla leun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla vela lisa</term>
+    </tig>
+    <tig>
+      <term>lámpara vela lisa</term>
+    </tig>
+    <tig>
+      <term>bombilla flama lisa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule flamme lisse</term>
+    </tig>
+    <tig>
+      <term>ampoule flamme lisse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>smooth flame shaped bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="72">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>estarter</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pitzarazgailu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cebador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>starter</term>
+    </tig>
+    <tig>
+      <term>démarreur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>starter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="73">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horman sartzeko kaxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja de empotrar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boîte à encastrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cavity wall box</term>
+    </tig>
+    <tig>
+      <term>cavity box</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="74">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>baionetako lanpara-euskarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>baionetako lanpara-etxe</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portalámparas a bayoneta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>douille à baïonnette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bayonet holder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="75">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pin biko lanpara-euskarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pin biko lanpara-etxe</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portalámparas de dos pins</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>douille à deux plots</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bipin lampholder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="76">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpara-euskarri haridun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lanpara-euskarri haridun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>portalámparas a rosca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>douille à vis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>screwed lamp-folder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="77">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bonbilla-ipurdi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bonbilla-zorro</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>casquillo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chapeau de douille</term>
+    </tig>
+    <tig>
+      <term>culot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>socket cap</term>
+    </tig>
+    <tig>
+      <term>cap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="78">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>luzagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>prolongador</term>
+    </tig>
+    <tig>
+      <term>alargadera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prolongateur</term>
+    </tig>
+    <tig>
+      <term>cordon prolongateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>extension cable</term>
+    </tig>
+    <tig>
+      <term>extension cord</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="79">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>230 V-ko sarean tentsio txikiko gailuak (irratiak, kalkulagailuak, telefono mugikorrak, jostailuak eta antzeko tresna elektronikoak) konektatzeko balio duen egokigailua. Tentsio-neurri eta konektore-mota bat baino gehiago onartzen ditu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>elikagailu orokor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>alimentador universal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>alimentateur universel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>universal power adaptor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="80">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Paretan itsatsita eta kanpora aterata jartzen den lanpara. Hainbat eratakoak daude: artikulatuak, finkoak, zuzeneko argia edo zeharkakoa, edo biak, ematen dutenak eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pareta-argi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aplike</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>applique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wall light</term>
+    </tig>
+    <tig>
+      <term>wall lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="81">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gorakako pareta-argi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplique ascendente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>applique montante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>up wall light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="82">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>beherakako pareta-argi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplique descendente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>applique descendante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>down wall light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="83">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Paretan edo sabaian itsatsita jartzen den lanpara trinko, zapal eta hankarik gabea, biribila edo obala, kanpotik beirazko pantaila oso lodi batekin edo burdinsare batekin babesten dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>idi-begi lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>idi-begi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aplique oval</term>
+    </tig>
+    <tig>
+      <term>ojo de buey</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hublot</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bulkhead luminaire</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="84">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Paretari edo konexio-panel bati atxikia ez dagoen korronte-hargunea, hau da, kable baten muturrean lotzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konektore eme</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hargune aske</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>base móvil</term>
+    </tig>
+    <tig>
+      <term>hembrilla</term>
+    </tig>
+    <tig>
+      <term>base aérea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>female plug</term>
+    </tig>
+    <tig>
+      <term>cord connector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="85">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gaintentsioen kontrako babesa duen hargune anitzeko entxufe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gaintentsioen kontrako babesa duen hargune anitzeko oinarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>base múltiple con protector de sobretensiones</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bloc multiprise avec protecteur de surtension</term>
+    </tig>
+    <tig>
+      <term>bloc ménager avec parasurtenseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>surge protector power bar</term>
+    </tig>
+    <tig>
+      <term>power strip with surge protector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="86">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hargune anitzeko entxufe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hargune anitzeko oinarri</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>base múltiple</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bloc d'alimentation à prises multiples</term>
+    </tig>
+    <tig>
+      <term>bloc multiprise</term>
+    </tig>
+    <tig>
+      <term>bloc ménager</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>multiple socket outlet</term>
+    </tig>
+    <tig>
+      <term>power strip</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="87">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontsumo txikiko lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lanpara fluoreszente trinko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara fluorescente compacta</term>
+    </tig>
+    <tig>
+      <term>bombilla fluocompacta</term>
+    </tig>
+    <tig>
+      <term>lámpara de bajo consumo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe fluocompacte</term>
+    </tig>
+    <tig>
+      <term>ampoule à économie d'énergie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluo bulb</term>
+    </tig>
+    <tig>
+      <term>energy-efficient lamp</term>
+    </tig>
+    <tig>
+      <term>compact fluorescent lamp</term>
+    </tig>
+    <tig>
+      <term>energy saving lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="88">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>infragorrizko lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara infrarroja</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule à infrarouges</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>infrared bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="89">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bonbilla biribil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla esférica</term>
+    </tig>
+    <tig>
+      <term>lámpara esférica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe sphérique</term>
+    </tig>
+    <tig>
+      <term>ampoule ronde</term>
+    </tig>
+    <tig>
+      <term>ampoule sphérique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>round bulb</term>
+    </tig>
+    <tig>
+      <term>golf ball bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="90">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bonbilla biribil argi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara esférica clara</term>
+    </tig>
+    <tig>
+      <term>bombilla esférica clara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule sphérique claire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clear round bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="91">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egun-argi motako lanpara biribil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara esférica luz de día</term>
+    </tig>
+    <tig>
+      <term>bombilla esférica solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule ronde dailight</term>
+    </tig>
+    <tig>
+      <term>ampoule lumière du jour ronde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>daylight golf ball bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="92">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bonbilla biribil mate</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara esférica mate</term>
+    </tig>
+    <tig>
+      <term>bombilla esférica mate</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule sphérique dépolie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>frosted round bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="93">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>foku-bonbilla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bonbilla islatzaile</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla foco mazdasol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spot mazdasol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reflector lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="94">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hozkailu-bonbilla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla de frigorífico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule de réfrigérateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>refrigerator bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="95">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>globo-bonbilla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla globo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule globe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>globe bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="96">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Wolframezko harizpia eta, bere gas-atmosferan, gas halogenoa duen bonbilla. Goritasunezko ohiko lanpararen aldean, argi-errendimendua bi aldiz handiagoa da, eta iraupen luzeagokoa du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lanpara halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara halógena</term>
+    </tig>
+    <tig>
+      <term>bombilla halógena</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule halogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halogen bulb</term>
+    </tig>
+    <tig>
+      <term>halogen lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="97">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpara halogeno dikroiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla halógena dicroica</term>
+    </tig>
+    <tig>
+      <term>lámpara halógena con reflector dicróico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>halogène avec réflecteur dichroïque</term>
+    </tig>
+    <tig>
+      <term>ampoule halogène dichroïque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dichroic reflector halogen lamp</term>
+    </tig>
+    <tig>
+      <term>dichroic halogen lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="98">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Korronte elektrikoa harizpi eroale batetik pasarazi eta harizpi hori gorituz argia sortzen duen sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>goritasunezko lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara de incandescencia</term>
+    </tig>
+    <tig>
+      <term>bombilla incandescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe à incandescence</term>
+    </tig>
+    <tig>
+      <term>ampoule à incandescence</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>incandescent lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="99">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>esku-argiko bonbilla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla para linterna</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule pour lampe torche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>torch bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="100">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beiraren gainean silizezko geruza trinko eta esne kolorekoa duen goritasunezko lanpara. Geruza horrek barreiatu egiten du argia, eta erabat ezkutatzen lanpararen harizpia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>soft lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara softone</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe soft</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>soft white lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="101">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lanpara estandar argi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara estándar clara</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe standard claire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>clear standard lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="102">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>egun-argi motako lanpara estandar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara estándar luz de día</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ampoule lumière du jour standard</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>daylight standard bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="103">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kandela-bonbilla</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bombilla vela lisa</term>
+    </tig>
+    <tig>
+      <term>lámpara vela lisa</term>
+    </tig>
+    <tig>
+      <term>bombilla flama lisa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe flamme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>classic candle bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="104">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kandela-bonbilla bihurritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara vela rizada</term>
+    </tig>
+    <tig>
+      <term>bombilla flama rizada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe flamme torsadée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twisted candle bulb</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="105">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>plastikozko brida</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>brida de plástico</term>
+    </tig>
+    <tig>
+      <term>cadeneta de plástico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collier de câblage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cable tie</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="106">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable koaxial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>kable ardazkide</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable coaxial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble coaxial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>coaxial cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="107">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable koaxial blindatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable coaxial blindado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble coaxial blindé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shielded coaxial cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="108">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goi-fidelitateko kable</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable de alta fidelidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble haute fidélité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>high fidelity cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="109">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bozgorailu-kable</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable de altavoz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble haut parleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>speaker cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="110">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kanpotik gasentzat eta likidoentzat estankoa den kable-mota; barrutik eroale isolatu batekin baino gehiagorekin egindako arima du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zorro-kable</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable manguera</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble à gaine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sheathed cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="111">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable paralelo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bi poloko kable</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable paralelo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble bipolaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twin cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="112">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable zapal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable plano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble méplat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flat cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="113">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefono-kable</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cable de teléfono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>câble téléphonique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>telephone cable</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="114">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Kobrezko bi hari isolatu bata bestearekin txirikordatuz eratutako kablea. Seinale elektrikoak transmititzeko orduan sor litezkeen interferentzia elektromagnetikoak gutxitzeko egiten da bihurritua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kable bihurritu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pare bihurritu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>par trenzado</term>
+    </tig>
+    <tig>
+      <term>cable trenzado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>paire torsadée</term>
+    </tig>
+    <tig>
+      <term>câble torsadé</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>twisted cable</term>
+    </tig>
+    <tig>
+      <term>twisted pair</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="115">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zirkuitu elektriko batean jartzen den kaxa, material isolagarriz egina; kaxaren barruan, zirkuitu nagusiko eroaleen eta beste adarkadura bat edo batzuk egiteko jarriko direnen arteko konexioak egiten dira, araututako konexio-blokeak edo zorroak erabiliz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konexio-kaxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>deribazio-kaxa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja de registro</term>
+    </tig>
+    <tig>
+      <term>caja de derivación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boîte de dérivation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>junction box</term>
+    </tig>
+    <tig>
+      <term>conduit box</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="116">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>mekanismo-kaxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja de mecanismo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boîte pour interrupteurs et prises</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>back box</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="117">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horma gaineko kaxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>azaleko kaxa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja de superficie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boîte en saillie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>surface box</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="118">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanaleta itsaskor</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canaleta adhesiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cache-fil adhésif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>self-adhesive trunking</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="119">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>PVCzko kanaleta</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canaleta de PVC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>profilé PVC</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>PVC trunking</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="120">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pila-kargagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cargador de pilas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chargeur de piles</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>battery charger</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="121">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>txirrin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carillón</term>
+    </tig>
+    <tig>
+      <term>timbre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>carillon</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>door chime</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="122">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Goritasunezko lanparek eta kontsumo txikiko lanparek izaten duten ipurdi-mota, lanpara-euskarrian bueltaka jiratuz lotzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bonbilla-ipurdi haridun</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>bonbilla-zorro haridun</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>casquillo de rosca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>culot à vis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>screw cap</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="123">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Aurreberoketako lanpara fluoreszenteak pizteko gailua. Korronte bat aplikatzen die filamentuei eta berotu egiten ditu; berehala eten egiten du korronte hori, eta ondorioz filamentuen arteko arkua elikatzen duen tentsio bat sortzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fluoreszente-pitzarazgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>fluoreszente-estarter</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cebador fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>starter pour tube fluorescent</term>
+    </tig>
+    <tig>
+      <term>démarreur de lampe fluorescente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fluorescent starter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="124">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zinta isolatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cinta aislante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ruban isolant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>insulation tape</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="125">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Material isolagarrizko pieza txikia; lokailu eme edo loki batean sartzen diren metalezko hankak ditu eta konexio elektriko bat egiteko balio du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>larako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>entxufe ar</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>konektore ar</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enchufe macho</term>
+    </tig>
+    <tig>
+      <term>clavija</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche mâle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plug</term>
+    </tig>
+    <tig>
+      <term>male plug</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="126">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larako-egokigailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>egokigailu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clavija conversora</term>
+    </tig>
+    <tig>
+      <term>clavija adaptador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>adaptateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>plug adaptor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="127">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ukondo-larako</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clavija acodada</term>
+    </tig>
+    <tig>
+      <term>clavija lateral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche équerre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>angle plug</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="128">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>larako koaxial</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>konektore koaxial ar</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clavija coaxial</term>
+    </tig>
+    <tig>
+      <term>clavija de TV</term>
+    </tig>
+    <tig>
+      <term>conector TV macho</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche coaxiale mâle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>male coaxial plug</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="129">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Material isolagarriz egindako pieza, bi borne dituena eta bi kable elektrikoren arteko konexioa egiteko erabiltzen dena.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konexio-bloke</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>clema</term>
+    </tig>
+    <tig>
+      <term>regleta de conexión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>barrette de connexion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>terminal block</term>
+    </tig>
+    <tig>
+      <term>barrier strip</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="130">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>telefono-konektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>telefono-larako</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conector de teléfono</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche téléphonique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>telephone plug</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="131">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eme bat eta bi arreko T konektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conector en T hembra más dos machos</term>
+    </tig>
+    <tig>
+      <term>adaptador hembra dos machos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>adaptateur coaxial en T femelle/mâle/mâle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>female-male-male T connector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="132">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ar bat eta bi emeko T konektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conector en T macho más dos hembras</term>
+    </tig>
+    <tig>
+      <term>adaptador macho dos hembras</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>raccord en té mâle/femelle/femelle</term>
+    </tig>
+    <tig>
+      <term>té mâle-femelle-femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>male-female-female tee connector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="133">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>konektore koaxial eme</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conector coaxial hembra</term>
+    </tig>
+    <tig>
+      <term>conector TV hembra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fiche coaxiale femelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>female coaxial plug</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="134">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zirkuitu elektriko bateko edo batzuen arteko konexioak aldatzeko eta elkarrekin konbinatzeko balio duen gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kommutadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conmutador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur va-et-vient</term>
+    </tig>
+    <tig>
+      <term>commutateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>three way switch</term>
+    </tig>
+    <tig>
+      <term>two way switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="135">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>potentzia-kontaktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contactor de potencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contacteur de puissance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power contactor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="136">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gau/egun kontaktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contactor noche y día</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contacteur jour et nuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>day/night contactor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="137">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Etxe bakoitzean kontsumitutako argindarra neurtzeko tresna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontagailu elektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>contador de abonado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compteur d'abonné</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electric meter</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="138">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zirkuitu-etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cortacircuitos</term>
+    </tig>
+    <tig>
+      <term>cortacircuitos mecánico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coupe-circuit</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>circuit breaker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="139">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi kommutadorerekin batera instalatuz gero, lanpara bat hiru puntu desberdinetatik pizteko edo itzaltzeko balio duen gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gurutzatze-kommutadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conmutador de cruce</term>
+    </tig>
+    <tig>
+      <term>cruzamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>permutateur</term>
+    </tig>
+    <tig>
+      <term>interrupteur inverseur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>intermediate switch</term>
+    </tig>
+    <tig>
+      <term>four way switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="140">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Etxe bateko instalazio elektrikoa babesteko mekanismoen panela. Energia elektrikoa hornitzen duen konpainiak zigilatuta egon behar du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>panel elektriko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>kaxa elektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cuadro eléctrico de distribución</term>
+    </tig>
+    <tig>
+      <term>cuadro de protección</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tableau électrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>consumer unit</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="141">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Instalazio elektrikoa babesteko gailu elektromekanikoa; zirkuitulaburren ondorioz edo kontsumoko elementu gehiegi konektatuta egoteagatik sortzen diren gehiegizko intentsitateetatik babesten du instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>etengailu magnetotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor magnetotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>disjoncteur différentiel</term>
+    </tig>
+    <tig>
+      <term>disjoncteur magnéto-thermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thermal magnetic circuit breaker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="142">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lur-konexiodun entxufe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enchufe con toma de tierra</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise deux plots + terre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>two pin grounded socket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="143">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>entxufe programagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enchufe programable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise programmable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>programmable timer outlet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="144">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lur-konexiorik gabeko entxufe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>enchufe simple</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>prise simple</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>two pin ungrounded socket</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="145">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eurokonektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>euroconector</term>
+    </tig>
+    <tig>
+      <term>conector de 21 pines</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>euroconnecteur</term>
+    </tig>
+    <tig>
+      <term>prise péritélévision</term>
+    </tig>
+    <tig>
+      <term>prise péritel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>euroconnector</term>
+    </tig>
+    <tig>
+      <term>scart connector</term>
+    </tig>
+    <tig>
+      <term>peritel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="146">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable-bilgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>extensible</term>
+    </tig>
+    <tig>
+      <term>enrollacables</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>enrouleur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cable reel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="147">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kale-argi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>farola</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampadaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>lampost</term>
+    </tig>
+    <tig>
+      <term>post</term>
+    </tig>
+    <tig>
+      <term>post light</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="148">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>lau bolako zutoin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>lau bolako kale-argi</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>farola de cuatro globos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampadaire 4 globes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>four globe lampost</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="149">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi fluoreszente zirkular</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo fluorescente circular</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tube fluorescente circulaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>circle-line fluorescent lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="150">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>goritasunezko foku</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foco de incandescencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spot incandescent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>incandescent spotlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="151">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>metal-iodurozko lanpara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foco de yoduro metálico</term>
+    </tig>
+    <tig>
+      <term>lámpara de yoduro metálico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>projecteur à iodure métallique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>metallic iodide lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="152">
+  <descrip type='subjectField'>Argi-euskarriak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horman sartzeko foku halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>foco halógeno empotrable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spot halogène à encastrer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>recessed halogen downlight</term>
+    </tig>
+    <tig>
+      <term>fixed halogen downlight</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="153">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zirkuitulaburren kontra babesteko gailua; zirkuitua eteten du, zirkulatzen duen korronteak intentsitate izendatuaren maila gainditzen duenean.</descrip>
+    </descripGrp>
+    <tig>
+      <term>fusible</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fusible</term>
+    </tig>
+    <tig>
+      <term>cortacircuitos térmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fusible</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fuse</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="154">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kable-grapa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grapa para cable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>agrafe pour câble</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cable cleat</term>
+    </tig>
+    <tig>
+      <term>cable clip</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="155">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hanka biko lanpara halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>pin biko lanpara halogeno</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara halógena bi-pin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>lampe halogène bi-pin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bi-pin halogen lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="156">
+  <descrip type='subjectField'>Argi-puntuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>aluminiozko islagailudun lanpara halogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lámpara halógena con reflector de aluminio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>halogène avec reflécteur aluminium</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>halogen aluminium reflector lamp</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="157">
+  <descrip type='subjectField'>Kableak eta instalazio-elementuak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hari elektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cablecillo</term>
+    </tig>
+    <tig>
+      <term>hilo de línea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fil électrique mono-brin</term>
+    </tig>
+    <tig>
+      <term>fil électrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electrical wire</term>
+    </tig>
+    <tig>
+      <term>solid wire</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="158">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Nahi denean korronte elektrikoari bidea mozteko edo berriro zabaltzeko erabiltzen den gailua, lanpara bat edo etxetresna elektriko bat itzali edo piztu nahi denean, adibidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>etengailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="159">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etengailu kulunkari</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor basculante</term>
+    </tig>
+    <tig>
+      <term>interruptor de vaivén</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur à touche basculant</term>
+    </tig>
+    <tig>
+      <term>interrupteur basculant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rocker switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="160">
+  <descrip type='subjectField'>Mekanismoak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>etengailu bipolar</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>interruptor bipolar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>interrupteur bipolaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>double pole switch</term>
+    </tig>
+    <tig>
+      <term>bipolar switch</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>

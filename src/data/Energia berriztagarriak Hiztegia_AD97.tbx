@@ -1,0 +1,5884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Energia berriztagarriak Hiztegia</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Energia berriztagarriak Hiztegiaren TBX esportazioa</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+<text>
+<body>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Naturan etengabe berritzen den energia-mota, agorrezina da giza eskalan. Mota hauek bereizten dira: eguzki-energia, energia eolikoa, energia geotermikoa, energia hidraulikoa, itsas energia eta biomasa-energia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>energia berriztagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía renovable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie renouvelable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>renewable energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sistema hibrido berriztagarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema híbrido de energías renovables</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>système hybride renouvelable</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>renewable hybrid system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>potentzia izendatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>potencia nominal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puissance nominale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rated power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Denbora-tarte batean energia-planta batek ematen duen energiaren eta denbora-tarte horretan bete-betean funtzionatzen emango lukeenaren arteko erlazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kapazitate-faktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>factor de capacidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>facteur de capacité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>capacity factor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>potentzia instalatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>potencia instalada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puissance installée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>installed capacity</term>
+    </tig>
+    <tig>
+      <term>rated capacity</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>sorgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>generador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>générateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>generator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>turbina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>turbina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>turbine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>turbine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia-mota bat beste energia-mota bateko bihurtzen duen sistema batean, bihurtutako energia erabilgarriaren eta erabilitako hasierako energiaren arteko erlazioa, orokorrean ehunekotan adierazia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>errendimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>etekin</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rendimiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>efficacité</term>
+    </tig>
+    <tig>
+      <term>performance</term>
+    </tig>
+    <tig>
+      <term>rendement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>efficiency</term>
+    </tig>
+    <tig>
+      <term>performance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>potentzia ateratzeko sistema</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema de extracción de potencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>système de prise de puissance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power take-off system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzkian gertatzen den elementu arinen fusioaren ondorioz Lurrera uhin elektromagnetiko gisa iristen den erradiazio-energia. Baliatu ahal izateko, gizakiak bero-energia bihurtzen du energia hori, eguzki-sistema aktibo zein pasiboen bidez, edo, zuzenean, energia elektriko bihurtzen du, zelula fotovoltaikoen bidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-energia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar energy</term>
+    </tig>
+    <tig>
+      <term>solar power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-sistema pasibo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema solar pasivo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>système solaire passif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>passive system</term>
+    </tig>
+    <tig>
+      <term>passive solar system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-sistema hibrido</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sistema solar híbrido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation solaire hybride</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hybrid solar system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia erabilgarria ekoizteko hainbat prozesutan erabiltzen den bero-energia. Tenperatura baxuko bero-energia ur bero sanitarioa edo berokuntzan erabiltzeko beroa lortzeko baliatu ohi da, eta tenperatura altuko bero-energia, berriz, elektrizitatea ekoizteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>energia termiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía térmica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie thermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>thermal energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-irabazi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ganancia solar</term>
+    </tig>
+    <tig>
+      <term>ganancia térmica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>apport de chaleur par insolation</term>
+    </tig>
+    <tig>
+      <term>entrée de chaleur par insolation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar gain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bero-irabazi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ganancia interna</term>
+    </tig>
+    <tig>
+      <term>ganancia térmica interna</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>apport thermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat gain</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-erradiazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>radiación solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rayonnement solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar radiation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Gorputz batek xurgatzen duen erradiazio-energiaren eta erradiazio erasotzailearen energiaren arteko erlazioa. Ehunekotan adierazi ohi da, eta erradiazio erasotzailearen eta erradiazioa jasotzen duen gorputzaren konposizioaren, egituraren eta tenperaturaren araberakoa izaten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>absorbantzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>absortzio-faktore</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>xurgapen-faktore</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>absorbancia</term>
+    </tig>
+    <tig>
+      <term>factor de absorción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>absorptance</term>
+    </tig>
+    <tig>
+      <term>facteur d'absorption</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>absorptance</term>
+    </tig>
+    <tig>
+      <term>absorption factor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzki-erradiazioaren bidez ura edo airea berotzen dituen instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-instalazio termiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación solar térmica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation solaire thermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar thermal system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzki-energia energia elektriko bihurtzeko eta azken hori metatu eta erabilgarri bihurtzeko gai den instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-instalazio fotovoltaiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>instalación solar fotovoltaica</term>
+    </tig>
+    <tig>
+      <term>sistema fotovoltaico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>système photovoltaïque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photovoltaic system</term>
+    </tig>
+    <tig>
+      <term>PV system</term>
+    </tig>
+    <tig>
+      <term>photovoltaic solar installation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sistema fotovoltaiko baten oinarrizko unitatea. Eguzki-erradiazioa energia elektriko bihurtzen du zuzenean, eta orokorrean ez da banaka erabiltzen, modulu fotovoltaikoetan taldekatuta baizik, bakarka potentzia txikia baitu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zelula fotovoltaiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eguzki-zelula</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>célula solar</term>
+    </tig>
+    <tig>
+      <term>célula fotovoltaica</term>
+    </tig>
+    <tig>
+      <term>fotopila</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cellule solaire</term>
+    </tig>
+    <tig>
+      <term>cellule photovoltaïque</term>
+    </tig>
+    <tig>
+      <term>photopile</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photovoltaic cell</term>
+    </tig>
+    <tig>
+      <term>solar cell</term>
+    </tig>
+    <tig>
+      <term>PV cell</term>
+    </tig>
+    <tig>
+      <term>solar photovoltaic cell</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>modulu fotovoltaiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>módulo fotovoltaico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>module photovoltaïque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>PV module</term>
+    </tig>
+    <tig>
+      <term>photovoltaic module</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Argiaren energiatik elektrizitatea ekoizteko erabiltzen diren zelula fotovoltaikoen multzoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>panel fotovoltaiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>eguzki-panel</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>panel solar</term>
+    </tig>
+    <tig>
+      <term>panel fotovoltaico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>panneau solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar cell panel</term>
+    </tig>
+    <tig>
+      <term>solar panel</term>
+    </tig>
+    <tig>
+      <term>photovoltaic panel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzki-erradiazioa xurgatzen eta bero bihurtzen duen xafla beltza. Xurgatzaileak ekoitzitako beroa fluido bero-eroale bati transferitzen zaio, edo elektrizitate bihurtzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>xafla xurgatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>xurgatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>placa absorbente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>absorbeur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>absorber plate</term>
+    </tig>
+    <tig>
+      <term>absorber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fluido bero-eroale</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>fluido primario</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fluido caloportador</term>
+    </tig>
+    <tig>
+      <term>fluido primario</term>
+    </tig>
+    <tig>
+      <term>fluido caloportador de calor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fluide caloporteur du circuit primaire</term>
+    </tig>
+    <tig>
+      <term>caloporteur</term>
+    </tig>
+    <tig>
+      <term>fluide caloporteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat-transfer fluid</term>
+    </tig>
+    <tig>
+      <term>primary heat-transfer fluid</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzki-erradiazioa hartu eta energia termiko bihurtzen duen gailua. Beroa fluido bero-eroaleari transmititzen dio, ura edo airea berotzeko. Hainbat motatako eguzki-kolektoreak daude; adibidez, kontzentratzailea, zapala, termosifoi bidezko zirkulazioduna, termikoa, bero-hodi bidezkoa, huts-hodi bidezkoa eta aire-kolektorea.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-kolektore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>colector solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collecteur solaire</term>
+    </tig>
+    <tig>
+      <term>capteur solaire</term>
+    </tig>
+    <tig>
+      <term>accumulateur solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>collector</term>
+    </tig>
+    <tig>
+      <term>solar collector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hargailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>receptor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>récepteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>receiver</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>heliostato</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>helióstato</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>héliostat</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heliostat</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>islagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>reflector</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réflecteur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reflector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Dorre baten inguruan heliostatoak dituen eguzki-zentrala. Heliostato bakoitza eguzki-erradiazioa dorreko hargailuan etengabe islatzeko moduan orientatzen da. Horrela, galdararen barnealdetik dabilen fluidoa berotu egiten da, eta, fluido hori lurrun bihurtuz, ur-lurrun ziklo konbentzionalari ematen zaio hasiera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>dorre-motako eguzki-zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central solar de torre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale solaire à tour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>central receiver power plant</term>
+    </tig>
+    <tig>
+      <term>solar power tower</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia elektrikoa sortzeko panel fotovoltaiko ugari elkarri elektrikoki konektatuta dituen instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zentral fotovoltaiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central fotovoltaica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale photovoltaïque</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>photovoltaic power plant</term>
+    </tig>
+    <tig>
+      <term>solar farm</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Estalki kolektore handi batek eta erdian kokatutako tximinia formako egiturak osatutako eguzki-zentrala. Estalkiaren alboetatik sartzen den airea berotu egiten da berotegi-efektuaren eraginez, eta horren ondorioz sortutako haize-laster indartsua tximiniatik irteten da. Haizeak tximiniaren oinarrian kokatutako haize-turbinari eta sorgailuari indarrez eragiten die goranzko bidean, eta ondorioz energia elektrikoa ekoizten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-zentral eoliko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central eólico-solar</term>
+    </tig>
+    <tig>
+      <term>central solar de chimenea</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale solaire éolienne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar chimney power plant</term>
+    </tig>
+    <tig>
+      <term>solar-wind power plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ziklo termodinamiko baten bidez energia termikoa elektrizitate bihurtzen duen eguzki-zentrala. Beroa likido bat lurruntzeko erabiltzen du, eta lurrunak turbina birarazten du. Turbinak, berriz, sorgailuari eragiten dio, eta hala energia elektrikoa ekoizten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-zentral termoelektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zentral heliotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central solar termoeléctrica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale héliothermique</term>
+    </tig>
+    <tig>
+      <term>centrale héliothermoélectrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar thermal power plant</term>
+    </tig>
+    <tig>
+      <term>solar thermal power station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurrarekiko orbita finko batean kokatutako eguzki-zentrala. Eguzki-erradiazioa energia elektriko bihurtzen du bere zelula fotovoltaikoen bidez, eta ondoren energia elektrikoa Lurrera igortzen du mikrouhin-sortak direla medio.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-zentral orbital</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central solar orbital</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale solaire orbitale</term>
+    </tig>
+    <tig>
+      <term>satellite électrogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>orbital solar power station</term>
+    </tig>
+    <tig>
+      <term>satellite solar power station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-labe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>horno solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>four solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar furnace</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-urmael</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estanque solar</term>
+    </tig>
+    <tig>
+      <term>laguna solar no convectiva</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bassin solaire</term>
+    </tig>
+    <tig>
+      <term>étang solaire</term>
+    </tig>
+    <tig>
+      <term>mare solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar pond</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzki-zentral termoelektriko batean, elektrizitatearen eta energia termiko erabilgarriaren kogenerazioa. Ekoitzitako beroaren zati bat energia termikoaren iturri gisa erabiltzen denez, prozesuaren errendimendua nabarmen handitzen da ohiko sorkuntza elektrikoari dagokionarekin alderatuta.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-kogenerazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cogeneración solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cogénération solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar cogeneration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-gezatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>desalación solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dessalement solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar desalination</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-destilazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>destilación solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>distillation solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar distillation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Denbora jakinean kontsumitutako energiatik eguzki-energiari dagokion ehunekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-frakzio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fracción solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fraction solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar fraction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>horma bero-metatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muro acumulador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>mur accumulateur de chaleur</term>
+    </tig>
+    <tig>
+      <term>mur solaire passif</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>heat storage wall</term>
+    </tig>
+    <tig>
+      <term>passive solar wall</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-erregulagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>regulador solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>régulateur solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar regulator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eraikinetan eguzki-energia kudeatzea ahalbidetzen duten arkitektura-tekniken multzoa. Teknika horiek eguzki-energia pasiboki erabiltzen dute gehienetan, eta tokian tokiko ezaugarriak hartzen dituzte kontuan (lur-sailaren berezitasunak, bertako mikroklima eta abar).</descrip>
+    </descripGrp>
+    <tig>
+      <term>arkitektura bioklimatiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>arquitectura bioclimática</term>
+    </tig>
+    <tig>
+      <term>arquitectura solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>architecture bioclimatique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bioclimatic architecture</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Trombe horma</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>muro colector Trombe</term>
+    </tig>
+    <tig>
+      <term>pared colectora tipo Trombe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>capteur Trombe</term>
+    </tig>
+    <tig>
+      <term>capteur à mur accumulateur</term>
+    </tig>
+    <tig>
+      <term>mur Trombe</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>mass wall</term>
+    </tig>
+    <tig>
+      <term>Trombe wall</term>
+    </tig>
+    <tig>
+      <term>solar wall</term>
+    </tig>
+    <tig>
+      <term>collector-storage wall</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kontzentratzaile zilindriko-paraboliko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concentrador cilindro-parabólico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collecteur cylindro-parabolique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cylindrical parabolic concentrator</term>
+    </tig>
+    <tig>
+      <term>parabolic cylinder concentrator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Fresnel kontzentratzaile lineal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>concentrador lineal Fresnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>collecteur Fresnel linéaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Fresnel linear concentrator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>Stirling disko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>disco Stirling</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>disque Stirling</term>
+    </tig>
+    <tig>
+      <term>capteur parabolique à moteur Stirling</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Stirling dish</term>
+    </tig>
+    <tig>
+      <term>dish Stirling engine system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>eguzki-jarraitzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>seguidor solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>orienteur solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sun tracker</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haizearen energia zinetikoa haize-sorgailuak birarazteko erabiliz lortzen den energia elektrikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haize-energia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>energia eoliko</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía eólica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie éolienne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>eolic energy</term>
+    </tig>
+    <tig>
+      <term>wind energy</term>
+    </tig>
+    <tig>
+      <term>wind power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>anemometro</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>anemómetro</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>anémomètre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>anemometer</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haizearen potentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>potencia del viento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puissance du vent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power of the wind</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Sorgailu baten potentzia elektriko garbiaren eta errotorearen ekortze-azaleratik pasatzen den haize-fluxuaren potentzia erabilgarriaren arteko zatidura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>potentzia-koefiziente</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coeficiente de potencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>coefficient de puissance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power coefficient</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>potentzia-kurba</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>curva de potencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>courbe de puissance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power curve</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>potentzia-errendimendu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>potentzia-etekin</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rendimiento de potencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rendement de puissance</term>
+    </tig>
+    <tig>
+      <term>performance de la puissance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power performance</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gehieneko potentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>potencia máxima</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puissance maximale</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>maximum power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteerako potentzia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>potencia de salida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puissance de sortie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>output power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteerako potentzia elektriko garbi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>potencia eléctrica neta suministrada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puissance électrique nette de sortie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>net electric power output</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errotorearen ekortze-azalera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>área de barrido del rotor</term>
+    </tig>
+    <tig>
+      <term>superficie barrida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>surface balayée par le rotor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>swept rotor area</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haize-sorgailuaren errendimendu maximoa lortzeko, funtzionamendua haizearen abiadurara egokitzen duen sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>potentzia-kontrol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>control de la potencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>contrôle de la puissance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power control</term>
+    </tig>
+    <tig>
+      <term>power regulation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haize-sorgailu baten funtzionamendua baldintza klimatologikoen arabera optimizatzea eta gerta daitezkeen matxurak saihestea ahalbidetzen duen kontrol-logika. Haize-sorgailu modernoen kontrolagailu elektronikoek ehunka parametro monitorizatzen dituzte, eta logika horrek ahalik eta erantzun egokiena ematen du une horretan parametro-informazio hori guztia integratu ondoren. Monitorizatu eta honela integratu ohi diren parametroen artean errotorearen biratze-abiadura, palaren angelua, kaxaren orientazio-angelua, kaxa eta dorrea elkartzen dituzten kableen bira-kopurua, haizearen abiadura eta haizearen tenperatura daude, besteak beste.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kontrol-estrategia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estrategia de control</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>stratégie de contrôle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>control strategy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>palaren angelu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ángulo de paso</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>angle de calage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pitch angle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haize-babes efektu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>oztopo-efektu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efecto de abrigo del viento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effet d'abri derrière l'obstacle</term>
+    </tig>
+    <tig>
+      <term>effet d'obstacle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind shade effect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haizearen zizailadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cizalladura del viento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cisaillement du vent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind shear</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>tunel-efektu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efecto túnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effet tunnel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tunnel effect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muino-efektu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efecto colina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effet de colline</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hill effect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>parke-efektu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efecto de parque</term>
+    </tig>
+    <tig>
+      <term>efecto de proximidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effet de parc</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>park effect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ubera-efektu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>efecto de la estela</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>effet de sillage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wake effect</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haize-arrosa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rosa de los vientos</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rose des vents</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind rose</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>neke-karga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carga de fatiga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>charge de fatigue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fatigue load</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>muturreko karga</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>karga maximo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>carga extrema</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>charge extrême</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>extreme load</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haize-sorgailu baten haize-turbinak elektrizitate-sorgailuari potentzia ematen hasteko behar den gutxieneko haize-abiadura.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konexio-abiadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velocidad de conexión</term>
+    </tig>
+    <tig>
+      <term>velocidad de acoplamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vitesse de démarrage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cut-in wind speed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haize-turbina batek dagokion potentzia maximoa (potentzia izendatua) lortzeko haizeak izan behar duen abiadura minimoa. Potentzia izendatua zenbait sistema elektriko eta/edo mekanikoren bidez kontrolatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haize-abiadura izendatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velocidad nominal del viento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vitesse nominale du vent</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>rated wind speed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haize-sorgailu batek funtzionatzeko onar dezakeen gehieneko haize-abiadura. Haize-abiadura horretatik gora segurtasun-sistemak haize-sorgailua automatikoki gelditzea eragiten du, bai sorgailuak bai bere inguruak kalterik jasan ez dezaten.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gelditze-abiadura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>velocidad de corte</term>
+    </tig>
+    <tig>
+      <term>velocidad de desacoplamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>vitesse de coupure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cut-out wind speed</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>haize-hodi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubo de viento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tube de courant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>stream tube</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haize-turbina baten eta sorgailu elektriko baten bidez haizearen energia zinetikoa energia elektriko bihurtzen duen sorgailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haize-sorgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>aerosorgailu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>generador eólico</term>
+    </tig>
+    <tig>
+      <term>aerogenerador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aérogénérateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind generator</term>
+    </tig>
+    <tig>
+      <term>aerogenerator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haizearen energia zinetikoa energia mekaniko bihurtzen duen makina birakaria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haize-turbina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>turbina eólica</term>
+    </tig>
+    <tig>
+      <term>aeroturbina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>turbine éolienne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind turbine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>abatz</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>buje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>moyeu</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hub</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>dorre</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>torre</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>tour</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tower</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haizeak eragindako indarraren eraginez haize-sorgailua higiarazten duen beso-sistema.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haize-errotore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rotor eólico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rotor éolien</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind rotor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kaxa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>nacelle</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+    <tig>
+      <term>makineria-kaxa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>góndola</term>
+    </tig>
+    <tig>
+      <term>barquilla</term>
+    </tig>
+    <tig>
+      <term>caja de maquinaria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>nacelle</term>
+    </tig>
+    <tig>
+      <term>carter</term>
+    </tig>
+    <tig>
+      <term>bâti</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nacelle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elkarri konektatutako haize-sorgailuen talde batek edo gehiagok osatutako zentral elektrikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haize-parke</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>parque eólico</term>
+    </tig>
+    <tig>
+      <term>central eólica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>parc d'éoliennes</term>
+    </tig>
+    <tig>
+      <term>centrale éolienne</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wind power station</term>
+    </tig>
+    <tig>
+      <term>wind farm</term>
+    </tig>
+    <tig>
+      <term>wind-energy park</term>
+    </tig>
+    <tig>
+      <term>aerogenerator farm</term>
+    </tig>
+    <tig>
+      <term>wind power plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Haize-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>erabilgarritasun-faktore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>factor de disponibilidad</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>facteur de disponibilité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>availability factor</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurrazalean eta Lurraren goiko mantuan metaturiko energia termikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>energia geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía geotérmica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal energy</term>
+    </tig>
+    <tig>
+      <term>geothermal power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lur azpian 150 ºC-tik gorako tenperaturan dagoen uraren eta ur-lurrunaren nahastea edo ur-lurrun lehorra (urarekin nahasi gabeko ur-lurruna) baliatuz ekoizten den energia geotermikoa. Energia elektrikoa ekoizteko erabili ohi da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>entalpia altuko energia geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía geotérmica de alta entalpía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie géothermique haute enthalpie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>high enthalpy geothermal energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>100 ºC eta 150 ºC arteko tenperatura duten baliabide geotermikoak erabiliz lortutako energia geotermiko mota. Baliabide geotermiko horiek zuzenean erabil daitezke (hirietako edo industriako sistemetan edo prozesuetan beroa edo hotza emateko), baita energia elektrikoa ekoizteko ere, bitarteko gisa fluido lurrunkor bat darabilen prozesu baten bidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>entalpia ertaineko energia geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía geotérmica de entalpía media</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie géothermique moyenne enthalpie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>medium enthalpy geothermal energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>30 ºC eta 100 ºC arteko tenperatura duten baliabide geotermikoak erabiliz lortutako energia geotermiko mota. Berokuntza- eta klimatizazio-sistemetan eta hirietako ur bero sanitarioaren sistemetan erabiltzen da batez ere, baita zenbait prozesu industrialetan ere. Fluido geotermikoaren energia bero-ponpa bidezko trukagailuen bitartez baliatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>entalpia baxuko energia geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía geotérmica de baja entalpía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie géothermique basse enthalpie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>low enthalpy geothermal energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>10 ºC eta 30 ºC arteko tenperatura duten baliabide geotermikoak erabiliz lortutako energia geotermiko mota. Normalean berokuntza- eta klimatizazio-sistemetan erabiltzen da, bero-ponpen bidez.</descrip>
+    </descripGrp>
+    <tig>
+      <term>oso entalpia baxuko energia geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía geotérmica de muy baja entalpía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie géothermique très basse enthalpie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>very low enthalpy geothermal energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gradiente geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gradiente geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gradient géothermal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal gradient</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>1 ºC-ko tenperatura-igoera izateko lurrazalean sakondu behar den metro-kopurua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gradu geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>grado geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>degré géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal degree</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Modu teknikoki eta ekonomikoki bideragarrian balia daitekeen energia geotermikoaren zatia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>baliabide geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>recurso geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>ressource géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal resource</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Barnean baliabide geotermikoa duen lurrazaleko eremua. Hobi geotermikoak energia elektrikoa edo energia termikoa lortzeko balia daitezke, bertako fluido geotermikoaren tenperaturaren arabera.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hobi geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>yacimiento geotérmico</term>
+    </tig>
+    <tig>
+      <term>almacén geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gisement géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal reservoir</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fluido geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fluido geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fluide géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal fluid</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>injekzio-putzu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pozo de inyección</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>puits d'injection</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>injection well</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>bero-ponpa geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bomba de calor geotérmica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pompe à chaleur géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal heat pump</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lur azpiko formazio geologiko iragazgaitza, geotermiaren eraginez sortua izan arren barnean urik ez duena (gainerako baliabide geotermikoek ez bezala). Arroka horien energia geotermikoa baliatzeko arroka zulatu egiten da, eta bero-trukerako sistema handi bat sortzen da arrokan artifizialki sartutako ura berotzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>arroka lehor bero</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>roca caliente seca</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>roche chaude sèche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Hot Dry Rock</term>
+    </tig>
+    <tig>
+      <term>HDR</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beroa eta energia ekoizteko sistema; bertako bero-trukagailuak zunda geotermikoen antzekoak dira, baina, zunda haiek baino sakonera handiagora iristen direnez, bestelako materialak erabiltzen dituzte.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bero-meatzaritza sakon</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>minería profunda de calor</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>géothermie profonde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>Deep Heat Mining</term>
+    </tig>
+    <tig>
+      <term>DHM</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>zunda geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>sonda de intercambio geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>sonde géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal probe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beroa baliatzea ahalbidetzen duen sistema, lur azpian 100 m-ko sakoneraraino dagoena. Bero-trukerako zirkuitua eta bero-ponpa bat ditu osagai. Geotrukearen bidez lortutako beroa berokuntzarako erabiltzen da neguan, eta airea girotzeko udan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>geotruke</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>geointercambio</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>géoéchange</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geoexchange</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia elektrikoa edo bero-energia ekoizteko ur-lurrun geotermikoa edo bero geotermikoa baliatzen dituen instalazioa. Baliabide geotermikoaren tenperaturaren arabera entalpia baxuko, entalpia ertaineko eta entalpia altuko zentralak bereizten dira. Entalpia baxukoek bero-energia bakarrik ekoizten dute, entalpia ertainekoek bero-energia edo energia elektrikoa eta entalpia altukoek, berriz, energia elektrikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zentral geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central geotérmica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal power station</term>
+    </tig>
+    <tig>
+      <term>geothermal power plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bero geotermikoaren ondorioz sortutako ur-lurruna turbina bati eraginez energia elektrikoa ekoizteko erabiltzen duen zentral geotermikoa. Ur-lurrun geotermikoa urarekin nahasita ez dagoenean bakarrik balio du, eta, kasu horiek urriak direnez, teknologia honen aplikazioa nahiko mugatua da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>lurrun lehorreko zentral geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central geotérmica de vapor seco</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale géothermique à vapeur sèche</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dry steam geothermal power plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bat-batean presio txikiagoko tangetara igaroaraziz presio altuko likido geotermikoa lurrun bihurtzen duen zentral geotermikoa. Lurrun hori turbinei eraginez energia elektrikoa ekoizteko erabiltzen da, eta bai lurrundu gabeko likidoa bai turbinetatik igaro ondoren lurruna kondentsatzean sortutako likidoa hobi geotermikoan injektatzen dira berriro.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bat-bateko lurruneko zentral geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central geotérmica de vapor flash</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale géothermique à vapeur de détente</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flash steam geothermal power plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Fluido geotermikoaren beroa lurruntze-tenperatura baxuagoko beste fluido bat lurrunarazteko erabili eta horrela lortutako lurruna turbina batean hedaraziz energia elektrikoa ekoizten duen zentral geotermikoa. Baliabide geotermikoa ur-lurruna eraginkortasunez erabiltzeko behar adina bero ez denean erabiltzen da, edo likido geotermikoaren ezpurutasunak direla-eta bat-bateko lurruneko zentrala erabili ezin denean. Bestalde, bat-bateko lurruneko zentraletako lurrun-soberakina ziklo bitarreko zentraletan balia daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ziklo bitarreko zentral geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central geotérmica de ciclo binario</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale géothermique à cycle binaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>binary cycle geothermal power plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ur geotermikoa eta haren energia termikoa lehendabizi elektrizitate bihurtu gabe erabiltzea, eraikinak berotzeko zein hozteko, elikagaiak hazi zein prestatzeko, prozesu industrialetarako eta bainuetxeetarako.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erabilera zuzen</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>uso directo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>usage direct</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>direct use</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>probako ponpatze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ponpatze-test</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ensayo de bombeo</term>
+    </tig>
+    <tig>
+      <term>prueba de producción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pompage d'essai</term>
+    </tig>
+    <tig>
+      <term>tests de pompage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pumping test</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eraikinak beroz hornitzen dituen sarera ura bidaltzen duen azaleko ur-zirkuitua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>begizta geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bucle geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>boucle géothermique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>geothermal loop</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lur azpiko beroa zuzenean baliatzea ahalbidetzen duen gailua. Orokorrean dentsitate handiko polietilenozko hodiak izaten dira, eta barnean lurreko edo lur azpiko bero-energia hartzen duen fluido baten begizta formako fluxua izaten dute. Lurrean horizontalki zenbait dezimetroko sakoneran sartuta daudenei kaptadore horizontal deritze, eta zenbait hamarka metroko sakoneran bertikalki sartutakoei, berriz, zunda geotermiko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>kaptadore lurperatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>captador enterrado</term>
+    </tig>
+    <tig>
+      <term>sensor enterrado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>capteur enterré</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>buried collector</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekoizpen-zutabe</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ura ateratzeko zutabe</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>columna de impulsión</term>
+    </tig>
+    <tig>
+      <term>columna de producción</term>
+    </tig>
+    <tig>
+      <term>columna de achicamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>colonne de production</term>
+    </tig>
+    <tig>
+      <term>colonne d'exhaure</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>production string</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>iragazte-ohantze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>lecho filtrante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>massif filtrant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gravel packing</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia geotermikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Baliabide geotermikoak ustiatzeko bi zundaketa erabiltzen dituen sistema. Zundaketa bat ur beroa ekoizteko erabiltzen da, eta bestea bero-trukearen ondorioz hoztutako ura akuiferora itzultzeko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bikote geotermiko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>doblete geotérmico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>doublet de forages</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>two well system</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>energia hidrauliko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía hidráulica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie hydraulique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydropower</term>
+    </tig>
+    <tig>
+      <term>water power</term>
+    </tig>
+    <tig>
+      <term>hydraulic power</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mugimenduan dagoen uraren energia zinetikoa edo altuera jakin batean dagoen uraren energia potentziala turbina hidraulikoen bidez baliatuz ekoitzitako energia elektrikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>energia hidroelektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía hidroeléctrica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie hydroélectrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>hydroelectric power</term>
+    </tig>
+    <tig>
+      <term>hydroelectric energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia hidroelektrikoa elektrizitatea ekoizteko baliatzen duen instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zentral hidroelektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central hidroeléctrica</term>
+    </tig>
+    <tig>
+      <term>central hidráulica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale hydroélectrique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>water power station</term>
+    </tig>
+    <tig>
+      <term>hydroelectric power station</term>
+    </tig>
+    <tig>
+      <term>hydroelectric power plant</term>
+    </tig>
+    <tig>
+      <term>hydroelectric plant</term>
+    </tig>
+    <tig>
+      <term>hydro-electric power station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ur lasterreko ibaietatik uraren parte bat desbideratu eta turbinan zehar pasarazi ondoren ibaira beste puntu batean itzultzen duen zentral hidroelektrikoa. Urik metatzen ez denez, mota honetako zentralek ez dute presarik.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ur lasterreko zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central de agua fluyente</term>
+    </tig>
+    <tig>
+      <term>central hidroeléctrica en derivación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale au fil de l'eau</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diversion plant</term>
+    </tig>
+    <tig>
+      <term>run-of-river plant</term>
+    </tig>
+    <tig>
+      <term>diverted flow power station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>urtegi-oinaldeko zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central hidroeléctrica de pie de presa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale au pied du barrage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>impoundment plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>10 MW-etik beherako potentzia duen zentral hidroelektrikoa, ur lasterrekoa edo urtegi-oinaldekoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>minizentral hidroelektriko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zentral hidroelektriko txiki</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>minicentral hidroeléctrica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>petite centrale hydroélectrique</term>
+    </tig>
+    <tig>
+      <term>mini-centrale hydraulique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>small hydropower plant</term>
+    </tig>
+    <tig>
+      <term>small hydropower station</term>
+    </tig>
+    <tig>
+      <term>small hydraulic plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>energia bermatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía firme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie garantie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>firm energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>deribazio-dike</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>antapara</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dique de derivación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>digue de déviation</term>
+    </tig>
+    <tig>
+      <term>barrage de dérivation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>diversion weir</term>
+    </tig>
+    <tig>
+      <term>diversion dam</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>presa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>barrage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>dam</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hargune-obra</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>obra de toma</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>oeuvres de prise</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>intake works</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kanal hidrauliko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>deribazio-kanal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canal hidráulico</term>
+    </tig>
+    <tig>
+      <term>canal de derivación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canal d'amenée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>headrace</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>karga-ganbera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cámara de carga</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bassin d'admission</term>
+    </tig>
+    <tig>
+      <term>chambre d'admission</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>forebay</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hodi behartu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>tubería forzada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conduite forcée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>penstock</term>
+    </tig>
+    <tig>
+      <term>forced pipe</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>uhate zuzentzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compuerta directriz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>directrice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wicket gate</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>turbina-xurgagailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>turbina de aspiración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>aspirateur de turbine</term>
+    </tig>
+    <tig>
+      <term>aspirateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>draft tube</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kaxa espiral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caja espiral</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bâche d'une turbine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>scroll case</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>turbina-gurpil</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>rueda giratoria</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>roue de turbine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>runner wheel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>irteerako kanal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>canal de salida</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>canal de fuite</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tailrace</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>isatseko ur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>agua de cola</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>eau d'aval</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tailwater</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ekipamendu elektromekaniko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>equipamiento electromecánico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>équipement électromécanique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>electro-mechanical equipment</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ixte-elementu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ixte-organo</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>órgano de cierre de la turbina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>appareil d'arrêt</term>
+    </tig>
+    <tig>
+      <term>appareil de fermeture</term>
+    </tig>
+    <tig>
+      <term>appareil de retenue</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>closing element</term>
+    </tig>
+    <tig>
+      <term>closing organ</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur-turbina</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>turbina hidrauliko</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>turbina hidráulica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>turbine hydraulique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>water turbine</term>
+    </tig>
+    <tig>
+      <term>hydraulic turbine</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur-jauzi gordin</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salto bruto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chute brute</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gross head</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ur-jauzi garbi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>salto neto</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>chute nette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>net head</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Instalazio hidroelektriko baten osagaiak (batez ere kanal hidraulikoa, hodi behartua eta turbinak) diseinatzeko erreferentziatzat hartutako emaria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>emari izendatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>ekipamendu-emari</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>caudal nominal</term>
+    </tig>
+    <tig>
+      <term>caudal de equipamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>écoulement nominal</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>nominal flow</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>arrain-eskailera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>escala de peces</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>échelle à poissons</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fish ladder</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>fluxuaren kudeaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gestión del flujo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gestion des flux</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>flow management</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gainezkabide</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aliviadero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déversoir</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>spillway</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gailur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>coronación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>crête</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>crest</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Haran-orduetan ura presaren azpialdetik urtegira ponpatuz puntako orduetan elektrizitate-ekoizpena handiagoa izatea ahalbidetzen duen zentral hidroelektriko baten eskema hidraulikoa. (Elektrizitate-eskaera minimoa da haran-orduetan, eta maximoa puntako orduetan.)</descrip>
+    </descripGrp>
+    <tig>
+      <term>ponpatze bidezko metaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacenamiento por bombeo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>accumulation par pompage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pumped storage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Urtegi batean ura biltzea, energia hidroelektrikoa puntako orduetan bakarrik ekoizteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epe laburreko metaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacenamiento a corto plazo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>stockage à court terme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>short-term storage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Urtegi batean ura biltzea, ekarpenen eta eskarien aldeei luzaro aurre egiteko.</descrip>
+    </descripGrp>
+    <tig>
+      <term>epe luzeko metaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacenamiento a largo plazo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>stockage à long terme</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>long-term storage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Uraren aldi baterako metaketa. Mota honetako metaketa azalekoa izan daiteke edo emaria handituz gerta daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>erretentzio bidezko metaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erretentzio-metaketa</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacenamiento de retención</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emmagasinement temporaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>detention storage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Lurrazalean mantentzen edo lurrean barneratzen den euri-uraren zatia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>azaleko metaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacenamiento superficial</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>rétention superficielle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>surface detention</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ur-lasterren edozein zatitan (ibilguan zein uraldiak hartutako lurrean) gertatutako ur-metaketa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>haraneko metaketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>almacenamiento de valle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>emmagasinement dans la vallée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>valley storage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Energia hidroelektrikoa</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kabitazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cavitación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cavitation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cavitation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Itsasoaren ezaugarri fisikoen edo kimikoen alderdiren bat baliatuz lor daitekeen energia. Itsas energia zenbait motatakoa izan daiteke baliatutako ezaugarriaren arabera; hala, itsas energiaren barnean marea-energia, olatuen energia, itsasoko bero-energia, gatz-gradientearen energia edo itsaslasterren energia bereizten dira.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itsas energia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía del mar</term>
+    </tig>
+    <tig>
+      <term>energía oceánica</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie marine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ocean energy</term>
+    </tig>
+    <tig>
+      <term>sea energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Itsasgorako eta itsasbeherako itsas mailaren aldaketak baliatuz ekoizten den energia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>marea-energia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía mareomotriz</term>
+    </tig>
+    <tig>
+      <term>energía de las mareas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie marémotrice</term>
+    </tig>
+    <tig>
+      <term>énergie des marées</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tidal energy</term>
+    </tig>
+    <tig>
+      <term>tidal power</term>
+    </tig>
+    <tig>
+      <term>ocean tidal power</term>
+    </tig>
+    <tig>
+      <term>tidal-range energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Badia edo estuarioetan mareak gora egiten duenean sartzen den ura biltzeko egitura, horretarako egindako obrek eta estuarioaren ertzak osatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>marea-presa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>presa de mareas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>barrage de marée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tidal dam</term>
+    </tig>
+    <tig>
+      <term>tidal barrage</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Olatuak osatzen dituzten ur-masek hartutako altueraren ondoriozko energia potentzialaren eta masa horien abiaduraren ondoriozko energia zinetikoaren batura. Olatuen energia batez ere haizearen eraginez sortzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>olatuen energia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía del oleaje</term>
+    </tig>
+    <tig>
+      <term>energía undimotriz</term>
+    </tig>
+    <tig>
+      <term>energía olamotriz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie de la houle</term>
+    </tig>
+    <tig>
+      <term>énergie des vagues</term>
+    </tig>
+    <tig>
+      <term>énergie houlomotrice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wave energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Olatuen indarra kontzentratuz energia elektrikoa ekoizteko kostan ezartzen den gailua. Ebakidura konbergenteko kanal formako egiturak, goialdean ezarritako deposituak eta turbina batek osatzen dute. Olatuaren eraginez urak hiru bat metro gora egiten du kanal formako osagaiaren barnean, eta goiko deposituan bildu ondoren itsasora itzultzen denean uraren energia potentziala energia elektrikoa ekoizteko baliatzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gainezkatze-gailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>dispositivo de rebosamiento</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>dispositif de déversement</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>overtopping device</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ardatz nagusia olatuen hedatze-norabidean ezarria izanik olatuen energia pixkanaka jaso eta energia elektriko bihurtzeko baliatzen duen gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>atenuadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>atenuador</term>
+    </tig>
+    <tig>
+      <term>captador de oleaje tipo atenuador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>affaiblisseur</term>
+    </tig>
+    <tig>
+      <term>atténuateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>attenuator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beren tamaina fisikoa baino olatu-fronte handiagoen energia har dezaketen gailuak. Zuzenean eragiten dien olatuaren energiaz gain inguruko urarena ere jasotzeko gai dira. Itsasoaren hondoari lotuta daude eta buien antzera flotatzen dute, itsasoaren azalean edo bertatik gertu. Hartutako energia sorgailu elektriko batek lan egiteko erabiltzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>xurgatzaile puntual</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>absorbedor puntual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>absorbeur ponctuel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>point absorber</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Olatuaren hedatze-norabidearekiko kokapen perpendikularrean ezarritako kaptadorea. Olatuaren frontearekiko paralelo ipintzen da, eta olatua bertatik pasatzen den unean hartzen du haren energia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>olatuen bat-bateko kaptadore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>captador de oleaje tipo totalizador</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>terminateur</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>terminator device</term>
+    </tig>
+    <tig>
+      <term>terminator</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Olatuen energia baliatzeko zutabe batez osatutako gailua. Zutabearen behealdea eta goialdea irekita daude, eta behealdea uretan sartua dago. Olatuen mugimenduak zutabearen barneko ur-mailak gora eta behera egitea eragiten du, eta beraz, zutabearen goialdeko airearen presioa handitzea eta txikitzea, hurrenez hurren. Zutabearen goiko muturrean horrela sortutako zutabearen kanporanzko eta barneranzko aire-korronteak balia ditzakeen turbina pneumatiko bat dago ezarrita, eta turbinari konektatutako sorgailu elektrikoak energia elektrikoa ekoizten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ur-zutabe oszilatzaile</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>columna de agua oscilante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>colonne d'eau oscillante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>oscillating water column</term>
+    </tig>
+    <tig>
+      <term>OWC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Itsasoko azaleko eta sakoneko geruzen arteko tenperatura-aldea Rankineren ziklo organikoaren bidez energia elektriko bihurtzeko baliatzen duen prozesua. Fluidoa lurrundu egiten da azaleko uraren energia termikoaren eraginez, eta turbina bat zeharkatu ondoren kondentsatu egiten da, geruza sakonetako ur hotzaren eraginez. IBEB sistema irekia, itxia edo hibridoa izan daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itsasoko bero-energiaren bihurketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>IBEB</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>conversión de la energía térmica de los océanos</term>
+    </tig>
+    <tig>
+      <term>CETO</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>conversion de l'énergie thermique des océans</term>
+    </tig>
+    <tig>
+      <term>CETO</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>ocean thermal energy conversion</term>
+    </tig>
+    <tig>
+      <term>OTEC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Ur gezaren eta ur gaziaren arteko mugan egoten den potentzial elektrokimikoa. Zuzenean energia elektriko bihur daiteke.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gatz-gradientearen energia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>energía del gradiente salino</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>énergie des gradients de salinité</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>salinity gradient energy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>olatuen espektro direkzional</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>espectro direccional del oleaje</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>spectre directionnel de la houle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>directional wave spectrum</term>
+    </tig>
+    <tig>
+      <term>wave directional spectrum</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Itsasoaren egoerari dagokion energia berbera izanik maiztasun bakarra duen olatu baten periodoa. Kontuan hartu behar da benetako olatuak periodo eta anplitude desberdinak dituzten olatu gainezarri gisa deskriba daitezkeela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>energia-periodo</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>Te</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>periodo energético</term>
+    </tig>
+    <tig>
+      <term>Te</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>periode énergetique</term>
+    </tig>
+    <tig>
+      <term>Te</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>energy period</term>
+    </tig>
+    <tig>
+      <term>Te</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>potentzia-matrize</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>matriz de potencia</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>matrice de puissance</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>power matrix</term>
+    </tig>
+    <tig>
+      <term>power surface</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Itsasoko uraren eta ur gezaren arteko presio osmotikoaren aldea presio hidrostatiko bihurtuz gatz-gradientea energia ekoizteko baliatzen duen teknika. Alderantzizko elektrodialisiko teknikak ere itsasoko uraren eta ur gezaren arteko presio osmotikoaren aldea baliatzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>presio atzeratuko osmosi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>osmosis de presión retardada</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pression osmotique retardée</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pressure-retarded osmosis</term>
+    </tig>
+    <tig>
+      <term>PRO</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mintz ioi-hautakorrak erabiliz itsasoko uraren eta ur gezaren arteko presio osmotikoaren aldea elektrizitate (zehazki, korronte zuzen) bihurtzen duen teknika. Presio atzeratuko osmosiaren teknikak ere itsasoko uraren eta ur gezaren arteko presio osmotikoaren aldea baliatzen du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>alderantzizko elektrodialisi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>electrodiálisis inversa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>électrodialyse inverse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>reverse electrodialysis</term>
+    </tig>
+    <tig>
+      <term>RED</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Uraren sakonera olatuen uhin-luzeraren erdiaren berdina edo handiagoa duen itsasoko eremua. Bertan itsas hondoak ez die azaleko olatuei ia eragiten.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ur sakon</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aguas profundas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>eaux des grands fonds</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>deep water</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itsaslaster</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>corriente marina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>courant marin</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sea current</term>
+    </tig>
+    <tig>
+      <term>marine current</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Itsas energia baliatzen duten mota bereko zenbait bihurgailu-talde sistema elektriko berean ezarrita dituen zentrala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>itsas energiako zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central de energía marina</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale d'énergie marine</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>marine energy park</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>itsasoaren egoera</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>estado de mar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>état de la mer</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>sea state</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>azaleko ur</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aguas poco profundas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>eaux peu profondes</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>shallow water</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>olatu-altuera adierazgarri</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>altura de ola significante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>hauteur significative des vagues</term>
+    </tig>
+    <tig>
+      <term>hauteur de houle significative</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>significant wave height</term>
+    </tig>
+    <tig>
+      <term>spectral wave height</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>marea-energiaren bihurgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convertidor de energía de las mareas</term>
+    </tig>
+    <tig>
+      <term>convertidor de energía mareomotriz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>convertisseur d'énergie marémotrice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>tidal energy converter</term>
+    </tig>
+    <tig>
+      <term>TEC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Itsas energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>olatu-energiaren bihurgailu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>convertidor de energía de las olas</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>convertisseur d'énergie houlomotrice</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>wave energy converter</term>
+    </tig>
+    <tig>
+      <term>WEC</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia berriztagarriaren iturritzat erabil daitekeen edozein materia organiko ez-fosil, hala nola landare biziak, zura, nekazaritza eta abeltzaintzako hondakinak, hondakin-urak, hiri-hondakin solido organikoak eta abar. Beraz, erregai fosilak ez dira multzo horretan sartzen, jatorri biologikoa izan arren.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biomasa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biomasa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>biomasse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biomass</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Materia organikoa zuzenean erregai gisa erabiliz edo hura prozesatuz lortutako likidoa zein gasa baliatuz ekoitzitako energia erabilgarria.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bioenergia</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bioenergía</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bioénergie</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bioenergy</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Elektrizitatea zein erregai likidoak ekoizteko landatutako eta hazitako landareak; adibidez, artoa, kardua, azukre-kanabera, sahatsa, eukaliptoa, eta abar.</descrip>
+    </descripGrp>
+    <tig>
+      <term>energia-labore</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cultivo energético</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>plante énergogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>energy crop</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Biomasatik abiatuta lortutako erregai solido, likido zein gaseosoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bioerregai</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biocombustible</term>
+    </tig>
+    <tig>
+      <term>biocarburante</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>biocombustible</term>
+    </tig>
+    <tig>
+      <term>biocarburant</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biofuel</term>
+    </tig>
+    <tig>
+      <term>biomass fuel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>briketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>briqueta</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>briquette</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>briquette</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errekuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>combustión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>brûlage</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>burning</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Energia erabilgarria ekoizteko balia daitezkeen hirietako eta hirien eraginpeko eremuetako hondakinak; esate baterako, etxe, saltoki, zerbitzu, industria eta erakundeetan sortuak.</descrip>
+    </descripGrp>
+    <tig>
+      <term>hiri-hondakin solido</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>HHS</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>residuo sólido urbano</term>
+    </tig>
+    <tig>
+      <term>residuo sólido municipal</term>
+    </tig>
+    <tig>
+      <term>RSU</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>déchet municipal</term>
+    </tig>
+    <tig>
+      <term>déchet solide urbain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>municipal solid waste</term>
+    </tig>
+    <tig>
+      <term>municipal waste</term>
+    </tig>
+    <tig>
+      <term>urban waste</term>
+    </tig>
+    <tig>
+      <term>MSW</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>errausketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>incineración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>incinération</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>incineration</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hondakinak errausteko instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>erraustegi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>errausketa-instalazio</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>planta de incineración de residuos</term>
+    </tig>
+    <tig>
+      <term>incineradora</term>
+    </tig>
+    <tig>
+      <term>planta incineradora</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation d'incinération de déchets</term>
+    </tig>
+    <tig>
+      <term>installation d'incinération</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>refuse incineration plant</term>
+    </tig>
+    <tig>
+      <term>incineration plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Biomasa solidoa erregai gaseoso bihurtzeko erabiltzen den gailua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>gasogeno</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>gasifikagailu</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gasificador</term>
+    </tig>
+    <tig>
+      <term>gasógeno</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gazogène</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gasifier</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Biomasaren digestio anaerobioaren (biogasifikazioaren) ondorioz sortutako gasa. Biogasean metanoa (% 50-70) eta karbono dioxidoa (% 25-35) dira osagai nagusiak, eta beste gas batzuk ere ager daitezke proportzio txikietan, esate baterako hidrogenoa, nitrogenoa, hidrogeno sulfuroa eta ur-lurruna.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biogas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biogás</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>biogaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biogas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zabortegietako materia organikoa deskonposatzean sortutako biogasa, % 50 inguru metanoz osatua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zabortegiko gas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>hondakindegiko gas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gas de vertedero</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gaz de décharge</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>landfill gas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>gasifikazio-instalazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>planta de gasificación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>atelier de gazéification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>gasification plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zabortegiko gasa bero-energia edo energia elektrikoa ekoizteko erabiltzen duen instalazioa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>zabortegiko gasa baliarazteko zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>zabortegiko gasaren balorizazio-zentral</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>planta de valorización de biogás</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>installation de valorisation du biogaz</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>landfill gas valorisation plant</term>
+    </tig>
+    <tig>
+      <term>landfill gas valorization plant</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Biomasa gas erreaktiborik gabe berotzean gertatzen den deskonposizio-prozesua. Produktua solido, likido eta gasen nahasketa da. Pirolisia ohikoa edo bat-batekoa izan daiteke. Azken hori 500 ºC inguruko tenperaturan eta oso azkar egiten da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biomasaren pirolisi</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pirólisis de la biomasa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pyrolyse de la biomasse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biomass pyrolysis</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>pirolisi-olio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>aceite de pirólisis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>huile de pyrolyse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pyrolysis oil</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>biobihurketa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bioconversión</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bioconversion</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bioconversion</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hartzidura</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>fermentación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>fermentation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>fermentation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mikroorganismoek karbohidratoak dituen biomasatik abiatuta egindako hartzidura alkoholikoaren produktua. Erregai likido gisa erabil daiteke, hutsik edo gasolinarekin nahasita karburol gisa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>bioetanol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>bioetanol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>bioéthanol</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>bioethanol</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Materia organikoaren digestio anaerobioaren ondorioz sortzen den gasa, karbono-atomo batek eta lau hidrogeno-atomok osatua (CH4). Gas naturalaren osagai nagusia da, eta gas-egoeran mantentzen da tenperatura eta presio erlatiboki baxuetan.</descrip>
+    </descripGrp>
+    <tig>
+      <term>metano</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>metano</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>méthane</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>methane</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Material lignozelulosikoa destilatuz edo sintesi bidez lortzen den likidoa (CH3OH). Gasolinaren ordezko gisa erabil daiteke, eta erregai-piletan ere erabili ohi da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>metanol</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>metil alkohol</term>
+      <termNote type='normativeAuthorization'>3</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>metanol</term>
+    </tig>
+    <tig>
+      <term>alcohol metílico</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>méthanol</term>
+    </tig>
+    <tig>
+      <term>alcool méthylique</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>methanol</term>
+    </tig>
+    <tig>
+      <term>methyl alcohol</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Landare- edo animalia-olioen transesterifikazioaren bidez lortutako alkil esterrak. Ordezko erregai gisa erabil daitezke, diesel motorretan gasolioa ordeztuz edo horrekin nahasiz.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biodiesel</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biodiesel</term>
+    </tig>
+    <tig>
+      <term>biogasóleo</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>biodiésel</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biodiesel</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Tenperatura eta presio altuen bidez biomasa solidoa likido bihurtzean datzan prozesua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>likidotze</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>licuefacción</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>liquefaction</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>liquéfaction</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Triglizerido-molekula bat hiru molekula metanol edo etanolekin katalizatzaile batek lagunduta erreakzionaraziz hiru monoester-molekula eta glizerina-molekula bat ekoiztean datzan prozesua. Horrela lortutako etil edo metil esterrek osatzen dute biodiesela.</descrip>
+    </descripGrp>
+    <tig>
+      <term>transesterifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>transesterificación</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>transestérification</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>transesterification</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beroa baliatuz biomasa gas bihurtzen duen prozesua, 800 - 1.000 ºC-an egiten dena. Produktuak erabilitako gas erreakzionatzailearen araberakoak dira. Airea erabiliz, gas pobrea lortzen da, eta, oxigenoa eta ur-lurruna erabiliz, karbono monoxidoa eta hidrogenoa dituen sintesi-gasa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biomasaren gasifikazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gasificación de la biomasa</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gazéification de la biomasse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biomass gasification</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Hondakin organikoetatik abiatuz digestio anaerobioaren bidez biogasa eta hondakin organiko egonkortuak lortzean datzan prozesua.</descrip>
+    </descripGrp>
+    <tig>
+      <term>biometanizazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biometanización</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>biométhanisation</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>biomethanation</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>hondar-biomasa</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>biomasa residual</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>biomasse résiduelle</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>residual biomass</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Abereen abeltzaintza intentsiboan sortutako efluente organikoa. Biogasa ekoizteko erabili ohi da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>minda</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>purín</term>
+    </tig>
+    <tig>
+      <term>estiércol líquido</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>purin</term>
+    </tig>
+    <tig>
+      <term>déjections liquides</term>
+    </tig>
+    <tig>
+      <term>lisier</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>liquid manure</term>
+    </tig>
+    <tig>
+      <term>pig manure</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>ezpal</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>astilla</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>écharde</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>chip</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Erregai likido garbiak, petrokimikarako lehengaiak eta gasolinetarako kutsaduraren aurkako gehigarriak ekoizteko erabiltzen den karbono monoxidozko eta hidrogenozko nahaste ekimolarra. Metanoa 800 ºC-an nikelezko katalizatzaileekin tratatuz edo biomasa bi etapatan gasifikatuz lortzen da. Lehengai gisa petroliotik eratorritako konposatu jakinak erabiliz ere ekoitz daiteke, baina kasu horretan ezin da baliabide berriztagarritzat hartu.</descrip>
+    </descripGrp>
+    <tig>
+      <term>sintesi-gas</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>gas de síntesis</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>gaz de synthèse</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>syngas</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Mikroorganismoek baldintza aerobioetan biomasa degradatzean sortzen den lurrustelaren antzeko materiala.</descrip>
+    </descripGrp>
+    <tig>
+      <term>konpost</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>compost</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>compost</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>compost</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Eguzki-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Eguzki-erradiazioaren energia elektrizitatea sortzeko erabiltzen duen zentral elektrikoa.</descrip>
+    </descripGrp>
+    <tig>
+      <term>eguzki-zentral</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>central solar</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>centrale solaire</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>solar power station</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Zerrautsa edo bestelako gai bat konprimatuz eta zati txikiak eginez eratzen den erregaia.</descrip>
+    </descripGrp>
+    <tig>
+      <term>pellet</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>pellet</term>
+    </tig>
+    <tig>
+      <term>pella</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>pellet</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>pellet</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Biomasa-energia</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Bi ziklo termodinamiko konbinatzen dituen sistema. Batetik, gas-turbina bat du; turbina horren ihes-gasen beroa lurruna sortzeko erabiltzen da, eta lurrun horrek lurrun-turbina bat ibilarazten du.</descrip>
+    </descripGrp>
+    <tig>
+      <term>ziklo konbinatu</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>ciclo combinado</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cycle combiné</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>combined cycle</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <descripGrp>
+      <descrip type='definition'>Beroa hiri-sare baten bidez banatzen duen berokuntza-sistema. Zentral batean ura berotu, eta ur bero hori hainbat eraikinetara banatzen da; erabili eta gero, ura zentralera itzultzen da, eta han berriro berotzen da.</descrip>
+    </descripGrp>
+    <tig>
+      <term>auzo-berokuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+    <tig>
+      <term>urrutiko berokuntza</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>calefacción urbana</term>
+    </tig>
+    <tig>
+      <term>calefacción a distancia</term>
+    </tig>
+    <tig>
+      <term>calefacción de distrito</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>réseau de chaleur à distance</term>
+    </tig>
+    <tig>
+      <term>chauffage urbain</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>district heating</term>
+    </tig>
+    <tig>
+      <term>remote heating</term>
+    </tig>
+  </langSet>
+</termEntry>
+<termEntry id="-1">
+  <descrip type='subjectField'>Termino orokorrak</descrip>
+  <langSet xml:lang='eu'>
+    <tig>
+      <term>kogenerazio</term>
+      <termNote type='normativeAuthorization'>4</termNote>
+    </tig>
+  </langSet>
+  <langSet xml:lang='es'>
+    <tig>
+      <term>cogeneración</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='fr'>
+    <tig>
+      <term>cogénération</term>
+    </tig>
+  </langSet>
+  <langSet xml:lang='en'>
+    <tig>
+      <term>cogeneration</term>
+    </tig>
+  </langSet>
+</termEntry>
+</body>
+</text>
+</martif>
