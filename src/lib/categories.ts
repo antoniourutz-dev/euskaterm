@@ -1,126 +1,83 @@
 export const CATEGORY_GROUPS: Record<string, string[]> = {
   "Administrazioa eta zuzenbidea": [
-    "Administrazio Elektronikoa Hiztegia",
-    "Administrazioarekiko Auziak Hiztegia",
-    "Aurrekontu Publikoen Araubidea Hiztegia",
-    "Datu-babesa Hiztegia",
-    "Ekonomia Ituneko zergak",
+    "Administrazioarekiko Auzien Hiztegia",
+    "Datu-babesaren Hiztegia",
     "Erregistro Zibila Hiztegia",
-    "Hauteskundeak Hiztegia",
-    "Herri-ogasuna Hiztegia",
-    "Hirigintza Zuzenbidea Hiztegia",
-    "Kirol-zuzenbidea Hiztegia",
-    "Negoziazio Kolektiboa Hiztegia",
-    "Prozedura Kriminala Hiztegia",
+    "Hauteskundeen Hiztegia",
+    "Herri-ogasunaren Hiztegia",
+    "Negoziazio Kolektiboaren Hiztegia",
+    "Prozedura kriminalaren Hiztegia",
     "Prozedura Zibila Hiztegia",
-    "Toki Administrazioa Hiztegia",
-    "Zigor-arloa eta Espetxe-zaintza Hiztegia",
-    "Zirkulazioa Hiztegia"
+    "Toki-administrazioaren Hiztegia",
+    "Zigor-arloa eta espetxe zaintza Hiztegia"
   ],
   "Arteak": [
     "Musika Hiztegia"
   ],
   "Ekonomia eta enpresa": [
-    "Banka eta Aurrezkia Hiztegia",
-    "Kontabilitatea eta Auditoretza Hiztegia",
-    "Lanbideak Hiztegia",
-    "Laneko Segurtasuna Hiztegia"
+    "Lanbideen Hiztegia",
+    "Laneko Segurtasunaren Hiztegia"
   ],
   "Gizarte-gaiak": [
-     "Arkeologia Hiztegia",
-     "Bibliotekonomia Hiztegia",
-     "Entitate Geografikoak Hiztegia",
-     "Feminismoa eta Berdintasuna Hiztegia",
-     "Katalogatzeko oinarrizko terminologia",
-     "Museologia eta Museografia Hiztegia",
-     "Sare Sozialak Hiztegia",
-     "Soziolinguistika Hiztegia"
+    "Bibliotekonomia Hiztegia",
+    "Museologia eta Museografia Hiztegia",
+    "Sare Sozialak Hiztegia",
+    "Soziolinguistika Hiztegia"
   ],
   "Ikasketa eta jarduera profesionalak": [
-    "Akuikultura Hiztegia",
-    "Arkitektura Hiztegia",
-    "Arte Grafikoak Hiztegia",
-    "Beiragintza Hiztegia",
-    "Elikagai Industria Hiztegia",
-    "Energia Berriztagarriak Hiztegia",
-    "Erlezaintza Hiztegia",
-    "Geomatika eta Topografia Hiztegia",
+    "Energia berriztagarriak Hiztegia",
     "Irudia, Ikus-entzunezkoak eta Soinua Hiztegia",
     "Iturgintza Hiztegia",
-    "Lorezaintza Hiztegia",
-    "Makina-erreminta Hiztegia",
-    "Materialen Zientzia eta Teknologia Hiztegia",
+    "Makina-erremintaren Hiztegia",
     "Metalurgia Hiztegia",
-    "Nautika Hiztegia",
     "Papergintza Hiztegia",
-    "Zenbakizko Kontrola Hiztegia",
-    "Zeramika Hiztegia",
-    "Zurgintza Hiztegia"
+    "Zenbakizko Kontrolaren Hiztegia",
+    "Zeramika Hiztegia"
   ],
   "Kirolak": [
-    "Arraunketa Hiztegia",
-    "Belar-hockeya Hiztegia",
     "Ehiza eta Arrantza Hiztegia",
     "Errugbia Hiztegia",
     "Eskubaloia Hiztegia",
-    "Gorputz Hezkuntza Hiztegia",
-    "Igeriketa Hiztegia",
-    "Kirol-materialak Hiztegia",
+    "Gorputz Hezkuntzaren Hiztegia",
+    "Kirol-materialen Hiztegia",
     "Mendizaletasuna Hiztegia",
-    "Neguko Kirolak Hiztegia",
     "Saskibaloia Hiztegia"
   ],
   "Lurraren zientziak": [
-    "Astronomia Hiztegia",
-    "Ingurumena Hiztegi Entziklopedikoa",
-    "Klima-aldaketa eta trantsizio ekologikoa Hiztegia",
+    "Ingurumena Hiztegia",
     "Mineralak Hiztegia"
   ],
   "Merkataritza eta kontsumoa": [
-    "Altzariak Hiztegia",
-    "Arropa-dendak Hiztegia",
-    "Aseguruak Hiztegia",
-    "Automobilen Mantentzea Hiztegia",
-    "Azokak, Biltzarrak eta Jendaurreko Ikuskizunak Hiztegia",
-    "Bulego-materialak Hiztegia",
+    "Altzarien Hiztegia",
+    "Arropa-denden Hiztegia",
+    "Automobilen Matentzearen Hiztegia",
+    "Azokak, Biltzarrak eta jendaurreko ikuskizunak Hiztegia",
+    "Bulego-materialen Hiztegia",
+    "Bulegotika Hiztegia",
     "Burdindegia Hiztegia",
-    "Elektrizitate-dendak Hiztegia",
-    "Errotuluak Hiztegia",
+    "Elektrizitate-denden Hiztegia",
+    "Errotuluen Hiztegia",
     "Garraioa eta Logistika Hiztegia",
-    "Hipermerkatuetako Produktuak Hiztegia",
-    "Jatetxe, Taberna eta Kafetegiak Hiztegia",
-    "Kontsumitzaileen eta Erabiltzaileen Defentsa Hiztegia",
-    "Merkataritza eta Marketina Hiztegia",
-    "Merkataritza-guneetako Errotuluak Hiztegia",
-    "Norberaren irudia, Ile-apaindegiak eta Estetika Hiztegia",
-    "Oinetakoak Hiztegia",
-    "Turismoa Hiztegia"
+    "Hipermerkatuetako Produktuen Hiztegia",
+    "Jatetxe,Taberna eta Kafetegien Hiztegia",
+    "Kontsumitzaile eta erabiltzaileen defentsa Hiztegia",
+    "Merkataritza eta marketina Hiztegia",
+    "Merkataritza-guneetako Errotuluen Hiztegia",
+    "Norbere irudia, Ile-apaindegiak eta Estetika Hiztegia",
+    "Oinetakoen Hiztegia",
+    "Turismo Hiztegia"
   ],
   "Osasun zientziak": [
-    "Albaitaritza Hiztegia",
-    "Bioetika Hiztegia",
-    "Farmakoak Hiztegia",
     "Hiesa Hiztegia",
-    "Immunologia Hiztegia",
-    "Kardiologia Hiztegia",
     "Mendekotasuna Hiztegia",
-    "Nefrourologia Hiztegia",
-    "Nutrizioa Hiztegia",
-    "Oftalmologia Hiztegia",
-    "Onkologia Hiztegia",
-    "Otorrinolaringologia Hiztegia",
-    "Psikiatria Hiztegia",
-    "Saiakuntza Klinikoak Hiztegia",
     "Traumatologia Hiztegia"
   ],
   "Teknologia": [
-   "Elektronika eta Mikroelektronika Hiztegia",
-   "Nanoteknologia eta Nanozientzia Hiztegia",
-   "Telefonia Hiztegia"
+    "Elektronika eta mikroelektronika Hiztegia",
+    "Telefonia Hiztegia"
   ],
   "Bestelakoak": [
-    "Kontsulterm",
-    "Laburtzapenak Hiztegia"
+    "Laburtzapenen Hiztegia"
   ]
 };
 
@@ -137,3 +94,4 @@ export const SUPER_CATEGORIES_ORDER = [
   "Teknologia",
   "Bestelakoak"
 ];
+
